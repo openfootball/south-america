@@ -9,20 +9,20 @@
 # 2013
 
 #### state São Paulo (SP)
-corinthians,   Corinthians|Corinthians SP|Corinthians São Paulo|Sport Club Corinthians Paulista,  COR, city:saopaulo
+corinthians,   Corinthians|SC Corinthians Paulista|Corinthians SP|Corinthians São Paulo|Sport Club Corinthians Paulista,  COR, city:saopaulo
 saopaulo,      São Paulo|São Paulo FC|FC São Paulo|São Paulo SP|São Paulo Futebol Clube,  SAO, city:saopaulo
-portuguesa,    Portuguesa|Portuguesa SP|Portuguesa São Paulo|Associação Portuguesa de Desportos, POR, city:saopaulo
+portuguesa,    Portuguesa|A Portuguesa de Desportos|Portuguesa SP|Portuguesa São Paulo|Associação Portuguesa de Desportos, POR, city:saopaulo
 
 ## nb: santos key taken by Santos Laguna - liga mx - thus, use santossp for now
 santossp,       Santos|Santos SP|Santos FC|FC Santos|Santos Futebol Clube,             SAN, city:santos
-pontepreta,   Ponte Preta|Associação Atlética Ponte Preta,          PON, city:campinas
+pontepreta,   Ponte Preta|AA Ponte Preta|Associação Atlética Ponte Preta,          PON, city:campinas
 
 
 #### state Rio de Janeiro (RJ)
-botafogo,      Botafogo|Botafogo RJ|Botafogo de Futebol e Regatas,      BOT, city:riodejaneiro
-flamengo,      Flamengo|Flamengo RJ|Flamengo Rio de Janeiro|Clube de Regatas do Flamengo,       FLA, city:riodejaneiro
-fluminense,    Fluminense|Fluminense RJ|Fluminense Rio de Janeiro|Fluminense Football Club,       FLU, city:riodejaneiro
-vascodagama,   Vasco|Vasco RJ|Vasco da Gama|Vasco da Gama Rio de Janeiro|Club de Regatas Vasco da Gama,         VAS, city:riodejaneiro
+botafogo,      Botafogo|Botafogo RJ|Botafogo FR|Botafogo de Futebol e Regatas,      BOT, city:riodejaneiro
+flamengo,      Flamengo|CR Flamengo|Flamengo RJ|Flamengo Rio de Janeiro|Clube de Regatas do Flamengo,       FLA, city:riodejaneiro
+fluminense,    Fluminense|Fluminense FC|Fluminense RJ|Fluminense Rio de Janeiro|Fluminense Football Club,       FLU, city:riodejaneiro
+vascodagama,   Vasco|CR Vasco da Gama|Vasco RJ|Vasco da Gama|Vasco da Gama Rio de Janeiro|Club de Regatas Vasco da Gama,         VAS, city:riodejaneiro
 
 
 #### Bahia (BA)
@@ -34,23 +34,23 @@ vitoria,      Vitória|EC Vitória|Esporte Clube Vitória,           VIT, city:s
 goias,      Goiás|Goiás EC|Goiás Esporte Clube,              GOI, city:goiania
 
 #### Paraná (PR)
-atleticopr,   Atlético Paranaense|Atlético PR|Clube Atlético Paranaense,   CAP, city:curitiba
-coritiba,    Coritiba|Coritiba PR|Coritiba FC|Coritiba Football Club,          CTB, city:curitiba
+atleticopr,   Atlético Paranaense|C Atlético Paranaense|Atlético PR|Atlético/PR|Clube Atlético Paranaense,   CAP, city:curitiba
+coritiba,    Coritiba|Coritiba FC|Coritiba PR|Coritiba FC|Coritiba Football Club,          CTB, city:curitiba
 
 #### Pernambuco (PE)
-nautico,       Náutico|Náutico PE|Clube Náutico Capibaribe,          NAU, city:recife
+nautico,       Náutico|C Náutico Capibaribe|Náutico PE|Clube Náutico Capibaribe,          NAU, city:recife
 
 #### Rio Grande do Sul (RS)
-gremio,     Grêmio|Grêmio RS|Grêmio Porto Alegre|Grêmio Foot-Ball Porto Alegrense,       GRE, city:portoalegre
-interrs,    Internacional|Internacional RS|Internacional Porto Alegre|Sport Club Internacional,    INT, city:portoalegre
+gremio,     Grêmio|Grêmio RS|Grêmio Porto Alegre|Grêmio FBPA|Grêmio Foot-Ball Porto Alegrense,       GRE, city:portoalegre
+interrs,    Internacional|SC Internacional|Internacional RS|Internacional Porto Alegre|Sport Club Internacional,    INT, city:portoalegre
 
 #### Santa Catarina (SC)
 criciuma,    Criciúma|Criciúma EC|Criciúma Esporte Clube,          CRI, city:criciuma
 
 #### state Minas Gerais (MG)
 
-atleticomg,  Atlético Mineiro|Atlético MG|Clube Atlético Mineiro,      CAM, city:belohorizonte
-cruzeiro,    Cruzeiro|Cruzeiro MG|Cruzeiro Esporte Clube,          CRU, city:belohorizonte
+atleticomg,  Atlético Mineiro|C Atlético Mineiro|Atlético MG|Atlético/MG|Clube Atlético Mineiro,      CAM, city:belohorizonte
+cruzeiro,    Cruzeiro|Cruzeiro EC|Cruzeiro MG|Cruzeiro Esporte Clube,          CRU, city:belohorizonte
 
 
 
@@ -73,8 +73,9 @@ sportrecife, Sport Recife|Sport PE|Sport Club do Recife, city:recife
 
 #### Santa Catarina (SC)
 
-figueirense, Figueirense|Figueirense SC|Figueirense Futebol Clube, FIG, city:florianopolis
+figueirense, Figueirense|Figueirense FC|Figueirense SC|Figueirense Futebol Clube, FIG, city:florianopolis
 
 #### Goiás (GO)
 
-atleticogo, Atlético GO|Atlético Goianiense|Atlético Clube Goianiense, ACG, city:goiania
+atleticogo, Atlético GO|Atlético/GO|Atlético Goianiense|Atlético C Goianiense|Atlético Clube Goianiense, ACG, city:goiania
+
