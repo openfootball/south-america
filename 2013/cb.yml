@@ -1,0 +1,34 @@
+######################################
+# Campeonato Brasileiro 2013
+
+league: br
+season: 2013
+start_at: 2013-05-26
+
+
+# note: timezone for games (play_at) is *always* UTC-3 (Horário de Brasilia)
+
+
+# 20 Teams
+
+teams:
+- atleticomg
+- atleticopr
+- bahia
+- botafogo
+- corinthians
+- coritiba
+- criciuma
+- cruzeiro
+- flamengo
+- fluminense
+- goias
+- gremio
+- interrs
+- nautico
+- pontepreta
+- portuguesa
+- santossp
+- saopaulo
+- vascodagama
+- vitoria
