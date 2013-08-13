@@ -3,7 +3,7 @@
 
 league: br
 season: 2013
-start_at: 2013-05-26
+start_at: 2013-05-25
 
 
 # note: timezone for games (play_at) is *always* UTC-3 (Horário de Brasilia)
@@ -12,23 +12,24 @@ start_at: 2013-05-26
 # 20 Teams
 
 teams:
-- atleticomg
-- atleticopr
-- bahia
-- botafogo
-- corinthians
-- coritiba
-- criciuma
-- cruzeiro
-- flamengo
-- fluminense
-- goias
-- gremio
-- interrs
-- nautico
-- pontepreta
-- portuguesa
-- santossp
-- saopaulo
-- vascodagama
-- vitoria
+- atleticomg    # C Atlético Mineiro (Belo Horizonte-MG)
+- goias         # Goiás EC (Goiânia-GO)
+- atleticopr    # C Atlético Paranaense (Curitiba-PR)
+- gremio        # Grêmio FBPA (Porto Alegre-RS)
+- bahia         # EC Bahia (Salvador-BA)
+- interrs       # SC Internacional (Porto Alegre-RS)
+- botafogo      # Botafogo FR (Rio de Janeiro-RJ)
+- nautico       # C Náutico Capibaribe (Recife-PE)
+- corinthians   # SC Corinthians Paulista (São Paulo-SP)
+- pontepreta    # AA Ponte Preta (Campinas-SP)
+- coritiba      # Coritiba FC (Curitiba-PR)
+- portuguesa    # A Portuguesa de Desportos (São Paulo-SP)
+- criciuma      # Criciúma EC (SC)
+- saopaulo      # São Paulo FC (SP)
+- cruzeiro      # Cruzeiro EC (Belo Horizonte-MG)
+- santossp      # Santos FC (SP)
+- flamengo      # CR Flamengo (Rio de Janeiro-RJ)
+- vascodagama   # CR Vasco da Gama (Rio de Janeiro-RJ)
+- fluminense    # Fluminense FC (Rio de Janeiro-RJ)
+- vitoria       # EC Vitória (Salvador-BA)
+

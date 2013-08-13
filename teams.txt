@@ -69,7 +69,7 @@ palmeiras,    Palmeiras|Palmeiras SP|SE Palmeiras|SE Palmeiras São Paulo|Socied
 
 #### Pernambuco (PE)
 
-sportrecife, Sport Recife|Sport PE|Sport Club do Recife, city:recife
+sportrecife, Sport|Sport Recife|Sport PE|Sport Club do Recife, city:recife
 
 #### Santa Catarina (SC)
 
