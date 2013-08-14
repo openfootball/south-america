@@ -4,7 +4,7 @@
 
 ### Campeonato Brasileiro Série A / Brasileirão
 
-Official site -> [`www.cbf.com.br/competicoes/campeonato-brasileiro`](http://www.cbf.com.br/competicoes/campeonato-brasileiro)
+Official site - [`www.cbf.com.br/Competições/Série A`](http://www.cbf.com.br/Competições/Série A)
 
 - 20 teams
 
