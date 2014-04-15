@@ -50,7 +50,7 @@ criciuma,    Criciúma|Criciúma EC|Criciúma Esporte Clube,          CRI, city:
 #### state Minas Gerais (MG)
 
 atleticomg,  Atlético Mineiro|C Atlético Mineiro|Atlético MG|Atlético/MG|Clube Atlético Mineiro,      CAM, city:belohorizonte
-cruzeiro,    Cruzeiro|Cruzeiro EC|Cruzeiro MG|Cruzeiro Esporte Clube,          CRU, city:belohorizonte
+cruzeiro,    Cruzeiro|Cruzeiro EC|Cruzeiro MG|Cruzeiro Esporte Clube|Cruzeiro Belo Horizonte,    CRU, city:belohorizonte
 
 
 
