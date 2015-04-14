@@ -1,0 +1,12 @@
+##################################
+# br (Brazil) fixtures
+
+## leagues
+br-brazil!/leagues
+
+## teams
+br-brazil!/teams
+
+## fixtures
+br-brazil!/2013/cb
+

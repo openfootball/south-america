@@ -1,5 +1,4 @@
 ############################
 # teams
 
-teams:
-- br-brazil!/teams
+br-brazil!/teams
