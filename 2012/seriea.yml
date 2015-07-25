@@ -1,0 +1,36 @@
+######################################
+# Campeonato Brasileiro 2012
+
+league: br
+season: 2012
+start_at: 2012-05-19
+
+## todo: add end_at: date
+
+
+# note: timezone for games (play_at) is *always* UTC-3 (Horário de Brasilia)
+
+
+# 20 Teams
+
+teams:
+- atleticogo    # Atlético C Goianiense (Goiânia-GO)
+- gremio        # Grêmio FBPA (Porto Alegre-RS)
+- atleticomg    # C Atlético Mineiro (Belo Horizonte-MG)
+- interrs       # SC Internacional (Porto Alegre-RS)
+- bahia         # EC Bahia (Salvador-BA)
+- nautico       # C Náutico Capibaribe (Recife-PE)
+- botafogo      # Botafogo FR (Rio de Janeiro-RJ)
+- palmeiras     # SE Palmeiras (São Paulo-SP)
+- corinthians   # SC Corinthians Paulista (São Paulo-SP)
+- pontepreta    # AA Ponte Preta (Campinas-SP)
+- coritiba      # Coritiba FC (Curitiba-PR)
+- portuguesa    # A Portuguesa de Desportos (São Paulo-SP)
+- cruzeiro      # Cruzeiro EC (Belo Horizonte-MG)
+- saopaulo      # São Paulo FC (SP)
+- figueirense   # Figueirense FC (Florianópolis-SC)
+- santossp      # Santos FC (SP)
+- flamengo      # CR Flamengo (Rio de Janeiro-RJ)
+- sportrecife   # Sport Club do Recife (PE)
+- fluminense    # Fluminense FC (Rio de Janeiro-RJ)
+- vascodagama   # CR Vasco da Gama (Rio de Janeiro-RJ)
