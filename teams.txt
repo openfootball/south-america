@@ -20,23 +20,23 @@ atleticomg,Atlético Mineiro|C Atlético Mineiro|Atlético MG|Atlético/MG|Clube
 cruzeiro,Cruzeiro|Cruzeiro EC|Cruzeiro MG|Cruzeiro Esporte Clube|Cruzeiro Belo Horizonte,CRU,city:belohorizonte
 americamg,América Mineiro|América MG|América FC|América Futebol Clube,AMG,city:belohorizonte
 
-#### Rio Grande do Sul (RS)
+#### state Rio Grande do Sul (RS)
 gremio,Grêmio|Grêmio RS|Grêmio Porto Alegre|Grêmio FBPA|Grêmio Foot-Ball Porto Alegrense,GRE,city:portoalegre
 interrs,Internacional|SC Internacional|Internacional RS|Internacional Porto Alegre|Sport Club Internacional,INT,city:portoalegre
 
-#### Paraná (PR)
+#### state Paraná (PR)
 atleticopr,Atlético Paranaense|C Atlético Paranaense|Atlético PR|Atlético/PR|Clube Atlético Paranaense,CAP,city:curitiba
 coritiba,Coritiba|Coritiba FC|Coritiba PR|Coritiba FC|Coritiba Football Club,CTB,city:curitiba
 
-#### Santa Catarina (SC)
+#### state Santa Catarina (SC)
 figueirense,Figueirense|Figueirense FC|Figueirense SC|Figueirense Futebol Clube,FIG,city:florianopolis
 chapecoense,Chapecoense|Associação Chapecoense de Futebol,CHA,city:chapeco
 
-#### Pernambuco (PE)
+#### state Pernambuco (PE)
 sportrecife,Sport|Sport Recife|Sport PE|Sport Club do Recife, SPT, city:recife
 santacruzpe,Santa Cruz|Santa Cruz FC|Santa Cruz Futebol Clube, SAN, city:recife
 
-#### Bahia (BA)
+#### state Bahia (BA)
 vitoria,Vitória|EC Vitória|Esporte Clube Vitória,VIT,city:salvador
 
 ##########
@@ -51,12 +51,12 @@ vitoria,Vitória|EC Vitória|Esporte Clube Vitória,VIT,city:salvador
 ##########
 # 2016
 
-#### Santa Catarina (SC)
+#### state Santa Catarina (SC)
 criciuma,Criciúma|Criciúma EC|Criciúma Esporte Clube,CRI,city:criciuma
 avai, Avai|Avaí FC|Avaí Futebol Clube, AVA, city:florianopolis
 joinvile, Joinvile|Joinvile EC|Joinville Esporte Clube, JOI, city:joinvile
 
-#### Goiás (GO)
+#### state Goiás (GO)
 goias,Goiás|Goiás EC|Goiás Esporte Clube,GOI,city:goiania
 atleticogo,Atlético GO|Atlético Goianiense|,ACG,city:goiania
 vilanovago, Vila Nova|Vila Nova GO|Vila Nova de Goias|Vila Nova FC|Vila Nova Futebol Clube, VIL, city:goiania
@@ -65,38 +65,38 @@ vilanovago, Vila Nova|Vila Nova GO|Vila Nova de Goias|Vila Nova FC|Vila Nova Fut
 bragantino, Bragantino|CA Bragantino|Clube Atlético Bragantino, BRA, city:bragancapaulista
 oeste,  Oeste|Oeste SP}Oeste FC|Oeste Futebol Clube, OES, city:itapolis
 
-## (PR)
+### state Paraná (PR)
 londrina, Londrina|Londrina EC|Londrina Esporte Clube, LON, city:londrina
 parana, Parana|Paraná Clube, PAR, city:curitiba
 
 #### state Rio de Janeiro (RJ)
 vascodagama,Vasco|CR Vasco da Gama|Vasco RJ|Vasco da Gama|Vasco da Gama Rio de Janeiro|Club de Regatas Vasco da Gama,VAS,city:riodejaneiro
 
-#### Bahia (BA)
+#### state Bahia (BA)
 bahia,Bahia|Bahia BA|EC Bahia|Esporte Clube Bahia,BAI,city:salvador
 
-#### Pernambuco (PE)
+#### state Pernambuco (PE)
 nautico,Náutico|C Náutico Capibaribe|Náutico PE|Clube Náutico Capibaribe,NAU,city:recife
 
-## (MG)
+### state Minas Gerais (MG)
 tupi, Tupi|Tupi MG|Tupi FC|Tupi Football Club, TUP, city:juizdefora
 
-## (RS)
+### state Rio Grande do Sul (RS)
 brasilrs, Brasil de Pelotas|Brasil RS|GE Brasil|Grêmio Esportivo Brasil|Grêmio Esportivo Brasil de Pelotas, GEB, city:pelotas
 
-## (CE)
+### state Ceará (CE)
 ceara, Ceará|Ceára SC|Ceará Sporting Club, CEA, city:fortaleza
 
-## (PA)
+### state Pará (PA)
 paysandu, Paysandu|Paysandu SC|Paysandu Sport Club, PAY, city:belem
 
-## (AL)
+### state Alagoas (AL)
 crb, CRB|CRB AL|Clube de Regatas Brasil, CRB, city:maceio
 
-## (MT)
+### state Mato Grosso (MT)
 luverdense, Luverdense|Luverdense EC|Luverdense Esporte Clube, LUV, city:lucasdorioverde
 
-## (MA)
+### state Maranhão (MA)
 sampaiocorrea, Sampaio Corrêa|Sampaio Corrêa FC|Sampaio Corrêa Futebol Clube, SAC, city:saoluis
 
 ##########
