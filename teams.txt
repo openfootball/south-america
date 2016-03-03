@@ -114,6 +114,47 @@ sampaiocorrea, Sampaio Corrêa|Sampaio Corrêa FC|Sampaio Corrêa Futebol Clube,
 
 #### state São Paulo (SP)
 portuguesa,Portuguesa|A Portuguesa de Desportos|Portuguesa SP|Portuguesa São Paulo|Associação Portuguesa de Desportos,POR,city:saopaulo
+guaranisp, Guarani|Guarani de Campinas|Guarani SP|Guarani Futebol Clube, GFC, city:campinas
+guaratingueta, Guaratingueta|Guara|Guaratinguetá Futebol Ltda, GUA, city:guaratingueta
+mogimirim, Mogi Mirim|Mogi Mirim EC|Mogi Mirim Esporte Clube, MOG, city:mogimirim
+botafogosp, Botafogo SP|Botafogo de Ribeirão Preto|Botafogo SP|Botafogo FC|Botafogo Futebol Clube, BSP, city:ribeiraopreto
+
+### state Minas Gerais (MG)
+boaesportemg, Boa Esporte|Boa Esporte MG|Boa Esporte Clube, BOA, city:varginha
+tombense, Tombense|Tombense Futebol Clube, TOM, city:tombos
+
+### state Rio Grande do Sul (RS)
+juventuders, Juventude|Juventude de Caxias|Juventude RS|EC Juventude|Esporte Clube Juventude, JUV, city:caxiasdosul
+ypirangars, Ypiranga|Ypiranga de Erechim|Ypiranga Futebol Clube, YPI, city:erechim
+
+### state Rio de Janeiro (RJ)
+macae, Macaé|Macaé Esporte Futebol Clube, MAC, city:macae
+
+### state Pernambuco (PE)
+salgueirope, Salgueiro|Salgueiro Atlético Clube, SAL, city:salgueiro
+
+### state Ceará (CE)
+fortaleza, Fortaleza|Fortaleza Esporte Clube, FOR, city:fortaleza
+
+### state Pará (PA)
+remo, Remo|Clube do Remo|, REM, city:belem
+
+### state Alagoas (AL)
+asaal, ASA|ASA de Alagoas|ASA de Arapiraca|Agremiação Sportiva Arapiraquense, ASA, city:Arapiraca
+
+### state Mato Grosso (MT)
+cuiaba, Cuiaba|Cuiabá Esporte Clube, CUI, city:cuiaba
+
+### state Rio Grande do Norte (RN)
+abcrn, ABC|ABC de Natal|ABC Futebol Clube, ABC, city:natal
+americanatal, América de Natal|América RN|América|América Futebol Clube, AME, city:natal
+
+### state Paraiba (PB)
+botafogopb, Botafogo da Paraiba|Botafogo PB|Botafogo Futebol Clube, BPB, city:joaopessoa
+
+### state Piaui (PI)
+riverpb, River da Paraiba|River PI|River Atlético Clube, RIV, city:teresina
+
 
 ##########
 # 2015
