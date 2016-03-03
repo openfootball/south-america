@@ -168,3 +168,12 @@ riverpb, River da Paraiba|River PI|River Atlético Clube, RIV, city:teresina
 # other clubs from other leagues
 
 # state championship of RS (Gauchão)
+aimore, Aimore|Clube Esportivo Aimoré, AIM, city:saoleopoldo
+cruzeiropoa, Cruzeiro RS|Esporte Clube Cruzeiro, CRU, city:cachoeirinha
+gloriars, Glória|Glória de Vacaria|Grêmio Esportivo Glória, GLO, city:vacaria
+lajeadense, Lajeadense|Clube Esportivo Lajeadense, LAJ, city:lajeado
+novohamburgo, Novo Hamburgo|EC Novo Hamburgo|Esporte Clube Novo Hamburgo, ECN, city:novohamburgo
+passofundo, Passo Fundo|Esporte Clube Passo Fundo, PFU, city:passofundo
+saojosepoa, São José de Porto Alegre|São José POA|São José RS|EC São José|Esporte Clube São José, SJO, city:portoalegre
+saopaulors, São Paulo de Rio Grande|São Paulo RS|Sport Club São Paulo, SRG, city:riogrande
+veranopolis, Veranópolis|Veranópolis Esporte Clube Recreativo e Cultural, VEC, city"veranopolis
