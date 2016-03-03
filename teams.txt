@@ -65,7 +65,7 @@ vilanovago, Vila Nova|Vila Nova GO|Vila Nova de Goias|Vila Nova FC|Vila Nova Fut
 bragantino, Bragantino|CA Bragantino|Clube Atlético Bragantino, BRA, city:bragancapaulista
 oeste,  Oeste|Oeste SP}Oeste FC|Oeste Futebol Clube, OES, city:itapolis
 
-(PR)
+## (PR)
 londrina, Londrina|Londrina EC|Londrina Esporte Clube, LON, city:londrina
 parana, Parana|Paraná Clube, PAR, city:curitiba
 
@@ -78,25 +78,25 @@ bahia,Bahia|Bahia BA|EC Bahia|Esporte Clube Bahia,BAI,city:salvador
 #### Pernambuco (PE)
 nautico,Náutico|C Náutico Capibaribe|Náutico PE|Clube Náutico Capibaribe,NAU,city:recife
 
-(MG)
+## (MG)
 tupi, Tupi|Tupi MG|Tupi FC|Tupi Football Club, TUP, city:juizdefora
 
-(RS)
+## (RS)
 brasilrs, Brasil de Pelotas|Brasil RS|GE Brasil|Grêmio Esportivo Brasil|Grêmio Esportivo Brasil de Pelotas, GEB, city:pelotas
 
-(CE)
+## (CE)
 ceara, Ceará|Ceára SC|Ceará Sporting Club, CEA, city:fortaleza
 
-(PA)
+## (PA)
 paysandu, Paysandu|Paysandu SC|Paysandu Sport Club, PAY, city:belem
 
-(AL)
+## (AL)
 crb, CRB|CRB AL|Clube de Regatas Brasil, CRB, city:maceio
 
-(MT)
+## (MT)
 luverdense, Luverdense|Luverdense EC|Luverdense Esporte Clube, LUV, city:lucasdorioverde
 
-(MA)
+## (MA)
 sampaiocorrea, Sampaio Corrêa|Sampaio Corrêa FC|Sampaio Corrêa Futebol Clube, SAC, city:saoluis
 
 ##########
