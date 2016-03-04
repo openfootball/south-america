@@ -177,3 +177,44 @@ passofundo, Passo Fundo|Esporte Clube Passo Fundo, PFU, city:passofundo
 saojosepoa, São José de Porto Alegre|São José POA|São José RS|EC São José|Esporte Clube São José, SJO, city:portoalegre
 saopaulors, São Paulo de Rio Grande|São Paulo RS|Sport Club São Paulo, SRG, city:riogrande
 veranopolis, Veranópolis|Veranópolis Esporte Clube Recreativo e Cultural, VEC, city"veranopolis
+
+
+# state championship of SP (Paulistão)
+aguasantasp, Agua Santa|Agua Santa SP|Esporte Clube Água Santa, AGS, city:diadema
+audaxsp, Audax|Audax SP|Grêmio Osasco Audax , AUD, city:osasco
+capivarianosp, Capivariano|Capivariano Futebol Clube, CPV, city:capivarisp
+ferroviariasp, Ferroviária|Associação Ferroviária de Esportes, FER, city:araraquara
+ituano, Ituano|Ituano Futebol Clube, ITU, city:itu
+linense, Linense|Clube Atlético Linense, LIN, city:Lins
+novorizontino, Grêmio Novorizontino, NOV, city:novohorizonte
+redbullsp, Red Bull SP|Red Bull Brasil|RBB, RBB, city:campinas
+rioclarosp, Rio Claro|Rio Claro Futebol Clube, RIO, city:rioclarosp
+saobentosp, São Bento|Esporte Clube São Bento, SBE, city:saobentosp
+saobernardosp, São Bernardo|São Bernardo Futebol Clube, SBF, city:saobernardodocampo
+xvdepiracicaba, XV de Piracicaba|Esporte Clube XV de Novembro, XVP, city:piracicaba
+
+# state championship of RJ (Campeonato Carioca)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
