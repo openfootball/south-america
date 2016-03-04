@@ -20,23 +20,23 @@ atleticomg,Atlético Mineiro|C Atlético Mineiro|Atlético MG|Atlético/MG|Clube
 cruzeiro,Cruzeiro|Cruzeiro EC|Cruzeiro MG|Cruzeiro Esporte Clube|Cruzeiro Belo Horizonte,CRU,city:belohorizonte
 americamg,América Mineiro|América MG|América FC|América Futebol Clube,AMG,city:belohorizonte
 
-#### Rio Grande do Sul (RS)
+#### state Rio Grande do Sul (RS)
 gremio,Grêmio|Grêmio RS|Grêmio Porto Alegre|Grêmio FBPA|Grêmio Foot-Ball Porto Alegrense,GRE,city:portoalegre
 interrs,Internacional|SC Internacional|Internacional RS|Internacional Porto Alegre|Sport Club Internacional,INT,city:portoalegre
 
-#### Paraná (PR)
+#### state Paraná (PR)
 atleticopr,Atlético Paranaense|C Atlético Paranaense|Atlético PR|Atlético/PR|Clube Atlético Paranaense,CAP,city:curitiba
 coritiba,Coritiba|Coritiba FC|Coritiba PR|Coritiba FC|Coritiba Football Club,CTB,city:curitiba
 
-#### Santa Catarina (SC)
+#### state Santa Catarina (SC)
 figueirense,Figueirense|Figueirense FC|Figueirense SC|Figueirense Futebol Clube,FIG,city:florianopolis
 chapecoense,Chapecoense|Associação Chapecoense de Futebol,CHA,city:chapeco
 
-#### Pernambuco (PE)
+#### state Pernambuco (PE)
 sportrecife,Sport|Sport Recife|Sport PE|Sport Club do Recife, SPT, city:recife
 santacruzpe,Santa Cruz|Santa Cruz FC|Santa Cruz Futebol Clube, SAN, city:recife
 
-#### Bahia (BA)
+#### state Bahia (BA)
 vitoria,Vitória|EC Vitória|Esporte Clube Vitória,VIT,city:salvador
 
 ##########
@@ -51,12 +51,12 @@ vitoria,Vitória|EC Vitória|Esporte Clube Vitória,VIT,city:salvador
 ##########
 # 2016
 
-#### Santa Catarina (SC)
+#### state Santa Catarina (SC)
 criciuma,Criciúma|Criciúma EC|Criciúma Esporte Clube,CRI,city:criciuma
 avai, Avai|Avaí FC|Avaí Futebol Clube, AVA, city:florianopolis
 joinvile, Joinvile|Joinvile EC|Joinville Esporte Clube, JOI, city:joinvile
 
-#### Goiás (GO)
+#### state Goiás (GO)
 goias,Goiás|Goiás EC|Goiás Esporte Clube,GOI,city:goiania
 atleticogo,Atlético GO|Atlético Goianiense|,ACG,city:goiania
 vilanovago, Vila Nova|Vila Nova GO|Vila Nova de Goias|Vila Nova FC|Vila Nova Futebol Clube, VIL, city:goiania
@@ -65,38 +65,38 @@ vilanovago, Vila Nova|Vila Nova GO|Vila Nova de Goias|Vila Nova FC|Vila Nova Fut
 bragantino, Bragantino|CA Bragantino|Clube Atlético Bragantino, BRA, city:bragancapaulista
 oeste,  Oeste|Oeste SP}Oeste FC|Oeste Futebol Clube, OES, city:itapolis
 
-## (PR)
+### state Paraná (PR)
 londrina, Londrina|Londrina EC|Londrina Esporte Clube, LON, city:londrina
 parana, Parana|Paraná Clube, PAR, city:curitiba
 
 #### state Rio de Janeiro (RJ)
 vascodagama,Vasco|CR Vasco da Gama|Vasco RJ|Vasco da Gama|Vasco da Gama Rio de Janeiro|Club de Regatas Vasco da Gama,VAS,city:riodejaneiro
 
-#### Bahia (BA)
+#### state Bahia (BA)
 bahia,Bahia|Bahia BA|EC Bahia|Esporte Clube Bahia,BAI,city:salvador
 
-#### Pernambuco (PE)
+#### state Pernambuco (PE)
 nautico,Náutico|C Náutico Capibaribe|Náutico PE|Clube Náutico Capibaribe,NAU,city:recife
 
-## (MG)
+### state Minas Gerais (MG)
 tupi, Tupi|Tupi MG|Tupi FC|Tupi Football Club, TUP, city:juizdefora
 
-## (RS)
+### state Rio Grande do Sul (RS)
 brasilrs, Brasil de Pelotas|Brasil RS|GE Brasil|Grêmio Esportivo Brasil|Grêmio Esportivo Brasil de Pelotas, GEB, city:pelotas
 
-## (CE)
+### state Ceará (CE)
 ceara, Ceará|Ceára SC|Ceará Sporting Club, CEA, city:fortaleza
 
-## (PA)
+### state Pará (PA)
 paysandu, Paysandu|Paysandu SC|Paysandu Sport Club, PAY, city:belem
 
-## (AL)
+### state Alagoas (AL)
 crb, CRB|CRB AL|Clube de Regatas Brasil, CRB, city:maceio
 
-## (MT)
+### state Mato Grosso (MT)
 luverdense, Luverdense|Luverdense EC|Luverdense Esporte Clube, LUV, city:lucasdorioverde
 
-## (MA)
+### state Maranhão (MA)
 sampaiocorrea, Sampaio Corrêa|Sampaio Corrêa FC|Sampaio Corrêa Futebol Clube, SAC, city:saoluis
 
 ##########
@@ -114,6 +114,47 @@ sampaiocorrea, Sampaio Corrêa|Sampaio Corrêa FC|Sampaio Corrêa Futebol Clube,
 
 #### state São Paulo (SP)
 portuguesa,Portuguesa|A Portuguesa de Desportos|Portuguesa SP|Portuguesa São Paulo|Associação Portuguesa de Desportos,POR,city:saopaulo
+guaranisp, Guarani|Guarani de Campinas|Guarani SP|Guarani Futebol Clube, GFC, city:campinas
+guaratingueta, Guaratingueta|Guara|Guaratinguetá Futebol Ltda, GUA, city:guaratingueta
+mogimirim, Mogi Mirim|Mogi Mirim EC|Mogi Mirim Esporte Clube, MOG, city:mogimirim
+botafogosp, Botafogo SP|Botafogo de Ribeirão Preto|Botafogo SP|Botafogo FC|Botafogo Futebol Clube, BSP, city:ribeiraopreto
+
+### state Minas Gerais (MG)
+boaesportemg, Boa Esporte|Boa Esporte MG|Boa Esporte Clube, BOA, city:varginha
+tombense, Tombense|Tombense Futebol Clube, TOM, city:tombos
+
+### state Rio Grande do Sul (RS)
+juventuders, Juventude|Juventude de Caxias|Juventude RS|EC Juventude|Esporte Clube Juventude, JUV, city:caxiasdosul
+ypirangars, Ypiranga|Ypiranga de Erechim|Ypiranga Futebol Clube, YPI, city:erechim
+
+### state Rio de Janeiro (RJ)
+macae, Macaé|Macaé Esporte Futebol Clube, MAC, city:macae
+
+### state Pernambuco (PE)
+salgueirope, Salgueiro|Salgueiro Atlético Clube, SAL, city:salgueiro
+
+### state Ceará (CE)
+fortaleza, Fortaleza|Fortaleza Esporte Clube, FOR, city:fortaleza
+
+### state Pará (PA)
+remo, Remo|Clube do Remo|, REM, city:belem
+
+### state Alagoas (AL)
+asaal, ASA|ASA de Alagoas|ASA de Arapiraca|Agremiação Sportiva Arapiraquense, ASA, city:Arapiraca
+
+### state Mato Grosso (MT)
+cuiaba, Cuiaba|Cuiabá Esporte Clube, CUI, city:cuiaba
+
+### state Rio Grande do Norte (RN)
+abcrn, ABC|ABC de Natal|ABC Futebol Clube, ABC, city:natal
+americanatal, América de Natal|América RN|América|América Futebol Clube, AME, city:natal
+
+### state Paraiba (PB)
+botafogopb, Botafogo da Paraiba|Botafogo PB|Botafogo Futebol Clube, BPB, city:joaopessoa
+
+### state Piaui (PI)
+riverpb, River da Paraiba|River PI|River Atlético Clube, RIV, city:teresina
+
 
 ##########
 # 2015
@@ -127,3 +168,12 @@ portuguesa,Portuguesa|A Portuguesa de Desportos|Portuguesa SP|Portuguesa São Pa
 # other clubs from other leagues
 
 # state championship of RS (Gauchão)
+aimore, Aimore|Clube Esportivo Aimoré, AIM, city:saoleopoldo
+cruzeiropoa, Cruzeiro RS|Esporte Clube Cruzeiro, CRU, city:cachoeirinha
+gloriars, Glória|Glória de Vacaria|Grêmio Esportivo Glória, GLO, city:vacaria
+lajeadense, Lajeadense|Clube Esportivo Lajeadense, LAJ, city:lajeado
+novohamburgo, Novo Hamburgo|EC Novo Hamburgo|Esporte Clube Novo Hamburgo, ECN, city:novohamburgo
+passofundo, Passo Fundo|Esporte Clube Passo Fundo, PFU, city:passofundo
+saojosepoa, São José de Porto Alegre|São José POA|São José RS|EC São José|Esporte Clube São José, SJO, city:portoalegre
+saopaulors, São Paulo de Rio Grande|São Paulo RS|Sport Club São Paulo, SRG, city:riogrande
+veranopolis, Veranópolis|Veranópolis Esporte Clube Recreativo e Cultural, VEC, city"veranopolis
