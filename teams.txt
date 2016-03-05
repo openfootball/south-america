@@ -208,6 +208,12 @@ voltaredonda, Volta Redonda|Volta Redonda Futebol Clube, VOL, city:voltaredonda
 
 
 # state championship of MG (Campeonato Mineiro)
+uberlandia, Uberlandia|Uberlândia Esporte Clube, UBE, city:uberlandia
+urt, URT|União Recreativa dos Trabalhadores, URT, city:patosdeminas
+tricordiano, Tricordiano|Clube Atlético Tricordiano, TRI, city:trescoracoes
+caldense, Caldense|Associação Atlética Caldense, CAL, city:pocodecaldas
+guaranimg, Guarani MG|Guarani Esporte Clube, GUA, city:divinopolis
+vilanovamg, Vila Nova MG|Vila Nova|Villa Nova Atlético Clube, VIL, city:novalima
 
 
 # state championship of PR (Campeonato Paranaense)
