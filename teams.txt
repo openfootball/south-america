@@ -194,13 +194,38 @@ saobernardosp, São Bernardo|São Bernardo Futebol Clube, SBF, city:saobernardod
 xvdepiracicaba, XV de Piracicaba|Esporte Clube XV de Novembro, XVP, city:piracicaba
 
 # state championship of RJ (Campeonato Carioca)
+americarj, América|América RJ|America Football Club, AME, city:riodejaneiro
+bangu, Bangu|Bangu Atlético Clube, BAN, city:riodejaneiro
+boavistarj, Boa Vista RJ|, BOA, city:riodejaneiro
+bonsucessorj, Bonsucesso|Bonsucesso Futebol Clube, BON, city:riodejaneiro
+cabofriense, Cabofriense|Associação Desportiva Cabofriense, CAB, city:cabofrio
+friburguense, Friburguense|Friburguense Atlético Clube, FRI, city:novafriburgo
+madureira, Madureira|Madureira Esporte Clube, MAD, city:riodejaneiro
+portuguesarj, Portuguesa RJJ|Associação Atlética Portuguesa RJ, POR, city:riodejaneiro
+resende, Resende|Resende Futebol Clube, RES, city:resende
+tigresrj, Tigres|Esporte Clube Tigres do Brasil, TIG, city:duquedecaxias
+voltaredonda, Volta Redonda|Volta Redonda Futebol Clube, VOL, city:voltaredonda
 
 
+# state championship of MG (Campeonato Mineiro)
 
 
+# state championship of PR (Campeonato Paranaense)
 
 
+# state championship of SC (Campeonato Catarinense)
 
+
+# state championship of BA (Campeonato Baiano)
+
+
+# state championship of GO (Campeonato Goiano)
+
+
+# state championship of PE (Campeonato Pernambucano)
+
+
+# state championship of CE (Campeonato Cearense)
 
 
 
