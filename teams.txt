@@ -220,6 +220,11 @@ vilanovamg, Vila Nova MG|Vila Nova|Villa Nova Atlético Clube, VIL, city:novalim
 
 
 # state championship of SC (Campeonato Catarinense)
+brusque, Brusque|Brusque Futebol Clube, BRU, city:brusque
+metropolitanosc, Metropolitano|Clube Atlético Metropolitano, MET, city:blumenau
+guaranisc, Guarani de Palhoça|Guarani de Palhoça Futebol Ltda, GUA, city:palhoca
+intersc, Inter de Lages|Esporte Clube Internacional de Lages, INT, city:lages
+camboriu, Camboriu|Camboriú Futebol Clube, CAM, city:camboriu
 
 
 # state championship of BA (Campeonato Baiano)
