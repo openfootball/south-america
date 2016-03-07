@@ -217,6 +217,14 @@ vilanovamg, Vila Nova MG|Vila Nova|Villa Nova Atlético Clube, VIL, city:novalim
 
 
 # state championship of PR (Campeonato Paranaense)
+jmalucelli, JMalucelli|J.Malucelli Futebol S/A, JMA, city:curitiba
+fozdoiguacu, Foz do Iguaçu|Foz do Iguaçu Futebol Clube, FOZ, city:fozdoiguacu
+toledopr, Toledo|Toledo PR|Toledo Colônia Work, TCW, city:toledopr
+pstc, PSTC|PSTC Procopense, PST, city:cornelioprocopio
+riobrancopr, Rio Branco|Rio Branco PR|Rio Branco Sport Club, RIO, city:paranagua
+cascavelpr, Cascavel|Futebol Clube Cascavel, FCC, city:cascavel
+maringa, Maringa|Maringá Futebol Clube, MFC, city:maringa
+operariopr, Operário PR|Operário Ferroviário Esporte Clube| OFC, city:pontagrossa
 
 
 # state championship of SC (Campeonato Catarinense)
