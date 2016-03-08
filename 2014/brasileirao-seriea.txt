@@ -1,0 +1,538 @@
+
+Rodada 1
+[Sab 19/04]
+	fluminense  3 - 0 figueirense
+	interrs     1 - 0 vitoria    
+	chapecoense 0 - 0 coritiba   
+[Dom 20/04]
+	saopaulo    3 - 0 botafogo   
+	atleticopr  1 - 0 gremio     
+	atleticomg  0 - 0 corinthians
+	bahia       1 - 2 cruzeiro   
+	santossp    1 - 1 sportrecife
+	flamengo    0 - 0 goias      
+	criciuma    1 - 2 palmeiras  
+
+Rodada 2
+[Sab 26/04]
+	coritiba    0 - 0 santossp   
+	palmeiras   0 - 1 fluminense 
+[Dom 27/04]
+	corinthians 2 - 0 flamengo   
+	botafogo    2 - 2 interrs    
+	cruzeiro    1 - 1 saopaulo   
+	vitoria     2 - 2 atleticopr 
+	gremio      2 - 1 atleticomg 
+	figueirense 0 - 2 bahia      
+	goias       1 - 0 criciuma   
+	sportrecife 2 - 1 chapecoense
+
+Rodada 3
+[Sab 03/05]
+	saopaulo    2 - 2 coritiba   
+	santossp    0 - 0 gremio     
+	atleticopr  2 - 3 cruzeiro   
+	fluminense  1 - 2 vitoria    
+[Dom 04/05]
+	flamengo    4 - 2 palmeiras  
+	bahia       1 - 0 botafogo   
+	interrs     2 - 1 sportrecife
+	criciuma    1 - 0 figueirense
+	chapecoense 0 - 1 corinthians
+	atleticomg  0 - 1 goias      
+
+Rodada 4
+[Sab 10/05]
+	palmeiras   2 - 0 goias      
+	interrs     2 - 1 atleticopr 
+	botafogo    6 - 0 criciuma   
+[Dom 11/05]
+	fluminense  2 - 0 flamengo   
+	saopaulo    1 - 1 corinthians
+	atleticomg  2 - 1 cruzeiro   
+	chapecoense 1 - 2 gremio     
+	bahia       1 - 1 vitoria    
+	figueirense 0 - 2 santossp   
+	coritiba    0 - 1 sportrecife
+
+Rodada 5
+[Qua 14/05]
+	goias       2 - 0 botafogo   
+[Sab 17/05]
+	cruzeiro    3 - 2 coritiba   
+[Dom 18/05]
+	gremio      1 - 0 fluminense 
+	flamengo    0 - 2 saopaulo   
+	corinthians 0 - 1 figueirense
+	atleticopr  1 - 1 chapecoense
+	santossp    1 - 2 atleticomg 
+	criciuma    0 - 0 interrs    
+	vitoria     0 - 1 palmeiras  
+[Qua 04/06]
+	sportrecife 1 - 0 bahia      
+
+Rodada 6
+[Qua 21/05]
+	flamengo    1 - 1 bahia      
+	coritiba    1 - 1 interrs    
+	cruzeiro    2 - 0 sportrecife
+	criciuma    1 - 0 chapecoense
+	fluminense  5 - 2 saopaulo   
+	corinthians 1 - 1 atleticopr 
+	gremio      2 - 1 botafogo   
+[Qui 22/05]
+	palmeiras   1 - 0 figueirense
+	goias       2 - 2 santossp   
+	vitoria     2 - 3 atleticomg 
+
+Rodada 7
+[Sab 24/05]
+	bahia       0 - 1 fluminense 
+	saopaulo    1 - 0 gremio     
+[Dom 25/05]
+	santossp    0 - 0 flamengo   
+	atleticopr  2 - 0 coritiba   
+	sportrecife 1 - 4 corinthians
+	figueirense 0 - 1 goias      
+	chapecoense 2 - 0 palmeiras  
+	botafogo    1 - 1 vitoria    
+	interrs     1 - 3 cruzeiro   
+	atleticomg  0 - 0 criciuma   
+
+Rodada 8
+[Qua 28/05]
+	palmeiras   0 - 2 botafogo   
+	sportrecife 0 - 0 gremio     
+	criciuma    1 - 0 coritiba   
+	goias       0 - 0 vitoria    
+	interrs     2 - 0 chapecoense
+	corinthians 1 - 0 cruzeiro   
+	atleticopr  2 - 2 saopaulo   
+	atleticomg  2 - 0 fluminense 
+[Qui 29/05]
+	flamengo    1 - 1 figueirense
+	bahia       0 - 2 santossp   
+
+Rodada 9
+[Sab 31/05]
+	saopaulo    2 - 1 atleticomg 
+	coritiba    3 - 0 goias      
+	vitoria     0 - 1 sportrecife
+[Dom 01/06]
+	gremio      0 - 0 palmeiras  
+	cruzeiro    3 - 0 flamengo   
+	chapecoense 2 - 1 bahia      
+	figueirense 1 - 3 atleticopr 
+	santossp    2 - 0 criciuma   
+	fluminense  1 - 1 interrs    
+[Sab 11/10]
+	botafogo    1 - 0 corinthians
+
+Rodada 10
+[Qua 16/07]
+	sportrecife 1 - 0 botafogo   
+	coritiba    0 - 2 figueirense
+	gremio      0 - 0 goias      
+	criciuma    3 - 2 fluminense 
+	flamengo    1 - 2 atleticopr 
+	bahia       0 - 2 saopaulo   
+[Qui 17/07]
+	corinthians 2 - 1 interrs    
+	santossp    2 - 0 palmeiras  
+	cruzeiro    3 - 1 vitoria    
+[Qua 06/08]
+	chapecoense 1 - 1 atleticomg 
+
+Rodada 11
+[Sab 19/07]
+	saopaulo    0 - 1 chapecoense
+	atleticomg  1 - 1 bahia      
+	figueirense 0 - 1 gremio     
+	botafogo    1 - 0 coritiba   
+[Dom 20/07]
+	palmeiras   1 - 2 cruzeiro   
+	vitoria     0 - 0 corinthians
+	interrs     4 - 0 flamengo   
+	goias       0 - 0 sportrecife
+	atleticopr  2 - 0 criciuma   
+	fluminense  1 - 0 santossp   
+
+Rodada 12
+[Sab 26/07]
+	santossp    3 - 0 chapecoense
+	cruzeiro    5 - 0 figueirense
+	criciuma    1 - 3 vitoria    
+	bahia       0 - 1 interrs    
+[Dom 27/07]
+	goias       2 - 1 saopaulo   
+	atleticopr  0 - 3 fluminense 
+	sportrecife 2 - 1 atleticomg 
+	corinthians 2 - 0 palmeiras  
+	gremio      2 - 3 coritiba   
+	flamengo    1 - 0 botafogo   
+
+Rodada 13
+[Sab 02/08]
+	saopaulo    1 - 1 criciuma   
+	botafogo    1 - 1 cruzeiro   
+	vitoria     2 - 1 gremio     
+[Dom 03/08]
+	palmeiras   1 - 1 bahia      
+	coritiba    0 - 0 corinthians
+	figueirense 3 - 0 sportrecife
+	chapecoense 1 - 0 flamengo   
+	atleticomg  3 - 1 atleticopr 
+	interrs     1 - 0 santossp   
+	fluminense  2 - 0 goias      
+
+Rodada 14
+[Sab 09/08]
+	bahia       1 - 0 goias      
+	criciuma    0 - 0 cruzeiro   
+	fluminense  1 - 1 coritiba   
+[Dom 10/08]
+	santossp    0 - 1 corinthians
+	atleticopr  2 - 0 botafogo   
+	interrs     2 - 0 gremio     
+	flamengo    1 - 0 sportrecife
+	chapecoense 0 - 1 figueirense
+	atleticomg  2 - 1 palmeiras  
+	saopaulo    3 - 1 vitoria    
+
+Rodada 15
+[Sab 16/08]
+	goias       0 - 1 interrs    
+	corinthians 1 - 1 bahia      
+[Dom 17/08]
+	palmeiras   1 - 2 saopaulo   
+	coritiba    0 - 1 flamengo   
+	cruzeiro    3 - 0 santossp   
+	vitoria     0 - 0 chapecoense
+	gremio      2 - 0 criciuma   
+	figueirense 2 - 2 atleticomg 
+	botafogo    2 - 0 fluminense 
+	sportrecife 1 - 1 atleticopr 
+
+Rodada 16
+[Qua 20/08]
+	sportrecife 2 - 1 palmeiras  
+	santossp    2 - 0 atleticopr 
+	figueirense 1 - 0 botafogo   
+	bahia       0 - 0 criciuma   
+	coritiba    2 - 0 vitoria    
+	interrs     0 - 1 saopaulo   
+	chapecoense 1 - 0 fluminense 
+	flamengo    2 - 1 atleticomg 
+[Qui 21/08]
+	corinthians 5 - 2 goias      
+	cruzeiro    1 - 0 gremio     
+
+Rodada 17
+[Sab 23/08]
+	botafogo    1 - 0 chapecoense
+	atleticomg  1 - 0 interrs    
+	palmeiras   1 - 0 coritiba   
+[Dom 24/08]
+	fluminense  4 - 0 sportrecife
+	saopaulo    2 - 1 santossp   
+	vitoria     0 - 1 figueirense
+	gremio      2 - 1 corinthians
+	criciuma    0 - 2 flamengo   
+	goias       0 - 1 cruzeiro   
+	atleticopr  0 - 0 bahia      
+
+Rodada 18
+[Sab 30/08]
+	palmeiras   0 - 1 interrs    
+	cruzeiro    4 - 2 chapecoense
+[Dom 31/08]
+	figueirense 1 - 1 saopaulo   
+	coritiba    0 - 0 atleticomg 
+	botafogo    1 - 0 santossp   
+	sportrecife 2 - 0 criciuma   
+	corinthians 1 - 1 fluminense 
+	goias       3 - 1 atleticopr 
+	vitoria     1 - 2 flamengo   
+	gremio      1 - 0 bahia      
+
+Rodada 19
+[Sab 06/09]
+	flamengo    0 - 1 gremio     
+	santossp    3 - 1 vitoria    
+	chapecoense 0 - 0 goias      
+[Dom 07/09]
+	criciuma    0 - 0 corinthians
+	atleticomg  1 - 0 botafogo   
+	fluminense  3 - 3 cruzeiro   
+	saopaulo    2 - 0 sportrecife
+	atleticopr  1 - 1 palmeiras  
+	bahia       0 - 0 coritiba   
+	interrs     2 - 3 figueirense
+
+Rodada 20
+[Qua 10/09]
+	palmeiras   1 - 0 criciuma   
+	gremio      1 - 0 atleticopr 
+	figueirense 1 - 1 fluminense 
+	coritiba    3 - 0 chapecoense
+	sportrecife 3 - 1 santossp   
+	goias       1 - 0 flamengo   
+	botafogo    2 - 4 saopaulo   
+	vitoria     2 - 0 interrs    
+[Qui 11/09]
+	corinthians 1 - 0 atleticomg 
+	cruzeiro    2 - 1 bahia      
+
+Rodada 21
+[Sab 13/09]
+	fluminense  3 - 0 palmeiras  
+	chapecoense 3 - 1 sportrecife
+	santossp    2 - 1 coritiba   
+[Dom 14/09]
+	saopaulo    2 - 0 cruzeiro   
+	flamengo    1 - 0 corinthians
+	bahia       3 - 0 figueirense
+	interrs     2 - 0 botafogo   
+	criciuma    1 - 0 goias      
+	atleticopr  2 - 0 vitoria    
+	atleticomg  0 - 0 gremio     
+
+Rodada 22
+[Qua 17/09]
+	cruzeiro    2 - 0 atleticopr 
+	vitoria     3 - 1 fluminense 
+	figueirense 1 - 1 criciuma   
+	sportrecife 0 - 0 interrs    
+	palmeiras   2 - 2 flamengo   
+	coritiba    3 - 1 saopaulo   
+	botafogo    2 - 3 bahia      
+[Qui 18/09]
+	corinthians 1 - 1 chapecoense
+	goias       2 - 3 atleticomg 
+	gremio      0 - 0 santossp   
+
+Rodada 23
+[Sab 20/09]
+	atleticopr  0 - 1 interrs    
+	criciuma    1 - 1 botafogo   
+[Dom 21/09]
+	cruzeiro    2 - 3 atleticomg 
+	vitoria     2 - 1 bahia      
+	flamengo    1 - 1 fluminense 
+	sportrecife 1 - 0 coritiba   
+	corinthians 3 - 2 saopaulo   
+	santossp    3 - 1 figueirense
+	gremio      1 - 0 chapecoense
+	goias       6 - 0 palmeiras  
+
+Rodada 24
+[Qua 24/09]
+	coritiba    1 - 2 cruzeiro   
+	interrs     3 - 0 criciuma   
+	bahia       1 - 0 sportrecife
+	chapecoense 3 - 0 atleticopr 
+	figueirense 1 - 0 corinthians
+	fluminense  0 - 0 gremio     
+	saopaulo    2 - 2 flamengo   
+[Qui 25/09]
+	palmeiras   2 - 0 vitoria    
+	botafogo    1 - 0 goias      
+	atleticomg  3 - 2 santossp   
+
+Rodada 25
+[Sab 27/09]
+	sportrecife 0 - 0 cruzeiro   
+	chapecoense 1 - 1 criciuma   
+	saopaulo    1 - 3 fluminense 
+[Dom 28/09]
+	botafogo    0 - 2 gremio     
+	atleticopr  1 - 0 corinthians
+	atleticomg  2 - 0 vitoria    
+	bahia       2 - 1 flamengo   
+	interrs     4 - 2 coritiba   
+	figueirense 3 - 1 palmeiras  
+	santossp    2 - 0 goias      
+
+Rodada 26
+[Qui 02/10]
+	palmeiras   4 - 2 chapecoense
+[Sab 04/10]
+	coritiba    1 - 0 atleticopr 
+	flamengo    0 - 1 santossp   
+	fluminense  1 - 1 bahia      
+	vitoria     2 - 1 botafogo   
+	gremio      0 - 1 saopaulo   
+	criciuma    3 - 1 atleticomg 
+	corinthians 3 - 0 sportrecife
+	cruzeiro    2 - 1 interrs    
+	goias       1 - 0 figueirense
+
+Rodada 27
+[Qua 08/10]
+	botafogo    0 - 1 palmeiras  
+	saopaulo    1 - 0 atleticopr 
+	coritiba    1 - 0 criciuma   
+	vitoria     2 - 2 goias      
+	gremio      2 - 0 sportrecife
+	figueirense 1 - 2 flamengo   
+	cruzeiro    0 - 1 corinthians
+[Qui 09/10]
+	santossp    1 - 0 bahia      
+	fluminense  0 - 0 atleticomg 
+	chapecoense 5 - 0 interrs    
+
+Rodada 28
+[Dom 01/06]
+	corinthians 1 - 1 botafogo   
+[Sab 11/10]
+	goias       3 - 0 coritiba   
+	palmeiras   2 - 1 gremio     
+[Dom 12/10]
+	flamengo    3 - 0 cruzeiro   
+	atleticomg  1 - 0 saopaulo   
+	bahia       0 - 1 chapecoense
+	interrs     2 - 1 fluminense 
+	criciuma    3 - 0 santossp   
+	sportrecife 1 - 2 vitoria    
+	atleticopr  3 - 0 figueirense
+
+Rodada 29
+[Sab 18/10]
+	fluminense  4 - 2 criciuma   
+	saopaulo    2 - 1 bahia      
+	goias       0 - 0 gremio     
+	atleticomg  1 - 0 chapecoense
+[Dom 19/10]
+	interrs     1 - 2 corinthians
+	figueirense 4 - 0 coritiba   
+	palmeiras   1 - 3 santossp   
+	atleticopr  2 - 1 flamengo   
+	vitoria     0 - 1 cruzeiro   
+	botafogo    1 - 1 sportrecife
+
+Rodada 30
+[Ter 21/10]
+	bahia       1 - 1 atleticomg 
+[Qua 22/10]
+	cruzeiro    1 - 1 palmeiras  
+	flamengo    2 - 0 interrs    
+	corinthians 2 - 1 vitoria    
+	criciuma    0 - 1 atleticopr 
+	coritiba    2 - 0 botafogo   
+	gremio      1 - 0 figueirense
+	santossp    0 - 1 fluminense 
+	chapecoense 0 - 0 saopaulo   
+	sportrecife 0 - 1 goias      
+
+Rodada 31
+[Sab 25/10]
+	palmeiras   1 - 1 corinthians
+	fluminense  2 - 1 atleticopr 
+	figueirense 1 - 1 cruzeiro   
+	chapecoense 1 - 1 santossp   
+	coritiba    1 - 1 gremio     
+	atleticomg  3 - 2 sportrecife
+	vitoria     3 - 1 criciuma   
+	interrs     2 - 0 bahia      
+	botafogo    2 - 1 flamengo   
+[Seg 27/10]
+	saopaulo    3 - 0 goias      
+
+Rodada 32
+[Sab 01/11]
+	gremio      1 - 0 vitoria    
+	goias       0 - 2 fluminense 
+	corinthians 2 - 2 coritiba   
+[Dom 02/11]
+	santossp    1 - 2 interrs    
+	sportrecife 1 - 0 figueirense
+	criciuma    1 - 2 saopaulo   
+	cruzeiro    2 - 1 botafogo   
+	flamengo    3 - 0 chapecoense
+	atleticopr  1 - 0 atleticomg 
+	bahia       0 - 1 palmeiras  
+
+Rodada 33
+[Sab 08/11]
+	palmeiras   0 - 2 atleticomg 
+	coritiba    1 - 0 fluminense 
+	botafogo    0 - 2 atleticopr 
+[Dom 09/11]
+	sportrecife 2 - 2 flamengo   
+	vitoria     1 - 2 saopaulo   
+	gremio      4 - 1 interrs    
+	figueirense 1 - 0 chapecoense
+	goias       3 - 0 bahia      
+	corinthians 1 - 0 santossp   
+	cruzeiro    3 - 1 criciuma   
+
+Rodada 34
+[Sab 15/11]
+	fluminense  1 - 0 botafogo   
+	criciuma    0 - 3 gremio     
+[Dom 16/11]
+	bahia       1 - 2 corinthians
+	interrs     1 - 0 goias      
+	santossp    0 - 1 cruzeiro   
+	atleticopr  0 - 1 sportrecife
+	flamengo    3 - 2 coritiba   
+	atleticomg  1 - 1 figueirense
+	saopaulo    2 - 0 palmeiras  
+	chapecoense 0 - 1 vitoria    
+
+Rodada 35
+[Qua 12/11]
+	saopaulo    1 - 1 interrs    
+[Qua 19/11]
+	botafogo    0 - 1 figueirense
+	atleticopr  1 - 1 santossp   
+	vitoria     1 - 1 coritiba   
+	criciuma    0 - 1 bahia      
+	goias       0 - 1 corinthians
+	atleticomg  4 - 0 flamengo   
+	palmeiras   0 - 2 sportrecife
+[Qui 20/11]
+	fluminense  1 - 4 chapecoense
+	gremio      1 - 2 cruzeiro   
+
+Rodada 36
+[Sab 22/11]
+	interrs     2 - 1 atleticomg 
+	bahia       1 - 2 atleticopr 
+[Dom 23/11]
+	cruzeiro    2 - 1 goias      
+	figueirense 2 - 0 vitoria    
+	flamengo    1 - 1 criciuma   
+	sportrecife 2 - 2 fluminense 
+	santossp    0 - 1 saopaulo   
+	coritiba    2 - 0 palmeiras  
+	corinthians 1 - 0 gremio     
+	chapecoense 2 - 0 botafogo   
+
+Rodada 37
+[Sab 29/11]
+	interrs     3 - 1 palmeiras  
+	criciuma    2 - 2 sportrecife
+	flamengo    4 - 0 vitoria    
+[Dom 30/11]
+	fluminense  5 - 2 corinthians
+	saopaulo    1 - 1 figueirense
+	santossp    2 - 0 botafogo   
+	chapecoense 1 - 1 cruzeiro   
+	atleticopr  1 - 0 goias      
+	atleticomg  1 - 2 coritiba   
+	bahia       1 - 0 gremio     
+
+Rodada 38
+[Sab 06/12]
+	corinthians 2 - 1 criciuma   
+	figueirense 1 - 2 interrs    
+[Dom 07/12]
+	goias       4 - 2 chapecoense
+	botafogo    0 - 0 atleticomg 
+	sportrecife 1 - 0 saopaulo   
+	palmeiras   1 - 1 atleticopr 
+	coritiba    3 - 2 bahia      
+	cruzeiro    2 - 1 fluminense 
+	vitoria     0 - 1 santossp   
+	gremio      1 - 1 flamengo   
