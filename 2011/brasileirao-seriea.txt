@@ -1,0 +1,540 @@
+
+Rodada 1
+[Sab 21/05]
+	flamengo    4 - 0 avai       
+	ceara       1 - 3 vascodagama
+	atleticomg  3 - 0 atleticopr 
+	santossp    1 - 1 interrs    
+[Dom 22/05]
+	palmeiras   1 - 0 botafogo   
+	coritiba    0 - 1 atleticogo 
+	figueirense 1 - 0 cruzeiro   
+	gremio      1 - 2 corinthians
+	americamg   2 - 1 bahia      
+	fluminense  0 - 2 saopaulo   
+
+Rodada 2
+[Sab 28/05]
+	botafogo    1 - 0 santossp   
+	interrs     0 - 1 ceara      
+	avai        1 - 3 atleticomg 
+	saopaulo    1 - 0 figueirense
+[Dom 29/05]
+	bahia       3 - 3 flamengo   
+	cruzeiro    1 - 1 palmeiras  
+	atleticopr  0 - 1 gremio     
+	corinthians 2 - 1 coritiba   
+	atleticogo  0 - 1 fluminense 
+	vascodagama 3 - 0 americamg  
+
+Rodada 3
+[Sab 04/06]
+	palmeiras   1 - 0 atleticopr 
+	fluminense  2 - 1 cruzeiro   
+	ceara       2 - 2 botafogo   
+	figueirense 2 - 0 atleticogo 
+[Dom 05/06]
+	coritiba    5 - 1 vascodagama
+	flamengo    1 - 1 corinthians
+	gremio      2 - 0 bahia      
+	santossp    3 - 1 avai       
+	americamg   2 - 4 interrs    
+[Qua 08/06]
+	atleticomg  0 - 1 saopaulo   
+
+Rodada 4
+[Sab 11/06]
+	avai        2 - 2 americamg  
+	cruzeiro    1 - 1 santossp   
+	saopaulo    3 - 1 gremio     
+	vascodagama 1 - 1 figueirense
+[Dom 12/06]
+	corinthians 2 - 0 fluminense 
+	bahia       1 - 1 atleticomg 
+	atleticogo  4 - 1 ceara      
+	interrs     2 - 2 palmeiras  
+	botafogo    3 - 1 coritiba   
+	atleticopr  1 - 1 flamengo   
+
+Rodada 5
+[Sab 18/06]
+	fluminense  0 - 1 bahia      
+	americamg   1 - 1 cruzeiro   
+[Dom 19/06]
+	ceara       0 - 2 saopaulo   
+	figueirense 2 - 0 atleticopr 
+	gremio      1 - 1 vascodagama
+	palmeiras   5 - 0 avai       
+	flamengo    0 - 0 botafogo   
+	atleticomg  2 - 2 atleticogo 
+	coritiba    1 - 1 interrs    
+[Qua 10/08]
+	santossp    0 - 0 corinthians
+
+Rodada 6
+[Sab 25/06]
+	flamengo    4 - 1 atleticomg 
+	atleticopr  0 - 2 bahia      
+	cruzeiro    2 - 1 coritiba   
+[Dom 26/06]
+	avai        0 - 1 fluminense 
+	botafogo    2 - 1 gremio     
+	corinthians 5 - 0 saopaulo   
+	ceara       2 - 0 palmeiras  
+	interrs     4 - 1 figueirense
+	atleticogo  0 - 1 vascodagama
+[Sab 02/07]
+	santossp    1 - 0 americamg  
+
+Rodada 7
+[Qua 29/06]
+	vascodagama 0 - 3 cruzeiro   
+	gremio      2 - 2 avai       
+	americamg   2 - 3 flamengo   
+	bahia       0 - 1 corinthians
+	figueirense 2 - 1 santossp   
+	saopaulo    0 - 2 botafogo   
+[Qui 30/06]
+	palmeiras   2 - 0 atleticogo 
+	coritiba    3 - 1 ceara      
+	atleticomg  0 - 4 interrs    
+	fluminense  3 - 1 atleticopr 
+
+Rodada 8
+[Qua 06/07]
+	interrs     1 - 0 atleticopr 
+	cruzeiro    2 - 0 gremio     
+	avai        2 - 2 bahia      
+	corinthians 2 - 1 vascodagama
+	ceara       3 - 0 atleticomg 
+	flamengo    1 - 0 saopaulo   
+[Qui 07/07]
+	botafogo    1 - 1 atleticogo 
+	coritiba    3 - 0 figueirense
+	americamg   1 - 1 palmeiras  
+[Qua 24/08]
+	santossp    2 - 1 fluminense 
+
+Rodada 9
+[Sab 09/07]
+	saopaulo    2 - 1 cruzeiro   
+	vascodagama 2 - 0 interrs    
+	atleticopr  0 - 0 avai       
+[Dom 10/07]
+	atleticogo  0 - 1 corinthians
+	bahia       1 - 1 botafogo   
+	fluminense  0 - 1 flamengo   
+	gremio      2 - 0 coritiba   
+	atleticomg  2 - 0 americamg  
+	figueirense 1 - 1 ceara      
+	palmeiras   3 - 0 santossp   
+
+Rodada 10
+[Sab 16/07]
+	vascodagama 2 - 1 atleticopr 
+	coritiba    3 - 1 fluminense 
+	atleticogo  0 - 1 avai       
+	santossp    2 - 1 atleticomg 
+[Dom 17/07]
+	ceara       4 - 0 americamg  
+	interrs     0 - 3 saopaulo   
+	cruzeiro    2 - 1 bahia      
+[Qua 20/07]
+	figueirense 0 - 0 gremio     
+	palmeiras   0 - 0 flamengo   
+	botafogo    0 - 2 corinthians
+
+Rodada 11
+[Qui 21/07]
+	avai        1 - 3 interrs    
+[Sab 23/07]
+	atleticopr  2 - 1 botafogo   
+	americamg   0 - 0 figueirense
+	saopaulo    2 - 2 atleticogo 
+	flamengo    1 - 1 ceara      
+[Dom 24/07]
+	fluminense  1 - 0 palmeiras  
+	bahia       0 - 0 coritiba   
+	corinthians 0 - 1 cruzeiro   
+	atleticomg  1 - 2 vascodagama
+[Qua 05/10]
+	gremio      1 - 0 santossp   
+
+Rodada 12
+[Qui 14/07]
+	corinthians 1 - 0 interrs    
+[Qua 27/07]
+	atleticogo  2 - 0 cruzeiro   
+	botafogo    2 - 1 avai       
+	gremio      1 - 1 americamg  
+	atleticomg  1 - 0 fluminense 
+	figueirense 0 - 1 palmeiras  
+	coritiba    3 - 4 saopaulo   
+	santossp    4 - 5 flamengo   
+[Qui 28/07]
+	vascodagama 1 - 1 bahia      
+	ceara       2 - 1 atleticopr 
+
+Rodada 13
+[Sab 30/07]
+	flamengo    2 - 0 gremio     
+	cruzeiro    0 - 1 botafogo   
+	palmeiras   3 - 2 atleticomg 
+[Dom 31/07]
+	saopaulo    0 - 2 vascodagama
+	fluminense  4 - 0 ceara      
+	interrs     0 - 0 atleticogo 
+	avai        3 - 2 corinthians
+	atleticopr  3 - 2 santossp   
+	americamg   1 - 3 coritiba   
+	bahia       3 - 1 figueirense
+
+Rodada 14
+[Qua 03/08]
+	corinthians 2 - 1 americamg  
+	gremio      2 - 2 atleticomg 
+	figueirense 2 - 0 botafogo   
+	ceara       0 - 3 avai       
+	coritiba    1 - 1 palmeiras  
+	cruzeiro    0 - 1 flamengo   
+	vascodagama 2 - 0 santossp   
+[Qui 04/08]
+	fluminense  2 - 0 interrs    
+	saopaulo    3 - 0 bahia      
+	atleticogo  0 - 3 atleticopr 
+
+Rodada 15
+[Sab 06/08]
+	palmeiras   0 - 0 gremio     
+	flamengo    1 - 0 coritiba   
+	atleticomg  1 - 2 figueirense
+[Dom 07/08]
+	atleticopr  1 - 1 corinthians
+	americamg   3 - 0 fluminense 
+	santossp    1 - 0 ceara      
+	interrs     3 - 2 cruzeiro   
+	botafogo    4 - 0 vascodagama
+	bahia       2 - 1 atleticogo 
+	avai        1 - 2 saopaulo   
+
+Rodada 16
+[Sab 13/08]
+	saopaulo    2 - 2 atleticopr 
+	cruzeiro    5 - 0 avai       
+	atleticogo  2 - 0 santossp   
+	botafogo    4 - 2 americamg  
+[Dom 14/08]
+	vascodagama 1 - 0 palmeiras  
+	figueirense 2 - 2 flamengo   
+	coritiba    3 - 0 atleticomg 
+	corinthians 2 - 2 ceara      
+	bahia       1 - 1 interrs    
+	gremio      2 - 1 fluminense 
+
+Rodada 17
+[Qua 17/08]
+	fluminense  3 - 0 figueirense
+	avai        0 - 2 vascodagama
+	atleticopr  2 - 1 cruzeiro   
+	ceara       3 - 0 gremio     
+	interrs     1 - 0 botafogo   
+	atleticomg  2 - 3 corinthians
+	santossp    2 - 3 coritiba   
+[Qui 18/08]
+	flamengo    1 - 4 atleticogo 
+	palmeiras   1 - 1 bahia      
+	americamg   1 - 1 saopaulo   
+
+Rodada 18
+[Sab 20/08]
+	corinthians 0 - 2 figueirense
+	botafogo    3 - 1 atleticomg 
+	cruzeiro    1 - 0 ceara      
+[Dom 21/08]
+	avai        0 - 0 coritiba   
+	atleticogo  1 - 0 gremio     
+	interrs     2 - 2 flamengo   
+	saopaulo    1 - 1 palmeiras  
+	vascodagama 1 - 1 fluminense 
+	bahia       1 - 2 santossp   
+	atleticopr  2 - 2 americamg  
+
+Rodada 19
+[Sab 27/08]
+	fluminense  1 - 2 botafogo   
+	coritiba    1 - 1 atleticopr 
+	americamg   1 - 2 atleticogo 
+[Dom 28/08]
+	ceara       3 - 0 bahia      
+	palmeiras   2 - 1 corinthians
+	santossp    1 - 1 saopaulo   
+	flamengo    0 - 0 vascodagama
+	gremio      2 - 1 interrs    
+	atleticomg  1 - 2 cruzeiro   
+	figueirense 2 - 3 avai       
+
+Rodada 20
+[Qua 31/08]
+	corinthians 3 - 2 gremio     
+	vascodagama 3 - 1 ceara      
+	cruzeiro    2 - 4 figueirense
+	atleticopr  0 - 1 atleticomg 
+	atleticogo  3 - 1 coritiba   
+	avai        3 - 2 flamengo   
+	botafogo    3 - 1 palmeiras  
+	interrs     3 - 3 santossp   
+	saopaulo    1 - 2 fluminense 
+[Qui 01/09]
+	bahia       0 - 0 americamg  
+
+Rodada 21
+[Sab 03/09]
+	fluminense  3 - 2 atleticogo 
+	atleticomg  2 - 0 avai       
+	figueirense 1 - 2 saopaulo   
+[Dom 04/09]
+	coritiba    1 - 0 corinthians
+	americamg   4 - 1 vascodagama
+	gremio      4 - 0 atleticopr 
+	palmeiras   1 - 1 cruzeiro   
+	flamengo    1 - 3 bahia      
+	ceara       1 - 1 interrs    
+[Qua 19/10]
+	santossp    2 - 0 botafogo   
+
+Rodada 22
+[Qua 07/09]
+	saopaulo    2 - 1 atleticomg 
+	botafogo    4 - 0 ceara      
+	interrs     4 - 2 americamg  
+	avai        1 - 2 santossp   
+	atleticopr  2 - 2 palmeiras  
+	atleticogo  1 - 1 figueirense
+	cruzeiro    1 - 2 fluminense 
+[Qui 08/09]
+	vascodagama 2 - 0 coritiba   
+	bahia       1 - 2 gremio     
+	corinthians 2 - 1 flamengo   
+
+Rodada 23
+[Sab 10/09]
+	santossp    1 - 0 cruzeiro   
+	americamg   2 - 2 avai       
+[Dom 11/09]
+	ceara       1 - 1 atleticogo 
+	coritiba    5 - 0 botafogo   
+	figueirense 1 - 1 vascodagama
+	fluminense  1 - 0 corinthians
+	palmeiras   0 - 3 interrs    
+	gremio      1 - 0 saopaulo   
+	atleticomg  2 - 0 bahia      
+	flamengo    1 - 2 atleticopr 
+
+Rodada 24
+[Sab 17/09]
+	atleticogo  1 - 0 atleticomg 
+	vascodagama 4 - 0 gremio     
+	saopaulo    4 - 0 ceara      
+[Dom 18/09]
+	corinthians 1 - 3 santossp   
+	bahia       3 - 0 fluminense 
+	botafogo    1 - 1 flamengo   
+	atleticopr  0 - 0 figueirense
+	avai        1 - 1 palmeiras  
+	cruzeiro    0 - 0 americamg  
+	interrs     1 - 1 coritiba   
+
+Rodada 25
+[Qua 21/09]
+	fluminense  3 - 1 avai       
+	coritiba    2 - 1 cruzeiro   
+	americamg   1 - 2 santossp   
+	bahia       1 - 0 atleticopr 
+	figueirense 1 - 1 interrs    
+	atleticomg  1 - 1 flamengo   
+	saopaulo    0 - 0 corinthians
+[Qui 22/09]
+	vascodagama 1 - 1 atleticogo 
+	gremio      0 - 1 botafogo   
+	palmeiras   1 - 0 ceara      
+
+Rodada 26
+[Sab 24/09]
+	atleticopr  1 - 1 fluminense 
+	flamengo    2 - 1 americamg  
+	santossp    2 - 3 figueirense
+[Dom 25/09]
+	cruzeiro    0 - 3 vascodagama
+	avai        1 - 2 gremio     
+	botafogo    2 - 2 saopaulo   
+	interrs     2 - 1 atleticomg 
+	corinthians 1 - 0 bahia      
+	atleticogo  1 - 1 palmeiras  
+	ceara       3 - 2 coritiba   
+
+Rodada 27
+[Sab 01/10]
+	palmeiras   1 - 1 americamg  
+	fluminense  3 - 2 santossp   
+	bahia       3 - 2 avai       
+[Dom 02/10]
+	saopaulo    1 - 2 flamengo   
+	vascodagama 2 - 2 corinthians
+	atleticomg  1 - 1 ceara      
+	figueirense 0 - 0 coritiba   
+	atleticopr  2 - 0 interrs    
+	atleticogo  2 - 0 botafogo   
+	gremio      2 - 0 cruzeiro   
+
+Rodada 28
+[Qua 05/10]
+	cruzeiro    3 - 3 saopaulo   
+[Sab 08/10]
+	coritiba    2 - 0 gremio     
+	americamg   0 - 0 atleticomg 
+	botafogo    2 - 2 bahia      
+[Dom 09/10]
+	interrs     3 - 0 vascodagama
+	santossp    1 - 0 palmeiras  
+	flamengo    3 - 2 fluminense 
+	corinthians 3 - 0 atleticogo 
+	ceara       1 - 1 figueirense
+	avai        3 - 0 atleticopr 
+
+Rodada 29
+[Qua 12/10]
+	saopaulo    0 - 0 interrs    
+	gremio      1 - 3 figueirense
+	avai        2 - 2 atleticogo 
+	americamg   4 - 1 ceara      
+	bahia       0 - 0 cruzeiro   
+	flamengo    1 - 1 palmeiras  
+	corinthians 0 - 2 botafogo   
+[Qui 13/10]
+	fluminense  3 - 1 coritiba   
+	atleticomg  2 - 1 santossp   
+	atleticopr  2 - 2 vascodagama
+
+Rodada 30
+[Sab 15/10]
+	figueirense 2 - 1 americamg  
+	ceara       0 - 1 flamengo   
+[Dom 16/10]
+	palmeiras   1 - 2 fluminense 
+	santossp    0 - 1 gremio     
+	botafogo    2 - 0 atleticopr 
+	interrs     4 - 2 avai       
+	cruzeiro    0 - 1 corinthians
+	vascodagama 2 - 0 atleticomg 
+	coritiba    0 - 0 bahia      
+	atleticogo  3 - 0 saopaulo   
+
+Rodada 31
+[Sab 22/10]
+	palmeiras   1 - 2 figueirense
+	fluminense  0 - 2 atleticomg 
+	avai        3 - 2 botafogo   
+	americamg   2 - 2 gremio     
+[Dom 23/10]
+	bahia       0 - 2 vascodagama
+	atleticopr  1 - 0 ceara      
+	interrs     1 - 1 corinthians
+	saopaulo    0 - 0 coritiba   
+	flamengo    1 - 1 santossp   
+	cruzeiro    3 - 2 atleticogo 
+
+Rodada 32
+[Sab 29/10]
+	santossp    4 - 1 atleticopr 
+	botafogo    1 - 0 cruzeiro   
+	ceara       1 - 2 fluminense 
+[Dom 30/10]
+	corinthians 2 - 1 avai       
+	figueirense 2 - 1 bahia      
+	gremio      4 - 2 flamengo   
+	vascodagama 0 - 0 saopaulo   
+	atleticomg  2 - 1 palmeiras  
+	coritiba    3 - 1 americamg  
+	atleticogo  0 - 1 interrs    
+
+Rodada 33
+[Sab 05/11]
+	botafogo    0 - 1 figueirense
+	atleticomg  2 - 0 gremio     
+	bahia       4 - 3 saopaulo   
+[Dom 06/11]
+	avai        1 - 2 ceara      
+	americamg   2 - 1 corinthians
+	santossp    2 - 0 vascodagama
+	flamengo    5 - 1 cruzeiro   
+	interrs     1 - 2 fluminense 
+	palmeiras   0 - 2 coritiba   
+	atleticopr  2 - 1 atleticogo 
+
+Rodada 34
+[Sab 12/11]
+	saopaulo    2 - 0 avai       
+	fluminense  1 - 2 americamg  
+	figueirense 2 - 1 atleticomg 
+[Dom 13/11]
+	ceara       2 - 3 santossp   
+	coritiba    2 - 0 flamengo   
+	gremio      2 - 2 palmeiras  
+	corinthians 2 - 1 atleticopr 
+	atleticogo  0 - 1 bahia      
+	cruzeiro    1 - 0 interrs    
+	vascodagama 2 - 0 botafogo   
+
+Rodada 35
+[Qua 16/11]
+	fluminense  5 - 4 gremio     
+	interrs     1 - 0 bahia      
+	atleticopr  1 - 0 saopaulo   
+	americamg   2 - 1 botafogo   
+	ceara       0 - 1 corinthians
+	avai        0 - 0 cruzeiro   
+	palmeiras   1 - 1 vascodagama
+[Qui 17/11]
+	santossp    1 - 1 atleticogo 
+	flamengo    0 - 0 figueirense
+	atleticomg  2 - 1 coritiba   
+
+Rodada 36
+[Sab 19/11]
+	gremio      1 - 3 ceara      
+	saopaulo    3 - 1 americamg  
+	vascodagama 2 - 0 avai       
+[Dom 20/11]
+	botafogo    1 - 2 interrs    
+	atleticogo  0 - 0 flamengo   
+	cruzeiro    1 - 1 atleticopr 
+	corinthians 2 - 1 atleticomg 
+	figueirense 0 - 4 fluminense 
+	coritiba    1 - 0 santossp   
+	bahia       0 - 2 palmeiras  
+
+Rodada 37
+[Dom 27/11]
+	palmeiras   1 - 0 saopaulo   
+	santossp    1 - 1 bahia      
+	flamengo    1 - 0 interrs    
+	fluminense  1 - 2 vascodagama
+	gremio      2 - 2 atleticogo 
+	atleticomg  4 - 0 botafogo   
+	figueirense 0 - 1 corinthians
+	coritiba    1 - 0 avai       
+	americamg   2 - 1 atleticopr 
+	ceara       2 - 2 cruzeiro   
+
+Rodada 38
+[Dom 04/12]
+	corinthians 0 - 0 palmeiras  
+	saopaulo    4 - 1 santossp   
+	interrs     1 - 0 gremio     
+	cruzeiro    6 - 1 atleticomg 
+	atleticogo  5 - 1 americamg  
+	atleticopr  1 - 0 coritiba   
+	bahia       2 - 1 ceara      
+	avai        1 - 1 figueirense
+	botafogo    1 - 1 fluminense 
+	vascodagama 1 - 1 flamengo   
