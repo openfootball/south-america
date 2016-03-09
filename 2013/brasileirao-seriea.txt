@@ -1,544 +1,544 @@
 
 Rodada 1
 [Sab 25/05]
-	vitoria     2 - 2 interrs    
-	vascodagama 1 - 0 portuguesa 
-	corinthians 1 - 1 botafogo   
+	Vitória       2 - 2 Internacional
+	Vasco da Gama 1 - 0 Portugues    
+	Corinthians   1 - 1 Botafogo     
 [Dom 26/05]
-	santossp    0 - 0 flamengo   
-	gremio      2 - 0 nautico    
-	pontepreta  0 - 2 saopaulo   
-	criciuma    3 - 1 bahia      
-	cruzeiro    5 - 0 goias      
-	coritiba    2 - 1 atleticomg 
-	fluminense  2 - 1 atleticopr 
+	Santos        0 - 0 Flamengo     
+	Grêmio        2 - 0 Náutico      
+	Ponte Preta   0 - 2 São Paulo    
+	Criciúma      3 - 1 Bahia        
+	Cruzeiro      5 - 0 Goiás        
+	Coritiba      2 - 1 Atlético MG  
+	Fluminense    2 - 1 Atlético PR  
 
 Rodada 2
 [Qua 29/05]
-	atleticopr  2 - 2 cruzeiro   
-	botafogo    2 - 1 santossp   
-	saopaulo    5 - 1 vascodagama
-	bahia       0 - 0 coritiba   
-	flamengo    0 - 2 pontepreta 
-	nautico     0 - 3 vitoria    
-	goias       1 - 1 corinthians
+	Atlético PR   2 - 2 Cruzeiro     
+	Botafogo      2 - 1 Santos       
+	São Paulo     5 - 1 Vasco da Gama
+	Bahia         0 - 0 Coritiba     
+	Flamengo      0 - 2 Ponte Preta  
+	Náutico       0 - 3 Vitória      
+	Goiás         1 - 1 Corinthians  
 [Qui 30/05]
-	interrs     2 - 0 criciuma   
+	Internacional 2 - 0 Criciúma     
 [Dom 09/06]
-	atleticomg  2 - 0 gremio     
+	Atlético MG   2 - 0 Grêmio       
 [Qua 12/06]
-	portuguesa  2 - 1 fluminense 
+	Portugues     2 - 1 Fluminense   
 
 Rodada 3
 [Sab 01/06]
-	botafogo    2 - 1 cruzeiro   
-	atleticopr  2 - 2 flamengo   
-	santossp    1 - 1 gremio     
-	goias       1 - 1 coritiba   
-	vitoria     2 - 0 vascodagama
-	corinthians 1 - 0 pontepreta 
+	Botafogo      2 - 1 Cruzeiro     
+	Atlético PR   2 - 2 Flamengo     
+	Santos        1 - 1 Grêmio       
+	Goiás         1 - 1 Coritiba     
+	Vitória       2 - 0 Vasco da Gama
+	Corinthians   1 - 0 Ponte Preta  
 [Dom 02/06]
-	interrs     1 - 2 bahia      
-	fluminense  3 - 0 criciuma   
-	nautico     2 - 2 portuguesa 
-	atleticomg  0 - 0 saopaulo   
+	Internacional 1 - 2 Bahia        
+	Fluminense    3 - 0 Criciúma     
+	Náutico       2 - 2 Portugues    
+	Atlético MG   0 - 0 São Paulo    
 
 Rodada 4
 [Qua 05/06]
-	saopaulo    0 - 1 goias      
-	criciuma    3 - 1 santossp   
-	portuguesa  1 - 1 interrs    
-	gremio      1 - 0 vitoria    
-	pontepreta  3 - 4 atleticopr 
-	vascodagama 2 - 0 atleticomg 
-	flamengo    0 - 1 nautico    
-	bahia       2 - 1 botafogo   
-	cruzeiro    1 - 0 corinthians
+	São Paulo     0 - 1 Goiás        
+	Criciúma      3 - 1 Santos       
+	Portugues     1 - 1 Internacional
+	Grêmio        1 - 0 Vitória      
+	Ponte Preta   3 - 4 Atlético PR  
+	Vasco da Gama 2 - 0 Atlético MG  
+	Flamengo      0 - 1 Náutico      
+	Bahia         2 - 1 Botafogo     
+	Cruzeiro      1 - 0 Corinthians  
 [Qui 06/06]
-	coritiba    2 - 1 fluminense 
+	Coritiba      2 - 1 Fluminense   
 
 Rodada 5
 [Sab 08/06]
-	criciuma    0 - 3 flamengo   
-	cruzeiro    2 - 2 interrs    
-	vascodagama 1 - 1 bahia      
-	corinthians 0 - 0 portuguesa 
-	pontepreta  0 - 2 botafogo   
+	Criciúma      0 - 3 Flamengo     
+	Cruzeiro      2 - 2 Internacional
+	Vasco da Gama 1 - 1 Bahia        
+	Corinthians   0 - 0 Portugues    
+	Ponte Preta   0 - 2 Botafogo     
 [Dom 09/06]
-	vitoria     3 - 2 atleticopr 
-	fluminense  2 - 1 goias      
-	coritiba    1 - 0 nautico    
+	Vitória       3 - 2 Atlético PR  
+	Fluminense    2 - 1 Goiás        
+	Coritiba      1 - 0 Náutico      
 [Qua 12/06]
-	santossp    1 - 0 atleticomg 
-	gremio      1 - 1 saopaulo   
+	Santos        1 - 0 Atlético MG  
+	Grêmio        1 - 1 São Paulo    
 
 Rodada 6
 [Sab 06/07]
-	flamengo    2 - 2 coritiba   
-	nautico     1 - 3 pontepreta 
-	atleticopr  1 - 1 gremio     
-	portuguesa  1 - 1 cruzeiro   
+	Flamengo      2 - 2 Coritiba     
+	Náutico       1 - 3 Ponte Preta  
+	Atlético PR   1 - 1 Grêmio       
+	Portugues     1 - 1 Cruzeiro     
 [Dom 07/07]
-	saopaulo    0 - 2 santossp   
-	bahia       0 - 2 corinthians
-	interrs     5 - 3 vascodagama
-	goias       1 - 0 vitoria    
-	atleticomg  3 - 2 criciuma   
-	botafogo    1 - 0 fluminense 
+	São Paulo     0 - 2 Santos       
+	Bahia         0 - 2 Corinthians  
+	Internacional 5 - 3 Vasco da Gama
+	Goiás         1 - 0 Vitória      
+	Atlético MG   3 - 2 Criciúma     
+	Botafogo      1 - 0 Fluminense   
 
 Rodada 7
 [Sab 13/07]
-	fluminense  2 - 3 interrs    
-	santossp    4 - 1 portuguesa 
-	pontepreta  0 - 0 bahia      
+	Fluminense    2 - 3 Internacional
+	Santos        4 - 1 Portugues    
+	Ponte Preta   0 - 0 Bahia        
 [Dom 14/07]
-	coritiba    1 - 0 atleticopr 
-	corinthians 0 - 1 atleticomg 
-	vitoria     3 - 2 saopaulo   
-	gremio      2 - 1 botafogo   
-	vascodagama 0 - 1 flamengo   
-	criciuma    0 - 0 goias      
-	cruzeiro    3 - 0 nautico    
+	Coritiba      1 - 0 Atlético PR  
+	Corinthians   0 - 1 Atlético MG  
+	Vitória       3 - 2 São Paulo    
+	Grêmio        2 - 1 Botafogo     
+	Vasco da Gama 0 - 1 Flamengo     
+	Criciúma      0 - 0 Goiás        
+	Cruzeiro      3 - 0 Náutico      
 
 Rodada 8
 [Sab 20/07]
-	saopaulo    0 - 3 cruzeiro   
-	botafogo    2 - 0 nautico    
-	criciuma    2 - 1 gremio     
+	São Paulo     0 - 3 Cruzeiro     
+	Botafogo      2 - 0 Náutico      
+	Criciúma      2 - 1 Grêmio       
 [Dom 21/07]
-	vitoria     0 - 0 bahia      
-	interrs     1 - 0 flamengo   
-	atleticopr  1 - 1 corinthians
-	santossp    2 - 2 coritiba   
-	goias       2 - 1 portuguesa 
-	fluminense  1 - 3 vascodagama
+	Vitória       0 - 0 Bahia        
+	Internacional 1 - 0 Flamengo     
+	Atlético PR   1 - 1 Corinthians  
+	Santos        2 - 2 Coritiba     
+	Goiás         2 - 1 Portugues    
+	Fluminense    1 - 3 Vasco da Gama
 [Qui 03/10]
-	atleticomg  4 - 0 pontepreta 
+	Atlético MG   4 - 0 Ponte Preta  
 
 Rodada 9
 [Sab 27/07]
-	vascodagama 3 - 2 criciuma   
-	portuguesa  2 - 3 atleticopr 
-	pontepreta  1 - 0 santossp   
+	Vasco da Gama 3 - 2 Criciúma     
+	Portugues     2 - 3 Atlético PR  
+	Ponte Preta   1 - 0 Santos       
 [Dom 28/07]
-	nautico     3 - 0 interrs    
-	cruzeiro    4 - 1 atleticomg 
-	corinthians 0 - 0 saopaulo   
-	gremio      2 - 0 fluminense 
-	bahia       2 - 1 goias      
-	flamengo    1 - 1 botafogo   
-	coritiba    1 - 1 vitoria    
+	Náutico       3 - 0 Internacional
+	Cruzeiro      4 - 1 Atlético MG  
+	Corinthians   0 - 0 São Paulo    
+	Grêmio        2 - 0 Fluminense   
+	Bahia         2 - 1 Goiás        
+	Flamengo      1 - 1 Botafogo     
+	Coritiba      1 - 1 Vitória      
 
 Rodada 10
 [Qua 31/07]
-	fluminense  1 - 0 cruzeiro   
-	atleticomg  1 - 2 atleticopr 
-	portuguesa  1 - 1 criciuma   
-	coritiba    5 - 3 pontepreta 
-	corinthians 2 - 0 gremio     
-	bahia       3 - 0 flamengo   
+	Fluminense    1 - 0 Cruzeiro     
+	Atlético MG   1 - 2 Atlético PR  
+	Portugues     1 - 1 Criciúma     
+	Coritiba      5 - 3 Ponte Preta  
+	Corinthians   2 - 0 Grêmio       
+	Bahia         3 - 0 Flamengo     
 [Qui 01/08]
-	botafogo    2 - 0 vitoria    
-	goias       1 - 1 vascodagama
+	Botafogo      2 - 0 Vitória      
+	Goiás         1 - 1 Vasco da Gama
 [Ter 03/09]
-	nautico     0 - 1 saopaulo   
+	Náutico       0 - 1 São Paulo    
 [Ter 10/09]
-	interrs     1 - 2 santossp   
+	Internacional 1 - 2 Santos       
 
 Rodada 11
 [Qua 10/07]
-	saopaulo    1 - 2 bahia      
+	São Paulo     1 - 2 Bahia        
 [Sab 03/08]
-	cruzeiro    1 - 0 coritiba   
+	Cruzeiro      1 - 0 Coritiba     
 [Dom 04/08]
-	atleticopr  2 - 0 goias      
-	gremio      1 - 1 interrs    
-	pontepreta  1 - 1 fluminense 
-	criciuma    0 - 2 corinthians
-	flamengo    3 - 0 atleticomg 
-	vascodagama 2 - 3 botafogo   
-	vitoria     2 - 1 portuguesa 
+	Atlético PR   2 - 0 Goiás        
+	Grêmio        1 - 1 Internacional
+	Ponte Preta   1 - 1 Fluminense   
+	Criciúma      0 - 2 Corinthians  
+	Flamengo      3 - 0 Atlético MG  
+	Vasco da Gama 2 - 3 Botafogo     
+	Vitória       2 - 1 Portugues    
 [Qua 25/09]
-	santossp    1 - 1 nautico    
+	Santos        1 - 1 Náutico      
 
 Rodada 12
 [Qua 24/07]
-	saopaulo    0 - 1 interrs    
+	São Paulo     0 - 1 Internacional
 [Qua 07/08]
-	vitoria     1 - 1 fluminense 
-	criciuma    1 - 2 cruzeiro   
-	atleticopr  1 - 0 bahia      
-	flamengo    1 - 1 portuguesa 
-	santossp    1 - 1 corinthians
-	atleticomg  2 - 2 botafogo   
-	goias       2 - 1 nautico    
+	Vitória       1 - 1 Fluminense   
+	Criciúma      1 - 2 Cruzeiro     
+	Atlético PR   1 - 0 Bahia        
+	Flamengo      1 - 1 Portugues    
+	Santos        1 - 1 Corinthians  
+	Atlético MG   2 - 2 Botafogo     
+	Goiás         2 - 1 Náutico      
 [Qui 08/08]
-	vascodagama 1 - 1 pontepreta 
-	gremio      0 - 1 coritiba   
+	Vasco da Gama 1 - 1 Ponte Preta  
+	Grêmio        0 - 1 Coritiba     
 
 Rodada 13
 [Sab 10/08]
-	botafogo    1 - 1 goias      
-	nautico     0 - 0 atleticomg 
+	Botafogo      1 - 1 Goiás        
+	Náutico       0 - 0 Atlético MG  
 [Dom 11/08]
-	cruzeiro    0 - 0 santossp   
-	coritiba    0 - 1 vascodagama
-	fluminense  2 - 3 flamengo   
-	corinthians 2 - 0 vitoria    
-	bahia       0 - 3 gremio     
-	interrs     2 - 2 atleticopr 
-	pontepreta  3 - 1 criciuma   
-	portuguesa  2 - 1 saopaulo   
+	Cruzeiro      0 - 0 Santos       
+	Coritiba      0 - 1 Vasco da Gama
+	Fluminense    2 - 3 Flamengo     
+	Corinthians   2 - 0 Vitória      
+	Bahia         0 - 3 Grêmio       
+	Internacional 2 - 2 Atlético PR  
+	Ponte Preta   3 - 1 Criciúma     
+	Portugues     2 - 1 São Paulo    
 
 Rodada 14
 [Qua 14/08]
-	criciuma    3 - 0 nautico    
-	atleticomg  2 - 0 bahia      
-	santossp    1 - 1 vascodagama
-	coritiba    1 - 1 portuguesa 
-	vitoria     3 - 1 pontepreta 
-	gremio      3 - 1 cruzeiro   
-	goias       1 - 1 flamengo   
-	fluminense  0 - 0 corinthians
+	Criciúma      3 - 0 Náutico      
+	Atlético MG   2 - 0 Bahia        
+	Santos        1 - 1 Vasco da Gama
+	Coritiba      1 - 1 Portugues    
+	Vitória       3 - 1 Ponte Preta  
+	Grêmio        3 - 1 Cruzeiro     
+	Goiás         1 - 1 Flamengo     
+	Fluminense    0 - 0 Corinthians  
 [Qui 15/08]
-	saopaulo    1 - 1 atleticopr 
-	botafogo    3 - 3 interrs    
+	São Paulo     1 - 1 Atlético PR  
+	Botafogo      3 - 3 Internacional
 
 Rodada 15
 [Sab 17/08]
-	nautico     0 - 1 fluminense 
-	cruzeiro    5 - 1 vitoria    
-	vascodagama 2 - 3 gremio     
+	Náutico       0 - 1 Fluminense   
+	Cruzeiro      5 - 1 Vitória      
+	Vasco da Gama 2 - 3 Grêmio       
 [Dom 18/08]
-	flamengo    0 - 0 saopaulo   
-	corinthians 1 - 0 coritiba   
-	pontepreta  0 - 1 goias      
-	portuguesa  1 - 3 botafogo   
-	atleticopr  2 - 1 criciuma   
-	bahia       0 - 0 santossp   
-	interrs     0 - 0 atleticomg 
+	Flamengo      0 - 0 São Paulo    
+	Corinthians   1 - 0 Coritiba     
+	Ponte Preta   0 - 1 Goiás        
+	Portugues     1 - 3 Botafogo     
+	Atlético PR   2 - 1 Criciúma     
+	Bahia         0 - 0 Santos       
+	Internacional 0 - 0 Atlético MG  
 
 Rodada 16
 [Sab 24/08]
-	flamengo    0 - 1 gremio     
-	pontepreta  0 - 2 cruzeiro   
-	santossp    2 - 0 vitoria    
-	criciuma    2 - 1 coritiba   
+	Flamengo      0 - 1 Grêmio       
+	Ponte Preta   0 - 2 Cruzeiro     
+	Santos        2 - 0 Vitória      
+	Criciúma      2 - 1 Coritiba     
 [Dom 25/08]
-	atleticomg  2 - 1 portuguesa 
-	saopaulo    2 - 1 fluminense 
-	bahia       2 - 0 nautico    
-	vascodagama 1 - 1 corinthians
-	interrs     3 - 3 goias      
-	atleticopr  2 - 0 botafogo   
+	Atlético MG   2 - 1 Portugues    
+	São Paulo     2 - 1 Fluminense   
+	Bahia         2 - 0 Náutico      
+	Vasco da Gama 1 - 1 Corinthians  
+	Internacional 3 - 3 Goiás        
+	Atlético PR   2 - 0 Botafogo     
 
 Rodada 17
 [Sab 31/08]
-	gremio      1 - 0 pontepreta 
-	goias       0 - 0 atleticomg 
-	nautico     1 - 4 atleticopr 
-	portuguesa  4 - 2 bahia      
-	fluminense  0 - 2 santossp   
+	Grêmio        1 - 0 Ponte Preta  
+	Goiás         0 - 0 Atlético MG  
+	Náutico       1 - 4 Atlético PR  
+	Portugues     4 - 2 Bahia        
+	Fluminense    0 - 2 Santos       
 [Dom 01/09]
-	corinthians 4 - 0 flamengo   
-	vitoria     0 - 1 criciuma   
-	botafogo    0 - 0 saopaulo   
-	coritiba    0 - 0 interrs    
-	cruzeiro    5 - 3 vascodagama
+	Corinthians   4 - 0 Flamengo     
+	Vitória       0 - 1 Criciúma     
+	Botafogo      0 - 0 São Paulo    
+	Coritiba      0 - 0 Internacional
+	Cruzeiro      5 - 3 Vasco da Gama
 
 Rodada 18
 [Ter 03/09]
-	goias       2 - 0 gremio     
+	Goiás         2 - 0 Grêmio       
 [Qua 04/09]
-	flamengo    2 - 1 vitoria    
-	atleticopr  2 - 1 santossp   
-	portuguesa  2 - 1 pontepreta 
-	bahia       1 - 3 cruzeiro   
-	interrs     1 - 0 corinthians
-	atleticomg  2 - 2 fluminense 
+	Flamengo      2 - 1 Vitória      
+	Atlético PR   2 - 1 Santos       
+	Portugues     2 - 1 Ponte Preta  
+	Bahia         1 - 3 Cruzeiro     
+	Internacional 1 - 0 Corinthians  
+	Atlético MG   2 - 2 Fluminense   
 [Qui 05/09]
-	botafogo    3 - 1 coritiba   
-	nautico     0 - 3 vascodagama
-	saopaulo    1 - 2 criciuma   
+	Botafogo      3 - 1 Coritiba     
+	Náutico       0 - 3 Vasco da Gama
+	São Paulo     1 - 2 Criciúma     
 
 Rodada 19
 [Sab 07/09]
-	fluminense  1 - 0 bahia      
-	vitoria     1 - 1 atleticomg 
-	pontepreta  1 - 3 interrs    
-	santossp    1 - 0 goias      
-	gremio      3 - 2 portuguesa 
+	Fluminense    1 - 0 Bahia        
+	Vitória       1 - 1 Atlético MG  
+	Ponte Preta   1 - 3 Internacional
+	Santos        1 - 0 Goiás        
+	Grêmio        3 - 2 Portugues    
 [Dom 08/09]
-	corinthians 0 - 0 nautico    
-	cruzeiro    1 - 0 flamengo   
-	coritiba    2 - 0 saopaulo   
-	criciuma    1 - 2 botafogo   
-	vascodagama 0 - 0 atleticopr 
+	Corinthians   0 - 0 Náutico      
+	Cruzeiro      1 - 0 Flamengo     
+	Coritiba      2 - 0 São Paulo    
+	Criciúma      1 - 2 Botafogo     
+	Vasco da Gama 0 - 0 Atlético PR  
 
 Rodada 20
 [Qua 11/09]
-	atleticopr  1 - 1 fluminense 
-	goias       1 - 2 cruzeiro   
-	bahia       2 - 2 criciuma   
-	botafogo    1 - 0 corinthians
-	nautico     0 - 2 gremio     
-	portuguesa  2 - 0 vascodagama
+	Atlético PR   1 - 1 Fluminense   
+	Goiás         1 - 2 Cruzeiro     
+	Bahia         2 - 2 Criciúma     
+	Botafogo      1 - 0 Corinthians  
+	Náutico       0 - 2 Grêmio       
+	Portugues     2 - 0 Vasco da Gama
 [Qui 12/09]
-	interrs     2 - 2 vitoria    
-	flamengo    2 - 1 santossp   
-	saopaulo    1 - 0 pontepreta 
-	atleticomg  3 - 0 coritiba   
+	Internacional 2 - 2 Vitória      
+	Flamengo      2 - 1 Santos       
+	São Paulo     1 - 0 Ponte Preta  
+	Atlético MG   3 - 0 Coritiba     
 
 Rodada 21
 [Sab 14/09]
-	cruzeiro    1 - 0 atleticopr 
-	fluminense  2 - 1 portuguesa 
+	Cruzeiro      1 - 0 Atlético PR  
+	Fluminense    2 - 1 Portugues    
 [Dom 15/09]
-	corinthians 1 - 2 goias      
-	coritiba    2 - 2 bahia      
-	pontepreta  1 - 1 flamengo   
-	criciuma    0 - 1 interrs    
-	vascodagama 0 - 2 saopaulo   
-	santossp    1 - 2 botafogo   
-	vitoria     2 - 1 nautico    
-	gremio      0 - 1 atleticomg 
+	Corinthians   1 - 2 Goiás        
+	Coritiba      2 - 2 Bahia        
+	Ponte Preta   1 - 1 Flamengo     
+	Criciúma      0 - 1 Internacional
+	Vasco da Gama 0 - 2 São Paulo    
+	Santos        1 - 2 Botafogo     
+	Vitória       2 - 1 Náutico      
+	Grêmio        0 - 1 Atlético MG  
 
 Rodada 22
 [Qua 18/09]
-	vascodagama 1 - 2 vitoria    
-	gremio      1 - 1 santossp   
-	criciuma    1 - 2 fluminense 
-	coritiba    2 - 2 goias      
-	cruzeiro    3 - 0 botafogo   
-	pontepreta  2 - 0 corinthians
-	saopaulo    1 - 0 atleticomg 
+	Vasco da Gama 1 - 2 Vitória      
+	Grêmio        1 - 1 Santos       
+	Criciúma      1 - 2 Fluminense   
+	Coritiba      2 - 2 Goiás        
+	Cruzeiro      3 - 0 Botafogo     
+	Ponte Preta   2 - 0 Corinthians  
+	São Paulo     1 - 0 Atlético MG  
 [Qui 19/09]
-	flamengo    2 - 4 atleticopr 
-	bahia       2 - 0 interrs    
-	portuguesa  3 - 0 nautico    
+	Flamengo      2 - 4 Atlético PR  
+	Bahia         2 - 0 Internacional
+	Portugues     3 - 0 Náutico      
 
 Rodada 23
 [Sab 21/09]
-	fluminense  1 - 1 coritiba   
-	vitoria     0 - 0 gremio     
+	Fluminense    1 - 1 Coritiba     
+	Vitória       0 - 0 Grêmio       
 [Dom 22/09]
-	interrs     0 - 1 portuguesa 
-	goias       1 - 0 saopaulo   
-	nautico     0 - 0 flamengo   
-	corinthians 0 - 0 cruzeiro   
-	botafogo    1 - 2 bahia      
-	atleticomg  2 - 1 vascodagama
-	atleticopr  1 - 0 pontepreta 
-	santossp    2 - 1 criciuma   
+	Internacional 0 - 1 Portugues    
+	Goiás         1 - 0 São Paulo    
+	Náutico       0 - 0 Flamengo     
+	Corinthians   0 - 0 Cruzeiro     
+	Botafogo      1 - 2 Bahia        
+	Atlético MG   2 - 1 Vasco da Gama
+	Atlético PR   1 - 0 Ponte Preta  
+	Santos        2 - 1 Criciúma     
 
 Rodada 24
 [Sab 28/09]
-	goias       1 - 2 fluminense 
-	nautico     3 - 0 coritiba   
-	botafogo    0 - 1 pontepreta 
+	Goiás         1 - 2 Fluminense   
+	Náutico       3 - 0 Coritiba     
+	Botafogo      0 - 1 Ponte Preta  
 [Dom 29/09]
-	flamengo    4 - 1 criciuma   
-	saopaulo    0 - 1 gremio     
-	bahia       0 - 0 vascodagama
-	portuguesa  4 - 0 corinthians
-	interrs     1 - 2 cruzeiro   
-	atleticomg  3 - 1 santossp   
-	atleticopr  3 - 5 vitoria    
+	Flamengo      4 - 1 Criciúma     
+	São Paulo     0 - 1 Grêmio       
+	Bahia         0 - 0 Vasco da Gama
+	Portugues     4 - 0 Corinthians  
+	Internacional 1 - 2 Cruzeiro     
+	Atlético MG   3 - 1 Santos       
+	Atlético PR   3 - 5 Vitória      
 
 Rodada 25
 [Qua 25/09]
-	criciuma    1 - 1 atleticomg 
+	Criciúma      1 - 1 Atlético MG  
 [Ter 01/10]
-	pontepreta  1 - 2 nautico    
+	Ponte Preta   1 - 2 Náutico      
 [Qua 02/10]
-	gremio      1 - 0 atleticopr 
-	cruzeiro    4 - 0 portuguesa 
-	fluminense  1 - 1 botafogo   
-	vitoria     2 - 1 goias      
-	corinthians 2 - 0 bahia      
-	coritiba    0 - 2 flamengo   
-	santossp    3 - 0 saopaulo   
+	Grêmio        1 - 0 Atlético PR  
+	Cruzeiro      4 - 0 Portugues    
+	Fluminense    1 - 1 Botafogo     
+	Vitória       2 - 1 Goiás        
+	Corinthians   2 - 0 Bahia        
+	Coritiba      0 - 2 Flamengo     
+	Santos        3 - 0 São Paulo    
 [Qui 03/10]
-	vascodagama 3 - 1 interrs    
+	Vasco da Gama 3 - 1 Internacional
 
 Rodada 26
 [Sab 05/10]
-	botafogo    0 - 1 gremio     
-	saopaulo    3 - 2 vitoria    
+	Botafogo      0 - 1 Grêmio       
+	São Paulo     3 - 2 Vitória      
 [Dom 06/10]
-	flamengo    1 - 1 vascodagama
-	nautico     1 - 4 cruzeiro   
-	atleticomg  0 - 0 corinthians
-	atleticopr  2 - 1 coritiba   
-	interrs     1 - 0 fluminense 
-	goias       1 - 1 criciuma   
-	portuguesa  3 - 0 santossp   
-	bahia       1 - 1 pontepreta 
+	Flamengo      1 - 1 Vasco da Gama
+	Náutico       1 - 4 Cruzeiro     
+	Atlético MG   0 - 0 Corinthians  
+	Atlético PR   2 - 1 Coritiba     
+	Internacional 1 - 0 Fluminense   
+	Goiás         1 - 1 Criciúma     
+	Portugues     3 - 0 Santos       
+	Bahia         1 - 1 Ponte Preta  
 
 Rodada 27
 [Qua 09/10]
-	gremio      1 - 2 criciuma   
-	coritiba    1 - 0 santossp   
-	pontepreta  2 - 0 atleticomg 
-	bahia       2 - 0 vitoria    
-	corinthians 0 - 0 atleticopr 
-	vascodagama 1 - 0 fluminense 
-	nautico     1 - 3 botafogo   
-	cruzeiro    0 - 2 saopaulo   
+	Grêmio        1 - 2 Criciúma     
+	Coritiba      1 - 0 Santos       
+	Ponte Preta   2 - 0 Atlético MG  
+	Bahia         2 - 0 Vitória      
+	Corinthians   0 - 0 Atlético PR  
+	Vasco da Gama 1 - 0 Fluminense   
+	Náutico       1 - 3 Botafogo     
+	Cruzeiro      0 - 2 São Paulo    
 [Qui 10/10]
-	portuguesa  1 - 2 goias      
-	flamengo    2 - 1 interrs    
+	Portugues     1 - 2 Goiás        
+	Flamengo      2 - 1 Internacional
 
 Rodada 28
 [Sab 12/10]
-	fluminense  1 - 1 gremio     
-	vitoria     2 - 1 coritiba   
-	santossp    2 - 1 pontepreta 
+	Fluminense    1 - 1 Grêmio       
+	Vitória       2 - 1 Coritiba     
+	Santos        2 - 1 Ponte Preta  
 [Dom 13/10]
-	criciuma    3 - 2 vascodagama
-	atleticomg  1 - 0 cruzeiro   
-	interrs     4 - 1 nautico    
-	saopaulo    0 - 0 corinthians
-	goias       3 - 1 bahia      
-	atleticopr  1 - 0 portuguesa 
-	botafogo    2 - 1 flamengo   
+	Criciúma      3 - 2 Vasco da Gama
+	Atlético MG   1 - 0 Cruzeiro     
+	Internacional 4 - 1 Náutico      
+	São Paulo     0 - 0 Corinthians  
+	Goiás         3 - 1 Bahia        
+	Atlético PR   1 - 0 Portugues    
+	Botafogo      2 - 1 Flamengo     
 
 Rodada 29
 [Qua 16/10]
-	cruzeiro    1 - 0 fluminense 
-	santossp    0 - 0 interrs    
-	pontepreta  1 - 0 coritiba   
-	criciuma    1 - 3 portuguesa 
-	saopaulo    3 - 0 nautico    
-	flamengo    2 - 1 bahia      
-	atleticopr  1 - 0 atleticomg 
-	gremio      1 - 0 corinthians
+	Cruzeiro      1 - 0 Fluminense   
+	Santos        0 - 0 Internacional
+	Ponte Preta   1 - 0 Coritiba     
+	Criciúma      1 - 3 Portugues    
+	São Paulo     3 - 0 Náutico      
+	Flamengo      2 - 1 Bahia        
+	Atlético PR   1 - 0 Atlético MG  
+	Grêmio        1 - 0 Corinthians  
 [Qui 17/10]
-	vascodagama 0 - 2 goias      
-	vitoria     1 - 0 botafogo   
+	Vasco da Gama 0 - 2 Goiás        
+	Vitória       1 - 0 Botafogo     
 
 Rodada 30
 [Sab 19/10]
-	fluminense  1 - 1 pontepreta 
-	nautico     1 - 5 santossp   
-	corinthians 1 - 0 criciuma   
+	Fluminense    1 - 1 Ponte Preta  
+	Náutico       1 - 5 Santos       
+	Corinthians   1 - 0 Criciúma     
 [Dom 20/10]
-	bahia       0 - 1 saopaulo   
-	interrs     2 - 2 gremio     
-	goias       3 - 0 atleticopr 
-	atleticomg  1 - 0 flamengo   
-	coritiba    2 - 1 cruzeiro   
-	portuguesa  1 - 1 vitoria    
-	botafogo    2 - 2 vascodagama
+	Bahia         0 - 1 São Paulo    
+	Internacional 2 - 2 Grêmio       
+	Goiás         3 - 0 Atlético PR  
+	Atlético MG   1 - 0 Flamengo     
+	Coritiba      2 - 1 Cruzeiro     
+	Portugues     1 - 1 Vitória      
+	Botafogo      2 - 2 Vasco da Gama
 
 Rodada 31
 [Sab 26/10]
-	botafogo    1 - 0 atleticomg 
-	cruzeiro    5 - 3 criciuma   
+	Botafogo      1 - 0 Atlético MG  
+	Cruzeiro      5 - 3 Criciúma     
 [Dom 27/10]
-	corinthians 1 - 1 santossp   
-	bahia       1 - 1 atleticopr 
-	interrs     2 - 3 saopaulo   
-	pontepreta  2 - 1 vascodagama
-	portuguesa  0 - 0 flamengo   
-	nautico     0 - 2 goias      
-	coritiba    4 - 0 gremio     
-	fluminense  2 - 3 vitoria    
+	Corinthians   1 - 1 Santos       
+	Bahia         1 - 1 Atlético PR  
+	Internacional 2 - 3 São Paulo    
+	Ponte Preta   2 - 1 Vasco da Gama
+	Portugues     0 - 0 Flamengo     
+	Náutico       0 - 2 Goiás        
+	Coritiba      4 - 0 Grêmio       
+	Fluminense    2 - 3 Vitória      
 
 Rodada 32
 [Sab 02/11]
-	saopaulo    2 - 1 portuguesa 
-	vascodagama 2 - 1 coritiba   
-	atleticomg  5 - 0 nautico    
+	São Paulo     2 - 1 Portugues    
+	Vasco da Gama 2 - 1 Coritiba     
+	Atlético MG   5 - 0 Náutico      
 [Dom 03/11]
-	vitoria     1 - 1 corinthians
-	gremio      0 - 0 bahia      
-	goias       1 - 0 botafogo   
-	santossp    0 - 1 cruzeiro   
-	criciuma    1 - 1 pontepreta 
-	atleticopr  1 - 0 interrs    
-	flamengo    1 - 0 fluminense 
+	Vitória       1 - 1 Corinthians  
+	Grêmio        0 - 0 Bahia        
+	Goiás         1 - 0 Botafogo     
+	Santos        0 - 1 Cruzeiro     
+	Criciúma      1 - 1 Ponte Preta  
+	Atlético PR   1 - 0 Internacional
+	Flamengo      1 - 0 Fluminense   
 
 Rodada 33
 [Sab 09/11]
-	bahia       0 - 0 atleticomg 
-	portuguesa  0 - 0 coritiba   
-	flamengo    1 - 1 goias      
+	Bahia         0 - 0 Atlético MG  
+	Portugues     0 - 0 Coritiba     
+	Flamengo      1 - 1 Goiás        
 [Dom 10/11]
-	cruzeiro    3 - 0 gremio     
-	atleticopr  3 - 0 saopaulo   
-	interrs     2 - 1 botafogo   
-	pontepreta  0 - 3 vitoria    
-	nautico     0 - 1 criciuma   
-	corinthians 1 - 0 fluminense 
-	vascodagama 2 - 2 santossp   
+	Cruzeiro      3 - 0 Grêmio       
+	Atlético PR   3 - 0 São Paulo    
+	Internacional 2 - 1 Botafogo     
+	Ponte Preta   0 - 3 Vitória      
+	Náutico       0 - 1 Criciúma     
+	Corinthians   1 - 0 Fluminense   
+	Vasco da Gama 2 - 2 Santos       
 
 Rodada 34
 [Qua 13/11]
-	gremio      1 - 0 vascodagama
-	goias       2 - 0 pontepreta 
-	criciuma    2 - 1 atleticopr 
-	botafogo    0 - 0 portuguesa 
-	saopaulo    2 - 0 flamengo   
-	vitoria     1 - 3 cruzeiro   
-	coritiba    0 - 1 corinthians
+	Grêmio        1 - 0 Vasco da Gama
+	Goiás         2 - 0 Ponte Preta  
+	Criciúma      2 - 1 Atlético PR  
+	Botafogo      0 - 0 Portugues    
+	São Paulo     2 - 0 Flamengo     
+	Vitória       1 - 3 Cruzeiro     
+	Coritiba      0 - 1 Corinthians  
 [Qui 14/11]
-	santossp    3 - 0 bahia      
-	fluminense  2 - 0 nautico    
-	atleticomg  2 - 1 interrs    
+	Santos        3 - 0 Bahia        
+	Fluminense    2 - 0 Náutico      
+	Atlético MG   2 - 1 Internacional
 
 Rodada 35
 [Sab 16/11]
-	botafogo    4 - 0 atleticopr 
-	coritiba    1 - 2 criciuma   
+	Botafogo      4 - 0 Atlético PR  
+	Coritiba      1 - 2 Criciúma     
 [Dom 17/11]
-	cruzeiro    2 - 2 pontepreta 
-	fluminense  2 - 1 saopaulo   
-	corinthians 0 - 0 vascodagama
-	vitoria     2 - 0 santossp   
-	gremio      2 - 1 flamengo   
-	goias       3 - 1 interrs    
-	nautico     0 - 1 bahia      
-	portuguesa  2 - 0 atleticomg 
+	Cruzeiro      2 - 2 Ponte Preta  
+	Fluminense    2 - 1 São Paulo    
+	Corinthians   0 - 0 Vasco da Gama
+	Vitória       2 - 0 Santos       
+	Grêmio        2 - 1 Flamengo     
+	Goiás         3 - 1 Internacional
+	Náutico       0 - 1 Bahia        
+	Portugues     2 - 0 Atlético MG  
 
 Rodada 36
 [Sab 23/11]
-	vascodagama 2 - 1 cruzeiro   
-	criciuma    1 - 1 vitoria    
-	atleticomg  4 - 1 goias      
+	Vasco da Gama 2 - 1 Cruzeiro     
+	Criciúma      1 - 1 Vitória      
+	Atlético MG   4 - 1 Goiás        
 [Dom 24/11]
-	atleticopr  6 - 1 nautico    
-	santossp    1 - 0 fluminense 
-	flamengo    1 - 0 corinthians
-	pontepreta  1 - 1 gremio     
-	saopaulo    1 - 1 botafogo   
-	bahia       1 - 0 portuguesa 
-	interrs     0 - 0 coritiba   
+	Atlético PR   6 - 1 Náutico      
+	Santos        1 - 0 Fluminense   
+	Flamengo      1 - 0 Corinthians  
+	Ponte Preta   1 - 1 Grêmio       
+	São Paulo     1 - 1 Botafogo     
+	Bahia         1 - 0 Portugues    
+	Internacional 0 - 0 Coritiba     
 
 Rodada 37
 [Sab 30/11]
-	fluminense  2 - 2 atleticomg 
-	corinthians 0 - 0 interrs    
+	Fluminense    2 - 2 Atlético MG  
+	Corinthians   0 - 0 Internacional
 [Dom 01/12]
-	vitoria     4 - 2 flamengo   
-	pontepreta  0 - 2 portuguesa 
-	criciuma    1 - 0 saopaulo   
-	cruzeiro    1 - 2 bahia      
-	coritiba    2 - 1 botafogo   
-	vascodagama 2 - 0 nautico    
-	santossp    2 - 1 atleticopr 
-	gremio      1 - 0 goias      
+	Vitória       4 - 2 Flamengo     
+	Ponte Preta   0 - 2 Portugues    
+	Criciúma      1 - 0 São Paulo    
+	Cruzeiro      1 - 2 Bahia        
+	Coritiba      2 - 1 Botafogo     
+	Vasco da Gama 2 - 0 Náutico      
+	Santos        2 - 1 Atlético PR  
+	Grêmio        1 - 0 Goiás        
 
 Rodada 38
 [Sab 07/12]
-	flamengo    1 - 1 cruzeiro   
-	nautico     1 - 0 corinthians
+	Flamengo      1 - 1 Cruzeiro     
+	Náutico       1 - 0 Corinthians  
 [Dom 08/12]
-	atleticomg  2 - 2 vitoria    
-	atleticopr  5 - 1 vascodagama
-	portuguesa  0 - 0 gremio     
-	saopaulo    0 - 1 coritiba   
-	bahia       1 - 2 fluminense 
-	interrs     0 - 0 pontepreta 
-	goias       0 - 3 santossp   
-	botafogo    3 - 0 criciuma   
+	Atlético MG   2 - 2 Vitória      
+	Atlético PR   5 - 1 Vasco da Gama
+	Portugues     0 - 0 Grêmio       
+	São Paulo     0 - 1 Coritiba     
+	Bahia         1 - 2 Fluminense   
+	Internacional 0 - 0 Ponte Preta  
+	Goiás         0 - 3 Santos       
+	Botafogo      3 - 0 Criciúma     

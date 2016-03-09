@@ -1,538 +1,538 @@
 
 Rodada 1
 [Sab 19/04]
-	fluminense  3 - 0 figueirense
-	interrs     1 - 0 vitoria    
-	chapecoense 0 - 0 coritiba   
+	Fluminense    3 - 0 Figueirense  
+	Internacional 1 - 0 Vitória      
+	chapecoense   0 - 0 Coritiba     
 [Dom 20/04]
-	saopaulo    3 - 0 botafogo   
-	atleticopr  1 - 0 gremio     
-	atleticomg  0 - 0 corinthians
-	bahia       1 - 2 cruzeiro   
-	santossp    1 - 1 sportrecife
-	flamengo    0 - 0 goias      
-	criciuma    1 - 2 palmeiras  
+	São Paulo     3 - 0 Botafogo     
+	Atlético PR   1 - 0 Grêmio       
+	Atlético MG   0 - 0 Corinthians  
+	Bahia         1 - 2 Cruzeiro     
+	Santos        1 - 1 Sport Recife 
+	Flamengo      0 - 0 Goiás        
+	Criciúma      1 - 2 Palmeira     
 
 Rodada 2
 [Sab 26/04]
-	coritiba    0 - 0 santossp   
-	palmeiras   0 - 1 fluminense 
+	Coritiba      0 - 0 Santos       
+	Palmeira      0 - 1 Fluminense   
 [Dom 27/04]
-	corinthians 2 - 0 flamengo   
-	botafogo    2 - 2 interrs    
-	cruzeiro    1 - 1 saopaulo   
-	vitoria     2 - 2 atleticopr 
-	gremio      2 - 1 atleticomg 
-	figueirense 0 - 2 bahia      
-	goias       1 - 0 criciuma   
-	sportrecife 2 - 1 chapecoense
+	Corinthians   2 - 0 Flamengo     
+	Botafogo      2 - 2 Internacional
+	Cruzeiro      1 - 1 São Paulo    
+	Vitória       2 - 2 Atlético PR  
+	Grêmio        2 - 1 Atlético MG  
+	Figueirense   0 - 2 Bahia        
+	Goiás         1 - 0 Criciúma     
+	Sport Recife  2 - 1 chapecoense  
 
 Rodada 3
 [Sab 03/05]
-	saopaulo    2 - 2 coritiba   
-	santossp    0 - 0 gremio     
-	atleticopr  2 - 3 cruzeiro   
-	fluminense  1 - 2 vitoria    
+	São Paulo     2 - 2 Coritiba     
+	Santos        0 - 0 Grêmio       
+	Atlético PR   2 - 3 Cruzeiro     
+	Fluminense    1 - 2 Vitória      
 [Dom 04/05]
-	flamengo    4 - 2 palmeiras  
-	bahia       1 - 0 botafogo   
-	interrs     2 - 1 sportrecife
-	criciuma    1 - 0 figueirense
-	chapecoense 0 - 1 corinthians
-	atleticomg  0 - 1 goias      
+	Flamengo      4 - 2 Palmeira     
+	Bahia         1 - 0 Botafogo     
+	Internacional 2 - 1 Sport Recife 
+	Criciúma      1 - 0 Figueirense  
+	chapecoense   0 - 1 Corinthians  
+	Atlético MG   0 - 1 Goiás        
 
 Rodada 4
 [Sab 10/05]
-	palmeiras   2 - 0 goias      
-	interrs     2 - 1 atleticopr 
-	botafogo    6 - 0 criciuma   
+	Palmeira      2 - 0 Goiás        
+	Internacional 2 - 1 Atlético PR  
+	Botafogo      6 - 0 Criciúma     
 [Dom 11/05]
-	fluminense  2 - 0 flamengo   
-	saopaulo    1 - 1 corinthians
-	atleticomg  2 - 1 cruzeiro   
-	chapecoense 1 - 2 gremio     
-	bahia       1 - 1 vitoria    
-	figueirense 0 - 2 santossp   
-	coritiba    0 - 1 sportrecife
+	Fluminense    2 - 0 Flamengo     
+	São Paulo     1 - 1 Corinthians  
+	Atlético MG   2 - 1 Cruzeiro     
+	chapecoense   1 - 2 Grêmio       
+	Bahia         1 - 1 Vitória      
+	Figueirense   0 - 2 Santos       
+	Coritiba      0 - 1 Sport Recife 
 
 Rodada 5
 [Qua 14/05]
-	goias       2 - 0 botafogo   
+	Goiás         2 - 0 Botafogo     
 [Sab 17/05]
-	cruzeiro    3 - 2 coritiba   
+	Cruzeiro      3 - 2 Coritiba     
 [Dom 18/05]
-	gremio      1 - 0 fluminense 
-	flamengo    0 - 2 saopaulo   
-	corinthians 0 - 1 figueirense
-	atleticopr  1 - 1 chapecoense
-	santossp    1 - 2 atleticomg 
-	criciuma    0 - 0 interrs    
-	vitoria     0 - 1 palmeiras  
+	Grêmio        1 - 0 Fluminense   
+	Flamengo      0 - 2 São Paulo    
+	Corinthians   0 - 1 Figueirense  
+	Atlético PR   1 - 1 chapecoense  
+	Santos        1 - 2 Atlético MG  
+	Criciúma      0 - 0 Internacional
+	Vitória       0 - 1 Palmeira     
 [Qua 04/06]
-	sportrecife 1 - 0 bahia      
+	Sport Recife  1 - 0 Bahia        
 
 Rodada 6
 [Qua 21/05]
-	flamengo    1 - 1 bahia      
-	coritiba    1 - 1 interrs    
-	cruzeiro    2 - 0 sportrecife
-	criciuma    1 - 0 chapecoense
-	fluminense  5 - 2 saopaulo   
-	corinthians 1 - 1 atleticopr 
-	gremio      2 - 1 botafogo   
+	Flamengo      1 - 1 Bahia        
+	Coritiba      1 - 1 Internacional
+	Cruzeiro      2 - 0 Sport Recife 
+	Criciúma      1 - 0 chapecoense  
+	Fluminense    5 - 2 São Paulo    
+	Corinthians   1 - 1 Atlético PR  
+	Grêmio        2 - 1 Botafogo     
 [Qui 22/05]
-	palmeiras   1 - 0 figueirense
-	goias       2 - 2 santossp   
-	vitoria     2 - 3 atleticomg 
+	Palmeira      1 - 0 Figueirense  
+	Goiás         2 - 2 Santos       
+	Vitória       2 - 3 Atlético MG  
 
 Rodada 7
 [Sab 24/05]
-	bahia       0 - 1 fluminense 
-	saopaulo    1 - 0 gremio     
+	Bahia         0 - 1 Fluminense   
+	São Paulo     1 - 0 Grêmio       
 [Dom 25/05]
-	santossp    0 - 0 flamengo   
-	atleticopr  2 - 0 coritiba   
-	sportrecife 1 - 4 corinthians
-	figueirense 0 - 1 goias      
-	chapecoense 2 - 0 palmeiras  
-	botafogo    1 - 1 vitoria    
-	interrs     1 - 3 cruzeiro   
-	atleticomg  0 - 0 criciuma   
+	Santos        0 - 0 Flamengo     
+	Atlético PR   2 - 0 Coritiba     
+	Sport Recife  1 - 4 Corinthians  
+	Figueirense   0 - 1 Goiás        
+	chapecoense   2 - 0 Palmeira     
+	Botafogo      1 - 1 Vitória      
+	Internacional 1 - 3 Cruzeiro     
+	Atlético MG   0 - 0 Criciúma     
 
 Rodada 8
 [Qua 28/05]
-	palmeiras   0 - 2 botafogo   
-	sportrecife 0 - 0 gremio     
-	criciuma    1 - 0 coritiba   
-	goias       0 - 0 vitoria    
-	interrs     2 - 0 chapecoense
-	corinthians 1 - 0 cruzeiro   
-	atleticopr  2 - 2 saopaulo   
-	atleticomg  2 - 0 fluminense 
+	Palmeira      0 - 2 Botafogo     
+	Sport Recife  0 - 0 Grêmio       
+	Criciúma      1 - 0 Coritiba     
+	Goiás         0 - 0 Vitória      
+	Internacional 2 - 0 chapecoense  
+	Corinthians   1 - 0 Cruzeiro     
+	Atlético PR   2 - 2 São Paulo    
+	Atlético MG   2 - 0 Fluminense   
 [Qui 29/05]
-	flamengo    1 - 1 figueirense
-	bahia       0 - 2 santossp   
+	Flamengo      1 - 1 Figueirense  
+	Bahia         0 - 2 Santos       
 
 Rodada 9
 [Sab 31/05]
-	saopaulo    2 - 1 atleticomg 
-	coritiba    3 - 0 goias      
-	vitoria     0 - 1 sportrecife
+	São Paulo     2 - 1 Atlético MG  
+	Coritiba      3 - 0 Goiás        
+	Vitória       0 - 1 Sport Recife 
 [Dom 01/06]
-	gremio      0 - 0 palmeiras  
-	cruzeiro    3 - 0 flamengo   
-	chapecoense 2 - 1 bahia      
-	figueirense 1 - 3 atleticopr 
-	santossp    2 - 0 criciuma   
-	fluminense  1 - 1 interrs    
+	Grêmio        0 - 0 Palmeira     
+	Cruzeiro      3 - 0 Flamengo     
+	chapecoense   2 - 1 Bahia        
+	Figueirense   1 - 3 Atlético PR  
+	Santos        2 - 0 Criciúma     
+	Fluminense    1 - 1 Internacional
 [Sab 11/10]
-	botafogo    1 - 0 corinthians
+	Botafogo      1 - 0 Corinthians  
 
 Rodada 10
 [Qua 16/07]
-	sportrecife 1 - 0 botafogo   
-	coritiba    0 - 2 figueirense
-	gremio      0 - 0 goias      
-	criciuma    3 - 2 fluminense 
-	flamengo    1 - 2 atleticopr 
-	bahia       0 - 2 saopaulo   
+	Sport Recife  1 - 0 Botafogo     
+	Coritiba      0 - 2 Figueirense  
+	Grêmio        0 - 0 Goiás        
+	Criciúma      3 - 2 Fluminense   
+	Flamengo      1 - 2 Atlético PR  
+	Bahia         0 - 2 São Paulo    
 [Qui 17/07]
-	corinthians 2 - 1 interrs    
-	santossp    2 - 0 palmeiras  
-	cruzeiro    3 - 1 vitoria    
+	Corinthians   2 - 1 Internacional
+	Santos        2 - 0 Palmeira     
+	Cruzeiro      3 - 1 Vitória      
 [Qua 06/08]
-	chapecoense 1 - 1 atleticomg 
+	chapecoense   1 - 1 Atlético MG  
 
 Rodada 11
 [Sab 19/07]
-	saopaulo    0 - 1 chapecoense
-	atleticomg  1 - 1 bahia      
-	figueirense 0 - 1 gremio     
-	botafogo    1 - 0 coritiba   
+	São Paulo     0 - 1 chapecoense  
+	Atlético MG   1 - 1 Bahia        
+	Figueirense   0 - 1 Grêmio       
+	Botafogo      1 - 0 Coritiba     
 [Dom 20/07]
-	palmeiras   1 - 2 cruzeiro   
-	vitoria     0 - 0 corinthians
-	interrs     4 - 0 flamengo   
-	goias       0 - 0 sportrecife
-	atleticopr  2 - 0 criciuma   
-	fluminense  1 - 0 santossp   
+	Palmeira      1 - 2 Cruzeiro     
+	Vitória       0 - 0 Corinthians  
+	Internacional 4 - 0 Flamengo     
+	Goiás         0 - 0 Sport Recife 
+	Atlético PR   2 - 0 Criciúma     
+	Fluminense    1 - 0 Santos       
 
 Rodada 12
 [Sab 26/07]
-	santossp    3 - 0 chapecoense
-	cruzeiro    5 - 0 figueirense
-	criciuma    1 - 3 vitoria    
-	bahia       0 - 1 interrs    
+	Santos        3 - 0 chapecoense  
+	Cruzeiro      5 - 0 Figueirense  
+	Criciúma      1 - 3 Vitória      
+	Bahia         0 - 1 Internacional
 [Dom 27/07]
-	goias       2 - 1 saopaulo   
-	atleticopr  0 - 3 fluminense 
-	sportrecife 2 - 1 atleticomg 
-	corinthians 2 - 0 palmeiras  
-	gremio      2 - 3 coritiba   
-	flamengo    1 - 0 botafogo   
+	Goiás         2 - 1 São Paulo    
+	Atlético PR   0 - 3 Fluminense   
+	Sport Recife  2 - 1 Atlético MG  
+	Corinthians   2 - 0 Palmeira     
+	Grêmio        2 - 3 Coritiba     
+	Flamengo      1 - 0 Botafogo     
 
 Rodada 13
 [Sab 02/08]
-	saopaulo    1 - 1 criciuma   
-	botafogo    1 - 1 cruzeiro   
-	vitoria     2 - 1 gremio     
+	São Paulo     1 - 1 Criciúma     
+	Botafogo      1 - 1 Cruzeiro     
+	Vitória       2 - 1 Grêmio       
 [Dom 03/08]
-	palmeiras   1 - 1 bahia      
-	coritiba    0 - 0 corinthians
-	figueirense 3 - 0 sportrecife
-	chapecoense 1 - 0 flamengo   
-	atleticomg  3 - 1 atleticopr 
-	interrs     1 - 0 santossp   
-	fluminense  2 - 0 goias      
+	Palmeira      1 - 1 Bahia        
+	Coritiba      0 - 0 Corinthians  
+	Figueirense   3 - 0 Sport Recife 
+	chapecoense   1 - 0 Flamengo     
+	Atlético MG   3 - 1 Atlético PR  
+	Internacional 1 - 0 Santos       
+	Fluminense    2 - 0 Goiás        
 
 Rodada 14
 [Sab 09/08]
-	bahia       1 - 0 goias      
-	criciuma    0 - 0 cruzeiro   
-	fluminense  1 - 1 coritiba   
+	Bahia         1 - 0 Goiás        
+	Criciúma      0 - 0 Cruzeiro     
+	Fluminense    1 - 1 Coritiba     
 [Dom 10/08]
-	santossp    0 - 1 corinthians
-	atleticopr  2 - 0 botafogo   
-	interrs     2 - 0 gremio     
-	flamengo    1 - 0 sportrecife
-	chapecoense 0 - 1 figueirense
-	atleticomg  2 - 1 palmeiras  
-	saopaulo    3 - 1 vitoria    
+	Santos        0 - 1 Corinthians  
+	Atlético PR   2 - 0 Botafogo     
+	Internacional 2 - 0 Grêmio       
+	Flamengo      1 - 0 Sport Recife 
+	chapecoense   0 - 1 Figueirense  
+	Atlético MG   2 - 1 Palmeira     
+	São Paulo     3 - 1 Vitória      
 
 Rodada 15
 [Sab 16/08]
-	goias       0 - 1 interrs    
-	corinthians 1 - 1 bahia      
+	Goiás         0 - 1 Internacional
+	Corinthians   1 - 1 Bahia        
 [Dom 17/08]
-	palmeiras   1 - 2 saopaulo   
-	coritiba    0 - 1 flamengo   
-	cruzeiro    3 - 0 santossp   
-	vitoria     0 - 0 chapecoense
-	gremio      2 - 0 criciuma   
-	figueirense 2 - 2 atleticomg 
-	botafogo    2 - 0 fluminense 
-	sportrecife 1 - 1 atleticopr 
+	Palmeira      1 - 2 São Paulo    
+	Coritiba      0 - 1 Flamengo     
+	Cruzeiro      3 - 0 Santos       
+	Vitória       0 - 0 chapecoense  
+	Grêmio        2 - 0 Criciúma     
+	Figueirense   2 - 2 Atlético MG  
+	Botafogo      2 - 0 Fluminense   
+	Sport Recife  1 - 1 Atlético PR  
 
 Rodada 16
 [Qua 20/08]
-	sportrecife 2 - 1 palmeiras  
-	santossp    2 - 0 atleticopr 
-	figueirense 1 - 0 botafogo   
-	bahia       0 - 0 criciuma   
-	coritiba    2 - 0 vitoria    
-	interrs     0 - 1 saopaulo   
-	chapecoense 1 - 0 fluminense 
-	flamengo    2 - 1 atleticomg 
+	Sport Recife  2 - 1 Palmeira     
+	Santos        2 - 0 Atlético PR  
+	Figueirense   1 - 0 Botafogo     
+	Bahia         0 - 0 Criciúma     
+	Coritiba      2 - 0 Vitória      
+	Internacional 0 - 1 São Paulo    
+	chapecoense   1 - 0 Fluminense   
+	Flamengo      2 - 1 Atlético MG  
 [Qui 21/08]
-	corinthians 5 - 2 goias      
-	cruzeiro    1 - 0 gremio     
+	Corinthians   5 - 2 Goiás        
+	Cruzeiro      1 - 0 Grêmio       
 
 Rodada 17
 [Sab 23/08]
-	botafogo    1 - 0 chapecoense
-	atleticomg  1 - 0 interrs    
-	palmeiras   1 - 0 coritiba   
+	Botafogo      1 - 0 chapecoense  
+	Atlético MG   1 - 0 Internacional
+	Palmeira      1 - 0 Coritiba     
 [Dom 24/08]
-	fluminense  4 - 0 sportrecife
-	saopaulo    2 - 1 santossp   
-	vitoria     0 - 1 figueirense
-	gremio      2 - 1 corinthians
-	criciuma    0 - 2 flamengo   
-	goias       0 - 1 cruzeiro   
-	atleticopr  0 - 0 bahia      
+	Fluminense    4 - 0 Sport Recife 
+	São Paulo     2 - 1 Santos       
+	Vitória       0 - 1 Figueirense  
+	Grêmio        2 - 1 Corinthians  
+	Criciúma      0 - 2 Flamengo     
+	Goiás         0 - 1 Cruzeiro     
+	Atlético PR   0 - 0 Bahia        
 
 Rodada 18
 [Sab 30/08]
-	palmeiras   0 - 1 interrs    
-	cruzeiro    4 - 2 chapecoense
+	Palmeira      0 - 1 Internacional
+	Cruzeiro      4 - 2 chapecoense  
 [Dom 31/08]
-	figueirense 1 - 1 saopaulo   
-	coritiba    0 - 0 atleticomg 
-	botafogo    1 - 0 santossp   
-	sportrecife 2 - 0 criciuma   
-	corinthians 1 - 1 fluminense 
-	goias       3 - 1 atleticopr 
-	vitoria     1 - 2 flamengo   
-	gremio      1 - 0 bahia      
+	Figueirense   1 - 1 São Paulo    
+	Coritiba      0 - 0 Atlético MG  
+	Botafogo      1 - 0 Santos       
+	Sport Recife  2 - 0 Criciúma     
+	Corinthians   1 - 1 Fluminense   
+	Goiás         3 - 1 Atlético PR  
+	Vitória       1 - 2 Flamengo     
+	Grêmio        1 - 0 Bahia        
 
 Rodada 19
 [Sab 06/09]
-	flamengo    0 - 1 gremio     
-	santossp    3 - 1 vitoria    
-	chapecoense 0 - 0 goias      
+	Flamengo      0 - 1 Grêmio       
+	Santos        3 - 1 Vitória      
+	chapecoense   0 - 0 Goiás        
 [Dom 07/09]
-	criciuma    0 - 0 corinthians
-	atleticomg  1 - 0 botafogo   
-	fluminense  3 - 3 cruzeiro   
-	saopaulo    2 - 0 sportrecife
-	atleticopr  1 - 1 palmeiras  
-	bahia       0 - 0 coritiba   
-	interrs     2 - 3 figueirense
+	Criciúma      0 - 0 Corinthians  
+	Atlético MG   1 - 0 Botafogo     
+	Fluminense    3 - 3 Cruzeiro     
+	São Paulo     2 - 0 Sport Recife 
+	Atlético PR   1 - 1 Palmeira     
+	Bahia         0 - 0 Coritiba     
+	Internacional 2 - 3 Figueirense  
 
 Rodada 20
 [Qua 10/09]
-	palmeiras   1 - 0 criciuma   
-	gremio      1 - 0 atleticopr 
-	figueirense 1 - 1 fluminense 
-	coritiba    3 - 0 chapecoense
-	sportrecife 3 - 1 santossp   
-	goias       1 - 0 flamengo   
-	botafogo    2 - 4 saopaulo   
-	vitoria     2 - 0 interrs    
+	Palmeira      1 - 0 Criciúma     
+	Grêmio        1 - 0 Atlético PR  
+	Figueirense   1 - 1 Fluminense   
+	Coritiba      3 - 0 chapecoense  
+	Sport Recife  3 - 1 Santos       
+	Goiás         1 - 0 Flamengo     
+	Botafogo      2 - 4 São Paulo    
+	Vitória       2 - 0 Internacional
 [Qui 11/09]
-	corinthians 1 - 0 atleticomg 
-	cruzeiro    2 - 1 bahia      
+	Corinthians   1 - 0 Atlético MG  
+	Cruzeiro      2 - 1 Bahia        
 
 Rodada 21
 [Sab 13/09]
-	fluminense  3 - 0 palmeiras  
-	chapecoense 3 - 1 sportrecife
-	santossp    2 - 1 coritiba   
+	Fluminense    3 - 0 Palmeira     
+	chapecoense   3 - 1 Sport Recife 
+	Santos        2 - 1 Coritiba     
 [Dom 14/09]
-	saopaulo    2 - 0 cruzeiro   
-	flamengo    1 - 0 corinthians
-	bahia       3 - 0 figueirense
-	interrs     2 - 0 botafogo   
-	criciuma    1 - 0 goias      
-	atleticopr  2 - 0 vitoria    
-	atleticomg  0 - 0 gremio     
+	São Paulo     2 - 0 Cruzeiro     
+	Flamengo      1 - 0 Corinthians  
+	Bahia         3 - 0 Figueirense  
+	Internacional 2 - 0 Botafogo     
+	Criciúma      1 - 0 Goiás        
+	Atlético PR   2 - 0 Vitória      
+	Atlético MG   0 - 0 Grêmio       
 
 Rodada 22
 [Qua 17/09]
-	cruzeiro    2 - 0 atleticopr 
-	vitoria     3 - 1 fluminense 
-	figueirense 1 - 1 criciuma   
-	sportrecife 0 - 0 interrs    
-	palmeiras   2 - 2 flamengo   
-	coritiba    3 - 1 saopaulo   
-	botafogo    2 - 3 bahia      
+	Cruzeiro      2 - 0 Atlético PR  
+	Vitória       3 - 1 Fluminense   
+	Figueirense   1 - 1 Criciúma     
+	Sport Recife  0 - 0 Internacional
+	Palmeira      2 - 2 Flamengo     
+	Coritiba      3 - 1 São Paulo    
+	Botafogo      2 - 3 Bahia        
 [Qui 18/09]
-	corinthians 1 - 1 chapecoense
-	goias       2 - 3 atleticomg 
-	gremio      0 - 0 santossp   
+	Corinthians   1 - 1 chapecoense  
+	Goiás         2 - 3 Atlético MG  
+	Grêmio        0 - 0 Santos       
 
 Rodada 23
 [Sab 20/09]
-	atleticopr  0 - 1 interrs    
-	criciuma    1 - 1 botafogo   
+	Atlético PR   0 - 1 Internacional
+	Criciúma      1 - 1 Botafogo     
 [Dom 21/09]
-	cruzeiro    2 - 3 atleticomg 
-	vitoria     2 - 1 bahia      
-	flamengo    1 - 1 fluminense 
-	sportrecife 1 - 0 coritiba   
-	corinthians 3 - 2 saopaulo   
-	santossp    3 - 1 figueirense
-	gremio      1 - 0 chapecoense
-	goias       6 - 0 palmeiras  
+	Cruzeiro      2 - 3 Atlético MG  
+	Vitória       2 - 1 Bahia        
+	Flamengo      1 - 1 Fluminense   
+	Sport Recife  1 - 0 Coritiba     
+	Corinthians   3 - 2 São Paulo    
+	Santos        3 - 1 Figueirense  
+	Grêmio        1 - 0 chapecoense  
+	Goiás         6 - 0 Palmeira     
 
 Rodada 24
 [Qua 24/09]
-	coritiba    1 - 2 cruzeiro   
-	interrs     3 - 0 criciuma   
-	bahia       1 - 0 sportrecife
-	chapecoense 3 - 0 atleticopr 
-	figueirense 1 - 0 corinthians
-	fluminense  0 - 0 gremio     
-	saopaulo    2 - 2 flamengo   
+	Coritiba      1 - 2 Cruzeiro     
+	Internacional 3 - 0 Criciúma     
+	Bahia         1 - 0 Sport Recife 
+	chapecoense   3 - 0 Atlético PR  
+	Figueirense   1 - 0 Corinthians  
+	Fluminense    0 - 0 Grêmio       
+	São Paulo     2 - 2 Flamengo     
 [Qui 25/09]
-	palmeiras   2 - 0 vitoria    
-	botafogo    1 - 0 goias      
-	atleticomg  3 - 2 santossp   
+	Palmeira      2 - 0 Vitória      
+	Botafogo      1 - 0 Goiás        
+	Atlético MG   3 - 2 Santos       
 
 Rodada 25
 [Sab 27/09]
-	sportrecife 0 - 0 cruzeiro   
-	chapecoense 1 - 1 criciuma   
-	saopaulo    1 - 3 fluminense 
+	Sport Recife  0 - 0 Cruzeiro     
+	chapecoense   1 - 1 Criciúma     
+	São Paulo     1 - 3 Fluminense   
 [Dom 28/09]
-	botafogo    0 - 2 gremio     
-	atleticopr  1 - 0 corinthians
-	atleticomg  2 - 0 vitoria    
-	bahia       2 - 1 flamengo   
-	interrs     4 - 2 coritiba   
-	figueirense 3 - 1 palmeiras  
-	santossp    2 - 0 goias      
+	Botafogo      0 - 2 Grêmio       
+	Atlético PR   1 - 0 Corinthians  
+	Atlético MG   2 - 0 Vitória      
+	Bahia         2 - 1 Flamengo     
+	Internacional 4 - 2 Coritiba     
+	Figueirense   3 - 1 Palmeira     
+	Santos        2 - 0 Goiás        
 
 Rodada 26
 [Qui 02/10]
-	palmeiras   4 - 2 chapecoense
+	Palmeira      4 - 2 chapecoense  
 [Sab 04/10]
-	coritiba    1 - 0 atleticopr 
-	flamengo    0 - 1 santossp   
-	fluminense  1 - 1 bahia      
-	vitoria     2 - 1 botafogo   
-	gremio      0 - 1 saopaulo   
-	criciuma    3 - 1 atleticomg 
-	corinthians 3 - 0 sportrecife
-	cruzeiro    2 - 1 interrs    
-	goias       1 - 0 figueirense
+	Coritiba      1 - 0 Atlético PR  
+	Flamengo      0 - 1 Santos       
+	Fluminense    1 - 1 Bahia        
+	Vitória       2 - 1 Botafogo     
+	Grêmio        0 - 1 São Paulo    
+	Criciúma      3 - 1 Atlético MG  
+	Corinthians   3 - 0 Sport Recife 
+	Cruzeiro      2 - 1 Internacional
+	Goiás         1 - 0 Figueirense  
 
 Rodada 27
 [Qua 08/10]
-	botafogo    0 - 1 palmeiras  
-	saopaulo    1 - 0 atleticopr 
-	coritiba    1 - 0 criciuma   
-	vitoria     2 - 2 goias      
-	gremio      2 - 0 sportrecife
-	figueirense 1 - 2 flamengo   
-	cruzeiro    0 - 1 corinthians
+	Botafogo      0 - 1 Palmeira     
+	São Paulo     1 - 0 Atlético PR  
+	Coritiba      1 - 0 Criciúma     
+	Vitória       2 - 2 Goiás        
+	Grêmio        2 - 0 Sport Recife 
+	Figueirense   1 - 2 Flamengo     
+	Cruzeiro      0 - 1 Corinthians  
 [Qui 09/10]
-	santossp    1 - 0 bahia      
-	fluminense  0 - 0 atleticomg 
-	chapecoense 5 - 0 interrs    
+	Santos        1 - 0 Bahia        
+	Fluminense    0 - 0 Atlético MG  
+	chapecoense   5 - 0 Internacional
 
 Rodada 28
 [Dom 01/06]
-	corinthians 1 - 1 botafogo   
+	Corinthians   1 - 1 Botafogo     
 [Sab 11/10]
-	goias       3 - 0 coritiba   
-	palmeiras   2 - 1 gremio     
+	Goiás         3 - 0 Coritiba     
+	Palmeira      2 - 1 Grêmio       
 [Dom 12/10]
-	flamengo    3 - 0 cruzeiro   
-	atleticomg  1 - 0 saopaulo   
-	bahia       0 - 1 chapecoense
-	interrs     2 - 1 fluminense 
-	criciuma    3 - 0 santossp   
-	sportrecife 1 - 2 vitoria    
-	atleticopr  3 - 0 figueirense
+	Flamengo      3 - 0 Cruzeiro     
+	Atlético MG   1 - 0 São Paulo    
+	Bahia         0 - 1 chapecoense  
+	Internacional 2 - 1 Fluminense   
+	Criciúma      3 - 0 Santos       
+	Sport Recife  1 - 2 Vitória      
+	Atlético PR   3 - 0 Figueirense  
 
 Rodada 29
 [Sab 18/10]
-	fluminense  4 - 2 criciuma   
-	saopaulo    2 - 1 bahia      
-	goias       0 - 0 gremio     
-	atleticomg  1 - 0 chapecoense
+	Fluminense    4 - 2 Criciúma     
+	São Paulo     2 - 1 Bahia        
+	Goiás         0 - 0 Grêmio       
+	Atlético MG   1 - 0 chapecoense  
 [Dom 19/10]
-	interrs     1 - 2 corinthians
-	figueirense 4 - 0 coritiba   
-	palmeiras   1 - 3 santossp   
-	atleticopr  2 - 1 flamengo   
-	vitoria     0 - 1 cruzeiro   
-	botafogo    1 - 1 sportrecife
+	Internacional 1 - 2 Corinthians  
+	Figueirense   4 - 0 Coritiba     
+	Palmeira      1 - 3 Santos       
+	Atlético PR   2 - 1 Flamengo     
+	Vitória       0 - 1 Cruzeiro     
+	Botafogo      1 - 1 Sport Recife 
 
 Rodada 30
 [Ter 21/10]
-	bahia       1 - 1 atleticomg 
+	Bahia         1 - 1 Atlético MG  
 [Qua 22/10]
-	cruzeiro    1 - 1 palmeiras  
-	flamengo    2 - 0 interrs    
-	corinthians 2 - 1 vitoria    
-	criciuma    0 - 1 atleticopr 
-	coritiba    2 - 0 botafogo   
-	gremio      1 - 0 figueirense
-	santossp    0 - 1 fluminense 
-	chapecoense 0 - 0 saopaulo   
-	sportrecife 0 - 1 goias      
+	Cruzeiro      1 - 1 Palmeira     
+	Flamengo      2 - 0 Internacional
+	Corinthians   2 - 1 Vitória      
+	Criciúma      0 - 1 Atlético PR  
+	Coritiba      2 - 0 Botafogo     
+	Grêmio        1 - 0 Figueirense  
+	Santos        0 - 1 Fluminense   
+	chapecoense   0 - 0 São Paulo    
+	Sport Recife  0 - 1 Goiás        
 
 Rodada 31
 [Sab 25/10]
-	palmeiras   1 - 1 corinthians
-	fluminense  2 - 1 atleticopr 
-	figueirense 1 - 1 cruzeiro   
-	chapecoense 1 - 1 santossp   
-	coritiba    1 - 1 gremio     
-	atleticomg  3 - 2 sportrecife
-	vitoria     3 - 1 criciuma   
-	interrs     2 - 0 bahia      
-	botafogo    2 - 1 flamengo   
+	Palmeira      1 - 1 Corinthians  
+	Fluminense    2 - 1 Atlético PR  
+	Figueirense   1 - 1 Cruzeiro     
+	chapecoense   1 - 1 Santos       
+	Coritiba      1 - 1 Grêmio       
+	Atlético MG   3 - 2 Sport Recife 
+	Vitória       3 - 1 Criciúma     
+	Internacional 2 - 0 Bahia        
+	Botafogo      2 - 1 Flamengo     
 [Seg 27/10]
-	saopaulo    3 - 0 goias      
+	São Paulo     3 - 0 Goiás        
 
 Rodada 32
 [Sab 01/11]
-	gremio      1 - 0 vitoria    
-	goias       0 - 2 fluminense 
-	corinthians 2 - 2 coritiba   
+	Grêmio        1 - 0 Vitória      
+	Goiás         0 - 2 Fluminense   
+	Corinthians   2 - 2 Coritiba     
 [Dom 02/11]
-	santossp    1 - 2 interrs    
-	sportrecife 1 - 0 figueirense
-	criciuma    1 - 2 saopaulo   
-	cruzeiro    2 - 1 botafogo   
-	flamengo    3 - 0 chapecoense
-	atleticopr  1 - 0 atleticomg 
-	bahia       0 - 1 palmeiras  
+	Santos        1 - 2 Internacional
+	Sport Recife  1 - 0 Figueirense  
+	Criciúma      1 - 2 São Paulo    
+	Cruzeiro      2 - 1 Botafogo     
+	Flamengo      3 - 0 chapecoense  
+	Atlético PR   1 - 0 Atlético MG  
+	Bahia         0 - 1 Palmeira     
 
 Rodada 33
 [Sab 08/11]
-	palmeiras   0 - 2 atleticomg 
-	coritiba    1 - 0 fluminense 
-	botafogo    0 - 2 atleticopr 
+	Palmeira      0 - 2 Atlético MG  
+	Coritiba      1 - 0 Fluminense   
+	Botafogo      0 - 2 Atlético PR  
 [Dom 09/11]
-	sportrecife 2 - 2 flamengo   
-	vitoria     1 - 2 saopaulo   
-	gremio      4 - 1 interrs    
-	figueirense 1 - 0 chapecoense
-	goias       3 - 0 bahia      
-	corinthians 1 - 0 santossp   
-	cruzeiro    3 - 1 criciuma   
+	Sport Recife  2 - 2 Flamengo     
+	Vitória       1 - 2 São Paulo    
+	Grêmio        4 - 1 Internacional
+	Figueirense   1 - 0 chapecoense  
+	Goiás         3 - 0 Bahia        
+	Corinthians   1 - 0 Santos       
+	Cruzeiro      3 - 1 Criciúma     
 
 Rodada 34
 [Sab 15/11]
-	fluminense  1 - 0 botafogo   
-	criciuma    0 - 3 gremio     
+	Fluminense    1 - 0 Botafogo     
+	Criciúma      0 - 3 Grêmio       
 [Dom 16/11]
-	bahia       1 - 2 corinthians
-	interrs     1 - 0 goias      
-	santossp    0 - 1 cruzeiro   
-	atleticopr  0 - 1 sportrecife
-	flamengo    3 - 2 coritiba   
-	atleticomg  1 - 1 figueirense
-	saopaulo    2 - 0 palmeiras  
-	chapecoense 0 - 1 vitoria    
+	Bahia         1 - 2 Corinthians  
+	Internacional 1 - 0 Goiás        
+	Santos        0 - 1 Cruzeiro     
+	Atlético PR   0 - 1 Sport Recife 
+	Flamengo      3 - 2 Coritiba     
+	Atlético MG   1 - 1 Figueirense  
+	São Paulo     2 - 0 Palmeira     
+	chapecoense   0 - 1 Vitória      
 
 Rodada 35
 [Qua 12/11]
-	saopaulo    1 - 1 interrs    
+	São Paulo     1 - 1 Internacional
 [Qua 19/11]
-	botafogo    0 - 1 figueirense
-	atleticopr  1 - 1 santossp   
-	vitoria     1 - 1 coritiba   
-	criciuma    0 - 1 bahia      
-	goias       0 - 1 corinthians
-	atleticomg  4 - 0 flamengo   
-	palmeiras   0 - 2 sportrecife
+	Botafogo      0 - 1 Figueirense  
+	Atlético PR   1 - 1 Santos       
+	Vitória       1 - 1 Coritiba     
+	Criciúma      0 - 1 Bahia        
+	Goiás         0 - 1 Corinthians  
+	Atlético MG   4 - 0 Flamengo     
+	Palmeira      0 - 2 Sport Recife 
 [Qui 20/11]
-	fluminense  1 - 4 chapecoense
-	gremio      1 - 2 cruzeiro   
+	Fluminense    1 - 4 chapecoense  
+	Grêmio        1 - 2 Cruzeiro     
 
 Rodada 36
 [Sab 22/11]
-	interrs     2 - 1 atleticomg 
-	bahia       1 - 2 atleticopr 
+	Internacional 2 - 1 Atlético MG  
+	Bahia         1 - 2 Atlético PR  
 [Dom 23/11]
-	cruzeiro    2 - 1 goias      
-	figueirense 2 - 0 vitoria    
-	flamengo    1 - 1 criciuma   
-	sportrecife 2 - 2 fluminense 
-	santossp    0 - 1 saopaulo   
-	coritiba    2 - 0 palmeiras  
-	corinthians 1 - 0 gremio     
-	chapecoense 2 - 0 botafogo   
+	Cruzeiro      2 - 1 Goiás        
+	Figueirense   2 - 0 Vitória      
+	Flamengo      1 - 1 Criciúma     
+	Sport Recife  2 - 2 Fluminense   
+	Santos        0 - 1 São Paulo    
+	Coritiba      2 - 0 Palmeira     
+	Corinthians   1 - 0 Grêmio       
+	chapecoense   2 - 0 Botafogo     
 
 Rodada 37
 [Sab 29/11]
-	interrs     3 - 1 palmeiras  
-	criciuma    2 - 2 sportrecife
-	flamengo    4 - 0 vitoria    
+	Internacional 3 - 1 Palmeira     
+	Criciúma      2 - 2 Sport Recife 
+	Flamengo      4 - 0 Vitória      
 [Dom 30/11]
-	fluminense  5 - 2 corinthians
-	saopaulo    1 - 1 figueirense
-	santossp    2 - 0 botafogo   
-	chapecoense 1 - 1 cruzeiro   
-	atleticopr  1 - 0 goias      
-	atleticomg  1 - 2 coritiba   
-	bahia       1 - 0 gremio     
+	Fluminense    5 - 2 Corinthians  
+	São Paulo     1 - 1 Figueirense  
+	Santos        2 - 0 Botafogo     
+	chapecoense   1 - 1 Cruzeiro     
+	Atlético PR   1 - 0 Goiás        
+	Atlético MG   1 - 2 Coritiba     
+	Bahia         1 - 0 Grêmio       
 
 Rodada 38
 [Sab 06/12]
-	corinthians 2 - 1 criciuma   
-	figueirense 1 - 2 interrs    
+	Corinthians   2 - 1 Criciúma     
+	Figueirense   1 - 2 Internacional
 [Dom 07/12]
-	goias       4 - 2 chapecoense
-	botafogo    0 - 0 atleticomg 
-	sportrecife 1 - 0 saopaulo   
-	palmeiras   1 - 1 atleticopr 
-	coritiba    3 - 2 bahia      
-	cruzeiro    2 - 1 fluminense 
-	vitoria     0 - 1 santossp   
-	gremio      1 - 1 flamengo   
+	Goiás         4 - 2 chapecoense  
+	Botafogo      0 - 0 Atlético MG  
+	Sport Recife  1 - 0 São Paulo    
+	Palmeira      1 - 1 Atlético PR  
+	Coritiba      3 - 2 Bahia        
+	Cruzeiro      2 - 1 Fluminense   
+	Vitória       0 - 1 Santos       
+	Grêmio        1 - 1 Flamengo     
