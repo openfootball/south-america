@@ -1,0 +1,210 @@
+###################################
+# Gauchão - Campeonato Gaúcho 2014
+# br.rs.1
+
+Rodada 1
+[Sab 18/01]
+	Internacional       2 - 0 São Luiz           
+	Esportivo           3 - 2 Pelotas            
+[Dom 19/01]
+	São José-RS         1 - 0 Grêmio             
+	Lajeadense          0 - 0 Passo Fundo        
+	Brasil de Pelotas   2 - 0 Cruzeiro-RS        
+	Veranópolis         2 - 2 Caxias             
+	Aimoré              1 - 2 Novo Hamburgo      
+	Juventude           1 - 2 São Paulo-RS       
+
+Rodada 2
+[Qua 22/01]
+	Caxias              4 - 2 Aimoré             
+	São Luiz            0 - 1 Juventude          
+	Pelotas             0 - 0 Veranópolis        
+	Novo Hamburgo       1 - 2 Internacional      
+[Qui 23/01]
+	Cruzeiro-RS         2 - 1 São José-RS        
+	Passo Fundo         1 - 0 Esportivo          
+	Grêmio              2 - 1 Lajeadense         
+[Qua 12/02]
+	São Paulo-RS        0 - 0 Brasil de Pelotas  
+
+Rodada 3
+[Sab 25/01]
+	Pelotas             0 - 1 Juventude          
+	Caxias              0 - 1 Brasil de Pelotas  
+[Dom 26/01]
+	Passo Fundo         1 - 2 Internacional      
+	Cruzeiro-RS         1 - 1 Veranópolis        
+	São Paulo-RS        0 - 0 Esportivo          
+	Novo Hamburgo       1 - 1 São José-RS        
+	Grêmio              4 - 0 Aimoré             
+	São Luiz            1 - 1 Lajeadense         
+
+Rodada 4
+[Qua 29/01]
+	São José-RS         2 - 0 Passo Fundo        
+	Internacional       2 - 1 São Paulo-RS       
+	Veranópolis         2 - 1 Novo Hamburgo      
+	Lajeadense          2 - 0 Pelotas            
+	Esportivo           0 - 0 Caxias             
+	Aimoré              1 - 1 São Luiz           
+	Brasil de Pelotas   1 - 1 Grêmio             
+[Qui 30/01]
+	Juventude           1 - 1 Cruzeiro-RS        
+
+Rodada 5
+[Sab 01/02]
+	São José-RS         1 - 2 Pelotas            
+	Lajeadense          1 - 0 Caxias             
+[Dom 02/02]
+	Juventude           1 - 1 Grêmio             
+	Veranópolis         1 - 0 São Luiz           
+	Esportivo           1 - 2 Novo Hamburgo      
+	Aimoré              1 - 0 São Paulo-RS       
+	Internacional       4 - 1 Cruzeiro-RS        
+	Brasil de Pelotas   4 - 0 Passo Fundo        
+
+Rodada 6
+[Qua 05/02]
+	Grêmio              1 - 0 Veranópolis        
+	Cruzeiro-RS         1 - 1 Esportivo          
+	São Luiz            0 - 1 São José-RS        
+	Passo Fundo         1 - 1 Aimoré             
+	Pelotas             0 - 1 Internacional      
+[Qui 06/02]
+	Novo Hamburgo       0 - 1 Brasil de Pelotas  
+	São Paulo-RS        1 - 1 Lajeadense         
+[Qua 26/02]
+	Caxias              2 - 1 Juventude          
+
+Rodada 7
+[Sab 08/02]
+	Caxias              3 - 0 São José-RS        
+	São Luiz            3 - 0 Esportivo          
+[Dom 09/02]
+	Pelotas             1 - 1 Brasil de Pelotas  
+	Cruzeiro-RS         2 - 1 Aimoré             
+	Grêmio              1 - 1 Internacional      
+	Passo Fundo         2 - 1 Juventude          
+	São Paulo-RS        2 - 4 Veranópolis        
+[Seg 10/02]
+	Novo Hamburgo       2 - 1 Lajeadense         
+
+Rodada 8
+[Sex 14/02]
+	Juventude           0 - 0 Novo Hamburgo      
+[Sab 15/02]
+	Internacional       4 - 0 Caxias             
+[Dom 16/02]
+	Esportivo           1 - 3 Grêmio             
+	São José-RS         1 - 1 São Paulo-RS       
+	Veranópolis         0 - 0 Passo Fundo        
+	Brasil de Pelotas   2 - 0 São Luiz           
+	Aimoré              1 - 0 Pelotas            
+	Lajeadense          2 - 0 Cruzeiro-RS        
+
+Rodada 9
+[Ter 18/02]
+	Internacional       2 - 1 Juventude          
+[Qua 19/02]
+	Novo Hamburgo       0 - 1 Cruzeiro-RS        
+	Passo Fundo         3 - 2 Pelotas            
+	São Paulo-RS        1 - 1 São Luiz           
+	São José-RS         2 - 1 Aimoré             
+	Lajeadense          0 - 1 Veranópolis        
+	Caxias              2 - 3 Grêmio             
+[Qui 20/02]
+	Brasil de Pelotas   0 - 1 Esportivo          
+
+Rodada 10
+[Sab 22/02]
+	Juventude           2 - 0 São José-RS        
+	Grêmio              3 - 0 Novo Hamburgo      
+	Pelotas             2 - 1 São Paulo-RS       
+[Dom 23/02]
+	Veranópolis         1 - 0 Internacional      
+	Cruzeiro-RS         2 - 2 Passo Fundo        
+	Esportivo           2 - 2 Lajeadense         
+	Aimoré              1 - 1 Brasil de Pelotas  
+	São Luiz            0 - 1 Caxias             
+
+Rodada 11
+[Qua 26/02]
+	Aimoré              3 - 2 Esportivo          
+	Internacional       1 - 0 Brasil de Pelotas  
+[Qui 27/02]
+	Pelotas             1 - 3 Cruzeiro-RS        
+[Sab 01/03]
+	São Paulo-RS        2 - 1 Grêmio             
+	São José-RS         0 - 1 Lajeadense         
+	Veranópolis         1 - 1 Juventude          
+	São Luiz            0 - 1 Novo Hamburgo      
+[Dom 02/03]
+	Caxias              2 - 1 Passo Fundo        
+
+Rodada 12
+[Qua 05/03]
+	Passo Fundo         4 - 1 São Luiz           
+	Internacional       1 - 1 São José-RS        
+	Lajeadense          1 - 2 Aimoré             
+	Esportivo           3 - 2 Veranópolis        
+	Cruzeiro-RS         0 - 0 Grêmio             
+[Qui 06/03]
+	Brasil de Pelotas   2 - 0 Juventude          
+	Caxias              2 - 0 São Paulo-RS       
+	Novo Hamburgo       3 - 1 Pelotas            
+
+Rodada 13
+[Dom 09/03]
+	Aimoré              1 - 2 Internacional      
+	Cruzeiro-RS         0 - 0 Caxias             
+	Pelotas             1 - 2 São Luiz           
+	Lajeadense          0 - 1 Brasil de Pelotas  
+	Juventude           2 - 1 Esportivo          
+	Grêmio              3 - 1 Passo Fundo        
+	Veranópolis         1 - 1 São José-RS        
+	São Paulo-RS        1 - 0 Novo Hamburgo      
+
+Rodada 14
+[Qua 26/02]
+	Novo Hamburgo       2 - 1 Passo Fundo        
+[Sex 28/02]
+	Internacional       3 - 0 Esportivo          
+[Sex 07/03]
+	São Luiz            2 - 2 Grêmio             
+[Qua 12/03]
+	Pelotas             0 - 3 Caxias             
+	Juventude           2 - 1 Lajeadense         
+	São Paulo-RS        4 - 1 Cruzeiro-RS        
+	São José-RS         1 - 1 Brasil de Pelotas  
+	Veranópolis         0 - 0 Aimoré             
+
+Rodada 15
+[Dom 16/03]
+	Lajeadense          0 - 1 Internacional      
+	Cruzeiro-RS         2 - 2 São Luiz           
+	Esportivo           1 - 0 São José-RS        
+	Brasil de Pelotas   1 - 0 Veranópolis        
+	Aimoré              1 - 1 Juventude          
+	Caxias              2 - 1 Novo Hamburgo      
+	Passo Fundo         3 - 1 São Paulo-RS       
+	Grêmio              3 - 0 Pelotas            
+
+Quartas-de-final
+[Sex 21/03]
+	Caxias              2 - 2 Veranópolis        
+[Sab 22/03]
+	Internacional       3 - 1 Cruzeiro-RS        
+	Brasil de Pelotas   2 - 0 Novo Hamburgo      
+[Dom 23/03]
+	Grêmio              3 - 0 Juventude          
+
+Semi-finais
+[Qua 26/03]
+	Grêmio              2 - 1 Brasil de Pelotas  
+	Internacional       3 - 0 Caxias             
+
+Finais
+[Dom 30/03]
+	Grêmio              1 - 2 Internacional      
+[Dom 13/04]
+	Internacional       4 - 1 Grêmio             

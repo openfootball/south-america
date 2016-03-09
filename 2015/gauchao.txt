@@ -1,0 +1,213 @@
+###################################
+# Gauchão - Campeonato Gaúcho 2015
+# br.rs.1
+
+Rodada 1
+[Sab 31/01]
+	Grêmio              3 - 0 União Frederiquense
+	Caxias              0 - 1 Brasil de Pelotas  
+[Dom 01/02]
+	Lajeadense          1 - 1 Internacional      
+	Cruzeiro-RS         1 - 1 Veranópolis        
+	Ypiranga            0 - 0 Juventude          
+	São José-RS         2 - 0 Avenida            
+	Novo Hamburgo       2 - 2 Aimoré             
+[Ter 24/02]
+	São Paulo-RS        1 - 1 Passo Fundo        
+
+Rodada 2
+[Qua 04/02]
+	Juventude           1 - 2 Novo Hamburgo      
+	Internacional       4 - 4 São José-RS        
+	Veranópolis         0 - 2 Lajeadense         
+	Avenida             1 - 3 São Paulo-RS       
+	Passo Fundo         3 - 2 Ypiranga           
+	Brasil de Pelotas   1 - 1 Cruzeiro-RS        
+	União Frederiquense 1 - 1 Caxias             
+	Aimoré              2 - 1 Grêmio             
+
+Rodada 3
+[Sab 07/02]
+	Internacional       1 - 0 Novo Hamburgo      
+	Passo Fundo         1 - 1 Caxias             
+	Veranópolis         0 - 1 Ypiranga           
+[Dom 08/02]
+	Avenida             1 - 3 Grêmio             
+	União Frederiquense 1 - 1 São José-RS        
+	Aimoré              0 - 0 Lajeadense         
+	Juventude           0 - 2 Cruzeiro-RS        
+	Brasil de Pelotas   2 - 0 São Paulo-RS       
+
+Rodada 4
+[Ter 10/02]
+	Caxias              1 - 0 Veranópolis        
+[Qua 11/02]
+	Grêmio              0 - 1 Brasil de Pelotas  
+	Lajeadense          0 - 1 Avenida            
+	Ypiranga            3 - 0 Aimoré             
+	São Paulo-RS        0 - 3 Juventude          
+	Novo Hamburgo       1 - 0 União Frederiquense
+	Cruzeiro-RS         0 - 0 Internacional      
+[Qui 12/02]
+	São José-RS         2 - 1 Passo Fundo        
+
+Rodada 5
+[Sab 14/02]
+	Grêmio              0 - 1 Veranópolis        
+	Cruzeiro-RS         1 - 0 Avenida            
+	Ypiranga            5 - 0 União Frederiquense
+	Novo Hamburgo       0 - 0 Brasil de Pelotas  
+	São Paulo-RS        0 - 1 Aimoré             
+	Caxias              1 - 2 Internacional      
+[Dom 15/02]
+	São José-RS         0 - 1 Juventude          
+	Lajeadense          3 - 0 Passo Fundo        
+
+Rodada 6
+[Qua 18/02]
+	União Frederiquense 1 - 1 Lajeadense         
+	Brasil de Pelotas   0 - 1 São José-RS        
+	Avenida             0 - 0 Novo Hamburgo      
+	Aimoré              0 - 0 Cruzeiro-RS        
+	Veranópolis         0 - 1 São Paulo-RS       
+	Passo Fundo         0 - 2 Grêmio             
+[Qui 19/02]
+	Juventude           1 - 0 Caxias             
+[Qua 01/04]
+	Internacional       1 - 0 Ypiranga           
+
+Rodada 7
+[Dom 22/02]
+	São Paulo-RS        1 - 2 Internacional      
+	Ypiranga            3 - 0 Avenida            
+	Cruzeiro-RS         1 - 0 União Frederiquense
+	Caxias              2 - 1 Aimoré             
+	Novo Hamburgo       1 - 0 Passo Fundo        
+	São José-RS         1 - 0 Veranópolis        
+	Lajeadense          1 - 1 Brasil de Pelotas  
+[Seg 23/02]
+	Grêmio              0 - 0 Juventude          
+
+Rodada 8
+[Sab 28/02]
+	Veranópolis         2 - 0 Novo Hamburgo      
+[Dom 01/03]
+	Juventude           3 - 1 Lajeadense         
+	Avenida             1 - 0 Caxias             
+	Passo Fundo         2 - 1 Cruzeiro-RS        
+	União Frederiquense 1 - 1 São Paulo-RS       
+	Internacional       0 - 0 Grêmio             
+[Ter 03/03]
+	Aimoré              3 - 1 São José-RS        
+[Qui 05/03]
+	Brasil de Pelotas   2 - 0 Ypiranga           
+
+Rodada 9
+[Sab 07/03]
+	Grêmio              3 - 1 Caxias             
+	Lajeadense          2 - 1 Novo Hamburgo      
+[Dom 08/03]
+	Juventude           1 - 0 Internacional      
+	Aimoré              0 - 0 Veranópolis        
+	Avenida             1 - 3 Passo Fundo        
+	Cruzeiro-RS         1 - 0 São Paulo-RS       
+	São José-RS         0 - 1 Ypiranga           
+	Brasil de Pelotas   4 - 1 União Frederiquense
+
+Rodada 10
+[Qua 11/03]
+	Caxias              0 - 1 Lajeadense         
+	Internacional       3 - 0 Aimoré             
+	São Paulo-RS        1 - 1 São José-RS        
+	Novo Hamburgo       1 - 2 Cruzeiro-RS        
+	Veranópolis         2 - 1 Avenida            
+	Ypiranga            0 - 1 Grêmio             
+[Qui 12/03]
+	União Frederiquense 1 - 0 Juventude          
+	Passo Fundo         2 - 1 Brasil de Pelotas  
+
+Rodada 11
+[Sab 14/03]
+	Grêmio              1 - 0 Cruzeiro-RS        
+[Dom 15/03]
+	União Frederiquense 1 - 1 Aimoré             
+	Brasil de Pelotas   0 - 2 Internacional      
+	Ypiranga            2 - 0 Caxias             
+	Novo Hamburgo       2 - 1 São Paulo-RS       
+	Passo Fundo         2 - 1 Veranópolis        
+	Lajeadense          1 - 1 São José-RS        
+[Seg 16/03]
+	Juventude           1 - 1 Avenida            
+
+Rodada 12
+[Sab 21/03]
+	São José-RS         0 - 1 Novo Hamburgo      
+	Juventude           1 - 1 Brasil de Pelotas  
+	Avenida             1 - 1 União Frederiquense
+[Dom 22/03]
+	Cruzeiro-RS         1 - 1 Caxias             
+	São Paulo-RS        1 - 1 Ypiranga           
+	Veranópolis         0 - 1 Internacional      
+	Aimoré              2 - 2 Passo Fundo        
+	Grêmio              2 - 0 Lajeadense         
+
+Rodada 13
+[Qua 25/03]
+	Internacional       1 - 0 Avenida            
+	Brasil de Pelotas   2 - 0 Aimoré             
+	Veranópolis         1 - 0 Juventude          
+	Ypiranga            0 - 2 Lajeadense         
+	Novo Hamburgo       0 - 1 Grêmio             
+[Qui 26/03]
+	São José-RS         2 - 2 Cruzeiro-RS        
+	Caxias              0 - 1 São Paulo-RS       
+	Passo Fundo         1 - 1 União Frederiquense
+
+Rodada 14
+[Dom 29/03]
+	Ypiranga            1 - 0 Novo Hamburgo      
+	União Frederiquense 0 - 1 Internacional      
+	Aimoré              3 - 1 Avenida            
+	Grêmio              2 - 0 São Paulo-RS       
+	Brasil de Pelotas   0 - 0 Veranópolis        
+	Passo Fundo         0 - 0 Juventude          
+	Lajeadense          2 - 0 Cruzeiro-RS        
+[Seg 30/03]
+	Caxias              1 - 0 São José-RS        
+
+Rodada 15
+[Dom 05/04]
+	São José-RS         1 - 1 Grêmio             
+	São Paulo-RS        1 - 1 Lajeadense         
+	Cruzeiro-RS         0 - 2 Ypiranga           
+	Novo Hamburgo       2 - 1 Caxias             
+	Juventude           6 - 1 Aimoré             
+	Avenida             0 - 2 Brasil de Pelotas  
+	Veranópolis         2 - 1 União Frederiquense
+	Internacional       2 - 0 Passo Fundo        
+
+Quartas-de-final
+[Qua 08/04]
+	Brasil de Pelotas   2 - 1 Lajeadense         
+	Internacional       2 - 2 Cruzeiro-RS        
+[Qui 09/04]
+	Grêmio              1 - 1 Novo Hamburgo      
+	Ypiranga            0 - 2 Juventude          
+
+Semi-finais - ida
+[Sab 11/04]
+	Brasil de Pelotas   1 - 1 Internacional      
+[Dom 12/04]
+	Juventude           0 - 1 Grêmio             
+
+Semi-finais - volta
+[Sab 18/04]
+	Grêmio              2 - 1 Juventude          
+[Dom 19/04]
+	Internacional       3 - 1 Brasil de Pelotas  
+
+Finais
+[Dom 26/04]
+	Grêmio              0 - 0 Internacional      
+[Dom 03/05]
+	Internacional       2 - 1 Grêmio             

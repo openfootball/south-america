@@ -101,7 +101,7 @@ Rodada 8 - Turno
 	Canoas              2 - 2 Inter-SM           
 	São José-RS         5 - 0 Santa Cruz-RS      
 
-Quartas de Final - Turno
+Quartas-de-final - Turno
 [Sab 19/02]
 	Internacional       0 - 0 Cruzeiro-RS        
 	Juventude           0 - 2 São José-RS        
@@ -109,7 +109,7 @@ Quartas de Final - Turno
 	Grêmio              0 - 0 Ypiranga           
 	Caxias              1 - 0 Veranópolis        
 
-Semi-final - Turno
+Semi-finais - Turno
 [Dom 27/02]
 	Grêmio              0 - 0 Cruzeiro-RS        
 	Caxias              1 - 1 São José-RS        
@@ -206,7 +206,7 @@ Rodada 7 - Returno
 	Veranópolis         1 - 3 Juventude          
 	Pelotas             1 - 2 Cruzeiro-RS        
 
-Quartas de Final - Returno
+Quartas-de-final - Returno
 [Sab 16/04]
 	Cruzeiro-RS         2 - 0 São Luiz           
 	Internacional       0 - 0 Santa Cruz-RS      
@@ -214,7 +214,7 @@ Quartas de Final - Returno
 	Ypiranga            1 - 1 Grêmio             
 	Juventude           3 - 0 Lajeadense         
 
-Semifinal - Returno
+Semi-finais - Returno
 [Sab 23/04]
 	Cruzeiro-RS         0 - 0 Grêmio             
 [Dom 24/04]
