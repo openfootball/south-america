@@ -3,6 +3,6 @@ br.b,     Campeonato Brasileiro Série B
 br.c,     Campeonato Brasileiro Série C
 br.d,     Campeonato Brasileiro Série D
 
-br.rs     Campeonato Estadual Gaúcho - Gauchão
-br.sp     Campeonato Estadual Paulista - Paulistão
-br.rj     Campeonato Estadual Carioca
+br.rs,     Campeonato Estadual Gaúcho - Gauchão
+br.sp,     Campeonato Estadual Paulista - Paulistão
+br.rj,     Campeonato Estadual Carioca
