@@ -162,6 +162,16 @@ camboriu, Camboriu|Camboriú Futebol Clube, CAM, city:camboriu
 
 
 # state championship of BA (Campeonato Baiano)
+flamengoba, Flamengo de Guanambi|Clube Esportivo Flamengo de Guanambi, FLA, city:guanambi
+galiciaba, Galícia|Galícia Esporte Clube, GAL, city:salvador
+juazeirense, Juazeirense|Sociedade Desportiva Juazeirense, JUA, city:juazeiro
+bahiadefeira, Bahia de Feira|Associação Desportiva Bahia de Feira, BAH, city:feiradesantana
+colocoloba, Colo Colo da Bahia|Colo Colo de Futebol e Regatas, COL, city:ilheus
+jacobina, Jacobina|Jacobina Esporte Clube, JAC, city:jacobina
+fluminenseba, Fluminense de Feira|Fluminense de Feira de Santana|Fluminense de Feira Futebol Clube, FLU, city:feiradesantana
+feirenseba, Feirense|Feirense Futebol Clube, FEI, city:feiradesantana
+vitoriadaconquista, Vitória da Conquista|Esporte Clube Primeiro Passo Vitória da Conquista, VIT, city:vitoriadaconquista
+jacuipense, Jacuipense|Esporte Clube Jacuipense, JAC, city:riachaodojacuipe
 
 
 # state championship of GO (Campeonato Goiano)
