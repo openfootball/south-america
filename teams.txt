@@ -1,166 +1,92 @@
 #################################################
 #  Campeonato Brasileiro Série A | Brasileirão
-##########
-# 2016
+#################################################
 
-#### state São Paulo (SP)
+# 2016 - 20 clubs
+
 corinthians,Corinthians|SC Corinthians Paulista|Corinthians SP|Corinthians São Paulo|Sport Club Corinthians Paulista,COR,city:saopaulo
 saopaulo,São Paulo|São Paulo FC|FC São Paulo|São Paulo SP|São Paulo Futebol Clube,SAO,city:saopaulo
 santossp,Santos|Santos SP|Santos FC|FC Santos|Santos Futebol Clube,SAN,city:santos ## nb: santos key taken by Santos Laguna - liga mx - thus,use santossp for now
 palmeiras,Palmeiras|Palmeiras SP|SE Palmeiras|SE Palmeiras São Paulo|Sociedade Esportiva Palmeiras,PAL,city:saopaulo
 pontepreta,Ponte Preta|AA Ponte Preta|Associação Atlética Ponte Preta,PON,city:campinas
-
-#### state Rio de Janeiro (RJ)
 botafogo,Botafogo|Botafogo RJ|Botafogo FR|Botafogo de Futebol e Regatas,BOT,city:riodejaneiro
 flamengo,Flamengo|CR Flamengo|Flamengo RJ|Flamengo Rio de Janeiro|Clube de Regatas do Flamengo,FLA,city:riodejaneiro
 fluminense,Fluminense|Fluminense FC|Fluminense RJ|Fluminense Rio de Janeiro|Fluminense Football Club,FLU,city:riodejaneiro
-
-#### state Minas Gerais (MG)
 atleticomg,Atlético Mineiro|C Atlético Mineiro|Atlético MG|Atlético/MG|Clube Atlético Mineiro,CAM,city:belohorizonte
 cruzeiro,Cruzeiro|Cruzeiro EC|Cruzeiro MG|Cruzeiro Esporte Clube|Cruzeiro Belo Horizonte,CRU,city:belohorizonte
 americamg,América Mineiro|América MG|América FC|América Futebol Clube,AMG,city:belohorizonte
-
-#### state Rio Grande do Sul (RS)
 gremio,Grêmio|Grêmio RS|Grêmio Porto Alegre|Grêmio FBPA|Grêmio Foot-Ball Porto Alegrense,GRE,city:portoalegre
 interrs,Internacional|SC Internacional|Internacional RS|Internacional Porto Alegre|Sport Club Internacional,INT,city:portoalegre
-
-#### state Paraná (PR)
 atleticopr,Atlético Paranaense|C Atlético Paranaense|Atlético PR|Atlético/PR|Clube Atlético Paranaense,CAP,city:curitiba
 coritiba,Coritiba|Coritiba FC|Coritiba PR|Coritiba FC|Coritiba Football Club,CTB,city:curitiba
-
-#### state Santa Catarina (SC)
 figueirense,Figueirense|Figueirense FC|Figueirense SC|Figueirense Futebol Clube,FIG,city:florianopolis
 chapecoense,Chapecoense|Associação Chapecoense de Futebol,CHA,city:chapeco
-
-#### state Pernambuco (PE)
 sportrecife,Sport|Sport Recife|Sport PE|Sport Club do Recife, SPT, city:recife
 santacruzpe,Santa Cruz|Santa Cruz FC|Santa Cruz Futebol Clube, SAN, city:recife
-
-#### state Bahia (BA)
 vitoria,Vitória|EC Vitória|Esporte Clube Vitória,VIT,city:salvador
 
-##########
 # 2015
-##########
 # 2014
-##########
 # 2013
 
 #################################################
 #  Campeonato Brasileiro Série B | Brasileirão
-##########
-# 2016
+#################################################
+# 2016 - 20 clubs
 
-#### state Santa Catarina (SC)
 criciuma,Criciúma|Criciúma EC|Criciúma Esporte Clube,CRI,city:criciuma
 avai, Avai|Avaí FC|Avaí Futebol Clube, AVA, city:florianopolis
 joinvile, Joinvile|Joinvile EC|Joinville Esporte Clube, JOI, city:joinvile
-
-#### state Goiás (GO)
 goias,Goiás|Goiás EC|Goiás Esporte Clube,GOI,city:goiania
 atleticogo,Atlético GO|Atlético Goianiense|,ACG,city:goiania
 vilanovago, Vila Nova|Vila Nova GO|Vila Nova de Goias|Vila Nova FC|Vila Nova Futebol Clube, VIL, city:goiania
-
-#### state São Paulo (SP)
 bragantino, Bragantino|CA Bragantino|Clube Atlético Bragantino, BRA, city:bragancapaulista
 oeste,  Oeste|Oeste SP}Oeste FC|Oeste Futebol Clube, OES, city:itapolis
-
-### state Paraná (PR)
 londrina, Londrina|Londrina EC|Londrina Esporte Clube, LON, city:londrina
 parana, Parana|Paraná Clube, PAR, city:curitiba
-
-#### state Rio de Janeiro (RJ)
 vascodagama,Vasco|CR Vasco da Gama|Vasco RJ|Vasco da Gama|Vasco da Gama Rio de Janeiro|Club de Regatas Vasco da Gama,VAS,city:riodejaneiro
-
-#### state Bahia (BA)
 bahia,Bahia|Bahia BA|EC Bahia|Esporte Clube Bahia,BAI,city:salvador
-
-#### state Pernambuco (PE)
 nautico,Náutico|C Náutico Capibaribe|Náutico PE|Clube Náutico Capibaribe,NAU,city:recife
-
-### state Minas Gerais (MG)
 tupi, Tupi|Tupi MG|Tupi FC|Tupi Football Club, TUP, city:juizdefora
-
-### state Rio Grande do Sul (RS)
 brasilrs, Brasil de Pelotas|Brasil RS|GE Brasil|Grêmio Esportivo Brasil|Grêmio Esportivo Brasil de Pelotas, GEB, city:pelotas
-
-### state Ceará (CE)
 ceara, Ceará|Ceára SC|Ceará Sporting Club, CEA, city:fortaleza
-
-### state Pará (PA)
 paysandu, Paysandu|Paysandu SC|Paysandu Sport Club, PAY, city:belem
-
-### state Alagoas (AL)
 crb, CRB|CRB AL|Clube de Regatas Brasil, CRB, city:maceio
-
-### state Mato Grosso (MT)
 luverdense, Luverdense|Luverdense EC|Luverdense Esporte Clube, LUV, city:lucasdorioverde
-
-### state Maranhão (MA)
 sampaiocorrea, Sampaio Corrêa|Sampaio Corrêa FC|Sampaio Corrêa Futebol Clube, SAC, city:saoluis
 
-##########
 # 2015
-##########
 # 2014
-##########
 # 2013
 
 
 #################################################
 #  Campeonato Brasileiro Série C | Brasileirão
-##########
-# 2016
+#################################################
+# 2016 - 20 clubs
 
-#### state São Paulo (SP)
 portuguesa,Portuguesa|A Portuguesa de Desportos|Portuguesa SP|Portuguesa São Paulo|Associação Portuguesa de Desportos,POR,city:saopaulo
 guaranisp, Guarani|Guarani de Campinas|Guarani SP|Guarani Futebol Clube, GFC, city:campinas
 guaratingueta, Guaratingueta|Guara|Guaratinguetá Futebol Ltda, GUA, city:guaratingueta
 mogimirim, Mogi Mirim|Mogi Mirim EC|Mogi Mirim Esporte Clube, MOG, city:mogimirim
 botafogosp, Botafogo SP|Botafogo de Ribeirão Preto|Botafogo SP|Botafogo FC|Botafogo Futebol Clube, BSP, city:ribeiraopreto
-
-### state Minas Gerais (MG)
 boaesportemg, Boa Esporte|Boa Esporte MG|Boa Esporte Clube, BOA, city:varginha
 tombense, Tombense|Tombense Futebol Clube, TOM, city:tombos
-
-### state Rio Grande do Sul (RS)
 juventuders, Juventude|Juventude de Caxias|Juventude RS|EC Juventude|Esporte Clube Juventude, JUV, city:caxiasdosul
 ypirangars, Ypiranga|Ypiranga de Erechim|Ypiranga Futebol Clube, YPI, city:erechim
-
-### state Rio de Janeiro (RJ)
-macae, Macaé|Macaé Esporte Futebol Clube, MAC, city:macae
-
-### state Pernambuco (PE)
-salgueirope, Salgueiro|Salgueiro Atlético Clube, SAL, city:salgueiro
-
-### state Ceará (CE)
-fortaleza, Fortaleza|Fortaleza Esporte Clube, FOR, city:fortaleza
-
-### state Pará (PA)
-remo, Remo|Clube do Remo|, REM, city:belem
-
-### state Alagoas (AL)
-asaal, ASA|ASA de Alagoas|ASA de Arapiraca|Agremiação Sportiva Arapiraquense, ASA, city:Arapiraca
-
-### state Mato Grosso (MT)
-cuiaba, Cuiaba|Cuiabá Esporte Clube, CUI, city:cuiaba
-
-### state Rio Grande do Norte (RN)
 abcrn, ABC|ABC de Natal|ABC Futebol Clube, ABC, city:natal
 americanatal, América de Natal|América RN|América|América Futebol Clube, AME, city:natal
-
-### state Paraiba (PB)
+macae, Macaé|Macaé Esporte Futebol Clube, MAC, city:macae
+salgueirope, Salgueiro|Salgueiro Atlético Clube, SAL, city:salgueiro
+fortaleza, Fortaleza|Fortaleza Esporte Clube, FOR, city:fortaleza
+remo, Remo|Clube do Remo|, REM, city:belem
+asaal, ASA|ASA de Alagoas|ASA de Arapiraca|Agremiação Sportiva Arapiraquense, ASA, city:Arapiraca
+cuiaba, Cuiaba|Cuiabá Esporte Clube, CUI, city:cuiaba
 botafogopb, Botafogo da Paraiba|Botafogo PB|Botafogo Futebol Clube, BPB, city:joaopessoa
-
-### state Piaui (PI)
 riverpb, River da Paraiba|River PI|River Atlético Clube, RIV, city:teresina
 
-
-##########
 # 2015
-##########
 # 2014
-##########
 # 2013
 
 
