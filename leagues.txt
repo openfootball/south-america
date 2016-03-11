@@ -3,7 +3,7 @@ br.b,       Campeonato Brasileiro Série B
 br.c,       Campeonato Brasileiro Série C
 br.d,  	    Campeonato Brasileiro Série D
 
-br.rs.1,     Gauchão - Campeonato Estadual Gaúcho
-br.rs.2,	 Divisão de Acesso Gaúcha - Segunda divisão Campeonato Estadual Gaúcho
-br.sp.1,     Paulistão - Campeonato Estadual Paulista
-br.rj.1,     Campeonato Estadual Carioca
+br.rs,    	Gauchão - Campeonato Estadual Gaúcho
+br.rs.2,	Divisão de Acesso Gaúcha - Segunda divisão Campeonato Estadual Gaúcho
+br.sp,     	Paulistão - Campeonato Estadual Paulista
+br.rj,     	Campeonato Estadual Carioca
