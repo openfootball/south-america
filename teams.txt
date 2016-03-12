@@ -203,24 +203,15 @@ anapolina, Anapolina|Anapolina GO|Associação Atlética Anapolina, AAA, city:an
 goianesia, Goianésia|Goianésia Esporte Clube, GNS, city:goianesia
 
 
-# state championship of PE (Campeonato Pernambucano)
-
-
 # state championship of CE (Campeonato Cearense)
+uniclinic, Uniclinic|Uniclinic Atlético Clube, UNI, city:fortaleza
+maranguape, Maranguape|Maranguape Futebol Clube, MAR, city:maranguape
+icasace, Icasa|Icasa CE|Associação Desportiva Recreativa Cultural Icasa, ICA, city:juazeirodonorte
+itapipoca, Itapipoca|Itapipoca Esporte Clube, ITP, city:itapipoca
+guaranice, Guarani CE|Guarani de Juazeiro|Guarani Esporte Clube CE, GJZ, city:juazeirodonorte
+guaranyce, Guarany de Sobral|Guarani CE|Guarany Sporting Club, GSO, city:sobral
+tiradentesce, Tiradentes CE|Associação Esportiva Tiradentes, TIR, city:fortaleza
+quixada, Quixadá|Quixadá Futebol Clube, QUI, city:quixada
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# state championship of PE (Campeonato Pernambucano)
