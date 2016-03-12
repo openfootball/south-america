@@ -104,6 +104,25 @@ saojosepoa, São José de Porto Alegre|São José POA|São José RS|EC São Jos�
 saopaulors, São Paulo de Rio Grande|São Paulo RS|Sport Club São Paulo, SRG, city:riogrande
 veranopolis, Veranópolis|Veranópolis Esporte Clube Recreativo e Cultural, VEC, city"veranopolis
 
+# lower division of RS (Gauchão - Divisão de acesso)
+santoangelo, Santo Ângelo|Associação Esportiva e Recreativa Santo Ângelo, SAN, city:santoangelo
+esportivors, Esportivo|Esportivo de Bento|Clube Esportivo Bento Gonçalves, EBG, city:bentogoncalves
+avenida, Avenida|Avenida de Santa Cruz|Esporte Clube Avenida, AVE, city:santacruzdosul
+intersm, Inter de SM|Inter de Santa Maria|Esporte Clube Internacional, ISM, city:santamaria
+guaraniva, Guarani de Venâncio|Guarani de Venâncio Aires|Esporte Clube Guarani, GVA, city:venancioaires
+ecpelotas, Pelotas|Esporte Clube Pelotas, ECP, city:pelotas
+saogabriel, São Gabriel|Esporte Clube São Gabriel, SGA, city:saogabriel
+saoluizijui, São Luiz de Ijui|São Luiz|Esporte Clube São Luiz, SLU, cityïjui
+marau, Marau|Futebol Clube Marau, MAR, city:marau
+santacruzrs, Santa Cruz|Futebol Clube Santa Cruz, SCZ, city:santacruzdosul
+riograndensesm, Riograndense|Riograndense Futebol Clube, RIO, city:santamaria
+brasilfarroupilha, Brasil de Farroupilha|Sociedade Esportiva Recreativa e Cultural Brasil, BRA, city:farroupilha
+sercaxias, Caxias|SER Caxias|Sociedade Esportiva e Recreativa Caxias do Sul, CAX, city:caxiasdosul
+panambi, Panambi|SER Panambi|Sociedade Esportiva Recreativa Panambi, PAN, city:panambi
+tupyrs, Tupy|Tupy RS|Tupy Futebol Clube, TUP, city:crissiumal
+uniaofrederiquense, União Frederiquense|União Frederiquense de Futebol, UFF, city:fredericowestphalen
+
+
 
 # state championship of SP (Paulistão)
 aguasantasp, Agua Santa|Agua Santa SP|Esporte Clube Água Santa, AGS, city:diadema
