@@ -194,6 +194,13 @@ jacuipense, Jacuipense|Esporte Clube Jacuipense, JAC, city:riachaodojacuipe
 
 
 # state championship of GO (Campeonato Goiano)
+anapolisgo, Anapolis|Anápolis Futebol Clube, AFC, city:anapolis
+cracgo, CRAC|CRAC GO|Clube Recreativo e Atlético Catalano, CRA, city:catalaogo
+itumbiara, Itumbiara|Itumbiara Esporte Clube, ITB, city:itumbiara
+trindade, Trindade|Trindade Atlético Clube, TRI, city:trindadego
+aparecidense, Aparecidense|Associação Atlética Aparecidense, APA, city:aparecidadegoiania
+anapolina, Anapolina|Anapolina GO|Associação Atlética Anapolina, AAA, city:anapolis
+goianesia, Goianésia|Goianésia Esporte Clube, GNS, city:goianesia
 
 
 # state championship of PE (Campeonato Pernambucano)
