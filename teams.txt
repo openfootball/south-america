@@ -215,3 +215,11 @@ quixada, Quixadá|Quixadá Futebol Clube, QUI, city:quixada
 
 
 # state championship of PE (Campeonato Pernambucano)
+americape, América Pe|América Futebol Clube, AME, city:recife
+atleticope, Atlético PE|Clube Atlético Pernambucano, CAP, city:carpina
+belojardim, Belo Jardim|Belo Jardim Futebol Clube, BJD, city:belojardim
+centralpe, Central PE|Central Sport Club, CEN, city:caruaru
+pesqueira, Pesqueira|Pesqueira Futebol Clube, PES, city:pesqueira
+portodecaruaru, Porto PE|Porto de Caruaru|Clube Atlético do Porto, POR, city:caruaru
+serra talhada, Serra Talhada|Serra Talhada Futebol Clube, STL, city:serratalhada
+vitoriadastabocas, Vitória PE|Associação Acadêmica e Desportiva Vitória das Tabocas, VPE, city:vitoriadesantoantao
