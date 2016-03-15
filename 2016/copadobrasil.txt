@@ -1,0 +1,100 @@
+
+###################################
+# Copa do Brasil 2016
+# br.cup
+
+Primeira fase
+[Qua 16/03]
+	Goianésia             -  ABC                 
+	Linense               -  Botafogo-PB         
+	Parauapebas           -  Londrina            
+	Rio Branco-ES        -  Santa Cruz          
+	Confiança-SE          -  Flamengo            
+	Imperatriz            -  Fortaleza           
+	Globo                 -  Bahia               
+[Qui 17/03]
+	Vitória da Conquista  -  Náutico             
+	Ferroviária           -  Salgueiro           
+	Ypiranga              -  Atlético-GO         
+	Brasil de Pelotas     -  Atlético-PR         
+[Ter 05/04]
+	Coruripe              -  Botafogo            
+[Qua 06/04]
+	Inter de Lages        -  Sampaio Corrêa      
+	Santa Cruz            -  Rio Branco-ES      
+	Bahia                 -  Globo               
+	Resende               -  Ceará               
+	Tocantinópolis-TO     -  Juventude           
+	Estanciano            -  Paraná              
+	Salgueiro             -  Ferroviária         
+	Princesa              -  Chapecoense         
+	Ivinhema-MS           -  CRB                 
+	Tombense              -  Fluminense          
+	Aparecidense          -  Sport               
+[Qui 07/04]
+	Atlético-GO           -  Ypiranga            
+	Red Bull Brasil       -  América-MG          
+	Ríver-PI              -  Goiás               
+	Londrina              -  Parauapebas         
+	Caldense              -  Ponte Preta         
+	Náutico               -  Vitória da Conquista
+[Ter 12/04]
+	Operário-PR          -  Criciúma            
+[Qua 13/04]
+	Parnahyba             -  Portuguesa          
+	Juazeirense           -  Cuiabá              
+	Náutico-RR            -  Vitória-BA          
+	Campinense            -  Cruzeiro            
+	Flamengo              -  Confiança-SE        
+[Qui 14/04]
+	Atlético-PR           -  Brasil de Pelotas   
+	Chapecoense           -  Princesa            
+	Lajeadense            -  Figueirense         
+	Ponte Preta           -  Caldense            
+	Fluminense            -  Tombense            
+	Genus                 -  Coritiba            
+[Ter 19/04]
+	Botafogo-PB           -  Linense             
+[Qua 20/04]
+	Goiás                 -  Ríver-PI            
+	Brasília              -  Bragantino          
+	Gama                 -  América-RN          
+	Figueirense           -  Lajeadense          
+	Sampaio Corrêa        -  Inter de Lages      
+	Independente-PA       -  Paysandu            
+	ABC                   -  Goianésia           
+	CRB                   -  Ivinhema-MS         
+	Genus                 -  ASA                 
+	Dom Bosco             -  Nacional-AM         
+	Galvez-AC             -  Rio Branco-AC      
+	Comercial-MS          -  Joinville           
+	Remo                  -  Vasco               
+	Cruzeiro              -  Campinense          
+[Qui 21/04]
+	Paraná                -  Estanciano          
+	Operário-MT           -  Avaí                
+	Santos-AP             -  Santos              
+[Ter 26/04]
+	Joinville             -  Comercial-MS        
+	Bragantino            -  Brasília            
+	América-MG            -  Red Bull Brasil     
+	Portuguesa            -  Parnahyba           
+	Juventude             -  Tocantinópolis-TO   
+[Qua 27/04]
+	Coritiba              -  Genus               
+	Vitória-BA            -  Náutico-RR          
+	Ceará                 -  Resende             
+	América-RN            -  Gama               
+	Paysandu              -  Independente-PA     
+	Cuiabá                -  Juazeirense         
+	Rio Branco-AC        -  Galvez-AC           
+	Nacional-AM           -  Dom Bosco           
+	Vasco                 -  Remo                
+	Sport                 -  Aparecidense        
+[Qui 28/04]
+	Avaí                  -  Operário-MT         
+	Fortaleza             -  Imperatriz          
+	Criciúma              -  Operário-PR        
+	Santos                -  Santos-AP           
+	ASA                   -  Genus               
+	Botafogo              -  Coruripe            
