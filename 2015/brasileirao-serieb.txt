@@ -1,0 +1,544 @@
+
+Rodada 1
+[Sex 08/05]
+	ABC              0 - 1 Oeste           
+	Atlético-GO      1 - 0 Boa Esporte     
+	Paraná           1 - 0 Ceará           
+	Mogi Mirim       1 - 2 Criciúma        
+[Sab 09/05]
+	América-MG       1 - 1 Bahia           
+	Vitória-BA       0 - 2 Sampaio Corrêa  
+	Macaé            2 - 0 Santa Cruz      
+	Náutico          1 - 0 Luverdense      
+	Paysandu         0 - 1 Botafogo        
+	CRB              2 - 0 Bragantino      
+
+Rodada 2
+[Sex 15/05]
+	Bahia            4 - 1 Mogi Mirim      
+	Sampaio Corrêa   3 - 1 Macaé           
+	Santa Cruz       4 - 1 Paraná          
+	Criciúma         0 - 2 ABC             
+[Sab 16/05]
+	Oeste            1 - 2 Vitória-BA      
+	Botafogo         4 - 1 CRB             
+	Bragantino       1 - 0 Paysandu        
+	Boa Esporte      0 - 1 Náutico         
+	Ceará            2 - 0 Atlético-GO     
+	Luverdense       1 - 0 América-MG      
+
+Rodada 3
+[Ter 19/05]
+	Macaé            4 - 2 Oeste           
+	Náutico          2 - 0 Criciúma        
+[Sex 22/05]
+	Vitória-BA       4 - 1 Bragantino      
+	Mogi Mirim       1 - 1 Sampaio Corrêa  
+[Sab 23/05]
+	América-MG       4 - 1 Santa Cruz      
+	Paraná           1 - 1 Boa Esporte     
+	Paysandu         2 - 1 Ceará           
+	Atlético-GO      0 - 0 Botafogo        
+	CRB              0 - 3 Bahia           
+	ABC              1 - 1 Luverdense      
+
+Rodada 4
+[Ter 26/05]
+	Ceará            1 - 1 CRB             
+[Sex 29/05]
+	Bragantino       0 - 1 América-MG      
+	Santa Cruz       0 - 1 ABC             
+	Bahia            1 - 0 Paraná          
+[Sab 30/05]
+	Botafogo         2 - 0 Vitória-BA      
+	Boa Esporte      0 - 1 Paysandu        
+	Criciúma         1 - 0 Atlético-GO     
+	Sampaio Corrêa   1 - 1 Náutico         
+	Luverdense       1 - 2 Macaé           
+	Oeste            0 - 0 Mogi Mirim      
+
+Rodada 5
+[Ter 02/06]
+	Vitória-BA       2 - 1 Criciúma        
+	Mogi Mirim       0 - 2 Boa Esporte     
+	América-MG       1 - 0 Sampaio Corrêa  
+	Paysandu         2 - 1 Santa Cruz      
+	Náutico          2 - 0 Ceará           
+	ABC              1 - 1 Bragantino      
+	Atlético-GO      0 - 1 Luverdense      
+	CRB              3 - 0 Oeste           
+	Paraná           1 - 2 Botafogo        
+	Macaé            0 - 0 Bahia           
+
+Rodada 6
+[Sex 05/06]
+	Vitória-BA       3 - 1 Atlético-GO     
+	Náutico          2 - 1 América-MG      
+	Botafogo         3 - 0 Mogi Mirim      
+[Sab 06/06]
+	Bragantino       2 - 0 Bahia           
+	Ceará            1 - 3 Sampaio Corrêa  
+	Luverdense       2 - 2 Santa Cruz      
+	Criciúma         0 - 3 Macaé           
+	Paysandu         2 - 1 Paraná          
+	CRB              0 - 1 ABC             
+	Boa Esporte      1 - 2 Oeste           
+
+Rodada 7
+[Ter 09/06]
+	Paraná           1 - 0 Luverdense      
+	Oeste            0 - 1 Botafogo        
+[Sex 12/06]
+	Sampaio Corrêa   3 - 1 Criciúma        
+	ABC              0 - 2 Paysandu        
+	Santa Cruz       0 - 0 Boa Esporte     
+[Sab 13/06]
+	Atlético-GO      2 - 0 Náutico         
+	Bahia            1 - 0 Ceará           
+	Mogi Mirim       1 - 1 Vitória-BA      
+	América-MG       1 - 0 CRB             
+	Macaé            2 - 5 Bragantino      
+
+Rodada 8
+[Ter 16/06]
+	Náutico          1 - 1 Paysandu        
+	Luverdense       0 - 1 Criciúma        
+[Sex 19/06]
+	Paraná           3 - 1 Mogi Mirim      
+	Sampaio Corrêa   0 - 0 Bahia           
+	Botafogo         1 - 1 Boa Esporte     
+[Sab 20/06]
+	Vitória-BA       2 - 0 ABC             
+	América-MG       1 - 0 Atlético-GO     
+	Ceará            3 - 3 Santa Cruz      
+	Bragantino       3 - 1 Oeste           
+	CRB              3 - 1 Macaé           
+
+Rodada 9
+[Ter 23/06]
+	Criciúma         2 - 2 América-MG      
+	Paysandu         1 - 0 Vitória-BA      
+[Sex 26/06]
+	Atlético-GO      1 - 1 Paraná          
+	Oeste            2 - 0 Ceará           
+[Sab 27/06]
+	Santa Cruz       1 - 0 Sampaio Corrêa  
+	ABC              3 - 3 Náutico         
+	Bahia            1 - 0 Luverdense      
+	Macaé            4 - 2 Botafogo        
+	Mogi Mirim       0 - 1 CRB             
+	Boa Esporte      3 - 0 Bragantino      
+
+Rodada 10
+[Ter 30/06]
+	Paysandu         2 - 0 Atlético-GO     
+	Luverdense       3 - 0 Ceará           
+[Sex 03/07]
+	Paraná           0 - 0 Criciúma        
+	Botafogo         5 - 0 Sampaio Corrêa  
+[Sab 04/07]
+	Bragantino       1 - 2 Santa Cruz      
+	Vitória-BA       4 - 1 Bahia           
+	Náutico          2 - 1 Oeste           
+	ABC              1 - 1 Macaé           
+	CRB              1 - 1 Boa Esporte     
+	América-MG       3 - 1 Mogi Mirim      
+
+Rodada 11
+[Ter 07/07]
+	Bahia            2 - 0 Paysandu        
+	Macaé            1 - 1 América-MG      
+	Mogi Mirim       2 - 1 Náutico         
+	Boa Esporte      0 - 0 Vitória-BA      
+	Criciúma         1 - 0 Bragantino      
+	Sampaio Corrêa   3 - 1 Luverdense      
+	Atlético-GO      1 - 2 ABC             
+	Oeste            1 - 0 Paraná          
+	Santa Cruz       2 - 1 CRB             
+	Ceará            0 - 0 Botafogo        
+
+Rodada 12
+[Sex 10/07]
+	Macaé            2 - 1 Paysandu        
+	Ceará            1 - 1 Criciúma        
+	Atlético-GO      1 - 1 Mogi Mirim      
+	Bragantino       1 - 0 Botafogo        
+[Sab 11/07]
+	América-MG       2 - 1 ABC             
+	Paraná           0 - 1 Vitória-BA      
+	Sampaio Corrêa   3 - 0 Boa Esporte     
+	Náutico          2 - 1 Santa Cruz      
+	CRB              0 - 0 Luverdense      
+	Bahia            1 - 0 Oeste           
+
+Rodada 13
+[Ter 14/07]
+	Mogi Mirim       3 - 1 Macaé           
+	ABC              1 - 4 Paraná          
+[Sex 17/07]
+	Luverdense       2 - 1 Bragantino      
+	Vitória-BA       3 - 1 CRB             
+[Sab 18/07]
+	Botafogo         1 - 0 Náutico         
+	Criciúma         2 - 1 Bahia           
+	Paysandu         1 - 1 Sampaio Corrêa  
+	Santa Cruz       3 - 0 Atlético-GO     
+	Oeste            3 - 1 América-MG      
+	Boa Esporte      0 - 0 Ceará           
+
+Rodada 14
+[Ter 21/07]
+	Macaé            0 - 0 Paraná          
+[Sex 24/07]
+	América-MG       2 - 0 Boa Esporte     
+	Bragantino       0 - 1 Atlético-GO     
+[Sab 25/07]
+	Bahia            1 - 1 Botafogo        
+	CRB              3 - 0 Paysandu        
+	Criciúma         0 - 0 Santa Cruz      
+	Sampaio Corrêa   3 - 2 ABC             
+	Náutico          2 - 1 Vitória-BA      
+	Ceará            2 - 3 Mogi Mirim      
+	Luverdense       1 - 1 Oeste           
+
+Rodada 15
+[Ter 28/07]
+	Mogi Mirim       2 - 3 Bragantino      
+	Boa Esporte      2 - 1 Luverdense      
+	Paraná           2 - 0 Náutico         
+	Paysandu         2 - 0 América-MG      
+	Santa Cruz       3 - 1 Bahia           
+	ABC              0 - 1 Ceará           
+	Vitória-BA       0 - 0 Macaé           
+	Oeste            1 - 0 Sampaio Corrêa  
+	Botafogo         0 - 0 Criciúma        
+	Atlético-GO      1 - 0 CRB             
+
+Rodada 16
+[Sex 31/07]
+	Boa Esporte      1 - 1 Criciúma        
+	Paysandu         1 - 1 Mogi Mirim      
+	ABC              0 - 3 Bahia           
+[Sab 01/08]
+	Atlético-GO      3 - 1 Sampaio Corrêa  
+	Oeste            1 - 0 Santa Cruz      
+	Náutico          1 - 1 Macaé           
+	Paraná           0 - 0 CRB             
+	Vitória-BA       1 - 1 América-MG      
+	Botafogo         0 - 0 Luverdense      
+	Bragantino       3 - 0 Ceará           
+
+Rodada 17
+[Ter 04/08]
+	América-MG       2 - 0 Paraná          
+	Sampaio Corrêa   2 - 0 Bragantino      
+[Sex 07/08]
+	Criciúma         3 - 2 Oeste           
+	Luverdense       1 - 0 Paysandu        
+	Bahia            4 - 1 Boa Esporte     
+[Sab 08/08]
+	Macaé            0 - 1 Atlético-GO     
+	CRB              1 - 0 Náutico         
+	Santa Cruz       1 - 0 Botafogo        
+	Ceará            1 - 2 Vitória-BA      
+	Mogi Mirim       2 - 2 ABC             
+
+Rodada 18
+[Ter 11/08]
+	Bahia            1 - 1 Náutico         
+	Criciúma         1 - 0 Paysandu        
+	Sampaio Corrêa   1 - 0 CRB             
+	Santa Cruz       2 - 1 Mogi Mirim      
+	Ceará            0 - 2 América-MG      
+	Oeste            0 - 0 Atlético-GO     
+	Luverdense       0 - 2 Vitória-BA      
+	Botafogo         3 - 1 ABC             
+	Bragantino       2 - 1 Paraná          
+	Boa Esporte      2 - 1 Macaé           
+
+Rodada 19
+[Sex 14/08]
+	Paraná           1 - 0 Sampaio Corrêa  
+	Vitória-BA       2 - 1 Santa Cruz      
+	Atlético-GO      1 - 1 Bahia           
+[Sab 15/08]
+	CRB              3 - 1 Criciúma        
+	Paysandu         3 - 1 Oeste           
+	Náutico          3 - 1 Bragantino      
+	ABC              0 - 1 Boa Esporte     
+	América-MG       1 - 2 Botafogo        
+	Macaé            1 - 2 Ceará           
+	Mogi Mirim       1 - 1 Luverdense      
+
+Rodada 20
+[Sex 21/08]
+	Criciúma         0 - 0 Mogi Mirim      
+	Santa Cruz       1 - 0 Macaé           
+[Sab 22/08]
+	Sampaio Corrêa   1 - 0 Vitória-BA      
+	Bahia            1 - 1 América-MG      
+	Bragantino       2 - 1 CRB             
+	Boa Esporte      2 - 2 Atlético-GO     
+	Luverdense       5 - 1 Náutico         
+	Oeste            1 - 1 ABC             
+[Dom 23/08]
+	Botafogo         2 - 3 Paysandu        
+	Ceará            4 - 3 Paraná          
+
+Rodada 21
+[Ter 25/08]
+	Vitória-BA       1 - 1 Oeste           
+	ABC              2 - 2 Criciúma        
+[Sex 28/08]
+	América-MG       1 - 2 Luverdense      
+	CRB              2 - 1 Botafogo        
+[Sab 29/08]
+	Paraná           3 - 2 Santa Cruz      
+	Paysandu         2 - 0 Bragantino      
+	Náutico          1 - 0 Boa Esporte     
+	Atlético-GO      3 - 2 Ceará           
+	Macaé            1 - 1 Sampaio Corrêa  
+	Mogi Mirim       1 - 1 Bahia           
+
+Rodada 22
+[Ter 01/09]
+	Criciúma         1 - 0 Náutico         
+	Ceará            0 - 0 Paysandu        
+	Luverdense       1 - 1 ABC             
+	Sampaio Corrêa   3 - 1 Mogi Mirim      
+	Santa Cruz       2 - 1 América-MG      
+	Bahia            3 - 2 CRB             
+	Bragantino       2 - 1 Vitória-BA      
+	Boa Esporte      1 - 2 Paraná          
+	Botafogo         4 - 0 Atlético-GO     
+	Oeste            1 - 2 Macaé           
+
+Rodada 23
+[Sex 04/09]
+	Mogi Mirim       0 - 0 Oeste           
+	Náutico          1 - 1 Sampaio Corrêa  
+	ABC              1 - 1 Santa Cruz      
+	CRB              1 - 3 Ceará           
+	Paraná           1 - 0 Bahia           
+	Macaé            1 - 3 Luverdense      
+[Sab 05/09]
+	Vitória-BA       1 - 2 Botafogo        
+	América-MG       1 - 2 Bragantino      
+	Paysandu         3 - 0 Boa Esporte     
+[Ter 22/09]
+	Atlético-GO      0 - 0 Criciúma        
+
+Rodada 24
+[Seg 07/09]
+	Oeste            0 - 0 CRB             
+	Ceará            1 - 0 Náutico         
+[Ter 08/09]
+	Sampaio Corrêa   0 - 2 América-MG      
+	Santa Cruz       1 - 2 Paysandu        
+	Bahia            1 - 0 Macaé           
+	Botafogo         2 - 1 Paraná          
+	Bragantino       3 - 1 ABC             
+	Boa Esporte      0 - 1 Mogi Mirim      
+	Criciúma         2 - 3 Vitória-BA      
+	Luverdense       1 - 1 Atlético-GO     
+
+Rodada 25
+[Sex 11/09]
+	Bahia            3 - 2 Bragantino      
+	Paraná           1 - 1 Paysandu        
+	Oeste            2 - 1 Boa Esporte     
+	Mogi Mirim       0 - 3 Botafogo        
+[Sab 12/09]
+	América-MG       2 - 1 Náutico         
+	Sampaio Corrêa   1 - 0 Ceará           
+	Santa Cruz       2 - 0 Luverdense      
+	ABC              0 - 0 CRB             
+	Atlético-GO      0 - 0 Vitória-BA      
+	Macaé            1 - 1 Criciúma        
+
+Rodada 26
+[Ter 15/09]
+	Bragantino       2 - 2 Macaé           
+	Ceará            2 - 2 Bahia           
+	Luverdense       2 - 0 Paraná          
+	CRB              1 - 0 América-MG      
+	Criciúma         1 - 1 Sampaio Corrêa  
+	Paysandu         3 - 2 ABC             
+	Náutico          1 - 1 Atlético-GO     
+	Vitória-BA       4 - 1 Mogi Mirim      
+	Botafogo         1 - 1 Oeste           
+	Boa Esporte      1 - 3 Santa Cruz      
+
+Rodada 27
+[Sex 18/09]
+	ABC              0 - 0 Vitória-BA      
+	Atlético-GO      1 - 1 América-MG      
+	Boa Esporte      0 - 1 Botafogo        
+[Sab 19/09]
+	Bahia            1 - 1 Sampaio Corrêa  
+	Oeste            1 - 1 Bragantino      
+	Paysandu         0 - 1 Náutico         
+	Santa Cruz       2 - 1 Ceará           
+	Mogi Mirim       1 - 2 Paraná          
+	Macaé            0 - 0 CRB             
+	Criciúma         0 - 1 Luverdense      
+
+Rodada 28
+[Ter 22/09]
+	Botafogo         2 - 1 Macaé           
+	Bragantino       2 - 1 Boa Esporte     
+[Sex 25/09]
+	América-MG       2 - 1 Criciúma        
+[Sab 26/09]
+	Sampaio Corrêa   0 - 0 Santa Cruz      
+	Náutico          3 - 0 ABC             
+	Ceará            1 - 1 Oeste           
+	Vitória-BA       3 - 1 Paysandu        
+	CRB              2 - 1 Mogi Mirim      
+	Luverdense       2 - 2 Bahia           
+	Paraná           1 - 2 Atlético-GO     
+
+Rodada 29
+[Ter 29/09]
+	Santa Cruz       3 - 1 Bragantino      
+	Ceará            0 - 1 Luverdense      
+[Sex 02/10]
+	Criciúma         0 - 0 Paraná          
+	Sampaio Corrêa   2 - 2 Botafogo        
+[Sab 03/10]
+	Bahia            1 - 3 Vitória-BA      
+	Macaé            3 - 1 ABC             
+	Atlético-GO      2 - 1 Paysandu        
+	Oeste            2 - 0 Náutico         
+	Boa Esporte      1 - 3 CRB             
+	Mogi Mirim       1 - 2 América-MG      
+
+Rodada 30
+[Ter 06/10]
+	Bragantino       2 - 0 Criciúma        
+	América-MG       1 - 0 Macaé           
+	Paraná           1 - 1 Oeste           
+	Náutico          1 - 0 Mogi Mirim      
+	ABC              1 - 1 Atlético-GO     
+	CRB              3 - 2 Santa Cruz      
+	Luverdense       2 - 1 Sampaio Corrêa  
+	Paysandu         0 - 0 Bahia           
+[Sab 10/10]
+	Vitória-BA       2 - 1 Boa Esporte     
+[Ter 20/10]
+	Botafogo         0 - 1 Ceará           
+
+Rodada 31
+[Sex 16/10]
+	Boa Esporte      2 - 2 Sampaio Corrêa  
+	Vitória-BA       1 - 1 Paraná          
+[Sab 17/10]
+	Botafogo         4 - 0 Bragantino      
+	Mogi Mirim       0 - 2 Atlético-GO     
+	Criciúma         3 - 0 Ceará           
+	Santa Cruz       1 - 3 Náutico         
+	ABC              4 - 2 América-MG      
+	Oeste            0 - 1 Bahia           
+	Luverdense       2 - 0 CRB             
+	Paysandu         1 - 1 Macaé           
+
+Rodada 32
+[Ter 20/10]
+	Bahia            1 - 0 Criciúma        
+[Sex 23/10]
+	Macaé            1 - 0 Mogi Mirim      
+	América-MG       2 - 1 Oeste           
+[Sab 24/10]
+	Sampaio Corrêa   2 - 0 Paysandu        
+	Náutico          1 - 4 Botafogo        
+	Atlético-GO      0 - 0 Santa Cruz      
+	CRB              0 - 0 Vitória-BA      
+	Ceará            2 - 1 Boa Esporte     
+	Bragantino       3 - 2 Luverdense      
+[Ter 27/10]
+	Paraná           0 - 0 ABC             
+
+Rodada 33
+	Boa Esporte      1 - 2 América-MG      
+	Oeste            1 - 0 Luverdense      
+	Santa Cruz       2 - 0 Criciúma        
+[Sex 30/10]
+	Atlético-GO      0 - 1 Bragantino      
+	Paraná           3 - 0 Macaé           
+[Sab 31/10]
+	Vitória-BA       2 - 3 Náutico         
+	Botafogo         1 - 0 Bahia           
+	Mogi Mirim       0 - 2 Ceará           
+	Paysandu         5 - 1 CRB             
+	ABC              2 - 3 Sampaio Corrêa  
+
+Rodada 34
+[Ter 03/11]
+	Bragantino       3 - 1 Mogi Mirim      
+	América-MG       3 - 1 Paysandu        
+[Sex 06/11]
+	Ceará            3 - 0 ABC             
+	Luverdense       2 - 0 Boa Esporte     
+[Sab 07/11]
+	Bahia            1 - 2 Santa Cruz      
+	Macaé            0 - 2 Vitória-BA      
+	Criciúma         1 - 0 Botafogo        
+	Náutico          2 - 0 Paraná          
+	Sampaio Corrêa   1 - 1 Oeste           
+	CRB              4 - 1 Atlético-GO     
+
+Rodada 35
+[Ter 10/11]
+	Macaé            1 - 1 Náutico         
+	Mogi Mirim       1 - 1 Paysandu        
+	América-MG       4 - 0 Vitória-BA      
+	Criciúma         3 - 0 Boa Esporte     
+	Sampaio Corrêa   2 - 0 Atlético-GO     
+	Santa Cruz       3 - 1 Oeste           
+	Ceará            3 - 0 Bragantino      
+	Luverdense       0 - 1 Botafogo        
+	CRB              2 - 0 Paraná          
+	Bahia            2 - 2 ABC             
+
+Rodada 36
+[Sex 13/11]
+	Paysandu         3 - 2 Luverdense      
+	ABC              3 - 1 Mogi Mirim      
+	Oeste            1 - 1 Criciúma        
+[Sab 14/11]
+	Náutico          1 - 1 CRB             
+	Vitória-BA       1 - 0 Ceará           
+	Botafogo         0 - 3 Santa Cruz      
+	Bragantino       3 - 0 Sampaio Corrêa  
+	Boa Esporte      3 - 0 Bahia           
+	Paraná           1 - 0 América-MG      
+	Atlético-GO      3 - 4 Macaé           
+
+Rodada 37
+[Sex 20/11]
+	Atlético-GO      3 - 1 Oeste           
+	Macaé            1 - 1 Boa Esporte     
+	ABC              1 - 2 Botafogo        
+[Sab 21/11]
+	Vitória-BA       3 - 0 Luverdense      
+	CRB              2 - 1 Sampaio Corrêa  
+	Mogi Mirim       0 - 3 Santa Cruz      
+	América-MG       1 - 1 Ceará           
+	Paraná           0 - 2 Bragantino      
+	Paysandu         1 - 0 Criciúma        
+	Náutico          1 - 0 Bahia           
+
+Rodada 38
+[Ter 24/11]
+	Boa Esporte      2 - 0 ABC             
+[Sex 27/11]
+	Criciúma         2 - 1 CRB             
+	Luverdense       2 - 0 Mogi Mirim      
+[Sab 28/11]
+	Oeste            0 - 0 Paysandu        
+	Bahia            1 - 0 Atlético-GO     
+	Botafogo         0 - 0 América-MG      
+	Bragantino       0 - 2 Náutico         
+	Sampaio Corrêa   1 - 1 Paraná          
+	Santa Cruz       3 - 1 Vitória-BA      
+	Ceará            1 - 0 Macaé           

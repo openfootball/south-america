@@ -1,0 +1,539 @@
+
+Rodada 1
+[Sex 18/05]
+	Betim            1 - 1 ABC             
+	Ceará            1 - 2 América-MG      
+	CRB              0 - 2 Bragantino      
+[Sab 19/05]
+	Grêmio Barueri   0 - 1 Vitória-BA      
+	Joinville        1 - 4 Atlético-PR     
+	Criciúma         4 - 1 Guaratinguetá   
+	Paraná           1 - 1 Guarani         
+	América-RN       5 - 2 Goiás           
+	Boa Esporte      2 - 2 Avaí            
+	São Caetano      0 - 1 ASA             
+
+Rodada 2
+[Ter 22/05]
+	Avaí             1 - 0 São Caetano     
+[Sex 25/05]
+	Guarani          0 - 0 Boa Esporte     
+	ABC              0 - 0 Joinville       
+[Sab 26/05]
+	Bragantino       3 - 4 Criciúma        
+	Guaratinguetá    2 - 1 Ceará           
+	América-MG       4 - 0 CRB             
+	ASA              1 - 1 Grêmio Barueri  
+[Ter 05/06]
+	Goiás            2 - 0 Paraná          
+	Vitória-BA       2 - 2 América-RN      
+[Ter 10/07]
+	Atlético-PR      1 - 0 Betim           
+
+Rodada 3
+[Ter 29/05]
+	Joinville        2 - 0 Guarani         
+	América-RN       1 - 0 Avaí            
+	São Caetano      2 - 0 Bragantino      
+	CRB              3 - 1 Guaratinguetá   
+	Ceará            2 - 2 Goiás           
+	Grêmio Barueri   0 - 3 ABC             
+	Betim            1 - 0 ASA             
+	Paraná           0 - 1 América-MG      
+	Boa Esporte      2 - 1 Atlético-PR     
+	Criciúma         2 - 1 Vitória-BA      
+
+Rodada 4
+[Sex 01/06]
+	Guaratinguetá    0 - 2 América-RN      
+	Atlético-PR      3 - 0 Grêmio Barueri  
+	Goiás            1 - 0 CRB             
+[Sab 02/06]
+	Avaí             1 - 2 Joinville       
+	Guarani          4 - 1 Ceará           
+	América-MG       3 - 0 Criciúma        
+	ASA              3 - 2 Boa Esporte     
+	ABC              0 - 1 São Caetano     
+	Vitória-BA       4 - 0 Betim           
+	Bragantino       0 - 0 Paraná          
+
+Rodada 5
+[Ter 05/06]
+	São Caetano      1 - 1 América-MG      
+	Joinville        1 - 0 ASA             
+[Sex 08/06]
+	Boa Esporte      1 - 2 Vitória-BA      
+	Betim            1 - 2 Avaí            
+	América-RN       2 - 1 Bragantino      
+[Sab 09/06]
+	Criciúma         3 - 0 Goiás           
+	Grêmio Barueri   2 - 2 Guarani         
+	CRB              2 - 0 Atlético-PR     
+	Paraná           3 - 2 Guaratinguetá   
+	Ceará            4 - 2 ABC             
+
+Rodada 6
+[Ter 12/06]
+	Vitória-BA       1 - 0 Guarani         
+	Grêmio Barueri   1 - 2 Paraná          
+	Betim            1 - 2 Boa Esporte     
+[Sex 15/06]
+	Avaí             2 - 0 América-MG      
+	São Caetano      3 - 2 América-RN      
+[Sab 16/06]
+	Joinville        1 - 1 Ceará           
+	Atlético-PR      0 - 0 Goiás           
+	ABC              4 - 2 CRB             
+	Bragantino       1 - 0 Guaratinguetá   
+	ASA              1 - 2 Criciúma        
+
+Rodada 7
+[Ter 19/06]
+	América-MG       3 - 2 Bragantino      
+	América-RN       2 - 0 ASA             
+	CRB              2 - 2 São Caetano     
+[Sex 22/06]
+	Guaratinguetá    1 - 1 Avaí            
+	Paraná           2 - 0 Joinville       
+[Sab 23/06]
+	Ceará            1 - 0 Atlético-PR     
+	Goiás            4 - 3 Vitória-BA      
+	Criciúma         3 - 2 Betim           
+	Guarani          1 - 1 ABC             
+	Boa Esporte      4 - 1 Grêmio Barueri  
+
+Rodada 8
+[Ter 26/06]
+	Grêmio Barueri   0 - 1 América-MG      
+	Goiás            1 - 1 Guaratinguetá   
+	Betim            1 - 2 Ceará           
+[Sex 29/06]
+	América-RN       1 - 0 Guarani         
+	ASA              3 - 1 ABC             
+[Sab 30/06]
+	Criciúma         2 - 0 CRB             
+	São Caetano      1 - 1 Paraná          
+	Vitória-BA       2 - 0 Avaí            
+	Atlético-PR      0 - 0 Bragantino      
+	Boa Esporte      0 - 0 Joinville       
+
+Rodada 9
+[Ter 03/07]
+	Guarani          1 - 0 Betim           
+	Guaratinguetá    0 - 1 São Caetano     
+[Sex 06/07]
+	Ceará            2 - 2 Criciúma        
+	Joinville        4 - 0 Grêmio Barueri  
+	Avaí             2 - 0 ASA             
+[Sab 07/07]
+	América-MG       3 - 2 Atlético-PR     
+	ABC              0 - 1 Vitória-BA      
+	CRB              4 - 2 América-RN      
+	Bragantino       3 - 3 Goiás           
+	Paraná           2 - 0 Boa Esporte     
+
+Rodada 10
+[Ter 10/07]
+	Vitória-BA       4 - 3 Paraná          
+	Criciúma         4 - 3 Boa Esporte     
+	Guaratinguetá    2 - 1 ASA             
+[Sex 13/07]
+	Goiás            2 - 0 América-MG      
+	Betim            0 - 3 Grêmio Barueri  
+[Sab 14/07]
+	Atlético-PR      2 - 1 ABC             
+	São Caetano      1 - 0 Joinville       
+	América-RN       1 - 1 Ceará           
+	CRB              2 - 0 Avaí            
+	Bragantino       0 - 0 Guarani         
+
+Rodada 11
+[Ter 17/07]
+	Ceará            2 - 2 São Caetano     
+	Joinville        6 - 0 Betim           
+	Guarani          1 - 2 Goiás           
+	Boa Esporte      0 - 0 CRB             
+	ASA              2 - 3 Vitória-BA      
+	América-MG       2 - 1 Guaratinguetá   
+	Avaí             1 - 2 Atlético-PR     
+	Grêmio Barueri   0 - 0 Bragantino      
+	Paraná           1 - 0 América-RN      
+	ABC              2 - 2 Criciúma        
+
+Rodada 12
+[Sex 20/07]
+	América-RN       2 - 1 Betim           
+	São Caetano      3 - 0 Grêmio Barueri  
+	América-MG       1 - 1 Guarani         
+	Guaratinguetá    0 - 0 Boa Esporte     
+[Sab 21/07]
+	Ceará            3 - 2 ASA             
+	Atlético-PR      0 - 1 Vitória-BA      
+	Goiás            2 - 0 Avaí            
+	CRB              4 - 3 Joinville       
+	Criciúma         2 - 1 Paraná          
+	Bragantino       1 - 2 ABC             
+
+Rodada 13
+[Ter 24/07]
+	Boa Esporte      2 - 1 América-MG      
+	ASA              0 - 1 Goiás           
+	Joinville        1 - 0 América-RN      
+[Sex 27/07]
+	Grêmio Barueri   1 - 4 Criciúma        
+	Avaí             1 - 0 Bragantino      
+[Sab 28/07]
+	Guarani          2 - 1 Atlético-PR     
+	Vitória-BA       1 - 0 CRB             
+	Paraná           1 - 0 Ceará           
+	ABC              3 - 0 Guaratinguetá   
+	Betim            1 - 2 São Caetano     
+
+Rodada 14
+[Ter 31/07]
+	América-MG       0 - 2 Joinville       
+	Goiás            1 - 1 ABC             
+	Criciúma         2 - 1 Guarani         
+	Paraná           1 - 1 Avaí            
+	Ceará            1 - 1 Boa Esporte     
+	Guaratinguetá    0 - 1 Atlético-PR     
+	América-RN       2 - 1 Grêmio Barueri  
+	Bragantino       2 - 2 ASA             
+	CRB              2 - 0 Betim           
+	São Caetano      0 - 0 Vitória-BA      
+
+Rodada 15
+[Sex 03/08]
+	Vitória-BA       0 - 1 Bragantino      
+	Grêmio Barueri   0 - 0 CRB             
+	Betim            0 - 6 Goiás           
+	Boa Esporte      1 - 1 América-RN      
+[Sab 04/08]
+	Joinville        3 - 1 Criciúma        
+	Avaí             2 - 1 Ceará           
+	Guarani          2 - 1 Guaratinguetá   
+	ASA              3 - 2 América-MG      
+	Atlético-PR      0 - 1 São Caetano     
+	ABC              2 - 0 Paraná          
+
+Rodada 16
+[Ter 07/08]
+	América-RN       0 - 2 Atlético-PR     
+	Bragantino       0 - 2 Betim           
+	Avaí             3 - 1 ABC             
+[Sex 10/08]
+	Ceará            2 - 0 Grêmio Barueri  
+	ASA              1 - 0 Guarani         
+[Sab 11/08]
+	Goiás            2 - 0 Boa Esporte     
+	São Caetano      1 - 1 Criciúma        
+	Guaratinguetá    0 - 3 Joinville       
+	América-MG       1 - 2 Vitória-BA      
+	Paraná           4 - 0 CRB             
+
+Rodada 17
+[Ter 14/08]
+	Joinville        1 - 0 Bragantino      
+	Vitória-BA       2 - 0 Guaratinguetá   
+	Criciúma         4 - 3 América-RN      
+	Betim            2 - 0 Paraná          
+	CRB              0 - 2 Ceará           
+	Atlético-PR      1 - 0 ASA             
+	Boa Esporte      1 - 3 São Caetano     
+	Guarani          0 - 2 Avaí            
+	ABC              0 - 2 América-MG      
+	Grêmio Barueri   2 - 0 Goiás           
+
+Rodada 18
+[Sex 17/08]
+	Vitória-BA       2 - 1 Joinville       
+	Guaratinguetá    3 - 1 Betim           
+	Guarani          4 - 0 CRB             
+	Avaí             2 - 1 Grêmio Barueri  
+	América-MG       1 - 1 América-RN      
+[Sab 18/08]
+	Atlético-PR      1 - 0 Criciúma        
+	Goiás            0 - 0 São Caetano     
+	ABC              1 - 2 Boa Esporte     
+	Bragantino       1 - 3 Ceará           
+	ASA              1 - 1 Paraná          
+
+Rodada 19
+[Ter 21/08]
+	Criciúma         2 - 0 Avaí            
+	Grêmio Barueri   2 - 3 Guaratinguetá   
+	Betim            1 - 0 América-MG      
+[Sex 24/08]
+	Ceará            1 - 3 Vitória-BA      
+[Sab 25/08]
+	Paraná           1 - 2 Atlético-PR     
+	Joinville        1 - 0 Goiás           
+	São Caetano      1 - 2 Guarani         
+	CRB              0 - 1 ASA             
+	América-RN       1 - 0 ABC             
+	Boa Esporte      3 - 0 Bragantino      
+
+Rodada 20
+[Ter 28/08]
+	Avaí             2 - 1 Boa Esporte     
+	Vitória-BA       1 - 0 Grêmio Barueri  
+	Atlético-PR      1 - 1 Joinville       
+	Bragantino       0 - 2 CRB             
+	Guarani          0 - 0 Paraná          
+	Guaratinguetá    2 - 1 Criciúma        
+	ASA              4 - 1 São Caetano     
+	ABC              2 - 2 Betim           
+	América-MG       1 - 3 Ceará           
+	Goiás            1 - 0 América-RN      
+
+Rodada 21
+[Sex 31/08]
+	Criciúma         3 - 2 Bragantino      
+	Boa Esporte      1 - 2 Guarani         
+	Ceará            1 - 1 Guaratinguetá   
+	Grêmio Barueri   1 - 0 ASA             
+	Betim            1 - 1 Atlético-PR     
+[Sab 01/09]
+	São Caetano      1 - 0 Avaí            
+	Paraná           1 - 3 Goiás           
+	América-RN       2 - 2 Vitória-BA      
+	Joinville        0 - 0 ABC             
+	CRB              0 - 1 América-MG      
+
+Rodada 22
+[Ter 04/09]
+	Atlético-PR      0 - 0 Boa Esporte     
+	Avaí             2 - 2 América-RN      
+	América-MG       0 - 0 Paraná          
+	Vitória-BA       2 - 2 Criciúma        
+	Guarani          2 - 1 Joinville       
+	Goiás            0 - 0 Ceará           
+	Guaratinguetá    1 - 2 CRB             
+	ABC              2 - 1 Grêmio Barueri  
+	Bragantino       2 - 3 São Caetano     
+	ASA              3 - 0 Betim           
+
+Rodada 23
+[Sex 07/09]
+	Ceará            1 - 0 Guarani         
+	Paraná           2 - 0 Bragantino      
+	América-RN       4 - 1 Guaratinguetá   
+	Boa Esporte      3 - 2 ASA             
+	Grêmio Barueri   0 - 6 Atlético-PR     
+[Sab 08/09]
+	Betim            1 - 1 Vitória-BA      
+	Joinville        1 - 0 Avaí            
+	Criciúma         0 - 4 América-MG      
+	CRB              0 - 2 Goiás           
+	São Caetano      0 - 1 ABC             
+
+Rodada 24
+[Ter 11/09]
+	Atlético-PR      4 - 1 CRB             
+	ASA              1 - 0 Joinville       
+	Avaí             2 - 1 Betim           
+	Guaratinguetá    2 - 0 Paraná          
+	América-MG       2 - 5 São Caetano     
+	Vitória-BA       3 - 2 Boa Esporte     
+	Guarani          1 - 0 Grêmio Barueri  
+	Goiás            1 - 0 Criciúma        
+	ABC              0 - 1 Ceará           
+	Bragantino       1 - 0 América-RN      
+
+Rodada 25
+[Sex 14/09]
+	Criciúma         2 - 1 ASA             
+	Paraná           1 - 1 Grêmio Barueri  
+	América-RN       0 - 2 São Caetano     
+	Guaratinguetá    2 - 0 Bragantino      
+	América-MG       1 - 0 Avaí            
+[Sab 15/09]
+	Ceará            4 - 3 Joinville       
+	Guarani          0 - 0 Vitória-BA      
+	Goiás            3 - 2 Atlético-PR     
+	CRB              3 - 3 ABC             
+	Boa Esporte      2 - 1 Betim           
+
+Rodada 26
+[Ter 18/09]
+	Bragantino       2 - 0 América-MG      
+[Sex 21/09]
+	Avaí             2 - 0 Guaratinguetá   
+	Joinville        3 - 1 Paraná          
+	ABC              3 - 1 Guarani         
+[Sab 22/09]
+	Atlético-PR      2 - 1 Ceará           
+	São Caetano      3 - 2 CRB             
+	Grêmio Barueri   1 - 2 Boa Esporte     
+	Betim            2 - 3 Criciúma        
+	Vitória-BA       3 - 1 Goiás           
+	ASA              0 - 2 América-RN      
+
+Rodada 27
+[Ter 25/09]
+	ABC              1 - 1 ASA             
+	Joinville        3 - 0 Boa Esporte     
+	América-MG       1 - 2 Grêmio Barueri  
+[Sex 28/09]
+	Paraná           2 - 1 São Caetano     
+	Guaratinguetá    0 - 3 Goiás           
+	CRB              0 - 2 Criciúma        
+[Sab 29/09]
+	Bragantino       2 - 1 Atlético-PR     
+	Avaí             2 - 0 Vitória-BA      
+	Guarani          0 - 0 América-RN      
+	Ceará            1 - 1 Betim           
+
+Rodada 28
+[Ter 02/10]
+	ASA              1 - 0 Avaí            
+	São Caetano      1 - 0 Guaratinguetá   
+	Goiás            1 - 0 Bragantino      
+[Sex 05/10]
+	América-RN       3 - 3 CRB             
+	Grêmio Barueri   1 - 1 Joinville       
+	Betim            0 - 0 Guarani         
+	Boa Esporte      2 - 1 Paraná          
+	Criciúma         2 - 1 Ceará           
+[Sab 06/10]
+	Atlético-PR      5 - 4 América-MG      
+	Vitória-BA       1 - 0 ABC             
+
+Rodada 29
+[Ter 09/10]
+	Grêmio Barueri   2 - 0 Betim           
+	Joinville        0 - 0 São Caetano     
+	ASA              3 - 1 Guaratinguetá   
+[Sex 12/10]
+	Guarani          1 - 2 Bragantino      
+	ABC              0 - 1 Atlético-PR     
+[Sab 13/10]
+	Boa Esporte      0 - 4 Criciúma        
+	América-MG       1 - 2 Goiás           
+	Ceará            4 - 0 América-RN      
+	Paraná           3 - 1 Vitória-BA      
+	Avaí             1 - 0 CRB             
+
+Rodada 30
+[Ter 16/10]
+	Atlético-PR      3 - 1 Avaí            
+	América-RN       2 - 1 Paraná          
+	Bragantino       2 - 2 Grêmio Barueri  
+	Goiás            5 - 0 Guarani         
+	São Caetano      2 - 0 Ceará           
+	Vitória-BA       2 - 0 ASA             
+	Guaratinguetá    1 - 2 América-MG      
+	Betim            1 - 0 Joinville       
+	Criciúma         2 - 0 ABC             
+	CRB              0 - 0 Boa Esporte     
+
+Rodada 31
+[Sex 19/10]
+	Grêmio Barueri   2 - 2 São Caetano     
+	Betim            4 - 0 América-RN      
+	ASA              3 - 0 Ceará           
+	Avaí             1 - 4 Goiás           
+[Sab 20/10]
+	Guarani          0 - 3 América-MG      
+	Joinville        3 - 1 CRB             
+	Vitória-BA       0 - 2 Atlético-PR     
+	Paraná           1 - 1 Criciúma        
+	ABC              1 - 0 Bragantino      
+	Boa Esporte      0 - 1 Guaratinguetá   
+
+Rodada 32
+[Ter 23/10]
+	Atlético-PR      1 - 1 Guarani         
+	América-RN       3 - 1 Joinville       
+	CRB              0 - 1 Vitória-BA      
+	Goiás            4 - 0 ASA             
+	Criciúma         3 - 4 Grêmio Barueri  
+	São Caetano      1 - 1 Betim           
+	Guaratinguetá    2 - 1 ABC             
+	América-MG       3 - 2 Boa Esporte     
+	Ceará            0 - 1 Paraná          
+	Bragantino       1 - 0 Avaí            
+
+Rodada 33
+[Sex 26/10]
+	Vitória-BA       0 - 1 São Caetano     
+	ABC              3 - 2 Goiás           
+	Boa Esporte      1 - 0 Ceará           
+	Grêmio Barueri   2 - 3 América-RN      
+	Avaí             3 - 1 Paraná          
+[Sab 27/10]
+	Atlético-PR      3 - 0 Guaratinguetá   
+	ASA              1 - 1 Bragantino      
+	Betim            3 - 2 CRB             
+	Joinville        2 - 2 América-MG      
+	Guarani          1 - 2 Criciúma        
+
+Rodada 34
+[Ter 30/10]
+	Goiás            4 - 0 Betim           
+	América-MG       0 - 1 ASA             
+	Paraná           1 - 2 ABC             
+[Sex 02/11]
+	CRB              2 - 1 Grêmio Barueri  
+	Ceará            0 - 1 Avaí            
+	Guaratinguetá    2 - 1 Guarani         
+[Sab 03/11]
+	Criciúma         2 - 3 Joinville       
+	São Caetano      1 - 3 Atlético-PR     
+	Bragantino       3 - 0 Vitória-BA      
+	América-RN       4 - 4 Boa Esporte     
+
+Rodada 35
+[Ter 06/11]
+	Atlético-PR      1 - 1 América-RN      
+	Joinville        2 - 1 Guaratinguetá   
+	Criciúma         0 - 2 São Caetano     
+	Guarani          2 - 1 ASA             
+	Grêmio Barueri   0 - 0 Ceará           
+	Betim            2 - 1 Bragantino      
+	Vitória-BA       5 - 3 América-MG      
+	ABC              1 - 2 Avaí            
+	Boa Esporte      2 - 2 Goiás           
+	CRB              0 - 2 Paraná          
+
+Rodada 36
+[Sex 09/11]
+	São Caetano      4 - 2 Boa Esporte     
+	Bragantino       1 - 0 Joinville       
+	ASA              2 - 3 Atlético-PR     
+	Avaí             1 - 0 Guarani         
+[Sab 10/11]
+	Goiás            3 - 0 Grêmio Barueri  
+	América-RN       1 - 4 Criciúma        
+	Guaratinguetá    1 - 0 Vitória-BA      
+	América-MG       3 - 3 ABC             
+	Paraná           2 - 0 Betim           
+	Ceará            1 - 2 CRB             
+
+Rodada 37
+[Sex 16/11]
+	Paraná           2 - 0 ASA             
+[Sab 17/11]
+	América-RN       1 - 1 América-MG      
+	Boa Esporte      0 - 0 ABC             
+	CRB              2 - 1 Guarani         
+	Joinville        1 - 1 Vitória-BA      
+	Criciúma         0 - 0 Atlético-PR     
+	São Caetano      1 - 1 Goiás           
+	Grêmio Barueri   2 - 0 Avaí            
+	Betim            2 - 3 Guaratinguetá   
+	Ceará            1 - 2 Bragantino      
+
+Rodada 38
+[Sex 23/11]
+	América-MG       3 - 1 Betim           
+[Sab 24/11]
+	Vitória-BA       1 - 1 Ceará           
+	Atlético-PR      1 - 1 Paraná          
+	ABC              2 - 2 América-RN      
+	Bragantino       3 - 0 Boa Esporte     
+	ASA              2 - 4 CRB             
+	Goiás            2 - 1 Joinville       
+	Avaí             1 - 1 Criciúma        
+	Guarani          1 - 2 São Caetano     
+	Guaratinguetá    2 - 1 Grêmio Barueri  

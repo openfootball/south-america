@@ -1,0 +1,541 @@
+
+Rodada 1
+[Sex 20/05]
+	Bragantino       1 - 1 ABC             
+	Goiás            1 - 0 Grêmio Barueri  
+	Salgueiro        1 - 1 São Caetano     
+[Sab 21/05]
+	Ponte Preta      5 - 0 ASA             
+	Portuguesa       4 - 0 Náutico         
+	Sport            1 - 0 Icasa           
+	Guaratinguetá    1 - 1 Duque de Caxias
+	Criciúma         2 - 2 Guarani         
+	Vitória-BA       1 - 0 Vila Nova-GO    
+	Boa Esporte      1 - 2 Paraná          
+
+Rodada 2
+[Ter 24/05]
+	Paraná           1 - 1 Portuguesa      
+	ASA              2 - 1 Guaratinguetá   
+[Sex 27/05]
+	São Caetano      0 - 2 Boa Esporte     
+	Grêmio Barueri   3 - 2 Bragantino      
+	Vila Nova-GO     3 - 1 Ponte Preta     
+[Sab 28/05]
+	Guarani          1 - 1 Sport           
+	Náutico          1 - 0 Goiás           
+	Icasa            3 - 1 Vitória-BA      
+	Duque de Caxias 1 - 2 Criciúma        
+	ABC              1 - 1 Salgueiro       
+
+Rodada 3
+[Ter 31/05]
+	Goiás            4 - 1 ASA             
+	Sport            1 - 0 Grêmio Barueri  
+[Sex 03/06]
+	Portuguesa       2 - 3 ABC             
+	Bragantino       1 - 2 São Caetano     
+	Vitória-BA       0 - 1 Guarani         
+[Sab 04/06]
+	Ponte Preta      4 - 1 Icasa           
+	Guaratinguetá    1 - 0 Paraná          
+	Salgueiro        2 - 0 Duque de Caxias
+	Criciúma         0 - 0 Náutico         
+	Boa Esporte      0 - 0 Vila Nova-GO    
+
+Rodada 4
+[Ter 07/06]
+	ABC              2 - 0 Goiás           
+[Qua 08/06]
+	São Caetano      1 - 1 Ponte Preta     
+[Sex 10/06]
+	Paraná           1 - 0 Salgueiro       
+	Guarani          2 - 0 Boa Esporte     
+	Duque de Caxias 2 - 3 Vitória-BA      
+[Sab 11/06]
+	Náutico          2 - 2 Bragantino      
+	Grêmio Barueri   1 - 1 Portuguesa      
+	ASA              1 - 1 Sport           
+	Vila Nova-GO     2 - 0 Criciúma        
+	Icasa            2 - 2 Guaratinguetá   
+
+Rodada 5
+[Ter 14/06]
+	Portuguesa       3 - 2 Guarani         
+	Salgueiro        0 - 2 Náutico         
+	Boa Esporte      1 - 0 Icasa           
+	Goiás            0 - 3 Paraná          
+	Ponte Preta      2 - 0 Grêmio Barueri  
+	Vitória-BA       1 - 1 ABC             
+	Sport            1 - 1 Duque de Caxias
+	Bragantino       1 - 0 Vila Nova-GO    
+	Guaratinguetá    1 - 0 São Caetano     
+	Criciúma         1 - 0 ASA             
+
+Rodada 6
+[Sex 17/06]
+	Criciúma         0 - 0 Boa Esporte     
+	Portuguesa       5 - 0 Bragantino      
+	Grêmio Barueri   1 - 0 ASA             
+	Icasa            0 - 0 São Caetano     
+[Sab 18/06]
+	Guarani          1 - 2 Guaratinguetá   
+	Duque de Caxias 0 - 2 Ponte Preta     
+	Náutico          1 - 1 Paraná          
+	Salgueiro        2 - 0 Goiás           
+	Vitória-BA       2 - 0 Sport           
+	Vila Nova-GO     2 - 2 ABC             
+
+Rodada 7
+[Ter 21/06]
+	Bragantino       0 - 0 Guarani         
+[Qua 22/06]
+	São Caetano      4 - 2 Duque de Caxias
+[Sex 24/06]
+	Paraná           2 - 0 Icasa           
+	Boa Esporte      2 - 0 Grêmio Barueri  
+	Sport            0 - 0 Criciúma        
+[Sab 25/06]
+	Guaratinguetá    1 - 0 Salgueiro       
+	Goiás            1 - 4 Portuguesa      
+	ABC              1 - 0 Náutico         
+	Ponte Preta      0 - 0 Vitória-BA      
+	ASA              1 - 0 Vila Nova-GO    
+
+Rodada 8
+[Ter 28/06]
+	Portuguesa       5 - 2 São Caetano     
+	Duque de Caxias 0 - 0 Náutico         
+	Guaratinguetá    1 - 0 Grêmio Barueri  
+	Sport            2 - 0 ABC             
+	Guarani          0 - 1 Vila Nova-GO    
+	Criciúma         1 - 0 Bragantino      
+	Vitória-BA       1 - 0 Paraná          
+	Salgueiro        2 - 3 Ponte Preta     
+	Goiás            2 - 0 Boa Esporte     
+	Icasa            1 - 1 ASA             
+
+Rodada 9
+[Sex 01/07]
+	Bragantino       2 - 0 Guaratinguetá   
+	Vila Nova-GO     1 - 2 Icasa           
+	Boa Esporte      0 - 0 Salgueiro       
+	Ponte Preta      2 - 1 Goiás           
+[Sab 02/07]
+	São Caetano      3 - 3 Sport           
+	Náutico          2 - 0 Guarani         
+	ASA              2 - 0 Portuguesa      
+	Paraná           3 - 1 Duque de Caxias
+	Grêmio Barueri   1 - 0 Vitória-BA      
+	ABC              1 - 1 Criciúma        
+
+Rodada 10
+[Ter 05/07]
+	Criciúma         2 - 0 Goiás           
+	Duque de Caxias 2 - 3 Grêmio Barueri  
+[Sex 08/07]
+	Portuguesa       1 - 0 Salgueiro       
+	Vila Nova-GO     2 - 0 São Caetano     
+	Vitória-BA       4 - 1 Bragantino      
+[Sab 09/07]
+	ASA              4 - 2 Paraná          
+	Sport            3 - 1 Ponte Preta     
+	Icasa            1 - 2 Náutico         
+	Guaratinguetá    2 - 1 Boa Esporte     
+[Dom 10/07]
+	Guarani          1 - 2 ABC             
+
+Rodada 11
+[Ter 12/07]
+	São Caetano      2 - 0 ASA             
+	Náutico          3 - 2 Guaratinguetá   
+[Sex 15/07]
+	Paraná           2 - 1 Vila Nova-GO    
+	Goiás            4 - 1 Vitória-BA      
+	Boa Esporte      1 - 2 Portuguesa      
+[Sab 16/07]
+	Ponte Preta      2 - 0 Guarani         
+	Bragantino       3 - 2 Sport           
+	Grêmio Barueri   1 - 2 Icasa           
+	Salgueiro        2 - 1 Criciúma        
+	ABC              3 - 0 Duque de Caxias
+
+Rodada 12
+[Ter 19/07]
+	Duque de Caxias 1 - 1 Icasa           
+	Guaratinguetá    1 - 3 Goiás           
+[Sex 22/07]
+	São Caetano      1 - 1 Grêmio Barueri  
+	Sport            3 - 0 Salgueiro       
+	ASA              3 - 2 Guarani         
+[Sab 23/07]
+	Ponte Preta      1 - 3 Bragantino      
+	Vitória-BA       0 - 2 Portuguesa      
+	Vila Nova-GO     0 - 0 Náutico         
+	Criciúma         1 - 2 Paraná          
+	Boa Esporte      0 - 0 ABC             
+
+Rodada 13
+[Ter 26/07]
+	Guarani          4 - 0 Duque de Caxias
+	Bragantino       1 - 2 Boa Esporte     
+	Grêmio Barueri   1 - 0 Vila Nova-GO    
+	Goiás            2 - 1 Sport           
+	Portuguesa       0 - 0 Guaratinguetá   
+	Paraná           0 - 1 Ponte Preta     
+	Náutico          2 - 0 Vitória-BA      
+	Salgueiro        0 - 0 ASA             
+	Icasa            0 - 1 Criciúma        
+	ABC              2 - 2 São Caetano     
+
+Rodada 14
+[Sex 29/07]
+	Criciúma         1 - 0 Guaratinguetá   
+	ASA              4 - 3 ABC             
+	Vila Nova-GO     1 - 0 Salgueiro       
+	Duque de Caxias 2 - 3 Goiás           
+[Sab 30/07]
+	São Caetano      1 - 1 Paraná          
+	Ponte Preta      0 - 3 Portuguesa      
+	Grêmio Barueri   1 - 3 Guarani         
+	Vitória-BA       0 - 1 Boa Esporte     
+	Icasa            2 - 0 Bragantino      
+[Ter 09/08]
+	Sport            2 - 0 Náutico         
+
+Rodada 15
+[Ter 02/08]
+	Portuguesa       2 - 0 Criciúma        
+	Guarani          1 - 0 São Caetano     
+	Bragantino       3 - 0 Duque de Caxias
+[Sex 05/08]
+	Náutico          1 - 0 ASA             
+	Paraná           1 - 3 Grêmio Barueri  
+[Sab 06/08]
+	Goiás            1 - 1 Vila Nova-GO    
+	Guaratinguetá    0 - 2 Ponte Preta     
+	Salgueiro        0 - 2 Vitória-BA      
+	Boa Esporte      3 - 0 Sport           
+	ABC              1 - 1 Icasa           
+
+Rodada 16
+[Ter 09/08]
+	São Caetano      2 - 1 Goiás           
+	Vila Nova-GO     1 - 1 Duque de Caxias
+[Sex 12/08]
+	ASA              2 - 1 Boa Esporte     
+	Icasa            1 - 1 Guarani         
+	Vitória-BA       5 - 2 Guaratinguetá   
+[Sab 13/08]
+	Ponte Preta      3 - 0 Criciúma        
+	Bragantino       5 - 3 Salgueiro       
+	Sport            2 - 3 Portuguesa      
+	Grêmio Barueri   0 - 0 Náutico         
+	Paraná           1 - 0 ABC             
+
+Rodada 17
+[Ter 16/08]
+	Portuguesa       0 - 1 Vila Nova-GO    
+	Guarani          1 - 1 Paraná          
+	Duque de Caxias 2 - 1 ASA             
+	Criciúma         2 - 1 Vitória-BA      
+	Goiás            2 - 1 Bragantino      
+	Salgueiro        3 - 5 Icasa           
+	Guaratinguetá    2 - 1 Sport           
+	Boa Esporte      1 - 1 Ponte Preta     
+	ABC              2 - 2 Grêmio Barueri  
+	Náutico          2 - 1 São Caetano     
+
+Rodada 18
+[Sex 19/08]
+	ABC              1 - 1 Ponte Preta     
+	Náutico          3 - 1 Boa Esporte     
+	Icasa            4 - 2 Goiás           
+	Duque de Caxias 0 - 0 Portuguesa      
+[Sab 20/08]
+	ASA              2 - 1 Bragantino      
+	São Caetano      2 - 2 Vitória-BA      
+	Guarani          1 - 2 Salgueiro       
+	Grêmio Barueri   0 - 0 Criciúma        
+	Paraná           1 - 2 Sport           
+	Vila Nova-GO     1 - 3 Guaratinguetá   
+
+Rodada 19
+[Ter 23/08]
+	Sport            2 - 0 Vila Nova-GO    
+	Goiás            3 - 0 Guarani         
+[Sex 26/08]
+	Guaratinguetá    2 - 1 ABC             
+	Criciúma         1 - 1 São Caetano     
+	Boa Esporte      2 - 0 Duque de Caxias
+[Sab 27/08]
+	Salgueiro        1 - 4 Grêmio Barueri  
+	Portuguesa       3 - 3 Icasa           
+	Ponte Preta      3 - 3 Náutico         
+	Bragantino       2 - 1 Paraná          
+	Vitória-BA       1 - 0 ASA             
+
+Rodada 20
+[Ter 30/08]
+	São Caetano      3 - 1 Salgueiro       
+	Guarani          4 - 2 Criciúma        
+	Duque de Caxias 0 - 2 Guaratinguetá   
+	Náutico          0 - 0 Portuguesa      
+	Grêmio Barueri   2 - 0 Goiás           
+	ASA              1 - 2 Ponte Preta     
+	Paraná           2 - 0 Boa Esporte     
+	Vila Nova-GO     0 - 3 Vitória-BA      
+	Icasa            2 - 2 Sport           
+	ABC              0 - 5 Bragantino      
+
+Rodada 21
+[Sex 02/09]
+	Ponte Preta      1 - 1 Vila Nova-GO    
+	Bragantino       2 - 1 Grêmio Barueri  
+	Criciúma         2 - 0 Duque de Caxias
+	Goiás            1 - 2 Náutico         
+[Sab 03/09]
+	Boa Esporte      4 - 1 São Caetano     
+	Vitória-BA       1 - 1 Icasa           
+	Sport            3 - 1 Guarani         
+	Guaratinguetá    1 - 1 ASA             
+	Salgueiro        0 - 1 ABC             
+	Portuguesa       2 - 1 Paraná          
+
+Rodada 22
+[Ter 06/09]
+	Duque de Caxias 1 - 2 Salgueiro       
+	ABC              1 - 1 Portuguesa      
+[Sex 09/09]
+	Guarani          0 - 0 Vitória-BA      
+	ASA              1 - 1 Goiás           
+	Icasa            1 - 1 Ponte Preta     
+[Sab 10/09]
+	Grêmio Barueri   2 - 3 Sport           
+	Paraná           0 - 1 Guaratinguetá   
+	Náutico          2 - 1 Criciúma        
+	São Caetano      0 - 2 Bragantino      
+	Vila Nova-GO     1 - 2 Boa Esporte     
+
+Rodada 23
+[Ter 13/09]
+	Portuguesa       4 - 2 Grêmio Barueri  
+	Ponte Preta      1 - 0 São Caetano     
+	Bragantino       2 - 1 Náutico         
+	Sport            3 - 0 ASA             
+	Guaratinguetá    1 - 0 Icasa           
+	Goiás            1 - 2 ABC             
+	Criciúma         0 - 0 Vila Nova-GO    
+	Boa Esporte      0 - 1 Guarani         
+	Vitória-BA       5 - 1 Duque de Caxias
+	Salgueiro        2 - 1 Paraná          
+
+Rodada 24
+[Sex 16/09]
+	Duque de Caxias 1 - 1 Sport           
+	Grêmio Barueri   2 - 1 Ponte Preta     
+	ASA              3 - 1 Criciúma        
+	Vila Nova-GO     1 - 2 Bragantino      
+[Sab 17/09]
+	Icasa            0 - 1 Boa Esporte     
+	ABC              0 - 0 Vitória-BA      
+	Paraná           1 - 1 Goiás           
+	Náutico          1 - 0 Salgueiro       
+	São Caetano      1 - 1 Guaratinguetá   
+	Guarani          0 - 2 Portuguesa      
+
+Rodada 25
+[Ter 20/09]
+	ABC              1 - 2 Vila Nova-GO    
+	Guaratinguetá    1 - 2 Guarani         
+[Sex 23/09]
+	Goiás            0 - 1 Salgueiro       
+	Boa Esporte      2 - 0 Criciúma        
+	Paraná           2 - 0 Náutico         
+[Sab 24/09]
+	Sport            4 - 0 Vitória-BA      
+	Bragantino       1 - 1 Portuguesa      
+	ASA              1 - 1 Grêmio Barueri  
+	São Caetano      2 - 2 Icasa           
+	Ponte Preta      2 - 1 Duque de Caxias
+
+Rodada 26
+[Ter 27/09]
+	Guarani          3 - 1 Bragantino      
+	Duque de Caxias 1 - 3 São Caetano     
+	Náutico          2 - 0 ABC             
+	Grêmio Barueri   2 - 2 Boa Esporte     
+	Salgueiro        0 - 1 Guaratinguetá   
+	Vila Nova-GO     1 - 1 ASA             
+	Icasa            3 - 1 Paraná          
+	Vitória-BA       2 - 0 Ponte Preta     
+	Criciúma         1 - 0 Sport           
+	Portuguesa       3 - 0 Goiás           
+
+Rodada 27
+[Sex 30/09]
+	Ponte Preta      1 - 0 Salgueiro       
+	Náutico          1 - 1 Duque de Caxias
+	Paraná           1 - 1 Vitória-BA      
+	Vila Nova-GO     0 - 0 Guarani         
+[Sab 01/10]
+	Bragantino       2 - 2 Criciúma        
+	ABC              3 - 0 Sport           
+	Boa Esporte      1 - 0 Goiás           
+	Grêmio Barueri   0 - 1 Guaratinguetá   
+	ASA              2 - 1 Icasa           
+	São Caetano      3 - 3 Portuguesa      
+
+Rodada 28
+[Ter 04/10]
+	Duque de Caxias 0 - 0 Paraná          
+	Salgueiro        0 - 1 Boa Esporte     
+	Guaratinguetá    1 - 1 Bragantino      
+	Icasa            1 - 0 Vila Nova-GO    
+	Vitória-BA       1 - 2 Grêmio Barueri  
+	Guarani          3 - 1 Náutico         
+	Criciúma         3 - 1 ABC             
+	Goiás            2 - 1 Ponte Preta     
+	Sport            1 - 3 São Caetano     
+	Portuguesa       2 - 0 ASA             
+
+Rodada 29
+[Sex 07/10]
+	São Caetano      3 - 0 Vila Nova-GO    
+	Salgueiro        1 - 2 Portuguesa      
+	Paraná           3 - 1 ASA             
+	Goiás            1 - 0 Criciúma        
+[Sab 08/10]
+	Boa Esporte      0 - 0 Guaratinguetá   
+	ABC              2 - 1 Guarani         
+	Ponte Preta      1 - 1 Sport           
+	Bragantino       2 - 2 Vitória-BA      
+	Náutico          2 - 2 Icasa           
+	Grêmio Barueri   2 - 1 Duque de Caxias
+
+Rodada 30
+[Ter 11/10]
+	Portuguesa       1 - 1 Boa Esporte     
+	Guaratinguetá    0 - 0 Náutico         
+[Sex 14/10]
+	Criciúma         3 - 0 Salgueiro       
+	Sport            1 - 1 Bragantino      
+	Duque de Caxias 1 - 0 ABC             
+[Sab 15/10]
+	Guarani          0 - 3 Ponte Preta     
+	Vila Nova-GO     0 - 1 Paraná          
+	ASA              0 - 0 São Caetano     
+	Vitória-BA       3 - 2 Goiás           
+	Icasa            0 - 1 Grêmio Barueri  
+
+Rodada 31
+[Ter 18/10]
+	Náutico          4 - 2 Vila Nova-GO    
+	Guarani          0 - 1 ASA             
+	Salgueiro        0 - 1 Sport           
+	Icasa            4 - 2 Duque de Caxias
+	ABC              2 - 0 Boa Esporte     
+	Bragantino       1 - 1 Ponte Preta     
+	Goiás            3 - 1 Guaratinguetá   
+	Paraná           0 - 0 Criciúma        
+	Grêmio Barueri   0 - 3 São Caetano     
+	Portuguesa       3 - 2 Vitória-BA      
+
+Rodada 32
+[Sex 21/10]
+	Ponte Preta      4 - 3 Paraná          
+	Duque de Caxias 0 - 2 Guarani         
+	ASA              0 - 1 Salgueiro       
+	Vila Nova-GO     2 - 2 Grêmio Barueri  
+	Boa Esporte      1 - 2 Bragantino      
+[Sab 22/10]
+	Vitória-BA       3 - 2 Náutico         
+	São Caetano      4 - 0 ABC             
+	Guaratinguetá    2 - 3 Portuguesa      
+	Criciúma         5 - 2 Icasa           
+	Sport            0 - 1 Goiás           
+
+Rodada 33
+[Ter 25/10]
+	Guarani          3 - 0 Grêmio Barueri  
+	Guaratinguetá    0 - 0 Criciúma        
+[Sex 28/10]
+	Salgueiro        1 - 1 Vila Nova-GO    
+	Goiás            4 - 1 Duque de Caxias
+	Portuguesa       2 - 1 Ponte Preta     
+[Sab 29/10]
+	Boa Esporte      1 - 2 Vitória-BA      
+	ABC              1 - 1 ASA             
+	Paraná           2 - 2 São Caetano     
+	Bragantino       1 - 1 Icasa           
+	Náutico          2 - 0 Sport           
+
+Rodada 34
+[Ter 01/11]
+	São Caetano      1 - 2 Guarani         
+	Criciúma         1 - 1 Portuguesa      
+[Sex 04/11]
+	Vila Nova-GO     2 - 3 Goiás           
+	Duque de Caxias 2 - 6 Bragantino      
+	Sport            4 - 1 Boa Esporte     
+	Vitória-BA       5 - 1 Salgueiro       
+[Sab 05/11]
+	Ponte Preta      0 - 0 Guaratinguetá   
+	Icasa            1 - 3 ABC             
+	Grêmio Barueri   1 - 0 Paraná          
+	ASA              1 - 2 Náutico         
+
+Rodada 35
+[Ter 08/11]
+	Portuguesa       2 - 2 Sport           
+	Guarani          0 - 1 Icasa           
+	Duque de Caxias 1 - 1 Vila Nova-GO    
+	Náutico          2 - 1 Grêmio Barueri  
+	Guaratinguetá    0 - 0 Vitória-BA      
+	Salgueiro        0 - 1 Bragantino      
+	Criciúma         1 - 1 Ponte Preta     
+	Goiás            1 - 0 São Caetano     
+	Boa Esporte      2 - 1 ASA             
+	ABC              1 - 1 Paraná          
+
+Rodada 36
+[Sex 11/11]
+	Sport            4 - 0 Guaratinguetá   
+	Ponte Preta      1 - 2 Boa Esporte     
+	Icasa            1 - 0 Salgueiro       
+[Sab 12/11]
+	Vitória-BA       3 - 1 Criciúma        
+	São Caetano      0 - 0 Náutico         
+	Bragantino       4 - 0 Goiás           
+	Grêmio Barueri   1 - 3 ABC             
+	ASA              2 - 0 Duque de Caxias
+	Paraná           3 - 0 Guarani         
+	Vila Nova-GO     1 - 3 Portuguesa      
+
+Rodada 37
+[Sex 18/11]
+	Portuguesa       4 - 0 Duque de Caxias
+[Sab 19/11]
+	Ponte Preta      4 - 1 ABC             
+	Bragantino       0 - 1 ASA             
+	Sport            3 - 0 Paraná          
+	Guaratinguetá    2 - 1 Vila Nova-GO    
+	Salgueiro        1 - 4 Guarani         
+	Criciúma         1 - 2 Grêmio Barueri  
+	Goiás            0 - 0 Icasa           
+	Boa Esporte      2 - 1 Náutico         
+	Vitória-BA       1 - 2 São Caetano     
+
+Rodada 38
+[Sex 25/11]
+	Grêmio Barueri   2 - 1 Salgueiro       
+[Sab 26/11]
+	Paraná           1 - 0 Bragantino      
+	Duque de Caxias 2 - 2 Boa Esporte     
+	Guarani          2 - 0 Goiás           
+	São Caetano      1 - 0 Criciúma        
+	ABC              3 - 1 Guaratinguetá   
+	ASA              1 - 2 Vitória-BA      
+	Icasa            0 - 2 Portuguesa      
+	Vila Nova-GO     0 - 1 Sport           
+	Náutico          2 - 2 Ponte Preta     
