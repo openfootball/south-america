@@ -3,7 +3,12 @@ br.b,       Campeonato Brasileiro Série B
 br.c,       Campeonato Brasileiro Série C
 br.d,  	    Campeonato Brasileiro Série D
 
+br.cup,		Copa do Brasil
+br.league	Primeira Liga
+
 br.rs,    	Gauchão - Campeonato Estadual Gaúcho
-br.rs.2,	Divisão de Acesso Gaúcha - Segunda divisão Campeonato Estadual Gaúcho
+br.rs.2,	Divisão de Acesso Gaúcha - Divisão de acesso do Campeonato Estadual Gaúcho
+br.rs.3,	Terceirona - Segunda divisão do Campeonato Estadual Gaúcho
 br.sp,     	Paulistão - Campeonato Estadual Paulista
 br.rj,     	Campeonato Estadual Carioca
+br.mg,		Mineirão - Campeonato Estadual Mineiro
