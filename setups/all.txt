@@ -5,8 +5,8 @@
 br-brazil!/leagues
 
 ## teams
-br-brazil!/teams
+br-brazil!/clubs
 
 ## fixtures
-br-brazil!/2013/cb
+## br-brazil!/2013/cb
 
