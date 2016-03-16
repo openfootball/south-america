@@ -1,2 +1,11 @@
 .editorconfig
 .DS_Store
+
+###############################
+# add local "in-situ" databases
+
+sport.db
+football.db
+brazil.db
+brasil.db
+
