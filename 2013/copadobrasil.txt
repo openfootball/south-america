@@ -1,0 +1,32 @@
+
+###################################
+# Copa do Brasil 2013
+# br.cup
+
+Quartas-de-finais
+[Qua 25/09]
+	Corinthians 0 - 0 Grêmio
+	Goiás 2 - 1 Vasco
+	Botafogo 1 - 1 Flamengo
+[Qui 26/09]
+	Internacional 1 - 1 Atlético-PR
+[Qua 23/10]
+	Grêmio 0 - 0 Corinthians
+	Atlético-PR 0 - 0 Internacional
+	Flamengo 4 - 0 Botafogo
+[Qui 24/10]
+	Vasco 3 - 2 Goiás
+
+Semi-finais
+[Qua 30/10]
+	Atlético-PR 1 - 0 Grêmio
+	Goiás 1 - 2 Flamengo
+[Qua 06/11]
+	Grêmio 0 - 0 Atlético-PR
+	Flamengo 2 - 1 Goiás
+
+Finais
+[Qua 20/11]
+	Atlético-PR 1 - 1 Flamengo
+[Qua 27/11]
+	Flamengo 2 - 0 Atlético-PR
