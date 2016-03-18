@@ -5,17 +5,17 @@
 
 Primeira fase
 [Qua 16/03]
-	Goianésia             -  ABC                 
-	Linense               -  Botafogo-PB         
-	Parauapebas           -  Londrina            
-	Rio Branco-ES        -  Santa Cruz          
-	Confiança-SE          -  Flamengo            
-	Imperatriz            -  Fortaleza           
-	Globo                 -  Bahia               
+	Goianésia            1 - 1 ABC                 
+	Linense              1 - 1 Botafogo-PB         
+	Parauapebas          0 - 1 Londrina            
+	Rio Branco-ES       0 - 1 Santa Cruz          
+	Confiança-SE         1 - 0 Flamengo            
+	Imperatriz           1 - 1 Fortaleza           
+	Globo                0 - 0 Bahia               
 [Qui 17/03]
-	Vitória da Conquista  -  Náutico             
-	Ferroviária           -  Salgueiro           
-	Ypiranga              -  Atlético-GO         
+	Vitória da Conquista 0 - 0 Náutico             
+	Ferroviária          1 - 0 Salgueiro           
+	Ypiranga             2 - 2 Atlético-GO         
 	Brasil de Pelotas     -  Atlético-PR         
 [Ter 05/04]
 	Coruripe              -  Botafogo            
