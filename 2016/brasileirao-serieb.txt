@@ -1,0 +1,494 @@
+
+Rodada 1
+[Sab 14/05]
+	Ceará              -  Paysandu         
+	Bahia              -  Avaí             
+	Sampaio Corrêa     -  Vasco            
+	Oeste              -  Atlético-GO      
+	Vila Nova-GO       -  Bragantino       
+	Luverdense         -  Joinville        
+	Tupi               -  Goiás            
+	Brasil de Pelotas  -  Paraná           
+	Luverdense         -  CRB              
+	Criciúma           -  Náutico          
+
+Rodada 2
+[Sab 21/05]
+	Náutico            -  Vila Nova-GO     
+	CRB                -  Ceará            
+	Paysandu           -  Oeste            
+	Bragantino         -  Luverdense       
+	Goiás              -  Luverdense       
+	Vasco              -  Tupi             
+	Atlético-GO        -  Brasil de Pelotas
+	Joinville          -  Criciúma         
+	Paraná             -  Bahia            
+	Avaí               -  Sampaio Corrêa   
+
+Rodada 3
+[Ter 24/05]
+	Ceará              -  Atlético-GO      
+	Bahia              -  Joinville        
+	Sampaio Corrêa     -  Paraná           
+	Oeste              -  CRB              
+	Vila Nova-GO       -  Vasco            
+	Luverdense         -  Avaí             
+	Tupi               -  Paysandu         
+	Brasil de Pelotas  -  Bragantino       
+	Luverdense         -  Náutico          
+	Criciúma           -  Goiás            
+
+Rodada 4
+[Sab 28/05]
+	Náutico            -  Sampaio Corrêa   
+	CRB                -  Criciúma         
+	Paysandu           -  Luverdense       
+	Bragantino         -  Tupi             
+	Goiás              -  Brasil de Pelotas
+	Vasco              -  Bahia            
+	Atlético-GO        -  Vila Nova-GO     
+	Joinville          -  Luverdense       
+	Paraná             -  Oeste            
+	Avaí               -  Ceará            
+
+Rodada 5
+[Ter 31/05]
+	Ceará              -  Goiás            
+	Bahia              -  Náutico          
+	Sampaio Corrêa     -  Bragantino       
+	Oeste              -  Vasco            
+	Vila Nova-GO       -  CRB              
+	Luverdense         -  Atlético-GO      
+	Tupi               -  Joinville        
+	Brasil de Pelotas  -  Paysandu         
+	Luverdense         -  Paraná           
+	Criciúma           -  Avaí             
+
+Rodada 6
+[Sab 04/06]
+	Náutico            -  Joinville        
+	Bahia              -  Paysandu         
+	Sampaio Corrêa     -  Ceará            
+	Oeste              -  Criciúma         
+	Vila Nova-GO       -  Paraná           
+	Vasco              -  Goiás            
+	Atlético-GO        -  Bragantino       
+	Brasil de Pelotas  -  Luverdense       
+	Luverdense         -  Tupi             
+	Avaí               -  CRB              
+
+Rodada 7
+[Ter 07/06]
+	Ceará              -  Luverdense       
+	CRB                -  Sampaio Corrêa   
+	Paysandu           -  Náutico          
+	Bragantino         -  Avaí             
+	Goiás              -  Bahia            
+	Luverdense         -  Vila Nova-GO     
+	Tupi               -  Oeste            
+	Joinville          -  Vasco            
+	Paraná             -  Atlético-GO      
+	Criciúma           -  Brasil de Pelotas
+
+Rodada 8
+[Sab 11/06]
+	Náutico            -  Paraná           
+	Bahia              -  CRB              
+	Sampaio Corrêa     -  Criciúma         
+	Bragantino         -  Paysandu         
+	Goiás              -  Oeste            
+	Luverdense         -  Ceará            
+	Atlético-GO        -  Vasco            
+	Brasil de Pelotas  -  Tupi             
+	Luverdense         -  Vila Nova-GO     
+	Avaí               -  Joinville        
+
+Rodada 9
+[Ter 14/06]
+	Ceará              -  Brasil de Pelotas
+	CRB                -  Bragantino       
+	Paysandu           -  Avaí             
+	Oeste              -  Luverdense       
+	Vila Nova-GO       -  Sampaio Corrêa   
+	Vasco              -  Náutico          
+	Tupi               -  Luverdense       
+	Joinville          -  Atlético-GO      
+	Paraná             -  Goiás            
+	Criciúma           -  Bahia            
+
+Rodada 10
+[Sab 18/06]
+	Náutico            -  Bragantino       
+	Bahia              -  Luverdense       
+	Sampaio Corrêa     -  Brasil de Pelotas
+	Oeste              -  Vila Nova-GO     
+	Goiás              -  Avaí             
+	Vasco              -  Paysandu         
+	Atlético-GO        -  CRB              
+	Joinville          -  Ceará            
+	Paraná             -  Luverdense       
+	Criciúma           -  Tupi             
+
+Rodada 11
+[Ter 21/06]
+	Ceará              -  Oeste            
+	CRB                -  Paraná           
+	Paysandu           -  Joinville        
+	Bragantino         -  Goiás            
+	Vila Nova-GO       -  Criciúma         
+	Luverdense         -  Sampaio Corrêa   
+	Tupi               -  Bahia            
+	Brasil de Pelotas  -  Náutico          
+	Luverdense         -  Vasco            
+	Avaí               -  Atlético-GO      
+
+Rodada 12
+[Sab 25/06]
+	Ceará              -  Náutico          
+	CRB                -  Vasco            
+	Paysandu           -  Atlético-GO      
+	Oeste              -  Sampaio Corrêa   
+	Vila Nova-GO       -  Goiás            
+	Luverdense         -  Luverdense       
+	Tupi               -  Avaí             
+	Brasil de Pelotas  -  Bahia            
+	Paraná             -  Joinville        
+	Criciúma           -  Bragantino       
+
+Rodada 13
+[Ter 28/06]
+	Náutico            -  Luverdense       
+	Bahia              -  Oeste            
+	Sampaio Corrêa     -  Tupi             
+	Bragantino         -  Ceará            
+	Goiás              -  Paysandu         
+	Vasco              -  Paraná           
+	Atlético-GO        -  Criciúma         
+	Joinville          -  CRB              
+	Luverdense         -  Brasil de Pelotas
+	Avaí               -  Vila Nova-GO     
+
+Rodada 14
+[Sab 02/07]
+	Ceará              -  Bahia            
+	CRB                -  Goiás            
+	Sampaio Corrêa     -  Paysandu         
+	Bragantino         -  Paraná           
+	Vila Nova-GO       -  Tupi             
+	Luverdense         -  Oeste            
+	Atlético-GO        -  Náutico          
+	Brasil de Pelotas  -  Joinville        
+	Luverdense         -  Criciúma         
+	Avaí               -  Vasco            
+
+Rodada 15
+[Sab 09/07]
+	Náutico            -  CRB              
+	Bahia              -  Vila Nova-GO     
+	Paysandu           -  Luverdense       
+	Oeste              -  Bragantino       
+	Goiás              -  Atlético-GO      
+	Vasco              -  Brasil de Pelotas
+	Tupi               -  Ceará            
+	Joinville          -  Sampaio Corrêa   
+	Paraná             -  Avaí             
+	Criciúma           -  Luverdense       
+
+Rodada 16
+[Sab 16/07]
+	Ceará              -  Criciúma         
+	CRB                -  Tupi             
+	Sampaio Corrêa     -  Bahia            
+	Bragantino         -  Joinville        
+	Goiás              -  Náutico          
+	Luverdense         -  Vasco            
+	Atlético-GO        -  Luverdense       
+	Brasil de Pelotas  -  Vila Nova-GO     
+	Paraná             -  Paysandu         
+	Avaí               -  Oeste            
+
+Rodada 17
+[Sab 23/07]
+	Náutico            -  Avaí             
+	Bahia              -  Luverdense       
+	Paysandu           -  CRB              
+	Oeste              -  Brasil de Pelotas
+	Vila Nova-GO       -  Ceará            
+	Vasco              -  Bragantino       
+	Tupi               -  Atlético-GO      
+	Joinville          -  Goiás            
+	Criciúma           -  Paraná           
+	Luverdense         -  Sampaio Corrêa   
+
+Rodada 18
+[Sab 30/07]
+	Náutico            -  Tupi             
+	CRB                -  Brasil de Pelotas
+	Paysandu           -  Vila Nova-GO     
+	Bragantino         -  Bahia            
+	Goiás              -  Luverdense       
+	Vasco              -  Criciúma         
+	Atlético-GO        -  Sampaio Corrêa   
+	Joinville          -  Oeste            
+	Paraná             -  Ceará            
+	Avaí               -  Luverdense       
+
+Rodada 19
+[Ter 02/08]
+	Ceará              -  Vasco            
+	Bahia              -  Atlético-GO      
+	Sampaio Corrêa     -  Goiás            
+	Oeste              -  Náutico          
+	Vila Nova-GO       -  Joinville        
+	Luverdense         -  CRB              
+	Tupi               -  Paraná           
+	Brasil de Pelotas  -  Avaí             
+	Luverdense         -  Bragantino       
+	Criciúma           -  Paysandu         
+
+Rodada 20
+[Sab 20/08]
+	Náutico            -  Criciúma         
+	CRB                -  Luverdense       
+	Paysandu           -  Ceará            
+	Bragantino         -  Vila Nova-GO     
+	Goiás              -  Tupi             
+	Vasco              -  Sampaio Corrêa   
+	Atlético-GO        -  Oeste            
+	Joinville          -  Luverdense       
+	Paraná             -  Brasil de Pelotas
+	Avaí               -  Bahia            
+
+Rodada 21
+[Sab 27/08]
+	Ceará              -  CRB              
+	Bahia              -  Paraná           
+	Sampaio Corrêa     -  Avaí             
+	Oeste              -  Paysandu         
+	Vila Nova-GO       -  Náutico          
+	Luverdense         -  Bragantino       
+	Tupi               -  Vasco            
+	Brasil de Pelotas  -  Atlético-GO      
+	Luverdense         -  Goiás            
+	Criciúma           -  Joinville        
+
+Rodada 22
+[Ter 30/08]
+	Náutico            -  Luverdense       
+	CRB                -  Oeste            
+	Paysandu           -  Tupi             
+	Bragantino         -  Brasil de Pelotas
+	Goiás              -  Criciúma         
+	Vasco              -  Vila Nova-GO     
+	Atlético-GO        -  Ceará            
+	Joinville          -  Bahia            
+	Paraná             -  Sampaio Corrêa   
+	Avaí               -  Luverdense       
+
+Rodada 23
+[Sab 03/09]
+	Ceará              -  Avaí             
+	Bahia              -  Vasco            
+	Sampaio Corrêa     -  Náutico          
+	Oeste              -  Paraná           
+	Vila Nova-GO       -  Atlético-GO      
+	Luverdense         -  Paysandu         
+	Tupi               -  Bragantino       
+	Brasil de Pelotas  -  Goiás            
+	Luverdense         -  Joinville        
+	Criciúma           -  CRB              
+
+Rodada 24
+[Sab 10/09]
+	Náutico            -  Bahia            
+	CRB                -  Vila Nova-GO     
+	Paysandu           -  Brasil de Pelotas
+	Bragantino         -  Sampaio Corrêa   
+	Goiás              -  Ceará            
+	Vasco              -  Oeste            
+	Atlético-GO        -  Luverdense       
+	Joinville          -  Tupi             
+	Paraná             -  Luverdense       
+	Avaí               -  Criciúma         
+
+Rodada 25
+[Ter 13/09]
+	Ceará              -  Sampaio Corrêa   
+	CRB                -  Avaí             
+	Paysandu           -  Bahia            
+	Bragantino         -  Atlético-GO      
+	Goiás              -  Vasco            
+	Luverdense         -  Brasil de Pelotas
+	Tupi               -  Luverdense       
+	Joinville          -  Náutico          
+	Paraná             -  Vila Nova-GO     
+	Criciúma           -  Oeste            
+
+Rodada 26
+[Sab 17/09]
+	Náutico            -  Paysandu         
+	Bahia              -  Goiás            
+	Sampaio Corrêa     -  CRB              
+	Oeste              -  Tupi             
+	Vila Nova-GO       -  Luverdense       
+	Vasco              -  Joinville        
+	Atlético-GO        -  Paraná           
+	Brasil de Pelotas  -  Criciúma         
+	Luverdense         -  Ceará            
+	Avaí               -  Bragantino       
+
+Rodada 27
+[Sab 24/09]
+	Ceará              -  Luverdense       
+	CRB                -  Bahia            
+	Paysandu           -  Bragantino       
+	Oeste              -  Goiás            
+	Vila Nova-GO       -  Luverdense       
+	Vasco              -  Atlético-GO      
+	Tupi               -  Brasil de Pelotas
+	Joinville          -  Avaí             
+	Paraná             -  Náutico          
+	Criciúma           -  Sampaio Corrêa   
+
+Rodada 28
+[Sab 01/10]
+	Náutico            -  Vasco            
+	Bahia              -  Criciúma         
+	Sampaio Corrêa     -  Vila Nova-GO     
+	Bragantino         -  CRB              
+	Goiás              -  Paraná           
+	Luverdense         -  Tupi             
+	Atlético-GO        -  Joinville        
+	Brasil de Pelotas  -  Ceará            
+	Luverdense         -  Oeste            
+	Avaí               -  Paysandu         
+
+Rodada 29
+[Ter 04/10]
+	Ceará              -  Joinville        
+	CRB                -  Atlético-GO      
+	Paysandu           -  Vasco            
+	Bragantino         -  Náutico          
+	Vila Nova-GO       -  Oeste            
+	Luverdense         -  Paraná           
+	Tupi               -  Criciúma         
+	Brasil de Pelotas  -  Sampaio Corrêa   
+	Luverdense         -  Bahia            
+	Avaí               -  Goiás            
+
+Rodada 30
+[Sab 08/10]
+	Náutico            -  Brasil de Pelotas
+	Bahia              -  Tupi             
+	Sampaio Corrêa     -  Luverdense       
+	Oeste              -  Ceará            
+	Goiás              -  Bragantino       
+	Vasco              -  Luverdense       
+	Atlético-GO        -  Avaí             
+	Joinville          -  Paysandu         
+	Paraná             -  CRB              
+	Criciúma           -  Vila Nova-GO     
+
+Rodada 31
+[Sab 15/10]
+	Náutico            -  Ceará            
+	Bahia              -  Brasil de Pelotas
+	Sampaio Corrêa     -  Oeste            
+	Bragantino         -  Criciúma         
+	Goiás              -  Vila Nova-GO     
+	Vasco              -  CRB              
+	Atlético-GO        -  Paysandu         
+	Joinville          -  Paraná           
+	Luverdense         -  Luverdense       
+	Avaí               -  Tupi             
+
+Rodada 32
+[Sab 22/10]
+	Ceará              -  Bragantino       
+	CRB                -  Joinville        
+	Paysandu           -  Goiás            
+	Oeste              -  Bahia            
+	Vila Nova-GO       -  Avaí             
+	Luverdense         -  Náutico          
+	Tupi               -  Sampaio Corrêa   
+	Brasil de Pelotas  -  Luverdense       
+	Paraná             -  Vasco            
+	Criciúma           -  Atlético-GO      
+
+Rodada 33
+[Sab 29/10]
+	Náutico            -  Atlético-GO      
+	Bahia              -  Ceará            
+	Paysandu           -  Sampaio Corrêa   
+	Oeste              -  Luverdense       
+	Goiás              -  CRB              
+	Vasco              -  Avaí             
+	Tupi               -  Vila Nova-GO     
+	Joinville          -  Brasil de Pelotas
+	Paraná             -  Bragantino       
+	Criciúma           -  Luverdense       
+
+Rodada 34
+[Sab 05/11]
+	Ceará              -  Tupi             
+	CRB                -  Náutico          
+	Sampaio Corrêa     -  Joinville        
+	Bragantino         -  Oeste            
+	Vila Nova-GO       -  Bahia            
+	Luverdense         -  Criciúma         
+	Atlético-GO        -  Goiás            
+	Brasil de Pelotas  -  Vasco            
+	Luverdense         -  Paysandu         
+	Avaí               -  Paraná           
+
+Rodada 35
+[Ter 08/11]
+	Náutico            -  Goiás            
+	Bahia              -  Sampaio Corrêa   
+	Paysandu           -  Paraná           
+	Oeste              -  Avaí             
+	Vila Nova-GO       -  Brasil de Pelotas
+	Vasco              -  Luverdense       
+	Tupi               -  CRB              
+	Joinville          -  Bragantino       
+	Luverdense         -  Atlético-GO      
+	Criciúma           -  Ceará            
+
+Rodada 36
+[Sab 12/11]
+	Ceará              -  Vila Nova-GO     
+	CRB                -  Paysandu         
+	Sampaio Corrêa     -  Luverdense       
+	Bragantino         -  Vasco            
+	Goiás              -  Joinville        
+	Luverdense         -  Bahia            
+	Atlético-GO        -  Tupi             
+	Brasil de Pelotas  -  Oeste            
+	Paraná             -  Criciúma         
+	Avaí               -  Náutico          
+
+Rodada 37
+[Sab 19/11]
+	Ceará              -  Paraná           
+	Bahia              -  Bragantino       
+	Sampaio Corrêa     -  Atlético-GO      
+	Oeste              -  Joinville        
+	Vila Nova-GO       -  Paysandu         
+	Luverdense         -  Goiás            
+	Tupi               -  Náutico          
+	Brasil de Pelotas  -  CRB              
+	Luverdense         -  Avaí             
+	Criciúma           -  Vasco            
+
+Rodada 38
+[Sab 26/11]
+	Náutico            -  Oeste            
+	CRB                -  Luverdense       
+	Paysandu           -  Criciúma         
+	Bragantino         -  Luverdense       
+	Goiás              -  Sampaio Corrêa   
+	Vasco              -  Ceará            
+	Atlético-GO        -  Bahia            
+	Joinville          -  Vila Nova-GO     
+	Paraná             -  Tupi             
+	Avaí               -  Brasil de Pelotas
