@@ -1,0 +1,296 @@
+
+Rodada 1
+[Sab 19/01]
+	São Paulo 2 - 0 Mirassol
+	União Barbarense 1 - 1 XV de Piracicaba
+	Linense 2 - 1 Guarani
+	São Bernardo 1 - 3 Santos
+	Atlético Sorocaba 1 - 2 São Caetano
+	Penapolense 3 - 0 Ituano
+[Dom 20/01]
+	Paulista 1 - 1 Corinthians
+	Palmeiras 0 - 0 Bragantino
+	Ponte Preta 0 - 0 Mogi Mirim
+	Botafogo-SP 2 - 0 Oeste
+
+Rodada 2
+[Qua 23/01]
+	Corinthians 0 - 1 Ponte Preta
+	Bragantino 2 - 2 Linense
+	Guarani 0 - 0 São Bernardo
+	Ituano 0 - 0 Atlético Sorocaba
+	Santos 3 - 0 Botafogo-SP
+	Oeste 1 - 3 Palmeiras
+[Qui 24/01]
+	Mirassol 1 - 2 União Barbarense
+	XV de Piracicaba 2 - 1 Paulista
+	Mogi Mirim 3 - 0 Penapolense
+[Qua 20/02]
+	São Caetano 2 - 4 São Paulo
+
+Rodada 3
+[Sab 26/01]
+	São Paulo 2 - 1 Atlético Sorocaba
+	Guarani 1 - 3 Ponte Preta
+	Linense 0 - 0 Ituano
+	Oeste 1 - 1 São Caetano
+[Dom 27/01]
+	Mirassol 0 - 1 Corinthians
+	Palmeiras 2 - 3 Penapolense
+	Mogi Mirim 4 - 2 XV de Piracicaba
+	Botafogo-SP 2 - 0 São Bernardo
+	Paulista 1 - 0 União Barbarense
+	Bragantino 2 - 2 Santos
+
+Rodada 4
+[Qua 30/01]
+	Paulista 1 - 1 Mirassol
+	Ponte Preta 1 - 0 Oeste
+	São Caetano 0 - 2 Linense
+	Penapolense 2 - 0 XV de Piracicaba
+	Ituano 0 - 1 Santos
+	Corinthians 2 - 1 Mogi Mirim
+[Qui 31/01]
+	Palmeiras 3 - 0 São Bernardo
+	Guarani 1 - 3 Bragantino
+	Atlético Sorocaba 2 - 2 Botafogo-SP
+[Qua 10/04]
+	União Barbarense 1 - 2 São Paulo
+
+Rodada 5
+[Sab 02/02]
+	Mirassol 0 - 1 Ituano
+	Linense 3 - 0 Paulista
+	Ponte Preta 2 - 0 Penapolense
+[Dom 03/02]
+	Santos 3 - 1 São Paulo
+	Corinthians 5 - 0 Oeste
+	XV de Piracicaba 3 - 3 Palmeiras
+	Botafogo-SP 3 - 1 Guarani
+	São Bernardo 4 - 1 São Caetano
+	Atlético Sorocaba 4 - 0 União Barbarense
+	Mogi Mirim 4 - 1 Bragantino
+
+Rodada 6
+[Qua 06/02]
+	Penapolense 2 - 1 União Barbarense
+	Mogi Mirim 0 - 1 Ituano
+	São Bernardo 0 - 3 XV de Piracicaba
+	Guarani 3 - 1 São Caetano
+	Bragantino 1 - 2 Mirassol
+	Paulista 0 - 0 Oeste
+	Linense 2 - 2 Santos
+	Botafogo-SP 0 - 0 Corinthians
+	São Paulo 0 - 0 Ponte Preta
+[Qui 07/02]
+	Palmeiras 2 - 0 Atlético Sorocaba
+
+Rodada 7
+[Sab 09/02]
+	Corinthians 2 - 2 São Caetano
+	Guarani 1 - 2 São Paulo
+	Bragantino 3 - 2 São Bernardo
+	Oeste 2 - 1 Mirassol
+	União Barbarense 1 - 1 Botafogo-SP
+	Ituano 3 - 3 Ponte Preta
+[Dom 10/02]
+	Penapolense 1 - 1 Atlético Sorocaba
+	Santos 1 - 3 Paulista
+	Mogi Mirim 2 - 2 Palmeiras
+[Qua 13/02]
+	XV de Piracicaba 1 - 1 Linense
+
+Rodada 8
+[Sab 16/02]
+	XV de Piracicaba 2 - 3 Guarani
+	União Barbarense 1 - 2 Mogi Mirim
+	São Caetano 1 - 2 Bragantino
+	Mirassol 4 - 3 Botafogo-SP
+	São Bernardo 0 - 0 Paulista
+	São Paulo 3 - 2 Ituano
+[Dom 17/02]
+	Corinthians 2 - 2 Palmeiras
+	Ponte Preta 3 - 1 Santos
+	Oeste 2 - 0 Penapolense
+	Atlético Sorocaba 2 - 3 Linense
+
+Rodada 9
+[Sex 22/02]
+	Mogi Mirim 1 - 0 Oeste
+	Paulista 3 - 1 Atlético Sorocaba
+[Sab 23/02]
+	Mirassol 3 - 0 São Caetano
+	Botafogo-SP 1 - 0 Penapolense
+	São Paulo 3 - 0 Linense
+[Dom 24/02]
+	Bragantino 2 - 2 Corinthians
+	Palmeiras 1 - 0 União Barbarense
+	Santos 2 - 1 XV de Piracicaba
+	Ituano 2 - 2 Guarani
+	Ponte Preta 1 - 1 São Bernardo
+
+Rodada 10
+[Sex 01/03]
+	Oeste 2 - 0 União Barbarense
+	XV de Piracicaba 2 - 2 Mirassol
+[Sab 02/03]
+	Bragantino 1 - 2 Atlético Sorocaba
+	São Caetano 0 - 1 Botafogo-SP
+	Linense 0 - 0 Ponte Preta
+[Dom 03/03]
+	Santos 0 - 0 Corinthians
+	Penapolense 0 - 2 São Paulo
+	Guarani 0 - 2 Mogi Mirim
+	São Bernardo 2 - 0 Ituano
+[Qui 14/03]
+	Palmeiras 2 - 1 Paulista
+
+Rodada 11
+[Sex 08/03]
+	União Barbarense 0 - 0 Bragantino
+	Oeste 3 - 0 XV de Piracicaba
+[Sab 09/03]
+	Botafogo-SP 2 - 0 Mogi Mirim
+	Corinthians 3 - 2 Ituano
+	Penapolense 2 - 0 Paulista
+[Dom 10/03]
+	São Bernardo 2 - 0 Linense
+	São Paulo 0 - 0 Palmeiras
+	Ponte Preta 3 - 1 São Caetano
+	Atlético Sorocaba 1 - 2 Santos
+	Mirassol 1 - 1 Guarani
+
+Rodada 12
+[Sex 15/03]
+	Ituano 2 - 1 XV de Piracicaba
+	Mogi Mirim 2 - 3 Linense
+[Sab 16/03]
+	Mirassol 3 - 4 São Bernardo
+	Bragantino 3 - 2 Penapolense
+	Santos 2 - 1 Guarani
+	Corinthians 3 - 0 União Barbarense
+[Dom 17/03]
+	São Caetano 1 - 1 Palmeiras
+	São Paulo 3 - 2 Oeste
+	Ponte Preta 2 - 1 Atlético Sorocaba
+	Paulista 1 - 1 Botafogo-SP
+
+Rodada 13
+[Qua 20/03]
+	Atlético Sorocaba 1 - 3 Mogi Mirim
+	Linense 1 - 1 Penapolense
+	Palmeiras 2 - 0 Botafogo-SP
+	Oeste 2 - 2 Bragantino
+	São Bernardo 1 - 2 São Paulo
+	XV de Piracicaba 1 - 1 Corinthians
+[Qui 21/03]
+	União Barbarense 1 - 1 Ponte Preta
+	São Caetano 3 - 0 Ituano
+	Guarani 1 - 2 Paulista
+	Santos 2 - 1 Mirassol
+
+Rodada 14
+[Sab 23/03]
+	Penapolense 3 - 0 São Bernardo
+	Botafogo-SP 3 - 0 Linense
+	São Paulo 2 - 0 Bragantino
+	Atlético Sorocaba 0 - 1 XV de Piracicaba
+[Dom 24/03]
+	Palmeiras 0 - 0 Santos
+	Guarani 0 - 1 Corinthians
+	União Barbarense 0 - 0 São Caetano
+	Paulista 0 - 1 Ponte Preta
+	Mogi Mirim 3 - 1 Mirassol
+	Ituano 1 - 2 Oeste
+
+Rodada 15
+[Qua 27/03]
+	Mirassol 6 - 2 Palmeiras
+	São Caetano 2 - 2 XV de Piracicaba
+	Ponte Preta 1 - 0 Botafogo-SP
+	Bragantino 1 - 0 Ituano
+	Linense 2 - 3 União Barbarense
+	Paulista 0 - 2 São Paulo
+	Corinthians 1 - 1 Penapolense
+[Qui 28/03]
+	Santos 2 - 2 Mogi Mirim
+	São Bernardo 2 - 2 Atlético Sorocaba
+	Oeste 2 - 2 Guarani
+
+Rodada 16
+[Sab 30/03]
+	Bragantino 2 - 1 Paulista
+	XV de Piracicaba 2 - 2 Ponte Preta
+	Mirassol 0 - 1 Penapolense
+	Palmeiras 2 - 1 Linense
+	Ituano 1 - 2 Botafogo-SP
+[Dom 31/03]
+	Guarani 0 - 3 Atlético Sorocaba
+	São Paulo 1 - 2 Corinthians
+	Oeste 1 - 2 Santos
+	São Caetano 0 - 2 Mogi Mirim
+	União Barbarense 0 - 0 São Bernardo
+
+Rodada 17
+[Qua 03/04]
+	XV de Piracicaba 2 - 0 Bragantino
+	Ituano 0 - 0 União Barbarense
+[Qui 04/04]
+	Santos 1 - 1 São Caetano
+[Sab 06/04]
+	Penapolense 3 - 0 Guarani
+	Linense 3 - 1 Oeste
+	Mogi Mirim 2 - 0 Paulista
+[Dom 07/04]
+	Corinthians 2 - 0 São Bernardo
+	Ponte Preta 1 - 2 Palmeiras
+	Botafogo-SP 1 - 3 São Paulo
+	Atlético Sorocaba 3 - 2 Mirassol
+
+Rodada 18
+[Sex 12/04]
+	Paulista 2 - 3 Ituano
+	Atlético Sorocaba 1 - 0 Oeste
+[Sab 13/04]
+	Penapolense 1 - 1 São Caetano
+	União Barbarense 0 - 4 Santos
+	São Paulo 0 - 1 XV de Piracicaba
+[Dom 14/04]
+	Palmeiras 4 - 1 Guarani
+	Linense 2 - 1 Corinthians
+	Botafogo-SP 1 - 0 Bragantino
+	Ponte Preta 2 - 0 Mirassol
+	São Bernardo 1 - 2 Mogi Mirim
+
+Rodada 19
+[Dom 21/04]
+	Santos 2 - 1 Penapolense
+	Corinthians 2 - 0 Atlético Sorocaba
+	Ituano 2 - 1 Palmeiras
+	Mogi Mirim 1 - 0 São Paulo
+	Bragantino 0 - 0 Ponte Preta
+	Mirassol 3 - 0 Linense
+	Oeste 0 - 4 São Bernardo
+	São Caetano 0 - 2 Paulista
+	Guarani 1 - 3 União Barbarense
+	XV de Piracicaba 4 - 1 Botafogo-SP
+
+Quartas-de-finais
+[Sab 27/04]
+	Santos 1 - 1 Palmeiras
+	Mogi Mirim 6 - 0 Botafogo-SP
+[Dom 28/04]
+	Ponte Preta 0 - 4 Corinthians
+	São Paulo 1 - 0 Penapolense
+
+Semi-finais
+[Sab 04/05]
+	Mogi Mirim 1 - 1 Santos
+[Dom 05/05]
+	São Paulo 0 - 0 Corinthians
+
+Finais
+[Dom 12/05]
+	Corinthians 2 - 1 Santos
+[Dom 19/05]
+	Santos 1 - 1 Corinthians
