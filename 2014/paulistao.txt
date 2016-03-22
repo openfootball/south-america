@@ -1,0 +1,242 @@
+
+Rodada 1
+[Sab 18/01]
+	Paulista 0 - 0 Osasco Audax
+	Palmeiras 2 - 1 Linense
+	São Bernardo 1 - 0 Botafogo-SP
+	Santos 1 - 0 XV de Piracicaba
+	Rio Claro 1 - 0 Atlético Sorocaba
+	Mogi Mirim 2 - 1 Comercial-SP
+[Dom 19/01]
+	Portuguesa 1 - 2 Corinthians
+	Bragantino 2 - 0 São Paulo
+	Oeste 1 - 0 Penapolense
+[Qua 12/02]
+	Ponte Preta 1 - 3 Ituano
+
+Rodada 2
+[Ter 21/01]
+	Osasco Audax 1 - 1 Santos
+	Linense 0 - 0 Rio Claro
+[Qua 22/01]
+	Ituano 0 - 0 Portuguesa
+	Atlético Sorocaba 1 - 1 Oeste
+	Penapolense 0 - 2 Bragantino
+	Botafogo-SP 1 - 0 Ponte Preta
+	XV de Piracicaba 1 - 2 São Bernardo
+	Corinthians 1 - 0 Paulista
+	São Paulo 4 - 0 Mogi Mirim
+[Qui 23/01]
+	Comercial-SP 0 - 2 Palmeiras
+
+Rodada 3
+[Sab 25/01]
+	Rio Claro 0 - 1 Penapolense
+	XV de Piracicaba 1 - 0 Portuguesa
+	Ponte Preta 1 - 0 Osasco Audax
+	Botafogo-SP 4 - 2 Paulista
+	Corinthians 0 - 1 São Bernardo
+[Dom 26/01]
+	Atlético Sorocaba 1 - 4 Palmeiras
+	São Paulo 2 - 1 Oeste
+	Ituano 0 - 1 Santos
+	Linense 1 - 2 Mogi Mirim
+	Bragantino 1 - 3 Comercial-SP
+
+Rodada 4
+[Ter 28/01]
+	São Bernardo 0 - 1 Osasco Audax
+[Qua 29/01]
+	Mogi Mirim 3 - 3 Atlético Sorocaba
+	Paulista 2 - 3 Ituano
+	Linense 1 - 0 Bragantino
+	Oeste 1 - 1 Comercial-SP
+	Portuguesa 1 - 2 Botafogo-SP
+	São Paulo 6 - 3 Rio Claro
+	Santos 5 - 1 Corinthians
+[Qui 30/01]
+	Palmeiras 1 - 0 Penapolense
+	XV de Piracicaba 4 - 1 Ponte Preta
+
+Rodada 5
+[Sab 01/02]
+	Ituano 0 - 0 São Bernardo
+	Oeste 0 - 1 Linense
+	Comercial-SP 1 - 2 Rio Claro
+	Santos 5 - 1 Botafogo-SP
+	Bragantino 2 - 0 Atlético Sorocaba
+[Dom 02/02]
+	Osasco Audax 4 - 2 Portuguesa
+	Ponte Preta 2 - 1 Corinthians
+	Palmeiras 2 - 0 São Paulo
+	Penapolense 2 - 1 Mogi Mirim
+	Paulista 0 - 0 XV de Piracicaba
+
+Rodada 6
+[Ter 04/02]
+	Botafogo-SP 3 - 1 Oeste
+	Rio Claro 1 - 1 Ituano
+[Qua 05/02]
+	Atlético Sorocaba 1 - 3 Portuguesa
+	Comercial-SP 0 - 1 Ponte Preta
+	Corinthians 0 - 2 Bragantino
+	XV de Piracicaba 1 - 2 Palmeiras
+[Qui 06/02]
+	São Paulo 2 - 0 Paulista
+	Penapolense 1 - 0 São Bernardo
+	Linense 1 - 2 Santos
+	Mogi Mirim 3 - 1 Osasco Audax
+
+Rodada 7
+[Sex 07/02]
+	Oeste 1 - 2 Ituano
+[Sab 08/02]
+	Rio Claro 3 - 0 XV de Piracicaba
+	Bragantino 1 - 1 Botafogo-SP
+[Dom 09/02]
+	Palmeiras 1 - 1 Osasco Audax
+	Ponte Preta 2 - 1 São Paulo
+	Mogi Mirim 1 - 1 Corinthians
+	Portuguesa 4 - 0 Linense
+[Ter 11/02]
+	Santos 2 - 0 Comercial-SP
+	Paulista 1 - 2 Penapolense
+	São Bernardo 3 - 1 Atlético Sorocaba
+
+Rodada 8
+[Qui 13/02]
+	Botafogo-SP 3 - 1 Mogi Mirim
+[Sex 14/02]
+	XV de Piracicaba 3 - 2 Oeste
+[Sab 15/02]
+	Osasco Audax 0 - 0 Rio Claro
+	Atlético Sorocaba 1 - 0 Ponte Preta
+	Comercial-SP 0 - 0 São Bernardo
+	São Paulo 0 - 0 Portuguesa
+[Dom 16/02]
+	Corinthians 1 - 1 Palmeiras
+	Ituano 2 - 0 Bragantino
+	Linense 1 - 0 Paulista
+	Penapolense 4 - 1 Santos
+
+Rodada 9
+[Ter 18/02]
+	Rio Claro 3 - 1 Botafogo-SP
+	Mogi Mirim 1 - 1 XV de Piracicaba
+[Qua 19/02]
+	Osasco Audax 1 - 0 Bragantino
+	Penapolense 2 - 1 Portuguesa
+	Ponte Preta 1 - 0 Linense
+	Palmeiras 1 - 0 Ituano
+	Oeste 1 - 2 Corinthians
+[Qui 20/02]
+	Comercial-SP 3 - 0 Paulista
+	Santos 2 - 1 Atlético Sorocaba
+	São Bernardo 1 - 1 São Paulo
+
+Rodada 10
+[Sab 22/02]
+	Penapolense 1 - 2 Ponte Preta
+	Osasco Audax 1 - 0 Oeste
+	Mogi Mirim 0 - 1 Ituano
+	Bragantino 1 - 0 XV de Piracicaba
+	Corinthians 3 - 2 Rio Claro
+[Dom 23/02]
+	São Paulo 0 - 0 Santos
+	Botafogo-SP 3 - 1 Palmeiras
+	Paulista 2 - 3 Atlético Sorocaba
+	Linense 1 - 3 São Bernardo
+	Portuguesa 2 - 1 Comercial-SP
+
+Rodada 11
+[Qua 26/02]
+	Portuguesa 2 - 0 Mogi Mirim
+	Corinthians 3 - 0 Comercial-SP
+	XV de Piracicaba 1 - 3 São Paulo
+[Qui 27/02]
+	Palmeiras 2 - 0 São Bernardo
+	Santos 5 - 0 Bragantino
+[Sex 28/02]
+	Ituano 1 - 0 Linense
+	Atlético Sorocaba 2 - 2 Osasco Audax
+[Sab 01/03]
+	Botafogo-SP 2 - 1 Penapolense
+	Ponte Preta 2 - 1 Oeste
+	Rio Claro 2 - 0 Paulista
+
+Rodada 12
+[Qua 05/03]
+	Atlético Sorocaba 0 - 1 Botafogo-SP
+	Oeste 2 - 1 Paulista
+	São Bernardo 5 - 5 Rio Claro
+	Bragantino 2 - 0 Ponte Preta
+	Comercial-SP 2 - 0 Ituano
+	São Paulo 4 - 0 Osasco Audax
+	Linense 0 - 4 Corinthians
+[Qui 06/03]
+	Palmeiras 1 - 0 Portuguesa
+	Penapolense 0 - 2 XV de Piracicaba
+	Mogi Mirim 2 - 5 Santos
+
+Rodada 13
+[Sab 08/03]
+	Botafogo-SP 1 - 0 Comercial-SP
+	Ituano 1 - 1 Atlético Sorocaba
+	Ponte Preta 2 - 1 Rio Claro
+[Dom 09/03]
+	Corinthians 2 - 3 São Paulo
+	Santos 4 - 1 Oeste
+	Paulista 1 - 3 Palmeiras
+	São Bernardo 1 - 1 Mogi Mirim
+[Ter 11/03]
+	XV de Piracicaba 2 - 0 Linense
+	Osasco Audax 2 - 0 Penapolense
+[Qua 12/03]
+	Portuguesa 3 - 1 Bragantino
+
+Rodada 14
+[Sab 15/03]
+	Palmeiras 3 - 2 Ponte Preta
+	Linense 1 - 0 Botafogo-SP
+	Atlético Sorocaba 1 - 1 XV de Piracicaba
+	Bragantino 2 - 1 São Bernardo
+[Dom 16/03]
+	São Paulo 0 - 1 Ituano
+	Penapolense 0 - 0 Corinthians
+	Rio Claro 3 - 3 Santos
+[Ter 18/03]
+	Mogi Mirim 4 - 4 Paulista
+	Comercial-SP 0 - 3 Osasco Audax
+	Oeste 1 - 0 Portuguesa
+
+Rodada 15
+[Dom 23/03]
+	Corinthians 3 - 0 Atlético Sorocaba
+	Botafogo-SP 0 - 2 São Paulo
+	Ituano 1 - 0 Penapolense
+	XV de Piracicaba 1 - 1 Comercial-SP
+	Osasco Audax 0 - 1 Linense
+	Santos 2 - 1 Palmeiras
+	Ponte Preta 0 - 4 Mogi Mirim
+	Paulista 1 - 1 Bragantino
+	São Bernardo 5 - 2 Oeste
+	Portuguesa 4 - 3 Rio Claro
+
+Quartas-de-finais
+[Qua 26/03]
+	Botafogo-SP 0 - 0 Ituano
+	Santos 4 - 0 Ponte Preta
+	São Paulo 0 - 0 Penapolense
+[Qui 27/03]
+	Palmeiras 2 - 0 Bragantino
+
+Semi-finais
+[Dom 30/03]
+	Santos 3 - 2 Penapolense
+	Palmeiras 0 - 1 Ituano
+
+Finais
+[Dom 06/04]
+	Ituano 1 - 0 Santos
+[Dom 13/04]
+	Santos 1 - 0 Ituano
