@@ -1,0 +1,234 @@
+
+Rodada 1
+[Sab 30/01]
+	Água Santa-SP 1 - 0 Ferroviária
+	Santos 1 - 1 São Bernardo
+	São Bento 1 - 1 Ituano
+	Oeste 3 - 1 Ponte Preta
+	Red Bull Brasil 1 - 1 São Paulo
+	Rio Claro 2 - 2 Capivariano
+[Dom 31/01]
+	Mogi Mirim 1 - 2 Osasco Audax
+	Corinthians 1 - 0 XV de Piracicaba
+	Linense 2 - 2 Novorizontino
+	Botafogo-SP 0 - 2 Palmeiras
+
+Rodada 2
+[Ter 02/02]
+	São Bernardo 1 - 0 Oeste
+[Qua 03/02]
+	Capivariano 0 - 2 Red Bull Brasil
+	Ituano 1 - 1 Linense
+	Ponte Preta 0 - 2 Santos
+[Qui 04/02]
+	Ferroviária 2 - 1 Mogi Mirim
+	Novorizontino 1 - 1 Botafogo-SP
+	Osasco Audax 0 - 1 Corinthians
+	Palmeiras 2 - 2 São Bento
+[Sab 06/02]
+	São Paulo 4 - 0 Água Santa-SP
+[Qua 17/02]
+	XV de Piracicaba 1 - 2 Rio Claro
+
+Rodada 3
+[Sab 06/02]
+	Santos 2 - 1 Ituano
+[Qua 10/02]
+	São Bento 1 - 0 Novorizontino
+	Osasco Audax 3 - 2 Red Bull Brasil
+	Linense 2 - 2 Ponte Preta
+	Ferroviária 3 - 1 Rio Claro
+	Oeste 0 - 0 Palmeiras
+[Qui 11/02]
+	Botafogo-SP 1 - 1 São Bernardo
+	XV de Piracicaba 0 - 0 Água Santa-SP
+	Corinthians 2 - 1 Capivariano
+[Ter 01/03]
+	São Paulo 2 - 0 Mogi Mirim
+
+Rodada 4
+[Sab 13/02]
+	Palmeiras 1 - 2 Linense
+	Ituano 1 - 0 Oeste
+	Rio Claro 0 - 2 Osasco Audax
+	Red Bull Brasil 0 - 3 Ferroviária
+	Novorizontino 3 - 3 Santos
+[Dom 14/02]
+	São Bento 3 - 0 São Bernardo
+	Água Santa-SP 4 - 1 Capivariano
+	Corinthians 2 - 0 São Paulo
+	Ponte Preta 1 - 1 Botafogo-SP
+	Mogi Mirim 0 - 0 XV de Piracicaba
+
+Rodada 5
+[Sab 20/02]
+	Palmeiras 0 - 0 Santos
+	São Bernardo 1 - 1 Linense
+	Capivariano 1 - 2 Mogi Mirim
+	XV de Piracicaba 2 - 1 Red Bull Brasil
+	Ponte Preta 0 - 0 São Bento
+	Osasco Audax 1 - 2 Água Santa-SP
+[Dom 21/02]
+	Novorizontino 1 - 1 Oeste
+	São Paulo 1 - 0 Rio Claro
+	Botafogo-SP 4 - 0 Ituano
+	Ferroviária 2 - 2 Corinthians
+
+Rodada 6
+[Qua 24/02]
+	Linense 4 - 0 Água Santa-SP
+	Capivariano 2 - 0 São Bernardo
+	São Paulo 2 - 0 Novorizontino
+	Botafogo-SP 0 - 2 Red Bull Brasil
+	São Bento 1 - 1 Corinthians
+	Oeste 1 - 2 Rio Claro
+	Osasco Audax 1 - 3 Ponte Preta
+[Qui 25/02]
+	Ituano 3 - 2 Ferroviária
+	Santos 4 - 1 Mogi Mirim
+	XV de Piracicaba 1 - 4 Palmeiras
+
+Rodada 7
+[Qua 17/02]
+	Mogi Mirim 3 - 1 Linense
+[Sab 27/02]
+	Água Santa-SP 2 - 2 São Bento
+	Novorizontino 3 - 2 Osasco Audax
+	Ponte Preta 1 - 0 São Paulo
+	Corinthians 1 - 0 Oeste
+[Dom 28/02]
+	Rio Claro 0 - 0 Botafogo-SP
+	Palmeiras 1 - 2 Ferroviária
+	Ituano 2 - 1 Capivariano
+	São Bernardo 1 - 2 XV de Piracicaba
+	Red Bull Brasil 2 - 0 Santos
+
+Rodada 8
+[Sab 05/03]
+	Botafogo-SP 2 - 0 Mogi Mirim
+	Oeste 1 - 0 Água Santa-SP
+	São Paulo 1 - 3 São Bernardo
+	Ponte Preta 0 - 1 XV de Piracicaba
+	Osasco Audax 2 - 0 Ituano
+[Dom 06/03]
+	Palmeiras 4 - 1 Capivariano
+	Santos 2 - 0 Corinthians
+	Rio Claro 0 - 1 Linense
+	Red Bull Brasil 2 - 0 São Bento
+	Ferroviária 1 - 2 Novorizontino
+
+Rodada 9
+[Sab 12/03]
+	Linense 0 - 3 Red Bull Brasil
+	São Bento 3 - 0 Rio Claro
+	XV de Piracicaba 1 - 4 Ituano
+	Santos 1 - 0 Água Santa-SP
+	Ponte Preta 2 - 1 Ferroviária
+[Dom 13/03]
+	São Paulo 0 - 2 Palmeiras
+	Capivariano 2 - 2 Novorizontino
+	Botafogo-SP 0 - 3 Corinthians
+	Mogi Mirim 0 - 0 Oeste
+	São Bernardo 3 - 3 Osasco Audax
+
+Rodada 10
+[Sab 19/03]
+	Água Santa-SP 1 - 1 Botafogo-SP
+	Corinthians 4 - 0 Linense
+	Novorizontino 1 - 1 XV de Piracicaba
+	Red Bull Brasil 2 - 3 Oeste
+	Mogi Mirim 0 - 3 São Bento
+	Capivariano 0 - 0 Ponte Preta
+[Dom 20/03]
+	Ituano 1 - 1 São Paulo
+	Ferroviária 0 - 2 São Bernardo
+	Osasco Audax 2 - 1 Palmeiras
+	Rio Claro 0 - 0 Santos
+
+Rodada 11
+[Ter 15/03]
+	XV de Piracicaba 0 - 1 Santos
+[Qua 23/03]
+	Oeste  -  Capivariano
+	Osasco Audax  -  Linense
+	Ponte Preta  -  Mogi Mirim
+	Ituano  -  Rio Claro
+	São Bento  -  Ferroviária
+	São Bernardo  -  Corinthians
+	São Paulo  -  Botafogo-SP
+[Qui 24/03]
+	Palmeiras  -  Red Bull Brasil
+	Novorizontino  -  Água Santa-SP
+
+Rodada 12
+[Sab 26/03]
+	Ferroviária  -  Oeste
+	Rio Claro  -  São Bernardo
+	Linense  -  Capivariano
+	Botafogo-SP  -  Osasco Audax
+	Corinthians  -  Ituano
+[Dom 27/03]
+	São Bento  -  XV de Piracicaba
+	Água Santa-SP  -  Palmeiras
+	Red Bull Brasil  -  Ponte Preta
+	Mogi Mirim  -  Novorizontino
+	Santos  -  São Paulo
+
+Rodada 13
+[Qua 30/03]
+	Água Santa-SP  -  Ituano
+	XV de Piracicaba  -  Botafogo-SP
+	Capivariano  -  São Bento
+	Linense  -  São Paulo
+	Oeste  -  Osasco Audax
+	Corinthians  -  Ponte Preta
+[Qui 31/03]
+	São Bernardo  -  Mogi Mirim
+	Palmeiras  -  Rio Claro
+	Red Bull Brasil  -  Novorizontino
+	Santos  -  Ferroviária
+
+Rodada 14
+[Sab 02/04]
+	Osasco Audax  -  São Bento
+	XV de Piracicaba  -  Linense
+	Ponte Preta  -  Água Santa-SP
+	São Paulo  -  Oeste
+[Dom 03/04]
+	Palmeiras  -  Corinthians
+	São Bernardo  -  Red Bull Brasil
+	Novorizontino  -  Rio Claro
+	Capivariano  -  Santos
+	Ferroviária  -  Botafogo-SP
+	Ituano  -  Mogi Mirim
+
+Rodada 15
+[Dom 10/04]
+	São Bento  -  São Paulo
+	Santos  -  Osasco Audax
+	Botafogo-SP  -  Capivariano
+	Oeste  -  XV de Piracicaba
+	Linense  -  Ferroviária
+	Corinthians  -  Novorizontino
+	Mogi Mirim  -  Palmeiras
+	Rio Claro  -  Ponte Preta
+	Red Bull Brasil  -  Ituano
+	Água Santa-SP  -  São Bernardo
+
+Quartas-de-finais
+[Dom 17/04]
+	  -  
+	  -  
+	  -  
+	  -  
+
+Semi-finais
+[Dom 24/04]
+	  -  
+	  -  
+
+Finais
+[Dom 01/05]
+	  -  
+[Dom 08/05]
+	  -  
