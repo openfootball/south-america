@@ -1,0 +1,494 @@
+
+Rodada 1
+[Dom 15/05]
+	Botafogo          -  São Paulo       
+	Flamengo          -  Sport           
+	Corinthians       -  Grêmio          
+	Palmeiras         -  Atlético-PR     
+	Internacional     -  Chapecoense     
+	Coritiba          -  Cruzeiro        
+	Figueirense       -  Ponte Preta     
+	América-MG        -  Fluminense      
+	Atlético-MG       -  Santos          
+	Santa Cruz        -  Vitória-BA      
+
+Rodada 2
+[Dom 22/05]
+	Vitória-BA        -  Corinthians     
+	Fluminense        -  Santa Cruz      
+	São Paulo         -  Internacional   
+	Santos            -  Coritiba        
+	Cruzeiro          -  Figueirense     
+	Grêmio            -  Flamengo        
+	Atlético-PR       -  Atlético-MG     
+	Chapecoense       -  América-MG      
+	Ponte Preta       -  Palmeiras       
+	Sport             -  Botafogo        
+
+Rodada 3
+[Qua 25/05]
+	Botafogo          -  Atlético-PR     
+	Flamengo          -  Chapecoense     
+	Corinthians       -  Ponte Preta     
+	Palmeiras         -  Fluminense      
+	Atlético-MG       -  Grêmio          
+	Internacional     -  Sport           
+	Coritiba          -  São Paulo       
+	Figueirense       -  Santos          
+	América-MG        -  Vitória-BA      
+	Santa Cruz        -  Cruzeiro        
+
+Rodada 4
+[Dom 29/05]
+	Vitória-BA        -  Atlético-MG     
+	Fluminense        -  Botafogo        
+	São Paulo         -  Palmeiras       
+	Santos            -  Internacional   
+	Cruzeiro          -  América-MG      
+	Grêmio            -  Coritiba        
+	Atlético-PR       -  Figueirense     
+	Chapecoense       -  Santa Cruz      
+	Ponte Preta       -  Flamengo        
+	Sport             -  Corinthians     
+
+Rodada 5
+[Qua 01/06]
+	Botafogo          -  Cruzeiro        
+	Flamengo          -  Vitória-BA      
+	Corinthians       -  Santos          
+	Palmeiras         -  Grêmio          
+	Atlético-MG       -  Fluminense      
+	Internacional     -  Atlético-PR     
+	Coritiba          -  Chapecoense     
+	Figueirense       -  São Paulo       
+	América-MG        -  Ponte Preta     
+	Santa Cruz        -  Sport           
+
+Rodada 6
+[Dom 05/06]
+	Vitória-BA        -  Internacional   
+	Flamengo          -  Palmeiras       
+	Corinthians       -  Coritiba        
+	Santos            -  Botafogo        
+	Cruzeiro          -  São Paulo       
+	Grêmio            -  Ponte Preta     
+	Atlético-PR       -  Santa Cruz      
+	Chapecoense       -  Fluminense      
+	América-MG        -  Figueirense     
+	Sport             -  Atlético-MG     
+
+Rodada 7
+[Dom 12/06]
+	Botafogo          -  Vitória-BA      
+	Fluminense        -  Grêmio          
+	São Paulo         -  Atlético-PR     
+	Palmeiras         -  Corinthians     
+	Atlético-MG       -  Cruzeiro        
+	Internacional     -  América-MG      
+	Coritiba          -  Sport           
+	Figueirense       -  Flamengo        
+	Ponte Preta       -  Chapecoense     
+	Santa Cruz        -  Santos          
+
+Rodada 8
+[Qua 15/06]
+	Botafogo          -  América-MG      
+	Fluminense        -  Corinthians     
+	São Paulo         -  Vitória-BA      
+	Santos            -  Sport           
+	Cruzeiro          -  Flamengo        
+	Internacional     -  Atlético-MG     
+	Coritiba          -  Palmeiras       
+	Chapecoense       -  Grêmio          
+	Ponte Preta       -  Atlético-PR     
+	Santa Cruz        -  Figueirense     
+
+Rodada 9
+[Dom 19/06]
+	Vitória-BA        -  Chapecoense     
+	Flamengo          -  São Paulo       
+	Corinthians       -  Botafogo        
+	Palmeiras         -  Santa Cruz      
+	Atlético-MG       -  Ponte Preta     
+	Grêmio            -  Cruzeiro        
+	Atlético-PR       -  Santos          
+	Figueirense       -  Internacional   
+	América-MG        -  Coritiba        
+	Sport             -  Fluminense      
+
+Rodada 10
+[Qua 22/06]
+	Botafogo          -  Figueirense     
+	Fluminense        -  Santos          
+	São Paulo         -  Sport           
+	Palmeiras         -  América-MG      
+	Atlético-MG       -  Corinthians     
+	Grêmio            -  Vitória-BA      
+	Coritiba          -  Internacional   
+	Chapecoense       -  Atlético-PR     
+	Ponte Preta       -  Cruzeiro        
+	Santa Cruz        -  Flamengo        
+
+Rodada 11
+[Dom 26/06]
+	Vitória-BA        -  Ponte Preta     
+	Flamengo          -  Fluminense      
+	Corinthians       -  Santa Cruz      
+	Santos            -  São Paulo       
+	Cruzeiro          -  Palmeiras       
+	Internacional     -  Botafogo        
+	Atlético-PR       -  Grêmio          
+	Figueirense       -  Coritiba        
+	América-MG        -  Atlético-MG     
+	Sport             -  Chapecoense     
+
+Rodada 12
+[Qua 29/06]
+	Vitória-BA        -  Sport           
+	Flamengo          -  Internacional   
+	São Paulo         -  Fluminense      
+	Palmeiras         -  Figueirense     
+	Atlético-MG       -  Botafogo        
+	Grêmio            -  Santos          
+	Coritiba          -  Atlético-PR     
+	Chapecoense       -  Cruzeiro        
+	América-MG        -  Corinthians     
+	Santa Cruz        -  Ponte Preta     
+
+Rodada 13
+[Dom 03/07]
+	Botafogo          -  Santa Cruz      
+	Fluminense        -  Coritiba        
+	Corinthians       -  Flamengo        
+	Santos            -  Chapecoense     
+	Cruzeiro          -  Vitória-BA      
+	Internacional     -  Grêmio          
+	Atlético-PR       -  América-MG      
+	Figueirense       -  Atlético-MG     
+	Ponte Preta       -  São Paulo       
+	Sport             -  Palmeiras       
+
+Rodada 14
+[Dom 10/07]
+	Vitória-BA        -  Fluminense      
+	Flamengo          -  Atlético-MG     
+	São Paulo         -  América-MG      
+	Palmeiras         -  Santos          
+	Cruzeiro          -  Atlético-PR     
+	Grêmio            -  Figueirense     
+	Coritiba          -  Botafogo        
+	Chapecoense       -  Corinthians     
+	Ponte Preta       -  Sport           
+	Santa Cruz        -  Internacional   
+
+Rodada 15
+[Dom 17/07]
+	Botafogo          -  Flamengo        
+	Fluminense        -  Cruzeiro        
+	Corinthians       -  São Paulo       
+	Santos            -  Ponte Preta     
+	Atlético-MG       -  Coritiba        
+	Atlético-PR       -  Vitória-BA      
+	Figueirense       -  Chapecoense     
+	América-MG        -  Santa Cruz      
+	Sport             -  Grêmio          
+	Internacional     -  Palmeiras       
+
+Rodada 16
+[Dom 24/07]
+	Vitória-BA        -  Santos          
+	Flamengo          -  América-MG      
+	Corinthians       -  Figueirense     
+	Cruzeiro          -  Sport           
+	Grêmio            -  São Paulo       
+	Atlético-PR       -  Fluminense      
+	Chapecoense       -  Botafogo        
+	Ponte Preta       -  Internacional   
+	Santa Cruz        -  Coritiba        
+	Palmeiras         -  Atlético-MG     
+
+Rodada 17
+[Dom 31/07]
+	Botafogo          -  Palmeiras       
+	Fluminense        -  Ponte Preta     
+	São Paulo         -  Chapecoense     
+	Santos            -  Cruzeiro        
+	Atlético-MG       -  Santa Cruz      
+	Internacional     -  Corinthians     
+	Coritiba          -  Flamengo        
+	Figueirense       -  Vitória-BA      
+	América-MG        -  Grêmio          
+	Sport             -  Atlético-PR     
+
+Rodada 18
+[Qua 03/08]
+	Vitória-BA        -  Coritiba        
+	Fluminense        -  Figueirense     
+	São Paulo         -  Atlético-MG     
+	Santos            -  Flamengo        
+	Cruzeiro          -  Internacional   
+	Grêmio            -  Santa Cruz      
+	Atlético-PR       -  Corinthians     
+	Chapecoense       -  Palmeiras       
+	Ponte Preta       -  Botafogo        
+	Sport             -  América-MG      
+
+Rodada 19
+[Dom 07/08]
+	Botafogo          -  Grêmio          
+	Flamengo          -  Atlético-PR     
+	Corinthians       -  Cruzeiro        
+	Palmeiras         -  Vitória-BA      
+	Atlético-MG       -  Chapecoense     
+	Internacional     -  Fluminense      
+	Coritiba          -  Ponte Preta     
+	Figueirense       -  Sport           
+	América-MG        -  Santos          
+	Santa Cruz        -  São Paulo       
+
+Rodada 20
+[Dom 14/08]
+	Vitória-BA        -  Santa Cruz      
+	Fluminense        -  América-MG      
+	São Paulo         -  Botafogo        
+	Santos            -  Atlético-MG     
+	Cruzeiro          -  Coritiba        
+	Grêmio            -  Corinthians     
+	Atlético-PR       -  Palmeiras       
+	Chapecoense       -  Internacional   
+	Ponte Preta       -  Figueirense     
+	Sport             -  Flamengo        
+
+Rodada 21
+[Dom 21/08]
+	Botafogo          -  Sport           
+	Flamengo          -  Grêmio          
+	Corinthians       -  Vitória-BA      
+	Palmeiras         -  Ponte Preta     
+	Atlético-MG       -  Atlético-PR     
+	Internacional     -  São Paulo       
+	Coritiba          -  Santos          
+	Figueirense       -  Cruzeiro        
+	América-MG        -  Chapecoense     
+	Santa Cruz        -  Fluminense      
+
+Rodada 22
+[Dom 28/08]
+	Vitória-BA        -  América-MG      
+	Fluminense        -  Palmeiras       
+	São Paulo         -  Coritiba        
+	Santos            -  Figueirense     
+	Cruzeiro          -  Santa Cruz      
+	Grêmio            -  Atlético-MG     
+	Atlético-PR       -  Botafogo        
+	Chapecoense       -  Flamengo        
+	Ponte Preta       -  Corinthians     
+	Sport             -  Internacional   
+
+Rodada 23
+[Qua 07/09]
+	Botafogo          -  Fluminense      
+	Flamengo          -  Ponte Preta     
+	Corinthians       -  Sport           
+	Palmeiras         -  São Paulo       
+	Atlético-MG       -  Vitória-BA      
+	Internacional     -  Santos          
+	Coritiba          -  Grêmio          
+	Santa Cruz        -  Chapecoense     
+	Figueirense       -  Atlético-PR     
+	América-MG        -  Cruzeiro        
+
+Rodada 24
+[Dom 11/09]
+	Vitória-BA        -  Flamengo        
+	Fluminense        -  Atlético-MG     
+	São Paulo         -  Figueirense     
+	Santos            -  Corinthians     
+	Cruzeiro          -  Botafogo        
+	Grêmio            -  Palmeiras       
+	Atlético-PR       -  Internacional   
+	Chapecoense       -  Coritiba        
+	Ponte Preta       -  América-MG      
+	Sport             -  Santa Cruz      
+
+Rodada 25
+[Qua 14/09]
+	Botafogo          -  Santos          
+	Fluminense        -  Chapecoense     
+	São Paulo         -  Cruzeiro        
+	Palmeiras         -  Flamengo        
+	Atlético-MG       -  Sport           
+	Internacional     -  Vitória-BA      
+	Coritiba          -  Corinthians     
+	Figueirense       -  América-MG      
+	Ponte Preta       -  Grêmio          
+	Santa Cruz        -  Atlético-PR     
+
+Rodada 26
+[Dom 18/09]
+	Vitória-BA        -  Botafogo        
+	Flamengo          -  Figueirense     
+	Corinthians       -  Palmeiras       
+	Santos            -  Santa Cruz      
+	Cruzeiro          -  Atlético-MG     
+	Grêmio            -  Fluminense      
+	Atlético-PR       -  São Paulo       
+	Chapecoense       -  Ponte Preta     
+	América-MG        -  Internacional   
+	Sport             -  Coritiba        
+
+Rodada 27
+[Dom 25/09]
+	Vitória-BA        -  São Paulo       
+	Flamengo          -  Cruzeiro        
+	Corinthians       -  Fluminense      
+	Palmeiras         -  Coritiba        
+	Atlético-MG       -  Internacional   
+	Grêmio            -  Chapecoense     
+	Atlético-PR       -  Ponte Preta     
+	Figueirense       -  Santa Cruz      
+	América-MG        -  Botafogo        
+	Sport             -  Santos          
+
+Rodada 28
+[Sab 01/10]
+	Botafogo          -  Corinthians     
+	Fluminense        -  Sport           
+	São Paulo         -  Flamengo        
+	Santos            -  Atlético-PR     
+	Cruzeiro          -  Grêmio          
+	Internacional     -  Figueirense     
+	Coritiba          -  América-MG      
+	Chapecoense       -  Vitória-BA      
+	Ponte Preta       -  Atlético-MG     
+	Santa Cruz        -  Palmeiras       
+
+Rodada 29
+[Qua 05/10]
+	Vitória-BA        -  Grêmio          
+	Flamengo          -  Santa Cruz      
+	Corinthians       -  Atlético-MG     
+	Santos            -  Fluminense      
+	Cruzeiro          -  Ponte Preta     
+	Internacional     -  Coritiba        
+	Figueirense       -  Botafogo        
+	Atlético-PR       -  Chapecoense     
+	América-MG        -  Palmeiras       
+	Sport             -  São Paulo       
+
+Rodada 30
+[Qua 12/10]
+	Botafogo          -  Internacional   
+	Fluminense        -  Flamengo        
+	São Paulo         -  Santos          
+	Palmeiras         -  Cruzeiro        
+	Atlético-MG       -  América-MG      
+	Grêmio            -  Atlético-PR     
+	Coritiba          -  Figueirense     
+	Chapecoense       -  Sport           
+	Ponte Preta       -  Vitória-BA      
+	Santa Cruz        -  Corinthians     
+
+Rodada 31
+[Dom 16/10]
+	Botafogo          -  Atlético-MG     
+	Fluminense        -  São Paulo       
+	Corinthians       -  América-MG      
+	Santos            -  Grêmio          
+	Cruzeiro          -  Chapecoense     
+	Internacional     -  Flamengo        
+	Atlético-PR       -  Coritiba        
+	Figueirense       -  Palmeiras       
+	Ponte Preta       -  Santa Cruz      
+	Sport             -  Vitória-BA      
+
+Rodada 32
+[Dom 23/10]
+	Vitória-BA        -  Cruzeiro        
+	Flamengo          -  Corinthians     
+	São Paulo         -  Ponte Preta     
+	Palmeiras         -  Sport           
+	Atlético-MG       -  Figueirense     
+	Grêmio            -  Internacional   
+	Coritiba          -  Fluminense      
+	Chapecoense       -  Santos          
+	América-MG        -  Atlético-PR     
+	Santa Cruz        -  Botafogo        
+
+Rodada 33
+[Dom 30/10]
+	Botafogo          -  Coritiba        
+	Fluminense        -  Vitória-BA      
+	Corinthians       -  Chapecoense     
+	Santos            -  Palmeiras       
+	Atlético-MG       -  Flamengo        
+	Internacional     -  Santa Cruz      
+	Atlético-PR       -  Cruzeiro        
+	Figueirense       -  Grêmio          
+	América-MG        -  São Paulo       
+	Sport             -  Ponte Preta     
+
+Rodada 34
+[Dom 06/11]
+	Vitória-BA        -  Atlético-PR     
+	Flamengo          -  Botafogo        
+	São Paulo         -  Corinthians     
+	Palmeiras         -  Internacional   
+	Cruzeiro          -  Fluminense      
+	Grêmio            -  Sport           
+	Coritiba          -  Atlético-MG     
+	Chapecoense       -  Figueirense     
+	Ponte Preta       -  Santos          
+	Santa Cruz        -  América-MG      
+
+Rodada 35
+[Qua 16/11]
+	Botafogo          -  Chapecoense     
+	Fluminense        -  Atlético-PR     
+	São Paulo         -  Grêmio          
+	Santos            -  Vitória-BA      
+	Atlético-MG       -  Palmeiras       
+	Internacional     -  Ponte Preta     
+	Coritiba          -  Santa Cruz      
+	Figueirense       -  Corinthians     
+	América-MG        -  Flamengo        
+	Sport             -  Cruzeiro        
+
+Rodada 36
+[Dom 20/11]
+	Vitória-BA        -  Figueirense     
+	Flamengo          -  Coritiba        
+	Corinthians       -  Internacional   
+	Palmeiras         -  Botafogo        
+	Cruzeiro          -  Santos          
+	Grêmio            -  América-MG      
+	Atlético-PR       -  Sport           
+	Chapecoense       -  São Paulo       
+	Ponte Preta       -  Fluminense      
+	Santa Cruz        -  Atlético-MG     
+
+Rodada 37
+[Dom 27/11]
+	Botafogo          -  Ponte Preta     
+	Flamengo          -  Santos          
+	Corinthians       -  Atlético-PR     
+	Palmeiras         -  Chapecoense     
+	Atlético-MG       -  São Paulo       
+	Internacional     -  Cruzeiro        
+	Coritiba          -  Vitória-BA      
+	Figueirense       -  Fluminense      
+	América-MG        -  Sport           
+	Santa Cruz        -  Grêmio          
+
+Rodada 38
+[Dom 04/12]
+	Vitória-BA        -  Palmeiras       
+	Fluminense        -  Internacional   
+	São Paulo         -  Santa Cruz      
+	Santos            -  América-MG      
+	Cruzeiro          -  Corinthians     
+	Grêmio            -  Botafogo        
+	Atlético-PR       -  Flamengo        
+	Chapecoense       -  Atlético-MG     
+	Ponte Preta       -  Coritiba        
+	Sport             -  Figueirense     
