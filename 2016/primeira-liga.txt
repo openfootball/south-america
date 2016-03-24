@@ -1,0 +1,42 @@
+
+Rodada 1
+[Qua 27/01]
+	Criciúma 1 - 1 Cruzeiro
+	Fluminense 0 - 1 Atlético-PR
+	Atlético-MG 0 - 2 Flamengo
+	Internacional 0 - 0 Coritiba
+[Qui 28/01]
+	América-MG 1 - 0 Figueirense
+	Avaí 2 - 2 Grêmio
+
+Rodada 2
+[Dom 07/02]
+	Figueirense 2 - 1 Atlético-MG
+	Grêmio 1 - 0 Coritiba
+[Qua 17/02]
+	Internacional 3 - 0 Avaí
+	Cruzeiro 3 - 4 Fluminense
+	Flamengo 1 - 0 América-MG
+[Qua 24/02]
+	Atlético-PR 1 - 0 Criciúma
+
+Rodada 3
+[Qua 02/03]
+	Atlético-MG 1 - 1 América-MG
+[Dom 06/03]
+	Grêmio 0 - 0 Internacional
+[Qua 09/03]
+	Cruzeiro 2 - 1 Atlético-PR
+	Flamengo 1 - 1 Figueirense
+[Qui 10/03]
+	Fluminense 2 - 0 Criciúma
+	Coritiba 3 - 0 Avaí
+
+Semi-finais
+[Qua 23/03]
+	Fluminense 2 - 2 Internacional
+	Flamengo  -  Atlético-PR
+
+Final
+[Qui 07/04]
+	Vencedor Semifinal 1  -  Vencedor Semifinal 2
