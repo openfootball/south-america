@@ -149,16 +149,16 @@ Rodada 11
 [Ter 15/03]
 	XV de Piracicaba 0 - 1 Santos
 [Qua 23/03]
-	Oeste  -  Capivariano
-	Osasco Audax  -  Linense
-	Ponte Preta  -  Mogi Mirim
-	Ituano  -  Rio Claro
-	São Bento  -  Ferroviária
-	São Bernardo  -  Corinthians
-	São Paulo  -  Botafogo-SP
+	Oeste 1 - 2 Capivariano
+	Osasco Audax 0 - 0 Linense
+	Ponte Preta 0 - 1 Mogi Mirim
+	Ituano 2 - 1 Rio Claro
+	São Bento 1 - 0 Ferroviária
+	São Bernardo 0 - 3 Corinthians
+	São Paulo 1 - 0 Botafogo-SP
 [Qui 24/03]
-	Palmeiras  -  Red Bull Brasil
-	Novorizontino  -  Água Santa-SP
+	Palmeiras 1 - 2 Red Bull Brasil
+	Novorizontino 4 - 0 Água Santa-SP
 
 Rodada 12
 [Sab 26/03]
