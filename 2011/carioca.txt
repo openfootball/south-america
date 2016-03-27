@@ -1,0 +1,200 @@
+
+Rodada 1
+[Qua 19/01]
+	Boavista-RJ 1 - 1 América-RJ
+	Vasco 0 - 0 Resende
+	Flamengo 0 - 0 Volta Redonda
+[Qui 20/01]
+	Americano 1 - 1 Nova Iguaçu
+	Olaria 1 - 0 Madureira
+	Botafogo 0 - 0 Duque de Caxias
+	Bangu 0 - 0 Fluminense
+	Macaé 3 - 0 Cabofriense
+
+Rodada 2
+[Sab 22/01]
+	América-RJ 0 - 0 Flamengo
+	Volta Redonda 0 - 1 Boavista-RJ
+[Dom 23/01]
+	Nova Iguaçu 0 - 0 Vasco
+	Duque de Caxias 4 - 1 Macaé
+	Madureira 0 - 1 Bangu
+	Resende 1 - 1 Americano
+	Fluminense 0 - 0 Olaria
+	Cabofriense 0 - 0 Botafogo
+
+Rodada 3
+[Qua 26/01]
+	Volta Redonda 1 - 1 Nova Iguaçu
+	América-RJ 1 - 4 Resende
+	Bangu 1 - 0 Duque de Caxias
+	Olaria 2 - 0 Cabofriense
+	Flamengo 0 - 0 Americano
+	Botafogo 0 - 0 Madureira
+[Qui 27/01]
+	Boavista-RJ 0 - 0 Vasco
+	Fluminense 0 - 0 Macaé
+
+Rodada 4
+[Sab 29/01]
+	Nova Iguaçu 2 - 0 América-RJ
+	Resende 1 - 0 Volta Redonda
+	Botafogo 0 - 0 Olaria
+	Duque de Caxias 3 - 3 Madureira
+[Dom 30/01]
+	Americano 2 - 3 Boavista-RJ
+	Cabofriense 0 - 0 Fluminense
+	Vasco 0 - 0 Flamengo
+	Macaé 2 - 2 Bangu
+
+Rodada 5
+[Qua 02/02]
+	Boavista-RJ 0 - 1 Resende
+	América-RJ 3 - 1 Americano
+	Madureira 2 - 1 Cabofriense
+	Olaria 1 - 1 Macaé
+	Bangu 0 - 0 Botafogo
+	Flamengo 0 - 0 Nova Iguaçu
+[Qui 03/02]
+	Vasco 0 - 0 Volta Redonda
+	Fluminense 0 - 0 Duque de Caxias
+
+Rodada 6
+[Sab 05/02]
+	Resende 1 - 2 Nova Iguaçu
+	Bangu 2 - 2 Cabofriense
+	Macaé 2 - 2 Madureira
+[Dom 06/02]
+	Vasco 0 - 0 Americano
+	Boavista-RJ 0 - 0 Flamengo
+	Volta Redonda 2 - 0 América-RJ
+	Duque de Caxias 4 - 2 Olaria
+	Fluminense 0 - 0 Botafogo
+
+Rodada 7
+[Sab 12/02]
+	América-RJ 0 - 0 Vasco
+[Dom 13/02]
+	Americano 2 - 1 Volta Redonda
+	Madureira 0 - 0 Fluminense
+	Olaria 1 - 0 Bangu
+	Cabofriense 2 - 0 Duque de Caxias
+	Botafogo 1 - 1 Macaé
+	Flamengo 1 - 0 Resende
+	Nova Iguaçu 3 - 5 Boavista-RJ
+
+Semi-finais
+[Sab 19/02]
+	Fluminense 2 (2) - (4) 2 Boavista-RJ
+[Dom 20/02]
+	Flamengo 0 (3) - (1) 0 Botafogo
+
+Final Taça Guanabara
+[Dom 27/02]
+	Flamengo 1 - 0 Boavista-RJ
+
+Rodada 10
+[Qui 03/03]
+	América-RJ 2 - 0 Cabofriense
+	Boavista-RJ 3 - 1 Bangu
+	Madureira 3 - 1 Nova Iguaçu
+	Duque de Caxias 2 - 2 Americano
+[Sex 04/03]
+	Macaé 0 - 0 Vasco
+[Sab 05/03]
+	Botafogo 0 - 0 Volta Redonda
+	Flamengo 0 - 0 Olaria
+	Resende 0 - 0 Fluminense
+
+Rodada 11
+[Qua 09/03]
+	Americano 2 - 1 Macaé
+	Cabofriense 2 - 1 Resende
+	Olaria 2 - 0 Boavista-RJ
+	Nova Iguaçu 0 - 0 Botafogo
+	Fluminense 0 - 0 América-RJ
+	Vasco 0 - 0 Duque de Caxias
+[Qui 10/03]
+	Bangu 0 - 0 Flamengo
+	Volta Redonda 3 - 2 Madureira
+
+Rodada 12
+[Sab 12/03]
+	Boavista-RJ 3 - 1 Cabofriense
+	Resende 1 - 2 Olaria
+	Botafogo 0 - 0 Americano
+[Dom 13/03]
+	Madureira 0 - 0 Vasco
+	América-RJ 1 - 3 Bangu
+	Duque de Caxias 0 - 0 Volta Redonda
+	Macaé 0 - 1 Nova Iguaçu
+	Flamengo 0 - 0 Fluminense
+
+Rodada 13
+[Sab 19/03]
+	Nova Iguaçu 1 - 2 Duque de Caxias
+	Americano 2 - 1 Madureira
+	Volta Redonda 2 - 1 Macaé
+	Olaria 1 - 0 América-RJ
+	Fluminense 0 - 0 Boavista-RJ
+[Dom 20/03]
+	Cabofriense 0 - 0 Flamengo
+	Bangu 0 - 1 Resende
+	Vasco 0 - 0 Botafogo
+
+Rodada 14
+[Sab 26/03]
+	Olaria 2 - 0 Nova Iguaçu
+	Boavista-RJ 0 - 0 Botafogo
+[Dom 27/03]
+	Resende 5 - 2 Macaé
+	América-RJ 1 - 2 Duque de Caxias
+	Cabofriense 0 - 1 Americano
+	Bangu 2 - 1 Volta Redonda
+	Flamengo 0 - 0 Madureira
+	Fluminense 0 - 0 Vasco
+
+Rodada 15
+[Sab 02/04]
+	Nova Iguaçu 3 - 2 Cabofriense
+	Madureira 2 - 0 América-RJ
+	Volta Redonda 0 - 0 Fluminense
+	Macaé 2 - 1 Boavista-RJ
+	Duque de Caxias 0 - 0 Flamengo
+[Dom 03/04]
+	Americano 0 - 0 Olaria
+	Vasco 0 - 0 Bangu
+	Botafogo 0 - 0 Resende
+
+Rodada 16
+[Sab 09/04]
+	Nova Iguaçu 1 - 1 Bangu
+	Volta Redonda 0 - 0 Olaria
+	Madureira 2 - 1 Boavista-RJ
+	Macaé 1 - 1 América-RJ
+	Vasco 0 - 0 Cabofriense
+[Dom 10/04]
+	Duque de Caxias 2 - 1 Resende
+	Americano 0 - 0 Fluminense
+	Botafogo 0 - 0 Flamengo
+
+Rodada 17
+[Dom 17/04]
+	Resende 1 - 1 Madureira
+	Cabofriense 1 - 2 Volta Redonda
+	Bangu 1 - 2 Americano
+	Olaria 0 - 0 Vasco
+	Fluminense 1 - 0 Nova Iguaçu
+	Flamengo 0 - 0 Macaé
+	América-RJ 1 - 3 Botafogo
+	Boavista-RJ 3 - 0 Duque de Caxias
+
+Semi-finais
+[Sab 23/04]
+	Vasco 0 - 0 Olaria
+[Dom 24/04]
+	Fluminense 0 (4) - (5) 0 Flamengo
+
+Final Taça Rio
+[Dom 01/05]
+	Vasco 0 (1) - (3) 0 Flamengo
