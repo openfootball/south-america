@@ -1,0 +1,199 @@
+
+Rodada 1
+[Sab 30/01]
+	Portuguesa-RJ 3 - 2 Tigres-RJ
+	Bangu 0 - 2 Botafogo
+	Friburguense 1 - 0 Macaé
+	Flamengo 1 - 1 Boavista-RJ
+	Cabofriense 0 - 0 América-RJ
+[Dom 31/01]
+	Vasco 4 - 1 Madureira
+	Bonsucesso 0 - 2 Resende
+	Volta Redonda 3 - 1 Fluminense
+
+Rodada 2
+[Ter 02/02]
+	Botafogo 2 - 1 Portuguesa-RJ
+[Qua 03/02]
+	Madureira 4 - 2 Cabofriense
+	Resende 1 - 1 Volta Redonda
+	Boavista-RJ 4 - 0 Friburguense
+	Fluminense 4 - 0 Bonsucesso
+	Macaé 0 - 2 Flamengo
+[Qui 04/02]
+	Tigres-RJ 0 - 2 Bangu
+	América-RJ 1 - 3 Vasco
+
+Rodada 3
+[Qua 10/02]
+	Bangu 3 - 1 Friburguense
+	Tigres-RJ 2 - 3 Boavista-RJ
+	América-RJ 2 - 0 Resende
+	Botafogo 1 - 0 Macaé
+	Vasco 2 - 0 Volta Redonda
+	Portuguesa-RJ 0 - 5 Flamengo
+[Qui 11/02]
+	Cabofriense 3 - 1 Bonsucesso
+	Madureira 3 - 3 Fluminense
+
+Rodada 4
+[Sab 13/02]
+	Macaé 2 - 1 América-RJ
+	Resende 0 - 1 Botafogo
+[Dom 14/02]
+	Boavista-RJ 1 - 0 Madureira
+	Vasco 1 - 0 Flamengo
+	Friburguense 2 - 0 Cabofriense
+	Bonsucesso 0 - 3 Bangu
+	Fluminense 4 - 0 Tigres-RJ
+[Seg 15/02]
+	Volta Redonda 2 - 2 Portuguesa-RJ
+
+Rodada 5
+[Qui 18/02]
+	América-RJ 3 - 2 Bangu
+[Sab 20/02]
+	Madureira 2 - 1 Portuguesa-RJ
+	Macaé 2 - 2 Bonsucesso
+	Tigres-RJ 0 - 2 Vasco
+[Dom 21/02]
+	Resende 1 - 1 Friburguense
+	Boavista-RJ 1 - 1 Volta Redonda
+	Botafogo 2 - 1 Cabofriense
+	Fluminense 1 - 2 Flamengo
+
+Rodada 6
+[Qua 24/02]
+	Bangu 1 - 1 Volta Redonda
+	Madureira 1 - 0 Macaé
+	Cabofriense 0 - 1 Flamengo
+	Tigres-RJ 1 - 1 Resende
+	Botafogo 2 - 0 Fluminense
+[Qui 25/02]
+	Portuguesa-RJ 3 - 1 Bonsucesso
+	Vasco 2 - 2 Friburguense
+	América-RJ 1 - 1 Boavista-RJ
+
+Rodada 7
+[Sab 27/02]
+	Cabofriense 2 - 0 Tigres-RJ
+	Bangu 1 - 1 Madureira
+[Dom 28/02]
+	Portuguesa-RJ 0 - 1 América-RJ
+	Bonsucesso 1 - 2 Boavista-RJ
+	Flamengo 5 - 0 Resende
+	Vasco 1 - 1 Botafogo
+[Seg 29/02]
+	Volta Redonda 3 - 1 Macaé
+[Qua 02/03]
+	Friburguense 1 - 2 Fluminense
+
+Rodada 8
+[Sab 05/03]
+	Flamengo 3 - 1 Bangu
+	Bonsucesso 1 - 3 Vasco
+[Dom 06/03]
+	Friburguense 2 - 1 Portuguesa-RJ
+	Volta Redonda 2 - 1 Cabofriense
+	Fluminense 1 - 0 América-RJ
+	Macaé 0 - 1 Tigres-RJ
+	Resende 0 - 0 Madureira
+	Boavista-RJ 0 - 1 Botafogo
+
+Rodada 9
+[Sab 12/03]
+	Portuguesa-RJ 1 - 0 Bonsucesso
+	América-RJ 2 - 1 Cabofriense
+	Flamengo 1 - 0 Madureira
+	Macaé 3 - 0 Resende
+[Dom 13/03]
+	Boavista-RJ 1 - 0 Volta Redonda
+	Friburguense 0 - 1 Tigres-RJ
+	Vasco 2 - 0 Bangu
+	Fluminense 1 - 1 Botafogo
+
+Rodada 10
+[Sab 19/03]
+	Resende 2 - 0 Bonsucesso
+	Friburguense 2 - 0 América-RJ
+	Macaé 2 - 1 Portuguesa-RJ
+	Volta Redonda 3 - 1 Bangu
+	Boavista-RJ 0 - 1 Vasco
+	Cabofriense 0 - 0 Tigres-RJ
+[Dom 20/03]
+	Flamengo 0 - 0 Fluminense
+	Botafogo 1 - 0 Madureira
+
+Rodada 11
+[Sab 26/03]
+	Madureira 2 - 2 Bangu
+	Resende 2 - 1 Portuguesa-RJ
+	Tigres-RJ 2 - 1 América-RJ
+	Volta Redonda 1 - 0 Flamengo
+	Cabofriense 1 - 0 Friburguense
+[Dom 27/03]
+	Bonsucesso 1 - 1 Macaé
+	Vasco 1 - 0 Botafogo
+	Fluminense 3 - 0 Boavista-RJ
+
+Rodada 12
+[Qua 30/03]
+	Boavista-RJ  -  Madureira
+	Bangu  -  Fluminense
+	Botafogo  -  Volta Redonda
+	Friburguense  -  Resende
+	Flamengo  -  Vasco
+[Qui 31/03]
+	Portuguesa-RJ  -  Tigres-RJ
+	América-RJ  -  Bonsucesso
+	Cabofriense  -  Macaé
+
+Rodada 13
+[Sab 02/04]
+	Bangu  -  Boavista-RJ
+	Botafogo  -  Flamengo
+	Madureira  -  Fluminense
+[Dom 03/04]
+	Bonsucesso  -  Friburguense
+	Portuguesa-RJ  -  Cabofriense
+	Vasco  -  Volta Redonda
+	América-RJ  -  Resende
+	Tigres-RJ  -  Macaé
+
+Rodada 14
+[Sab 09/04]
+	Flamengo  -  Boavista-RJ
+	Friburguense  -  Macaé
+	Botafogo  -  Bangu
+	Cabofriense  -  Bonsucesso
+[Dom 10/04]
+	América-RJ  -  Portuguesa-RJ
+	Volta Redonda  -  Fluminense
+	Tigres-RJ  -  Resende
+	Vasco  -  Madureira
+
+Rodada 15
+[Sab 16/04]
+	Portuguesa-RJ  -  Friburguense
+	Bonsucesso  -  Tigres-RJ
+	Resende  -  Cabofriense
+	Macaé  -  América-RJ
+[Dom 17/04]
+	Boavista-RJ  -  Botafogo
+	Fluminense  -  Vasco
+	Madureira  -  Volta Redonda
+	Bangu  -  Flamengo
+
+Rodada 16
+[Sab 23/04]
+	1º do grupo C  -  4º do grupo C
+	5º do grupo C  -  2º do grupo D
+[Dom 24/04]
+	6º do grupo C  -  1º do grupo D
+	2º do grupo C  -  3º do grupo C
+
+Rodada 17
+[Dom 01/05]
+	Vencedor Semifinal 2  -  Vencedor Semifinal 1
+[Dom 08/05]
+	Vencedor Semifinal 1  -  Vencedor Semifinal 2
