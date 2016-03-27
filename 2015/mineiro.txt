@@ -1,0 +1,127 @@
+
+Rodada 1
+[Dom 01/02]
+	Guarani-MG 0 - 0 América-MG
+	URT 2 - 1 Boa Esporte
+	Caldense 6 - 1 Mamoré
+	Tombense 0 - 1 Villa Nova-MG
+	Atlético-MG 2 - 0 Tupi
+	Democrata-GV 1 - 2 Cruzeiro
+
+Rodada 2
+[Qua 04/02]
+	América-MG 2 - 1 URT
+[Sab 07/02]
+	Mamoré 0 - 2 Atlético-MG
+[Dom 08/02]
+	Villa Nova-MG 1 - 1 Guarani-MG
+	Cruzeiro 1 - 1 Caldense
+	Boa Esporte 2 - 0 Democrata-GV
+	Tupi 2 - 1 Tombense
+
+Rodada 3
+[Qua 11/02]
+	URT 0 - 1 Mamoré
+	Guarani-MG 1 - 3 Cruzeiro
+[Qui 12/02]
+	Caldense 1 - 1 Tombense
+[Sab 14/02]
+	Villa Nova-MG 2 - 1 Boa Esporte
+	Tupi 1 - 2 América-MG
+	Atlético-MG 2 - 1 Democrata-GV
+
+Rodada 4
+[Sab 21/02]
+	Tombense 3 - 1 Mamoré
+	Caldense 2 - 0 Guarani-MG
+	Cruzeiro 3 - 0 Boa Esporte
+[Dom 22/02]
+	América-MG 2 - 1 Atlético-MG
+	Democrata-GV 0 - 1 Tupi
+	URT 0 - 0 Villa Nova-MG
+
+Rodada 5
+[Sab 28/02]
+	Mamoré 1 - 2 Villa Nova-MG
+	Tupi 0 - 3 Cruzeiro
+	América-MG 0 - 0 Caldense
+	Democrata-GV 1 - 0 URT
+[Dom 01/03]
+	Atlético-MG 2 - 0 Guarani-MG
+[Seg 02/03]
+	Boa Esporte 1 - 2 Tombense
+
+Rodada 6
+[Sab 07/03]
+	Tombense 2 - 1 URT
+	Mamoré 0 - 0 Boa Esporte
+	Caldense 2 - 1 Tupi
+	Guarani-MG 2 - 2 Democrata-GV
+[Dom 08/03]
+	Villa Nova-MG 0 - 0 América-MG
+	Cruzeiro 1 - 1 Atlético-MG
+
+Rodada 7
+[Qua 11/03]
+	América-MG 3 - 0 Mamoré
+	Tombense 3 - 1 Democrata-GV
+	URT 2 - 0 Guarani-MG
+	Tupi 0 - 0 Boa Esporte
+	Villa Nova-MG 0 - 4 Cruzeiro
+[Qui 12/03]
+	Caldense 1 - 0 Atlético-MG
+
+Rodada 8
+[Sab 14/03]
+	Boa Esporte 0 - 0 América-MG
+[Dom 15/03]
+	Atlético-MG 4 - 0 URT
+	Tupi 3 - 0 Villa Nova-MG
+	Guarani-MG 1 - 2 Tombense
+[Seg 16/03]
+	Democrata-GV 0 - 1 Caldense
+[Qua 25/03]
+	Cruzeiro 1 - 1 Mamoré
+
+Rodada 9
+[Sab 21/03]
+	Mamoré 4 - 0 Tupi
+[Dom 22/03]
+	Tombense 0 - 3 Atlético-MG
+	URT 0 - 1 Caldense
+	Villa Nova-MG 1 - 1 Democrata-GV
+	Boa Esporte 1 - 1 Guarani-MG
+	América-MG 0 - 2 Cruzeiro
+
+Rodada 10
+[Dom 29/03]
+	Atlético-MG 3 - 0 Villa Nova-MG
+	URT 0 - 2 Cruzeiro
+	Democrata-GV 1 - 0 Mamoré
+	Caldense 0 - 0 Boa Esporte
+	Guarani-MG 1 - 0 Tupi
+	Tombense 1 - 1 América-MG
+
+Rodada 11
+[Dom 05/04]
+	Cruzeiro 1 - 2 Tombense
+	Boa Esporte 2 - 0 Atlético-MG
+	América-MG 2 - 1 Democrata-GV
+	Mamoré 0 - 1 Guarani-MG
+	Tupi 1 - 2 URT
+	Villa Nova-MG 0 - 1 Caldense
+
+Semi-finais
+[Sab 11/04]
+	Tombense 0 - 0 Caldense
+[Dom 12/04]
+	Atlético-MG 1 - 1 Cruzeiro
+[Dom 19/04]
+	Cruzeiro 1 - 2 Atlético-MG
+	Caldense 2 - 0 Tombense
+
+Finais
+[Dom 26/04]
+	Atlético-MG 0 - 0 Caldense
+[Dom 03/05]
+	Caldense 1 - 2 Atlético-MG

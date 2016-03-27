@@ -1,0 +1,127 @@
+
+Rodada 1
+[Dom 26/01]
+	Boa Esporte 2 - 1 Villa Nova-MG
+	Cruzeiro 1 - 0 URT
+	Guarani-MG 0 - 0 Caldense
+	América-MG 1 - 1 Tupi
+[Qua 29/01]
+	Minas Futebol 0 - 0 Atlético-MG
+[Ter 25/02]
+	Nacional-MG 1 - 0 Tombense
+
+Rodada 2
+[Sab 01/02]
+	Tupi 3 - 1 Minas Futebol
+	Tombense 0 - 0 América-MG
+	Caldense 0 - 0 Cruzeiro
+[Dom 02/02]
+	Atlético-MG 2 - 1 Nacional-MG
+	URT 1 - 4 Boa Esporte
+	Villa Nova-MG 1 - 0 Guarani-MG
+
+Rodada 3
+[Qua 05/02]
+	Guarani-MG 3 - 1 Minas Futebol
+	Cruzeiro 3 - 1 Villa Nova-MG
+	Caldense 2 - 0 Nacional-MG
+	URT 1 - 0 Tupi
+	Atlético-MG 0 - 2 Tombense
+[Qua 12/03]
+	América-MG 2 - 0 Boa Esporte
+
+Rodada 4
+[Sab 08/02]
+	Tupi 2 - 0 Atlético-MG
+[Dom 09/02]
+	Tombense 1 - 1 Caldense
+	Minas Futebol 1 - 2 Boa Esporte
+	Cruzeiro 2 - 0 América-MG
+	Nacional-MG 3 - 2 Guarani-MG
+[Qua 12/03]
+	Villa Nova-MG 3 - 1 URT
+
+Rodada 5
+[Sab 15/02]
+	Caldense 3 - 0 Tupi
+	Boa Esporte 1 - 0 Nacional-MG
+[Dom 16/02]
+	Atlético-MG 0 - 0 Cruzeiro
+	Minas Futebol 2 - 1 América-MG
+	Villa Nova-MG 1 - 3 Tombense
+	Guarani-MG 0 - 1 URT
+
+Rodada 6
+[Qua 19/02]
+	URT 0 - 5 Atlético-MG
+	Tombense 0 - 0 Boa Esporte
+	Nacional-MG 0 - 0 Minas Futebol
+	Tupi 0 - 0 Villa Nova-MG
+	Cruzeiro 2 - 0 Guarani-MG
+[Dom 16/03]
+	Caldense 1 - 2 América-MG
+
+Rodada 7
+[Qua 12/02]
+	Tombense 1 - 1 Guarani-MG
+[Sab 22/02]
+	Tupi 1 - 0 Nacional-MG
+	Boa Esporte 1 - 3 Cruzeiro
+	Caldense 1 - 1 Villa Nova-MG
+[Dom 23/02]
+	Atlético-MG 3 - 2 América-MG
+[Dom 16/03]
+	URT 3 - 1 Minas Futebol
+
+Rodada 8
+[Sab 01/03]
+	Tombense 1 - 1 Tupi
+	Boa Esporte 1 - 2 Guarani-MG
+	América-MG 2 - 1 Nacional-MG
+	Caldense 1 - 0 URT
+	Cruzeiro 4 - 0 Minas Futebol
+	Villa Nova-MG 1 - 4 Atlético-MG
+
+Rodada 9
+[Qua 05/03]
+	Guarani-MG 1 - 2 América-MG
+	Nacional-MG 1 - 4 Cruzeiro
+	URT 2 - 1 Tombense
+	Villa Nova-MG 2 - 1 Minas Futebol
+	Tupi 1 - 0 Boa Esporte
+	Atlético-MG 2 - 0 Caldense
+
+Rodada 10
+[Sab 08/03]
+	Cruzeiro 2 - 1 Tupi
+[Dom 09/03]
+	Minas Futebol 1 - 2 Tombense
+	Boa Esporte 1 - 0 Caldense
+	América-MG 1 - 1 Villa Nova-MG
+	Nacional-MG 2 - 0 URT
+	Guarani-MG 0 - 1 Atlético-MG
+
+Rodada 11
+[Qua 12/02]
+	América-MG 1 - 0 URT
+[Ter 25/02]
+	Minas Futebol 2 - 1 Caldense
+[Dom 16/03]
+	Atlético-MG 3 - 0 Boa Esporte
+	Tombense 0 - 3 Cruzeiro
+	Villa Nova-MG 3 - 1 Nacional-MG
+	Tupi 1 - 2 Guarani-MG
+
+Semi-finais
+[Dom 23/03]
+	América-MG 1 - 4 Atlético-MG
+	Boa Esporte 0 - 1 Cruzeiro
+[Dom 30/03]
+	Cruzeiro 2 - 1 Boa Esporte
+	Atlético-MG 1 - 1 América-MG
+
+Finais
+[Dom 06/04]
+	Atlético-MG 0 - 0 Cruzeiro
+[Dom 13/04]
+	Cruzeiro 0 - 0 Atlético-MG
