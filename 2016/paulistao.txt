@@ -164,15 +164,15 @@ Rodada 12
 [Sab 26/03]
 	Ferroviária 2 - 0 Oeste
 	Rio Claro 1 - 4 São Bernardo
-	Linense  -  Capivariano
-	Botafogo-SP  -  Osasco Audax
-	Corinthians  -  Ituano
+	Linense 5 - 0 Capivariano
+	Botafogo-SP 1 - 1 Osasco Audax
+	Corinthians 1 - 0 Ituano
 [Dom 27/03]
-	São Bento  -  XV de Piracicaba
-	Água Santa-SP  -  Palmeiras
-	Red Bull Brasil  -  Ponte Preta
-	Mogi Mirim  -  Novorizontino
-	Santos  -  São Paulo
+	São Bento 1 - 0 XV de Piracicaba
+	Água Santa-SP 4 - 1 Palmeiras
+	Red Bull Brasil 0 - 3 Ponte Preta
+	Mogi Mirim 0 - 3 Novorizontino
+	Santos 1 - 1 São Paulo
 
 Rodada 13
 [Qua 30/03]
