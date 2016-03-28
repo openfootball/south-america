@@ -126,12 +126,12 @@ Rodada 11
 [Sab 26/03]
 	Internacional      4 - 2 Novo Hamburgo      
 [Dom 27/03]
-	Grêmio               -  Lajeadense         
-	Brasil de Pelotas    -  São José-RS        
-	Glória-RS            -  Passo Fundo        
-	Cruzeiro-RS          -  São Paulo-RS       
-	Ypiranga             -  Aimoré             
-	Veranópolis          -  Juventude          
+	Grêmio              3 - 0 Lajeadense         
+	Brasil de Pelotas   0 - 0 São José-RS        
+	Glória-RS           0 - 0  Passo Fundo        
+	Cruzeiro-RS         1 - 0 São Paulo-RS       
+	Ypiranga            2 - 1 Aimoré             
+	Veranópolis         2 - 1 Juventude          
 
 Rodada 12
 [Qua 30/03]
