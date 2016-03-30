@@ -1,0 +1,283 @@
+
+1ª Rodada
+08/05/2010 - Sábado 
+Botafogo  3x3  Santos 
+Atlético-GO  0x0  Grêmio 
+Palmeiras  1x0  Vitória 
+
+09/05/2010 - Domingo 
+Flamengo  1x1 São Paulo 
+Atlético-MG  2x1 Vasco 
+Internacional  1x2  Cruzeiro 
+Corinthians  2x1  Atlético-PR 
+Ceará  1x0  Fluminense 
+Guarani 1x0  Goiás 
+Avaí  6x1  Grêmio Prudente 
+
+2ª Rodada
+15/05/2010 - Sábado 
+Fluminense  1x0  Atlético-GO 
+Grêmio Prudente  4x0  Atlético-MG 
+Vitória  1x1  Flamengo 
+
+16/05/2010 - Domingo 
+Santos  1x1  Ceará 
+São Paulo  1x2  Botafogo 
+Grêmio  1x2  Corinthians 
+Goiás  2x3  Internacional 
+Vasco  0x0  Palmeiras 
+Cruzeiro  2x2  Avaí 
+Atlético-PR  2x2  Guarani 
+
+3ª Rodada
+22/05/2010 - Sábado 
+Botafogo  3x0  Goiás 
+Atlético-GO  1x2  Santos 
+Palmeiras  4x2  Grêmio 
+
+23/05/2010 - Domingo 
+Atlético-MG  3x1 Atlético-PR 
+Internacional  0x2  São Paulo 
+Corinthians  1x0  Fluminense 
+Ceará  1x0  Vitória 
+Guarani 2x2  Cruzeiro 
+Avaí  2x0  Vasco 
+Flamengo  3x1  Grêmio Prudente 
+
+4ª Rodada
+26/05/2010 - Quarta-feira 
+Vitória  4x3  Atlético-MG 
+Fluminense  2x1  Flamengo 
+Grêmio  3x0  Avaí 
+São Paulo  1x0  Palmeiras 
+Grêmio Prudente  2x2  Corinthians 
+Santos  3x1  Guarani 
+Cruzeiro  1x0  Botafogo 
+
+27/05/2010 - Quinta-feira 
+Goiás  0x0  Ceará 
+Vasco  3x2  Internacional 
+Atlético-PR  2x1  Atlético-GO 
+
+5ª Rodada
+29/05/2010 - Sábado 
+Avaí  0x0  Vitória 
+Flamengo  1x1  Grêmio 
+Palmeiras  0x0  Grêmio Prudente 
+
+23/05/2010 - Domingo 
+Guarani 0x0  São Paulo 
+Atlético-MG  1x3 Fluminense 
+Internacional  4x1  Atlético-PR 
+Corinthians  4x2  Santos 
+Ceará  1x0  Cruzeiro 
+Botafogo  1x1  Vasco 
+Atlético-GO  1x3  Goiás 
+
+6ª Rodada
+02/06/2010 - Quarta-feira 
+Atlético-PR  3x2  Botafogo 
+Fluminense  2x1  Vitória 
+Grêmio Prudente  1x0  Atlético-GO 
+Ceará  2x0  Avaí 
+Cruzeiro  0x0  Santos 
+Palmeiras  0x1  Flamengo 
+Goiás  2x1  São Paulo 
+
+03/06/2010 - Quinta-feira 
+Grêmio  2x1  Atlético-MG 
+Vasco  0x1  Guarani 
+Corinthians  2x0  Internacional 
+
+7ª Rodada
+05/06/2010 - Sábado 
+Avaí  0x3  Fluminense 
+Flamengo  1x2  Goiás 
+Vitória  1x0  Atlético-PR 
+
+06/06/2010 - Domingo 
+São Paulo  3x1  Grêmio 
+Santos  4x0  Vasco 
+Atlético-MG  0x1 Ceará 
+Botafogo  2x2  Corinthians 
+Guarani 1x0  Grêmio Prudente 
+Internacional  1x1  Palmeiras 
+Atlético-GO  2x1  Cruzeiro 
+
+8ª Rodada
+14/07/2010 - Quarta-feira 
+Grêmio  1x1  Vitória 
+Atlético-PR  0x2  Cruzeiro 
+São Paulo  1x2  Avaí 
+Flamengo  1x0  Botafogo 
+Ceará  0x0  Corinthians 
+Goiás  0x0  Vasco 
+Guarani 0x3  Internacional 
+
+15/07/2010 - Quinta-feira 
+Palmeiras  2x1  Santos 
+Atlético-MG  3x2 Atlético-GO 
+Fluminense  1x1  Grêmio Prudente 
+
+9ª Rodada
+17/07/2010 - Sábado 
+Vasco  3x1  Atlético-PR 
+Vitória  3x2  São Paulo 
+
+18/07/2010 - Domingo 
+Internacional  2x1  Ceará 
+Atlético-GO  0x1  Flamengo 
+Corinthians  1x0  Atlético-MG 
+Avaí  4x2  Palmeiras 
+Santos  0x1  Fluminense 
+Cruzeiro  1x0  Goiás 
+Botafogo  1x1  Guarani 
+Grêmio Prudente  2x0  Grêmio 
+
+10ª Rodada
+21/07/2010 - Quarta-feira 
+São Paulo  1x1  Grêmio Prudente 
+Atlético-MG  1x2 Internacional 
+Vitória  2x2  Goiás 
+Flamengo  1x1  Avaí 
+Atlético-GO  3x1  Corinthians 
+Grêmio  1x1  Vasco 
+Atlético-PR  2x0  Santos 
+
+22/07/2010 - Quinta-feira 
+Guarani 1x1  Ceará 
+Palmeiras  2x2  Botafogo 
+Fluminense  1x0  Cruzeiro 
+
+11ª Rodada
+24/07/2010 - Sábado 
+Vasco  2x0  Atlético-GO 
+Avaí  0x0  Atlético-MG 
+Grêmio Prudente  0x0  Vitória 
+
+25/07/2010 - Domingo 
+Santos  1x0  São Paulo 
+Cruzeiro  2x2  Grêmio 
+Internacional  1x0  Flamengo 
+Goiás  0x2  Atlético-PR 
+Ceará  0x0  Palmeiras 
+Corinthians  3x1  Guarani 
+Botafogo  1x1  Fluminense 
+
+12ª Rodada
+31/07/2010 - Sábado 
+São Paulo  2x1  Ceará 
+Fluminense  3x1  Atlético-PR 
+Atlético-GO  1x1  Guarani 
+
+01/08/2010 - Domingo 
+Palmeiras  1x1  Corinthians 
+Vitória  1x3  Botafogo 
+Internacional  0x0  Grêmio 
+Avaí  4x1  Goiás 
+Atlético-MG  0x1 Cruzeiro 
+Flamengo  0x0  Vasco 
+Grêmio Prudente  1x2  Santos 
+
+13ª Rodada
+07/08/2010 - Sábado 
+Botafogo  3x0  Atlético-MG 
+Guarani 4x1  Avaí 
+
+08/08/2010 - Domingo 
+Corinthians  1x0  Flamengo 
+Goiás  1x1  Palmeiras 
+Ceará  0x0  Atlético-GO 
+Vasco  1x0  Vitória 
+Cruzeiro  0x0  Grêmio Prudente 
+Grêmio  1x2  Fluminense 
+Atlético-PR  1x1  São Paulo 
+
+14ª Rodada
+14/08/2010 - Sábado 
+Flamengo  1x0  Ceará 
+Palmeiras  2x0  Atlético-PR 
+Atlético-GO  0x2  Botafogo 
+Atlético-MG  3x1 Guarani 
+
+15/08/2010 - Domingo 
+São Paulo  2x2  Cruzeiro 
+Fluminense  3x0  Internacional 
+Grêmio Prudente  1x2  Vasco 
+Avaí  3x2  Corinthians 
+Vitória  4x2  Santos 
+Grêmio  2x0  Goiás 
+
+15ª Rodada
+21/08/2010 - Sábado 
+Goiás  1x2  Grêmio Prudente 
+Ceará  2x1  Grêmio 
+Botafogo  1x0  Avaí 
+
+22/08/2010 - Domingo 
+Santos  2x0  Atlético-MG 
+Internacional  1x1  Atlético-GO 
+Atlético-PR  1x0  Flamengo 
+Guarani 0x0  Palmeiras 
+Cruzeiro  0x1  Vitória 
+Vasco  2x2  Fluminense 
+Corinthians  3x0  São Paulo 
+
+16ª Rodada
+25/08/2010 - Quarta-feira 
+Goiás  0x3  Fluminense 
+Botafogo  1x0  Ceará 
+Avaí  0x1  Internacional 
+Grêmio Prudente  0x1  Atlético-PR 
+São Paulo  0x0  Vasco 
+Cruzeiro  1x0  Corinthians 
+Grêmio  1x2  Santos 
+
+26/08/2010 - Quinta-feira 
+Vitória  1x1  Guarani 
+Flamengo  0x0  Atlético-MG 
+Palmeiras  0x3  Atlético-GO 
+
+17ª Rodada
+28/08/2010 - Sábado 
+Santos  2x0  Goiás 
+Internacional  1x0  Botafogo 
+Vasco  1x1  Cruzeiro 
+Ceará  2x2  Grêmio Prudente 
+
+29/08/2010 - Domingo 
+Corinthians  2x1  Vitória 
+Guarani 2x1  Flamengo 
+Atlético-MG  1x2 Palmeiras 
+Fluminense  2x2  São Paulo 
+Atlético-GO  2x2  Avaí 
+Atlético-PR  1x1  Grêmio 
+
+18ª Rodada
+01/09/2010 - Quarta-feira 
+Grêmio  1x0  Guarani 
+Vitória  0x0  Internacional 
+Grêmio Prudente  0x1  Botafogo 
+Goiás  1x3  Atlético-MG 
+Cruzeiro  1x0  Flamengo 
+Atlético-PR  2x1  Ceará 
+Fluminense  1x1  Palmeiras 
+
+02/09/2010 - Quinta-feira 
+Santos  2x1  Avaí 
+São Paulo  2x1  Atlético-GO 
+
+19ª Rodada
+04/09/2010 - Sábado 
+Ceará  0x2  Vasco 
+Corinthians  5x1  Goiás 
+Botafogo  2x2  Grêmio 
+
+05/09/2010 - Domingo 
+Flamengo  0x0  Santos 
+Guarani 2x1  Fluminense 
+Palmeiras  2x3  Cruzeiro 
+Avaí  0x1  Atlético-PR 
+Atlético-MG  2x3 São Paulo 
+Atlético-GO  4x1  Vitória 
+Internacional  2x0  Grêmio Prudente 
