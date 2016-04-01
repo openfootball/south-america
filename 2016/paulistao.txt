@@ -176,14 +176,14 @@ Rodada 12
 
 Rodada 13
 [Qua 30/03]
-	Água Santa-SP  -  Ituano
-	XV de Piracicaba  -  Botafogo-SP
-	Capivariano  -  São Bento
-	Linense  -  São Paulo
-	Oeste  -  Osasco Audax
-	Corinthians  -  Ponte Preta
+	Água Santa-SP 0 - 0 Ituano
+	XV de Piracicaba 1 - 1 Botafogo-SP
+	Capivariano 1 - 1 São Bento
+	Linense 1 - 1 São Paulo
+	Oeste 1 - 3 Osasco Audax
+	Corinthians 2 - 1 Ponte Preta
 [Qui 31/03]
-	São Bernardo  -  Mogi Mirim
+	São Bernardo 1 - 1 Mogi Mirim
 	Palmeiras  -  Rio Claro
 	Red Bull Brasil  -  Novorizontino
 	Santos  -  Ferroviária
