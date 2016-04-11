@@ -195,25 +195,25 @@ Rodada 14
 	Ponte Preta 7 - 2 Água Santa-SP
 	São Paulo 2 - 1 Oeste
 [Dom 03/04]
-	Palmeiras  -  Corinthians
-	São Bernardo  -  Red Bull Brasil
-	Novorizontino  -  Rio Claro
-	Capivariano  -  Santos
-	Ferroviária  -  Botafogo-SP
-	Ituano  -  Mogi Mirim
+	Palmeiras 1 - 0 Corinthians
+	São Bernardo 3 - 2 Red Bull Brasil
+	Novorizontino 2 - 0 Rio Claro
+	Capivariano 3 - 5 Santos
+	Ferroviária 0 - 1 Botafogo-SP
+	Ituano 0 - 1 Mogi Mirim
 
 Rodada 15
 [Dom 10/04]
-	São Bento  -  São Paulo
-	Santos  -  Osasco Audax
-	Botafogo-SP  -  Capivariano
-	Oeste  -  XV de Piracicaba
-	Linense  -  Ferroviária
-	Corinthians  -  Novorizontino
-	Mogi Mirim  -  Palmeiras
-	Rio Claro  -  Ponte Preta
-	Red Bull Brasil  -  Ituano
-	Água Santa-SP  -  São Bernardo
+	São Bento 1 - 0 São Paulo
+	Santos 2 - 1 Osasco Audax
+	Botafogo-SP 2 - 0 Capivariano
+	Oeste 1 - 1 XV de Piracicaba
+	Linense 0 - 0 Ferroviária
+	Corinthians 3 - 0 Novorizontino
+	Mogi Mirim 1 - 2 Palmeiras
+	Rio Claro 0 - 1 Ponte Preta
+	Red Bull Brasil 1 - 3 Ituano
+	Água Santa-SP 0 - 1 São Bernardo
 
 Quartas-de-finais
 [Dom 17/04]
