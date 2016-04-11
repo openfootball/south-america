@@ -104,20 +104,20 @@ Rodada 10
 
 Rodada 11
 [Dom 10/04]
-	Atlético-MG  -  Tricordiano
-	Guarani-MG  -  Villa Nova-MG
-	URT  -  América-MG
-	Tombense  -  Uberlândia
-	Boa Esporte  -  Cruzeiro
-	Tupi  -  Caldense
+	Atlético-MG 2 - 4 Tricordiano
+	Guarani-MG 2 - 1 Villa Nova-MG
+	URT 1 - 1 América-MG
+	Tombense 2 - 1 Uberlândia
+	Boa Esporte 2 - 3 Cruzeiro
+	Tupi 1 - 1 Caldense
 
 Semi-finais
 [Dom 17/04]
-	4º Colocado  -  1º Colocado
-	3º Colocado  -  2º Colocado
+	América-MG  -  Cruzeiro
+	URT  -  Atlético-MG
 [Dom 24/04]
-	1º Colocado  -  4º Colocado
-	2º Colocado  -  3º Colocado
+	Cruzeiro  -  América-MG
+	Atlético-MG  -  URT
 
 Finais
 [Dom 01/05]
