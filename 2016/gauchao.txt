@@ -146,28 +146,31 @@ Rodada 12
 
 Rodada 13
 [Dom 03/04]
-	Grêmio               -  Juventude          
-	Glória-RS            -  Internacional      
-	Veranópolis          -  Cruzeiro-RS        
-	Novo Hamburgo        -  Aimoré             
-	Brasil de Pelotas    -  Passo Fundo        
-	Ypiranga             -  Lajeadense         
-	São Paulo-RS         -  São José-RS        
+	Grêmio              2 - 2 Juventude          
+	Glória-RS           0 - 3 Internacional      
+	Veranópolis         0 - 1 Cruzeiro-RS        
+	Novo Hamburgo       2 - 1 Aimoré             
+	Brasil de Pelotas   1 - 0 Passo Fundo        
+	Ypiranga            2 - 1 Lajeadense         
+	São Paulo-RS        1 - 5 São José-RS        
 
 Quartas-de-final
+[Qua 06/04]
+	Grêmio	4 - 1 Brasil de Pelotas
+[Sab 09/04]
+	São José-RS 1 - 0 Novo Hamburgo
 [Dom 10/04]
-	  -  
-	  -  
-	  -  
-	  -  
+	Internacional 3 - 0 São Paulo-RS
+[Ter 12/04]
+	Juventude - Ypiranga
 
 Semi-finais
 [Dom 17/04]
-	  -  
-	  -  
+	Internacional  -  São José-RS
+	  -  Grêmio
 [Dom 24/04]
-	  -  
-	  -  
+	Grêmio - 
+	São José-RS  -  Internacional
 
 Finais
 [Dom 01/05]
