@@ -18,36 +18,33 @@ Primeira fase
 	Ypiranga             2 - 2 Atlético-GO         
 	Brasil de Pelotas    1 - 1 Atlético-PR         
 [Ter 05/04]
-	Coruripe              -  Botafogo            
+	Coruripe            0 - 1 Botafogo            
 [Qua 06/04]
-	Inter de Lages        -  Sampaio Corrêa      
-	Santa Cruz            -  Rio Branco-ES      
-	Bahia                 -  Globo               
-	Resende               -  Ceará               
-	Tocantinópolis-TO     -  Juventude           
-	Estanciano            -  Paraná              
-	Salgueiro             -  Ferroviária         
-	Princesa              -  Chapecoense         
-	Ivinhema-MS           -  CRB                 
-	Tombense              -  Fluminense          
-	Aparecidense          -  Sport               
+	Inter de Lages       1 - 2 Sampaio Corrêa      
+	Santa Cruz           0 - 0 Rio Branco-ES      
+	Bahia                3 - 1 Globo               
+	Resende              2 - 2 Ceará               
+	Tocantinópolis-TO    1 - 1 Juventude           
+	Estanciano           1 - 1 Paraná              
+	Salgueiro            1 - 1 Ferroviária         
+	Princesa             1 - 2 Chapecoense         
+	Ivinhema-MS          0 - 2 CRB                 
+	Tombense             0 - 3 Fluminense          
+	Aparecidense         2 - 0 Sport               
 [Qui 07/04]
-	Atlético-GO           -  Ypiranga            
-	Red Bull Brasil       -  América-MG          
-	Ríver-PI              -  Goiás               
-	Londrina              -  Parauapebas         
-	Caldense              -  Ponte Preta         
-	Náutico               -  Vitória da Conquista
+	Atlético-GO          0 - 2 Ypiranga            
+	Ríver-PI             2 - 1 Goiás               
+	Londrina             6 - 0 Parauapebas         
+	Caldense             1 - 2 Ponte Preta         
+	Náutico              1 - 1 Vitória da Conquista
 [Ter 12/04]
-	Operário-PR          -  Criciúma            
+	Operário-PR         2 - 1 Criciúma            
 [Qua 13/04]
-	Parnahyba             -  Portuguesa          
-	Juazeirense           -  Cuiabá              
+	Parnahyba            2 - 1 Portuguesa          
+	Juazeirense          1 - 0 Cuiabá              
 	Náutico-RR            -  Vitória-BA          
-	Campinense            -  Cruzeiro            
-	Flamengo              -  Confiança-SE        
+	Atlético-PR         1 - 0 Brasil de Pelotas   
 [Qui 14/04]
-	Atlético-PR           -  Brasil de Pelotas   
 	Chapecoense           -  Princesa            
 	Lajeadense            -  Figueirense         
 	Ponte Preta           -  Caldense            
@@ -56,6 +53,8 @@ Primeira fase
 [Ter 19/04]
 	Botafogo-PB           -  Linense             
 [Qua 20/04]
+	Flamengo              -  Confiança-SE   
+	Campinense            -  Cruzeiro       
 	Goiás                 -  Ríver-PI            
 	Brasília              -  Bragantino          
 	Gama                 -  América-RN          
@@ -69,7 +68,8 @@ Primeira fase
 	Galvez-AC             -  Rio Branco-AC      
 	Comercial-MS          -  Joinville           
 	Remo                  -  Vasco               
-	Cruzeiro              -  Campinense          
+	Cruzeiro              -  Campinense   
+	Red Bull Brasil       -  América-MG       
 [Qui 21/04]
 	Paraná                -  Estanciano          
 	Operário-MT           -  Avaí                
