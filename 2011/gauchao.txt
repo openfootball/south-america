@@ -103,7 +103,7 @@ Rodada 8 - Turno
 
 Quartas-de-final - Turno
 [Sab 19/02]
-	Internacional       0 - 0 Cruzeiro-RS        
+	Internacional       1 (4) - (5) 1 Cruzeiro-RS        
 	Juventude           0 - 2 São José-RS        
 [Dom 20/02]
 	Grêmio              0 - 0 Ypiranga           
@@ -111,12 +111,12 @@ Quartas-de-final - Turno
 
 Semi-finais - Turno
 [Dom 27/02]
-	Grêmio              0 - 0 Cruzeiro-RS        
-	Caxias              1 - 1 São José-RS        
+	Grêmio              4 - 2 Cruzeiro-RS        
+	Caxias              1 (2) - (1) 1 São José-RS        
 
 Final - Turno
 [Qua 09/03]
-	Grêmio              0 - 0 Caxias             
+	Grêmio              2 (4) - (1) 2 Caxias             
 
 Rodada 1 - Returno
 [Qui 10/03]
@@ -209,23 +209,23 @@ Rodada 7 - Returno
 Quartas-de-final - Returno
 [Sab 16/04]
 	Cruzeiro-RS         2 - 0 São Luiz           
-	Internacional       0 - 0 Santa Cruz-RS      
+	Internacional       1 - 0 Santa Cruz-RS      
 [Dom 17/04]
-	Ypiranga            1 - 1 Grêmio             
+	Ypiranga            1 (2) - (4) 1 Grêmio             
 	Juventude           3 - 0 Lajeadense         
 
 Semi-finais - Returno
 [Sab 23/04]
-	Cruzeiro-RS         0 - 0 Grêmio             
+	Cruzeiro-RS         2 - 3 Grêmio             
 [Dom 24/04]
-	Juventude           0 - 0 Internacional      
+	Juventude           1 - 2 Internacional      
 
 Final - Returno
 [Dom 01/05]
-	Internacional       0 - 0 Grêmio             
+	Internacional       1 (4) - (2) 1 Grêmio             
 
 Finais
 [Dom 08/05]
-	Internacional       0 - 0 Grêmio             
+	Internacional       2 - 3 Grêmio             
 [Dom 15/05]
-	Grêmio              0 - 0 Internacional      
+	Grêmio              2 (4) - (5) 3 Internacional      
