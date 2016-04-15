@@ -38,18 +38,16 @@ Primeira fase
 	Caldense             1 - 2 Ponte Preta         
 	Náutico              1 - 1 Vitória da Conquista
 [Ter 12/04]
-	Operário-PR         2 - 1 Criciúma            
+	Operário-PR          2 - 1 Criciúma            
 [Qua 13/04]
 	Parnahyba            2 - 1 Portuguesa          
 	Juazeirense          1 - 0 Cuiabá              
-	Náutico-RR            -  Vitória-BA          
-	Atlético-PR         1 - 0 Brasil de Pelotas   
+	Náutico-RR           2 - 3 Vitória-BA          
+	Atlético-PR          1 - 0 Brasil de Pelotas   
 [Qui 14/04]
 	Chapecoense           -  Princesa            
 	Lajeadense            -  Figueirense         
 	Ponte Preta           -  Caldense            
-	Fluminense            -  Tombense            
-	Genus                 -  Coritiba            
 [Ter 19/04]
 	Botafogo-PB           -  Linense             
 [Qua 20/04]
@@ -98,3 +96,4 @@ Primeira fase
 	Santos                -  Santos-AP           
 	ASA                   -  Genus               
 	Botafogo              -  Coruripe            
+	Genus                 -  Coritiba            
