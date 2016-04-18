@@ -113,12 +113,13 @@ Rodada 11
 
 Semi-finais
 [Dom 17/04]
-	América-MG  -  Cruzeiro
-	URT  -  Atlético-MG
+	América-MG 2 - 0 Cruzeiro
+	URT 2 - 2 Atlético-MG
+[Sab 23/04]
+	Atlético-MG  -  URT
 [Dom 24/04]
 	Cruzeiro  -  América-MG
-	Atlético-MG  -  URT
-
+	
 Finais
 [Dom 01/05]
 	Vencedor Semifinal 2  -  Vencedor Semifinal 1
