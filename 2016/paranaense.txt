@@ -109,27 +109,25 @@
 
 Quartas-de-finais
 [dom 03/04]
-Toledo 0 - 2 Coritiba
-Foz do Iguaçu - Paraná
-Londrina - Atlético-PR
-PSTC - JMalucelli
-
+	Toledo 0 - 2 Coritiba
+	Foz do Iguaçu - Paraná
+	Londrina - Atlético-PR
+	PSTC - JMalucelli
 [sab 09/04]
-Coritiba 4 - 0 Toledo
-JMalucelli 0 (3) - (4) 3 PSTC
-
+	Coritiba 4 - 0 Toledo
+	JMalucelli 0 (3) - (4) 3 PSTC
 [dom 10/04]
-Paraná 1 - 2 Foz do Iguaçu
-Atlético-PR 2 - 0 Londrina
+	Paraná 1 - 2 Foz do Iguaçu
+	Atlético-PR 2 - 0 Londrina
 
 Semi-finais
 [Sab 16/04]
-Atlético-PR 2 - 1 Paraná
+	Atlético-PR 2 - 1 Paraná
 [Dom 17/04]
-PSTC 0 - 3 Coritiba
-
+	PSTC 0 - 3 Coritiba
+[Sab 23/04]
+	Coritiba - PSTC
 [Dom 24/04]
-Paraná - Atlético-PR
-Coritiba - PSTC
+	Paraná - Atlético-PR
 	
 Finais
