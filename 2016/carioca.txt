@@ -174,23 +174,20 @@ Rodada 14
 
 Rodada 15
 [Sab 16/04]
-	Portuguesa-RJ  -  Friburguense
-	Bonsucesso  -  Tigres-RJ
-	Resende  -  Cabofriense
-	Macaé  -  América-RJ
+	Portuguesa-RJ 1 - 0 Friburguense
+	Bonsucesso 2 - 1 Tigres-RJ
+	Resende 1 - 2 Cabofriense
+	Macaé 2 - 1 América-RJ
 [Dom 17/04]
-	Boavista-RJ  -  Botafogo
-	Fluminense  -  Vasco
-	Madureira  -  Volta Redonda
-	Bangu  -  Flamengo
+	Boavista-RJ 0 - 1 Botafogo
+	Fluminense 0 - 1 Vasco
+	Madureira 1 - 1 Volta Redonda
+	Bangu 0 - 3 Flamengo
 
 Rodada 16
-[Sab 23/04]
-	1º do grupo C  -  4º do grupo C
-	5º do grupo C  -  2º do grupo D
 [Dom 24/04]
-	6º do grupo C  -  1º do grupo D
-	2º do grupo C  -  3º do grupo C
+	Vasco - Flamengo
+	Fluminense - Botafogo
 
 Rodada 17
 [Dom 01/05]
