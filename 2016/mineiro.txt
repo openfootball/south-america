@@ -116,12 +116,12 @@ Semi-finais
 	América-MG 2 - 0 Cruzeiro
 	URT 2 - 2 Atlético-MG
 [Sab 23/04]
-	Atlético-MG  -  URT
+	Atlético-MG 2 - 0 URT
 [Dom 24/04]
-	Cruzeiro  -  América-MG
+	Cruzeiro 0 - 0 América-MG
 	
 Finais
 [Dom 01/05]
-	Vencedor Semifinal 2  -  Vencedor Semifinal 1
+	América-MG  -  Atlético-MG
 [Dom 08/05]
-	Vencedor Semifinal 1  -  Vencedor Semifinal 2
+	Atlético-MG - América-MG
