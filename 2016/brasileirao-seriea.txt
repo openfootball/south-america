@@ -1,29 +1,29 @@
 
 Rodada 1
 [Dom 15/05]
-	Botafogo          -  São Paulo       
-	Flamengo          -  Sport           
-	Corinthians       -  Grêmio          
-	Palmeiras         -  Atlético-PR     
-	Internacional     -  Chapecoense     
-	Coritiba          -  Cruzeiro        
-	Figueirense       -  Ponte Preta     
-	América-MG        -  Fluminense      
-	Atlético-MG       -  Santos          
-	Santa Cruz        -  Vitória-BA      
+	Botafogo         0 - 1 	São Paulo       
+	Flamengo         1 - 0 	Sport           
+	Corinthians      0 - 0 	Grêmio          
+	Palmeiras        4 - 0 	Atlético-PR     
+	Internacional    0 - 0 	Chapecoense     
+	Coritiba         1 - 0 	Cruzeiro        
+	Figueirense      0 - 0 	Ponte Preta     
+	América-MG       0 - 1 	Fluminense      
+	Atlético-MG      1 - 0 	Santos          
+	Santa Cruz       4 - 1 	Vitória-BA      
 
 Rodada 2
 [Dom 22/05]
-	Vitória-BA        -  Corinthians     
-	Fluminense        -  Santa Cruz      
-	São Paulo         -  Internacional   
-	Santos            -  Coritiba        
-	Cruzeiro          -  Figueirense     
-	Grêmio            -  Flamengo        
-	Atlético-PR       -  Atlético-MG     
-	Chapecoense       -  América-MG      
-	Ponte Preta       -  Palmeiras       
-	Sport             -  Botafogo        
+	Vitória-BA       3 - 2 	Corinthians     
+	Fluminense       2 - 2 	Santa Cruz      
+	São Paulo        1 - 2 	Internacional   
+	Santos           2 - 1 	Coritiba        
+	Cruzeiro         2 - 2 	Figueirense     
+	Grêmio           1 - 0 	Flamengo        
+	Atlético-PR      1 - 1 	Atlético-MG     
+	Chapecoense      3 - 1 	América-MG      
+	Ponte Preta      2 - 1 	Palmeiras       
+	Sport            1 - 1	Botafogo        
 
 Rodada 3
 [Qua 25/05]
