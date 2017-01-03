@@ -27,29 +27,31 @@ Rodada 2
 
 Rodada 3
 [Qua 25/05]
-	Botafogo          -  Atlético-PR     
-	Flamengo          -  Chapecoense     
-	Corinthians       -  Ponte Preta     
-	Palmeiras         -  Fluminense      
-	Atlético-MG       -  Grêmio          
-	Internacional     -  Sport           
-	Coritiba          -  São Paulo       
-	Figueirense       -  Santos          
-	América-MG        -  Vitória-BA      
-	Santa Cruz        -  Cruzeiro        
+	Botafogo         2 - 1	 Atlético-PR     
+	Flamengo         2 - 2	 Chapecoense     
+	Palmeiras        2 - 0	 Fluminense      
+	Coritiba         1 - 1	 São Paulo       
+	Figueirense      2 - 2	 Santos          
+	América-MG       1 - 1	 Vitória-BA      
+	Santa Cruz       4 - 1	 Cruzeiro 
+[Qui 26/05]       
+	Corinthians      3 - 0	 Ponte Preta     
+	Atlético-MG      0 - 3	 Grêmio          
+	Internacional    1 - 0	 Sport           
 
 Rodada 4
+[Sab 28/05]
+	Cruzeiro         1 - 1	 América-MG      
+	Chapecoense      1 - 1	 Santa Cruz      
+	Atlético-PR      2 - 1	 Figueirense     
 [Dom 29/05]
-	Vitória-BA        -  Atlético-MG     
-	Fluminense        -  Botafogo        
-	São Paulo         -  Palmeiras       
-	Santos            -  Internacional   
-	Cruzeiro          -  América-MG      
-	Grêmio            -  Coritiba        
-	Atlético-PR       -  Figueirense     
-	Chapecoense       -  Santa Cruz      
-	Ponte Preta       -  Flamengo        
-	Sport             -  Corinthians     
+	Vitória-BA       1 - 1	 Atlético-MG     
+	Fluminense       1 - 0	 Botafogo        
+	São Paulo        1 - 0	 Palmeiras       
+	Santos           0 - 1	 Internacional   
+	Grêmio           2 - 0	 Coritiba        
+	Ponte Preta      1 - 2	 Flamengo        
+	Sport            0 - 2	 Corinthians     
 
 Rodada 5
 [Qua 01/06]
