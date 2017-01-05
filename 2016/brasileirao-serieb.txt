@@ -1,29 +1,32 @@
 
 Rodada 1
+[Sab 13/05]
+	Vila Nova-GO      3 - 1 Bragantino       
+	Oeste             0 - 1 Atlético-GO      
+	Tupi              0 - 1 Goiás            
 [Sab 14/05]
-	Ceará              -  Paysandu         
-	Bahia              -  Avaí             
-	Sampaio Corrêa     -  Vasco            
-	Oeste              -  Atlético-GO      
-	Vila Nova-GO       -  Bragantino       
-	Luverdense         -  Joinville        
-	Tupi               -  Goiás            
-	Brasil de Pelotas  -  Paraná           
-	Luverdense         -  CRB              
-	Criciúma           -  Náutico          
+	Ceará             2 - 2 Paysandu         
+	Bahia             2 - 1 Avaí             
+	Sampaio Corrêa    0 - 4 Vasco            
+	Luverdense        1 - 1 Joinville        
+	Brasil de Pelotas 2 - 0 Paraná           
+	Londrina	      0 - 1 CRB              
+	Criciúma          1 - 0 Náutico          
 
 Rodada 2
+[Ter 17/05]
+	Bragantino        0 - 1 Luverdense       
+	Náutico           3 - 2 Vila Nova-GO     
+[Sex 20/05]
+	Atlético-GO       1 - 0 Brasil de Pelotas
+	Goiás             1 - 1 Londrina       
+	Joinville         0 - 0 Criciúma         
 [Sab 21/05]
-	Náutico            -  Vila Nova-GO     
-	CRB                -  Ceará            
-	Paysandu           -  Oeste            
-	Bragantino         -  Luverdense       
-	Goiás              -  Luverdense       
-	Vasco              -  Tupi             
-	Atlético-GO        -  Brasil de Pelotas
-	Joinville          -  Criciúma         
-	Paraná             -  Bahia            
-	Avaí               -  Sampaio Corrêa   
+	CRB               0 - 3 Ceará            
+	Paysandu          1 - 1 Oeste            
+	Vasco             1 - 0 Tupi             
+	Paraná            0 - 0 Bahia            
+	Avaí              2 - 0 Sampaio Corrêa   
 
 Rodada 3
 [Ter 24/05]
