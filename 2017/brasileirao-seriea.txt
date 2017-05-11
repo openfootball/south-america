@@ -1,0 +1,147 @@
+Matchday 1
+Sáb 13/05
+Flamengo       -  Atlético-MG    #  at Maracanã 16h00
+Corinthians    -  Chapecoense    #  at Arena Corinthians 19h00
+Dom 14/05
+Fluminense     -  Santos         #  at A definir 11h00
+Palmeiras      -  Vasco          #  at Allianz Parque 16h00
+Cruzeiro       -  São Paulo      #  at Mineirão 16h00
+Bahia          -  Atlético-PR    #  at Fonte Nova 16h00
+Ponte Preta    -  Sport          #  at Moisés Lucarelli 16h00
+Avaí           -  Vitória        #  at Ressacada 16h00
+Grêmio         -  Botafogo       #  at Arena Grêmio 19h00
+Seg 15/05
+Coritiba       -  Atlético-GO    #  at Couto Pereira 20h00
+
+Matchday 2
+Sáb 20/05
+Santos         -  Coritiba       #  at Vila Belmiro 16h00
+Chapecoense    -  Palmeiras      #  at Índio Condá 19h00
+Atlético-GO    -  Flamengo       #  at Serra Dourada 21h00
+Dom 21/05
+Botafogo       -  Ponte Preta    #  at Engenhão 16h00
+Atlético-MG    -  Fluminense     #  at Independência 16h00
+Atlético-PR    -  Grêmio         #  at Arena da Baixada 16h00
+Vitória        -  Corinthians    #  at Barradão 16h00
+Sport          -  Cruzeiro       #  at Ilha do Retiro 19h00
+Vasco          -  Bahia          #  at São Januário 20h00
+Seg 22/05
+São Paulo      -  Avaí           #  at Morumbi 20h00
+
+Matchday 3
+Sáb 27/05
+São Paulo      -  Palmeiras      #  at Morumbi 16h00
+Vasco          -  Fluminense     #  at São Januário 19h00
+Vitória        -  Coritiba       #  at Barradão 21h00
+Dom 28/05
+Atlético-MG    -  Ponte Preta    #  at Independência 11h00
+Santos         -  Cruzeiro       #  at Vila Belmiro 16h00
+Atlético-PR    -  Flamengo       #  at Arena da Baixada 16h00
+Atlético-GO    -  Corinthians    #  at Serra Dourada 16h00
+Chapecoense    -  Avaí           #  at Índio Condá 16h00
+Botafogo       -  Bahia          #  at Nilton Santos 19h00
+Seg 29/05
+Sport          -  Grêmio         #  at Ilha do Retiro 20h00
+
+Matchday 4
+Sáb 03/06
+Coritiba       -  Atlético-PR    #  at Couto Pereira 16h00
+Corinthians    -  Santos         #  at Arena Corinthians 19h00
+Fluminense     -  Vitória        #  at A definir 21h00
+Dom 04/06
+Flamengo       -  Botafogo       #  at A definir 11h00
+Palmeiras      -  Atlético-MG    #  at Allianz Parque 16h00
+Grêmio         -  Vasco          #  at Arena Grêmio 16h00
+Ponte Preta    -  São Paulo      #  at Moisés Lucarelli 16h00
+Avaí           -  Sport          #  at Ressacada 18h30
+Cruzeiro       -  Chapecoense    #  at Mineirão 19h00
+Seg 05/06
+Bahia          -  Atlético-GO    #  at Fonte Nova 20h00
+
+Matchday 5
+Ter 06/06
+Fluminense     -  Atlético-PR    #  at A definir 21h00
+Qua 07/06
+Atlético-MG    -  Avaí           #  at Independência 19h30
+Coritiba       -  Palmeiras      #  at Couto Pereira 19h30
+Santos         -  Botafogo       #  at Vila Belmiro 21h00
+Vasco          -  Corinthians    #  at São Januário 21h45
+Sport          -  Flamengo       #  at Ilha do Retiro 21h45
+Chapecoense    -  Grêmio         #  at Índio Condá 21h45
+Qui 08/06
+São Paulo      -  Vitória        #  at Morumbi 19h30
+Atlético-GO    -  Ponte Preta    #  at Olímpico Pedro Ludovico 19h30
+Bahia          -  Cruzeiro       #  at Fonte Nova 21h00
+
+Matchday 6
+Sáb 10/06
+Palmeiras      -  Fluminense     #  at Allianz Parque 16h00
+Vasco          -  Sport          #  at São Januário 19h00
+Dom 11/06
+Botafogo       -  Coritiba       #  at Engenhão 11h00
+Corinthians    -  São Paulo      #  at Arena Corinthians 16h00
+Vitória        -  Atlético-MG    #  at Barradão 16h00
+Ponte Preta    -  Chapecoense    #  at Moisés Lucarelli 16h00
+Avaí           -  Flamengo       #  at Ressacada 16h00
+Cruzeiro       -  Atlético-GO    #  at Mineirão 18h30
+Atlético-PR    -  Santos         #  at Arena da Baixada 19h00
+Seg 12/06
+Grêmio         -  Bahia          #  at Arena Grêmio 20h00
+
+Matchday 7
+Qua 14/06
+Atlético-MG    -  Atlético-PR    #  at Independência 19h30
+Vitória        -  Botafogo       #  at Barradão 19h30
+Atlético-GO    -  Avaí           #  at Olímpico Pedro Ludovico 19h30
+Flamengo       -  Ponte Preta    #  at A definir 21h00
+Santos         -  Palmeiras      #  at Vila Belmiro 21h45
+Corinthians    -  Cruzeiro       #  at Arena Corinthians 21h45
+Chapecoense    -  Vasco          #  at Índio Condá 21h45
+Qui 15/06
+Coritiba       -  Bahia          #  at Couto Pereira 16h00
+Sport          -  São Paulo      #  at Ilha do Retiro 19h00
+Fluminense     -  Grêmio         #  at A definir 21h00
+
+Matchday 8
+Sáb 17/06
+Atlético-GO    -  Atlético-PR    #  at Olímpico Pedro Ludovico 16h00
+Vasco          -  Avaí           #  at São Januário 19h00
+Santos         -  Ponte Preta    #  at Vila Belmiro 21h00
+Dom 18/06
+Coritiba       -  Corinthians    #  at Couto Pereira 11h00
+Fluminense     -  Flamengo       #  at A definir 16h00
+São Paulo      -  Atlético-MG    #  at Morumbi 16h00
+Bahia          -  Palmeiras      #  at Fonte Nova 16h00
+Chapecoense    -  Botafogo       #  at Índio Condá 16h00
+Sport          -  Vitória        #  at Ilha do Retiro 19h00
+Seg 19/06
+Cruzeiro       -  Grêmio         #  at Mineirão 20h00
+
+Matchday 9
+Qua 21/06
+Vitória        -  Santos         #  at Barradão 19h30
+Palmeiras      -  Atlético-GO    #  at Allianz Parque 21h00
+Botafogo       -  Vasco          #  at Engenhão 21h45
+Atlético-MG    -  Sport          #  at Independência 21h45
+Atlético-PR    -  São Paulo      #  at Arena da Baixada 21h45
+Qui 22/06
+Flamengo       -  Chapecoense    #  at A definir 19h30
+Grêmio         -  Coritiba       #  at Arena Grêmio 19h30
+Ponte Preta    -  Cruzeiro       #  at Moisés Lucarelli 19h30
+Corinthians    -  Bahia          #  at Arena Corinthians 21h00
+Avaí           -  Fluminense     #  at Ressacada 21h00
+
+Matchday 10
+Sáb 24/06
+Santos         -  Sport          #  at Vila Belmiro 19h00
+Dom 25/06
+Vasco          -  Atlético-GO    #  at São Januário 11h00
+São Paulo      -  Fluminense     #  at Morumbi 16h00
+Cruzeiro       -  Coritiba       #  at Mineirão 16h00
+Atlético-PR    -  Vitória        #  at Arena da Baixada 16h00
+Grêmio         -  Corinthians    #  at Arena Grêmio 16h00
+Ponte Preta    -  Palmeiras      #  at Moisés Lucarelli 16h00
+Bahia          -  Flamengo       #  at Fonte Nova 18h30
+Chapecoense    -  Atlético-MG    #  at Índio Condá 19h00
+Seg 26/06
+Botafogo       -  Avaí           #  at Engenhão 20h00 
