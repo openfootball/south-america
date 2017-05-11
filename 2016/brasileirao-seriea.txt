@@ -1,496 +1,454 @@
+Matchday 1
+Flamengo       1 - 0  Sport         
+Palmeiras      4 - 0  Atlético-PR   
+Atlético-MG    1 - 0  Santos        
+Coritiba       1 - 0  Cruzeiro      
+Santa Cruz     4 - 1  Vitória-BA    
+Botafogo       0 - 1  São Paulo     
+Figueirense    0 - 0  Ponte Preta   
+Corinthians    0 - 0  Grêmio        
+América-MG     0 - 1  Fluminense    
+Internacional  0 - 0  Chapecoense   
 
-Rodada 1
-[Dom 15/05]
-	Botafogo         0 - 1 	São Paulo       
-	Flamengo         1 - 0 	Sport           
-	Corinthians      0 - 0 	Grêmio          
-	Palmeiras        4 - 0 	Atlético-PR     
-	Internacional    0 - 0 	Chapecoense     
-	Coritiba         1 - 0 	Cruzeiro        
-	Figueirense      0 - 0 	Ponte Preta     
-	América-MG       0 - 1 	Fluminense      
-	Atlético-MG      1 - 0 	Santos          
-	Santa Cruz       4 - 1 	Vitória-BA      
+Matchday 2
+Ponte Preta    2 - 1  Palmeiras     
+Fluminense     2 - 2  Santa Cruz    
+Cruzeiro       2 - 2  Figueirense   
+Atlético-PR    1 - 1  Atlético-MG   
+Santos         2 - 1  Coritiba      
+Chapecoense    3 - 1  América-MG    
+São Paulo      1 - 2  Internacional 
+Vitória-BA     3 - 2  Corinthians   
+Grêmio         1 - 0  Flamengo      
+Sport          1 - 1  Botafogo      
 
-Rodada 2
-[Dom 22/05]
-	Vitória-BA       3 - 2 	Corinthians     
-	Fluminense       2 - 2 	Santa Cruz      
-	São Paulo        1 - 2 	Internacional   
-	Santos           2 - 1 	Coritiba        
-	Cruzeiro         2 - 2 	Figueirense     
-	Grêmio           1 - 0 	Flamengo        
-	Atlético-PR      1 - 1 	Atlético-MG     
-	Chapecoense      3 - 1 	América-MG      
-	Ponte Preta      2 - 1 	Palmeiras       
-	Sport            1 - 1	Botafogo        
+Matchday 3
+Figueirense    2 - 2  Santos        
+Botafogo       2 - 1  Atlético-PR   
+América-MG     1 - 1  Vitória-BA    
+Flamengo       2 - 2  Chapecoense   
+Palmeiras      2 - 0  Fluminense    
+Santa Cruz     4 - 1  Cruzeiro      
+Coritiba       1 - 1  São Paulo     
+Corinthians    3 - 0  Ponte Preta   
+Internacional  1 - 0  Sport         
+Atlético-MG    0 - 3  Grêmio        
 
-Rodada 3
-[Qua 25/05]
-	Botafogo         2 - 1	 Atlético-PR     
-	Flamengo         2 - 2	 Chapecoense     
-	Palmeiras        2 - 0	 Fluminense      
-	Coritiba         1 - 1	 São Paulo       
-	Figueirense      2 - 2	 Santos          
-	América-MG       1 - 1	 Vitória-BA      
-	Santa Cruz       4 - 1	 Cruzeiro 
-[Qui 26/05]       
-	Corinthians      3 - 0	 Ponte Preta     
-	Atlético-MG      0 - 3	 Grêmio          
-	Internacional    1 - 0	 Sport           
+Matchday 4
+Cruzeiro       1 - 1  América-MG    
+Atlético-PR    2 - 1  Figueirense   
+Chapecoense    1 - 1  Santa Cruz    
+Sport          0 - 2  Corinthians   
+Ponte Preta    1 - 2  Flamengo      
+Fluminense     1 - 0  Botafogo      
+Vitória-BA     1 - 1  Atlético-MG   
+São Paulo      1 - 0  Palmeiras     
+Santos         0 - 1  Internacional 
+Grêmio         2 - 0  Coritiba      
 
-Rodada 4
-[Sab 28/05]
-	Cruzeiro         1 - 1	 América-MG      
-	Chapecoense      1 - 1	 Santa Cruz      
-	Atlético-PR      2 - 1	 Figueirense     
-[Dom 29/05]
-	Vitória-BA       1 - 1	 Atlético-MG     
-	Fluminense       1 - 0	 Botafogo        
-	São Paulo        1 - 0	 Palmeiras       
-	Santos           0 - 1	 Internacional   
-	Grêmio           2 - 0	 Coritiba        
-	Ponte Preta      1 - 2	 Flamengo        
-	Sport            0 - 2	 Corinthians     
+Matchday 5
+Internacional  1 - 0  Atlético-PR   
+Santa Cruz     0 - 1  Sport         
+Corinthians    1 - 0  Santos        
+Coritiba       3 - 4  Chapecoense   
+Botafogo       0 - 1  Cruzeiro      
+Atlético-MG    1 - 1  Fluminense    
+Figueirense    1 - 0  São Paulo     
+América-MG     1 - 2  Ponte Preta   
+Flamengo       1 - 0  Vitória-BA    
+Palmeiras      4 - 3  Grêmio        
 
-Rodada 5
-[Qua 01/06]
-	Botafogo          -  Cruzeiro        
-	Flamengo          -  Vitória-BA      
-	Corinthians       -  Santos          
-	Palmeiras         -  Grêmio          
-	Atlético-MG       -  Fluminense      
-	Internacional     -  Atlético-PR     
-	Coritiba          -  Chapecoense     
-	Figueirense       -  São Paulo       
-	América-MG        -  Ponte Preta     
-	Santa Cruz        -  Sport           
+Matchday 6
+Atlético-PR    1 - 0  Santa Cruz    
+Corinthians    2 - 1  Coritiba      
+Chapecoense    0 - 0  Fluminense    
+América-MG     1 - 0  Figueirense   
+Santos         3 - 0  Botafogo      
+Vitória-BA     1 - 0  Internacional 
+Sport          4 - 4  Atlético-MG   
+Flamengo       1 - 2  Palmeiras     
+Grêmio         1 - 0  Ponte Preta   
+Cruzeiro       0 - 1  São Paulo     
 
-Rodada 6
-[Dom 05/06]
-	Vitória-BA        -  Internacional   
-	Flamengo          -  Palmeiras       
-	Corinthians       -  Coritiba        
-	Santos            -  Botafogo        
-	Cruzeiro          -  São Paulo       
-	Grêmio            -  Ponte Preta     
-	Atlético-PR       -  Santa Cruz      
-	Chapecoense       -  Fluminense      
-	América-MG        -  Figueirense     
-	Sport             -  Atlético-MG     
+Matchday 7
+Internacional  3 - 1  América-MG    
+Ponte Preta    2 - 1  Chapecoense   
+Fluminense     1 - 1  Grêmio        
+São Paulo      1 - 2  Atlético-PR   
+Botafogo       1 - 1  Vitória-BA    
+Coritiba       3 - 2  Sport         
+Figueirense    1 - 0  Flamengo      
+Palmeiras      1 - 0  Corinthians   
+Atlético-MG    2 - 3  Cruzeiro      
+Santa Cruz     0 - 2  Santos        
 
-Rodada 7
-[Dom 12/06]
-	Botafogo          -  Vitória-BA      
-	Fluminense        -  Grêmio          
-	São Paulo         -  Atlético-PR     
-	Palmeiras         -  Corinthians     
-	Atlético-MG       -  Cruzeiro        
-	Internacional     -  América-MG      
-	Coritiba          -  Sport           
-	Figueirense       -  Flamengo        
-	Ponte Preta       -  Chapecoense     
-	Santa Cruz        -  Santos          
+Matchday 8
+São Paulo      2 - 0  Vitória-BA    
+Chapecoense    3 - 3  Grêmio        
+Ponte Preta    3 - 2  Atlético-PR   
+Santos         2 - 0  Sport         
+Santa Cruz     1 - 0  Figueirense   
+Botafogo       3 - 1  América-MG    
+Coritiba       2 - 2  Palmeiras     
+Cruzeiro       0 - 1  Flamengo      
+Internacional  2 - 0  Atlético-MG   
+Fluminense     1 - 0  Corinthians   
 
-Rodada 8
-[Qua 15/06]
-	Botafogo          -  América-MG      
-	Fluminense        -  Corinthians     
-	São Paulo         -  Vitória-BA      
-	Santos            -  Sport           
-	Cruzeiro          -  Flamengo        
-	Internacional     -  Atlético-MG     
-	Coritiba          -  Palmeiras       
-	Chapecoense       -  Grêmio          
-	Ponte Preta       -  Atlético-PR     
-	Santa Cruz        -  Figueirense     
+Matchday 9
+Palmeiras      3 - 1  Santa Cruz    
+Atlético-PR    1 - 0  Santos        
+América-MG     2 - 1  Coritiba      
+Atlético-MG    3 - 0  Ponte Preta   
+Vitória-BA     1 - 2  Chapecoense   
+Flamengo       2 - 2  São Paulo     
+Corinthians    3 - 1  Botafogo      
+Figueirense    3 - 2  Internacional 
+Sport          2 - 1  Fluminense    
+Grêmio         2 - 0  Cruzeiro      
 
-Rodada 9
-[Dom 19/06]
-	Vitória-BA        -  Chapecoense     
-	Flamengo          -  São Paulo       
-	Corinthians       -  Botafogo        
-	Palmeiras         -  Santa Cruz      
-	Atlético-MG       -  Ponte Preta     
-	Grêmio            -  Cruzeiro        
-	Atlético-PR       -  Santos          
-	Figueirense       -  Internacional   
-	América-MG        -  Coritiba        
-	Sport             -  Fluminense      
+Matchday 10
+Palmeiras      2 - 0  América-MG    
+Ponte Preta    0 - 4  Cruzeiro      
+Santa Cruz     0 - 1  Flamengo      
+Botafogo       0 - 0  Figueirense   
+Atlético-MG    2 - 1  Corinthians   
+Fluminense     2 - 4  Santos        
+Chapecoense    0 - 0  Atlético-PR   
+Grêmio         1 - 2  Vitória-BA    
+São Paulo      0 - 0  Sport         
+Coritiba       1 - 1  Internacional 
 
-Rodada 10
-[Qua 22/06]
-	Botafogo          -  Figueirense     
-	Fluminense        -  Santos          
-	São Paulo         -  Sport           
-	Palmeiras         -  América-MG      
-	Atlético-MG       -  Corinthians     
-	Grêmio            -  Vitória-BA      
-	Coritiba          -  Internacional   
-	Chapecoense       -  Atlético-PR     
-	Ponte Preta       -  Cruzeiro        
-	Santa Cruz        -  Flamengo        
+Matchday 11
+Cruzeiro       2 - 1  Palmeiras     
+Corinthians    2 - 1  Santa Cruz    
+América-MG     0 - 1  Atlético-MG   
+Internacional  2 - 3  Botafogo      
+Atlético-PR    2 - 0  Grêmio        
+Santos         3 - 0  São Paulo     
+Vitória-BA     1 - 1  Ponte Preta   
+Flamengo       1 - 2  Fluminense    
+Figueirense    0 - 0  Coritiba      
+Sport          5 - 1  Chapecoense   
 
-Rodada 11
-[Dom 26/06]
-	Vitória-BA        -  Ponte Preta     
-	Flamengo          -  Fluminense      
-	Corinthians       -  Santa Cruz      
-	Santos            -  São Paulo       
-	Cruzeiro          -  Palmeiras       
-	Internacional     -  Botafogo        
-	Atlético-PR       -  Grêmio          
-	Figueirense       -  Coritiba        
-	América-MG        -  Atlético-MG     
-	Sport             -  Chapecoense     
+Matchday 12
+Vitória-BA     3 - 2  Sport         
+Flamengo       1 - 0  Internacional 
+Grêmio         3 - 2  Santos        
+Coritiba       1 - 0  Atlético-PR   
+Chapecoense    3 - 2  Cruzeiro      
+América-MG     0 - 2  Corinthians   
+São Paulo      2 - 1  Fluminense    
+Palmeiras      4 - 0  Figueirense   
+Santa Cruz     0 - 3  Ponte Preta   
+Atlético-MG    5 - 3  Botafogo      
 
-Rodada 12
-[Qua 29/06]
-	Vitória-BA        -  Sport           
-	Flamengo          -  Internacional   
-	São Paulo         -  Fluminense      
-	Palmeiras         -  Figueirense     
-	Atlético-MG       -  Botafogo        
-	Grêmio            -  Santos          
-	Coritiba          -  Atlético-PR     
-	Chapecoense       -  Cruzeiro        
-	América-MG        -  Corinthians     
-	Santa Cruz        -  Ponte Preta     
+Matchday 13
+Fluminense     0 - 0  Coritiba      
+Atlético-PR    1 - 0  América-MG    
+Cruzeiro       2 - 2  Vitória-BA    
+Internacional  0 - 1  Grêmio        
+Corinthians    4 - 0  Flamengo      
+Santos         3 - 0  Chapecoense   
+Botafogo       2 - 1  Santa Cruz    
+Ponte Preta    1 - 0  São Paulo     
+Figueirense    1 - 1  Atlético-MG   
+Sport          1 - 3  Palmeiras     
 
-Rodada 13
-[Dom 03/07]
-	Botafogo          -  Santa Cruz      
-	Fluminense        -  Coritiba        
-	Corinthians       -  Flamengo        
-	Santos            -  Chapecoense     
-	Cruzeiro          -  Vitória-BA      
-	Internacional     -  Grêmio          
-	Atlético-PR       -  América-MG      
-	Figueirense       -  Atlético-MG     
-	Ponte Preta       -  São Paulo       
-	Sport             -  Palmeiras       
+Matchday 14
+Coritiba       0 - 0  Botafogo      
+Chapecoense    0 - 2  Corinthians   
+Ponte Preta    2 - 1  Sport         
+Flamengo       2 - 0  Atlético-MG   
+Grêmio         2 - 1  Figueirense   
+São Paulo      3 - 0  América-MG    
+Santa Cruz     1 - 0  Internacional 
+Vitória-BA     0 - 0  Fluminense    
+Cruzeiro       0 - 3  Atlético-PR   
+Palmeiras      1 - 1  Santos        
 
-Rodada 14
-[Dom 10/07]
-	Vitória-BA        -  Fluminense      
-	Flamengo          -  Atlético-MG     
-	São Paulo         -  América-MG      
-	Palmeiras         -  Santos          
-	Cruzeiro          -  Atlético-PR     
-	Grêmio            -  Figueirense     
-	Coritiba          -  Botafogo        
-	Chapecoense       -  Corinthians     
-	Ponte Preta       -  Sport           
-	Santa Cruz        -  Internacional   
+Matchday 15
+Botafogo       3 - 3  Flamengo      
+Santos         3 - 1  Ponte Preta   
+América-MG     0 - 3  Santa Cruz    
+Internacional  0 - 1  Palmeiras     
+Atlético-PR    1 - 1  Vitória-BA    
+Figueirense    1 - 1  Chapecoense   
+Fluminense     2 - 0  Cruzeiro      
+Corinthians    1 - 1  São Paulo     
+Sport          4 - 2  Grêmio        
+Atlético-MG    2 - 1  Coritiba      
 
-Rodada 15
-[Dom 17/07]
-	Botafogo          -  Flamengo        
-	Fluminense        -  Cruzeiro        
-	Corinthians       -  São Paulo       
-	Santos            -  Ponte Preta     
-	Atlético-MG       -  Coritiba        
-	Atlético-PR       -  Vitória-BA      
-	Figueirense       -  Chapecoense     
-	América-MG        -  Santa Cruz      
-	Sport             -  Grêmio          
-	Internacional     -  Palmeiras       
+Matchday 16
+Corinthians    1 - 1  Figueirense   
+Santa Cruz     0 - 1  Coritiba      
+Palmeiras      0 - 1  Atlético-MG   
+Ponte Preta    2 - 2  Internacional 
+Cruzeiro       1 - 2  Sport         
+Grêmio         1 - 0  São Paulo     
+Atlético-PR    1 - 0  Fluminense    
+Chapecoense    2 - 1  Botafogo      
+Vitória-BA     2 - 3  Santos        
+Flamengo       2 - 1  América-MG    
 
-Rodada 16
-[Dom 24/07]
-	Vitória-BA        -  Santos          
-	Flamengo          -  América-MG      
-	Corinthians       -  Figueirense     
-	Cruzeiro          -  Sport           
-	Grêmio            -  São Paulo       
-	Atlético-PR       -  Fluminense      
-	Chapecoense       -  Botafogo        
-	Ponte Preta       -  Internacional   
-	Santa Cruz        -  Coritiba        
-	Palmeiras         -  Atlético-MG     
+Matchday 17
+Sport          2 - 0  Atlético-PR   
+Figueirense    1 - 0  Vitória-BA    
+Atlético-MG    3 - 0  Santa Cruz    
+Fluminense     3 - 0  Ponte Preta   
+São Paulo      2 - 2  Chapecoense   
+Internacional  0 - 1  Corinthians   
+Santos         2 - 0  Cruzeiro      
+Coritiba       0 - 2  Flamengo      
+América-MG     0 - 0  Grêmio        
+Botafogo       3 - 1  Palmeiras     
 
-Rodada 17
-[Dom 31/07]
-	Botafogo          -  Palmeiras       
-	Fluminense        -  Ponte Preta     
-	São Paulo         -  Chapecoense     
-	Santos            -  Cruzeiro        
-	Atlético-MG       -  Santa Cruz      
-	Internacional     -  Corinthians     
-	Coritiba          -  Flamengo        
-	Figueirense       -  Vitória-BA      
-	América-MG        -  Grêmio          
-	Sport             -  Atlético-PR     
+Matchday 18
+Vitória-BA     3 - 1  Coritiba      
+Sport          1 - 1  América-MG    
+Santos         0 - 0  Flamengo      
+Atlético-PR    2 - 0  Corinthians   
+Ponte Preta    2 - 0  Botafogo      
+Grêmio         0 - 0  Santa Cruz    
+São Paulo      1 - 2  Atlético-MG   
+Cruzeiro       4 - 2  Internacional 
+Chapecoense    1 - 1  Palmeiras     
+Fluminense     3 - 2  Figueirense   
 
-Rodada 18
-[Qua 03/08]
-	Vitória-BA        -  Coritiba        
-	Fluminense        -  Figueirense     
-	São Paulo         -  Atlético-MG     
-	Santos            -  Flamengo        
-	Cruzeiro          -  Internacional   
-	Grêmio            -  Santa Cruz      
-	Atlético-PR       -  Corinthians     
-	Chapecoense       -  Palmeiras       
-	Ponte Preta       -  Botafogo        
-	Sport             -  América-MG      
+Matchday 19
+Flamengo       1 - 0  Atlético-PR   
+América-MG     1 - 0  Santos        
+Coritiba       3 - 1  Ponte Preta   
+Palmeiras      2 - 1  Vitória-BA    
+Santa Cruz     1 - 2  São Paulo     
+Internacional  2 - 2  Fluminense    
+Figueirense    1 - 1  Sport         
+Atlético-MG    3 - 1  Chapecoense   
+Corinthians    1 - 1  Cruzeiro      
+Botafogo       2 - 1  Grêmio        
 
-Rodada 19
-[Dom 07/08]
-	Botafogo          -  Grêmio          
-	Flamengo          -  Atlético-PR     
-	Corinthians       -  Cruzeiro        
-	Palmeiras         -  Vitória-BA      
-	Atlético-MG       -  Chapecoense     
-	Internacional     -  Fluminense      
-	Coritiba          -  Ponte Preta     
-	Figueirense       -  Sport           
-	América-MG        -  Santos          
-	Santa Cruz        -  São Paulo       
+Matchday 20
+Sport          1 - 0  Flamengo      
+Ponte Preta    2 - 0  Figueirense   
+Grêmio         3 - 0  Corinthians   
+Fluminense     1 - 0  América-MG    
+Santos         3 - 0  Atlético-MG   
+Cruzeiro       2 - 2  Coritiba      
+Vitória-BA     2 - 2  Santa Cruz    
+São Paulo      0 - 1  Botafogo      
+Atlético-PR    0 - 1  Palmeiras     
+Chapecoense    1 - 0  Internacional 
 
-Rodada 20
-[Dom 14/08]
-	Vitória-BA        -  Santa Cruz      
-	Fluminense        -  América-MG      
-	São Paulo         -  Botafogo        
-	Santos            -  Atlético-MG     
-	Cruzeiro          -  Coritiba        
-	Grêmio            -  Corinthians     
-	Atlético-PR       -  Palmeiras       
-	Chapecoense       -  Internacional   
-	Ponte Preta       -  Figueirense     
-	Sport             -  Flamengo        
+Matchday 21
+América-MG     1 - 2  Chapecoense   
+Botafogo       3 - 0  Sport         
+Flamengo       2 - 1  Grêmio        
+Atlético-MG    1 - 0  Atlético-PR   
+Internacional  1 - 1  São Paulo     
+Palmeiras      2 - 2  Ponte Preta   
+Santa Cruz     0 - 1  Fluminense    
+Coritiba       2 - 1  Santos        
+Figueirense    1 - 2  Cruzeiro      
+Corinthians    2 - 1  Vitória-BA    
 
-Rodada 21
-[Dom 21/08]
-	Botafogo          -  Sport           
-	Flamengo          -  Grêmio          
-	Corinthians       -  Vitória-BA      
-	Palmeiras         -  Ponte Preta     
-	Atlético-MG       -  Atlético-PR     
-	Internacional     -  São Paulo       
-	Coritiba          -  Santos          
-	Figueirense       -  Cruzeiro        
-	América-MG        -  Chapecoense     
-	Santa Cruz        -  Fluminense      
+Matchday 22
+Ponte Preta    2 - 0  Corinthians   
+Santos         0 - 1  Figueirense   
+Cruzeiro       2 - 0  Santa Cruz    
+Grêmio         1 - 1  Atlético-MG   
+Chapecoense    1 - 3  Flamengo      
+Fluminense     0 - 2  Palmeiras     
+São Paulo      0 - 0  Coritiba      
+Vitória-BA     2 - 1  América-MG    
+Sport          1 - 1  Internacional 
+Atlético-PR    1 - 0  Botafogo      
 
-Rodada 22
-[Dom 28/08]
-	Vitória-BA        -  América-MG      
-	Fluminense        -  Palmeiras       
-	São Paulo         -  Coritiba        
-	Santos            -  Figueirense     
-	Cruzeiro          -  Santa Cruz      
-	Grêmio            -  Atlético-MG     
-	Atlético-PR       -  Botafogo        
-	Chapecoense       -  Flamengo        
-	Ponte Preta       -  Corinthians     
-	Sport             -  Internacional   
+Matchday 23
+Botafogo       1 - 0  Fluminense    
+Santa Cruz     2 - 2  Chapecoense   
+Figueirense    1 - 0  Atlético-PR   
+Atlético-MG    2 - 1  Vitória-BA    
+Palmeiras      2 - 1  São Paulo     
+Flamengo       2 - 1  Ponte Preta   
+Coritiba       4 - 0  Grêmio        
+Corinthians    3 - 0  Sport         
+Internacional  2 - 1  Santos        
+América-MG     0 - 2  Cruzeiro      
 
-Rodada 23
-[Qua 07/09]
-	Botafogo          -  Fluminense      
-	Flamengo          -  Ponte Preta     
-	Corinthians       -  Sport           
-	Palmeiras         -  São Paulo       
-	Atlético-MG       -  Vitória-BA      
-	Internacional     -  Santos          
-	Coritiba          -  Grêmio          
-	Santa Cruz        -  Chapecoense     
-	Figueirense       -  Atlético-PR     
-	América-MG        -  Cruzeiro        
+Matchday 24
+Vitória-BA     1 - 2  Flamengo      
+Chapecoense    1 - 0  Coritiba      
+São Paulo      3 - 1  Figueirense   
+Santos         2 - 1  Corinthians   
+Cruzeiro       0 - 2  Botafogo      
+Sport          5 - 3  Santa Cruz    
+Atlético-PR    2 - 1  Internacional 
+Grêmio         0 - 0  Palmeiras     
+Ponte Preta    1 - 1  América-MG    
+Fluminense     4 - 2  Atlético-MG   
 
-Rodada 24
-[Dom 11/09]
-	Vitória-BA        -  Flamengo        
-	Fluminense        -  Atlético-MG     
-	São Paulo         -  Figueirense     
-	Santos            -  Corinthians     
-	Cruzeiro          -  Botafogo        
-	Grêmio            -  Palmeiras       
-	Atlético-PR       -  Internacional   
-	Chapecoense       -  Coritiba        
-	Ponte Preta       -  América-MG      
-	Sport             -  Santa Cruz      
+Matchday 25
+Botafogo       0 - 1  Santos        
+Figueirense    2 - 2  América-MG    
+Ponte Preta    3 - 0  Grêmio        
+Santa Cruz     1 - 0  Atlético-PR   
+Coritiba       1 - 1  Corinthians   
+Palmeiras      1 - 1  Flamengo      
+Atlético-MG    1 - 0  Sport         
+Fluminense     1 - 2  Chapecoense   
+São Paulo      1 - 0  Cruzeiro      
+Internacional  0 - 1  Vitória-BA    
 
-Rodada 25
-[Qua 14/09]
-	Botafogo          -  Santos          
-	Fluminense        -  Chapecoense     
-	São Paulo         -  Cruzeiro        
-	Palmeiras         -  Flamengo        
-	Atlético-MG       -  Sport           
-	Internacional     -  Vitória-BA      
-	Coritiba          -  Corinthians     
-	Figueirense       -  América-MG      
-	Ponte Preta       -  Grêmio          
-	Santa Cruz        -  Atlético-PR     
+Matchday 26
+Corinthians    0 - 2  Palmeiras     
+Flamengo       2 - 0  Figueirense   
+Sport          0 - 1  Coritiba      
+Cruzeiro       1 - 1  Atlético-MG   
+Grêmio         0 - 1  Fluminense    
+Atlético-PR    1 - 0  São Paulo     
+Chapecoense    2 - 2  Ponte Preta   
+Vitória-BA     0 - 1  Botafogo      
+Santos         3 - 2  Santa Cruz    
+América-MG     1 - 0  Internacional 
 
-Rodada 26
-[Dom 18/09]
-	Vitória-BA        -  Botafogo        
-	Flamengo          -  Figueirense     
-	Corinthians       -  Palmeiras       
-	Santos            -  Santa Cruz      
-	Cruzeiro          -  Atlético-MG     
-	Grêmio            -  Fluminense      
-	Atlético-PR       -  São Paulo       
-	Chapecoense       -  Ponte Preta     
-	América-MG        -  Internacional   
-	Sport             -  Coritiba        
+Matchday 27
+Palmeiras      2 - 1  Coritiba      
+Sport          1 - 0  Santos        
+América-MG     1 - 0  Botafogo      
+Figueirense    3 - 1  Santa Cruz    
+Atlético-PR    3 - 0  Ponte Preta   
+Grêmio         1 - 0  Chapecoense   
+Vitória-BA     2 - 0  São Paulo     
+Flamengo       2 - 1  Cruzeiro      
+Corinthians    0 - 1  Fluminense    
+Atlético-MG    3 - 1  Internacional 
 
-Rodada 27
-[Dom 25/09]
-	Vitória-BA        -  São Paulo       
-	Flamengo          -  Cruzeiro        
-	Corinthians       -  Fluminense      
-	Palmeiras         -  Coritiba        
-	Atlético-MG       -  Internacional   
-	Grêmio            -  Chapecoense     
-	Atlético-PR       -  Ponte Preta     
-	Figueirense       -  Santa Cruz      
-	América-MG        -  Botafogo        
-	Sport             -  Santos          
+Matchday 28
+Fluminense     3 - 1  Sport         
+São Paulo      0 - 0  Flamengo      
+Santos         2 - 0  Atlético-PR   
+Chapecoense    1 - 4  Vitória-BA    
+Ponte Preta    1 - 2  Atlético-MG   
+Botafogo       2 - 0  Corinthians   
+Cruzeiro       1 - 0  Grêmio        
+Internacional  1 - 0  Figueirense   
+Santa Cruz     2 - 3  Palmeiras     
+Coritiba       3 - 0  América-MG    
 
-Rodada 28
-[Sab 01/10]
-	Botafogo          -  Corinthians     
-	Fluminense        -  Sport           
-	São Paulo         -  Flamengo        
-	Santos            -  Atlético-PR     
-	Cruzeiro          -  Grêmio          
-	Internacional     -  Figueirense     
-	Coritiba          -  América-MG      
-	Chapecoense       -  Vitória-BA      
-	Ponte Preta       -  Atlético-MG     
-	Santa Cruz        -  Palmeiras       
+Matchday 29
+Atlético-PR    3 - 1  Chapecoense   
+Vitória-BA     0 - 1  Grêmio        
+Santos         2 - 1  Fluminense    
+Corinthians    0 - 0  Atlético-MG   
+Sport          1 - 1  São Paulo     
+Internacional  1 - 0  Coritiba      
+Cruzeiro       2 - 0  Ponte Preta   
+Flamengo       3 - 0  Santa Cruz    
+Figueirense    0 - 1  Botafogo      
+América-MG     0 - 2  Palmeiras     
 
-Rodada 29
-[Qua 05/10]
-	Vitória-BA        -  Grêmio          
-	Flamengo          -  Santa Cruz      
-	Corinthians       -  Atlético-MG     
-	Santos            -  Fluminense      
-	Cruzeiro          -  Ponte Preta     
-	Internacional     -  Coritiba        
-	Figueirense       -  Botafogo        
-	Atlético-PR       -  Chapecoense     
-	América-MG        -  Palmeiras       
-	Sport             -  São Paulo       
+Matchday 30
+Chapecoense    3 - 0  Sport         
+Coritiba       0 - 0  Figueirense   
+Santa Cruz     2 - 4  Corinthians   
+Botafogo       1 - 0  Internacional 
+Ponte Preta    2 - 0  Vitória-BA    
+Palmeiras      0 - 0  Cruzeiro      
+Atlético-MG    3 - 0  América-MG    
+Grêmio         1 - 0  Atlético-PR   
+Fluminense     1 - 2  Flamengo      
+São Paulo      0 - 1  Santos        
 
-Rodada 30
-[Qua 12/10]
-	Botafogo          -  Internacional   
-	Fluminense        -  Flamengo        
-	São Paulo         -  Santos          
-	Palmeiras         -  Cruzeiro        
-	Atlético-MG       -  América-MG      
-	Grêmio            -  Atlético-PR     
-	Coritiba          -  Figueirense     
-	Chapecoense       -  Sport           
-	Ponte Preta       -  Vitória-BA      
-	Santa Cruz        -  Corinthians     
+Matchday 31
+Botafogo       3 - 2  Atlético-MG   
+Cruzeiro       0 - 0  Chapecoense   
+Internacional  2 - 1  Flamengo      
+Atlético-PR    2 - 0  Coritiba      
+Figueirense    1 - 2  Palmeiras     
+Ponte Preta    3 - 0  Santa Cruz    
+Corinthians    2 - 0  América-MG    
+Santos         1 - 1  Grêmio        
+Sport          1 - 0  Vitória-BA    
+Fluminense     1 - 2  São Paulo     
 
-Rodada 31
-[Dom 16/10]
-	Botafogo          -  Atlético-MG     
-	Fluminense        -  São Paulo       
-	Corinthians       -  América-MG      
-	Santos            -  Grêmio          
-	Cruzeiro          -  Chapecoense     
-	Internacional     -  Flamengo        
-	Atlético-PR       -  Coritiba        
-	Figueirense       -  Palmeiras       
-	Ponte Preta       -  Santa Cruz      
-	Sport             -  Vitória-BA      
+Matchday 32
+Santa Cruz     0 - 1  Botafogo      
+São Paulo      2 - 0  Ponte Preta   
+Palmeiras      2 - 1  Sport         
+Grêmio         0 - 0  Internacional 
+Vitória-BA     0 - 1  Cruzeiro      
+Flamengo       2 - 2  Corinthians   
+Coritiba       1 - 1  Fluminense    
+Chapecoense    0 - 1  Santos        
+Atlético-MG    3 - 0  Figueirense   
+América-MG     1 - 0  Atlético-PR   
 
-Rodada 32
-[Dom 23/10]
-	Vitória-BA        -  Cruzeiro        
-	Flamengo          -  Corinthians     
-	São Paulo         -  Ponte Preta     
-	Palmeiras         -  Sport           
-	Atlético-MG       -  Figueirense     
-	Grêmio            -  Internacional   
-	Coritiba          -  Fluminense      
-	Chapecoense       -  Santos          
-	América-MG        -  Atlético-PR     
-	Santa Cruz        -  Botafogo        
+Matchday 33
+Sport          1 - 0  Ponte Preta   
+Fluminense     2 - 2  Vitória-BA    
+Corinthians    1 - 1  Chapecoense   
+Atlético-MG    2 - 2  Flamengo      
+Atlético-PR    1 - 0  Cruzeiro      
+Internacional  1 - 1  Santa Cruz    
+Botafogo       0 - 0  Coritiba      
+Santos         1 - 0  Palmeiras     
+Figueirense    0 - 0  Grêmio        
+América-MG     1 - 0  São Paulo     
 
-Rodada 33
-[Dom 30/10]
-	Botafogo          -  Coritiba        
-	Fluminense        -  Vitória-BA      
-	Corinthians       -  Chapecoense     
-	Santos            -  Palmeiras       
-	Atlético-MG       -  Flamengo        
-	Internacional     -  Santa Cruz      
-	Atlético-PR       -  Cruzeiro        
-	Figueirense       -  Grêmio          
-	América-MG        -  São Paulo       
-	Sport             -  Ponte Preta     
+Matchday 34
+Flamengo       0 - 0  Botafogo      
+São Paulo      4 - 0  Corinthians   
+Ponte Preta    1 - 2  Santos        
+Santa Cruz     1 - 0  América-MG    
+Vitória-BA     3 - 2  Atlético-PR   
+Palmeiras      1 - 0  Internacional 
+Cruzeiro       4 - 2  Fluminense    
+Coritiba       2 - 0  Atlético-MG   
+Chapecoense    1 - 0  Figueirense   
+Grêmio         0 - 3  Sport         
 
-Rodada 34
-[Dom 06/11]
-	Vitória-BA        -  Atlético-PR     
-	Flamengo          -  Botafogo        
-	São Paulo         -  Corinthians     
-	Palmeiras         -  Internacional   
-	Cruzeiro          -  Fluminense      
-	Grêmio            -  Sport           
-	Coritiba          -  Atlético-MG     
-	Chapecoense       -  Figueirense     
-	Ponte Preta       -  Santos          
-	Santa Cruz        -  América-MG      
+Matchday 35
+Fluminense     1 - 1  Atlético-PR   
+Botafogo       0 - 2  Chapecoense   
+Coritiba       1 - 0  Santa Cruz    
+Figueirense    1 - 1  Corinthians   
+América-MG     0 - 1  Flamengo      
+Sport          0 - 1  Cruzeiro      
+São Paulo      1 - 1  Grêmio        
+Santos         3 - 2  Vitória-BA    
+Atlético-MG    1 - 1  Palmeiras     
+Internacional  1 - 1  Ponte Preta   
 
-Rodada 35
-[Qua 16/11]
-	Botafogo          -  Chapecoense     
-	Fluminense        -  Atlético-PR     
-	São Paulo         -  Grêmio          
-	Santos            -  Vitória-BA      
-	Atlético-MG       -  Palmeiras       
-	Internacional     -  Ponte Preta     
-	Coritiba          -  Santa Cruz      
-	Figueirense       -  Corinthians     
-	América-MG        -  Flamengo        
-	Sport             -  Cruzeiro        
+Matchday 36
+Vitória-BA     4 - 0  Figueirense   
+Palmeiras      1 - 0  Botafogo      
+Cruzeiro       2 - 2  Santos        
+Grêmio         3 - 0  América-MG    
+Atlético-PR    2 - 0  Sport         
+Ponte Preta    1 - 0  Fluminense    
+Santa Cruz     3 - 3  Atlético-MG   
+Chapecoense    2 - 0  São Paulo     
+Flamengo       2 - 2  Coritiba      
+Corinthians    1 - 0  Internacional 
 
-Rodada 36
-[Dom 20/11]
-	Vitória-BA        -  Figueirense     
-	Flamengo          -  Coritiba        
-	Corinthians       -  Internacional   
-	Palmeiras         -  Botafogo        
-	Cruzeiro          -  Santos          
-	Grêmio            -  América-MG      
-	Atlético-PR       -  Sport           
-	Chapecoense       -  São Paulo       
-	Ponte Preta       -  Fluminense      
-	Santa Cruz        -  Atlético-MG     
+Matchday 37
+Botafogo       1 - 1  Ponte Preta   
+América-MG     2 - 2  Sport         
+Corinthians    0 - 0  Atlético-PR   
+Palmeiras      1 - 0  Chapecoense   
+Atlético-MG    1 - 2  São Paulo     
+Internacional  1 - 0  Cruzeiro      
+Flamengo       2 - 0  Santos        
+Figueirense    1 - 0  Fluminense    
+Santa Cruz     5 - 1  Grêmio        
+Coritiba       0 - 1  Vitória-BA    
 
-Rodada 37
-[Dom 27/11]
-	Botafogo          -  Ponte Preta     
-	Flamengo          -  Santos          
-	Corinthians       -  Atlético-PR     
-	Palmeiras         -  Chapecoense     
-	Atlético-MG       -  São Paulo       
-	Internacional     -  Cruzeiro        
-	Coritiba          -  Vitória-BA      
-	Figueirense       -  Fluminense      
-	América-MG        -  Sport           
-	Santa Cruz        -  Grêmio          
-
-Rodada 38
-[Dom 04/12]
-	Vitória-BA        -  Palmeiras       
-	Fluminense        -  Internacional   
-	São Paulo         -  Santa Cruz      
-	Santos            -  América-MG      
-	Cruzeiro          -  Corinthians     
-	Grêmio            -  Botafogo        
-	Atlético-PR       -  Flamengo        
-	Chapecoense       -  Atlético-MG     
-	Ponte Preta       -  Coritiba        
-	Sport             -  Figueirense     
+Matchday 38
+Vitória-BA     1 - 2  Palmeiras     
+Fluminense     1 - 1  Internacional 
+São Paulo      5 - 0  Santa Cruz    
+Santos         1 - 0  América-MG    
+Cruzeiro       3 - 2  Corinthians   
+Grêmio         0 - 1  Botafogo      
+Atlético-PR    0 - 0  Flamengo      
+Ponte Preta    2 - 0  Coritiba      
+Sport          2 - 0  Figueirense 
