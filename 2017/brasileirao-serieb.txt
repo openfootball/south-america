@@ -16,3 +16,43 @@ Matchday 2
 [Ter 16/05]
 Brasil de Pel 1 - 1 Londrina-PR    #  @  19h15
 Ceará         0 - 0 Boa Esporte C  #  @  21h30
+[Sex 19/05]
+Paraná Clube   -  Paysandu       #  @ Vila Capanema 19h15
+Vila Nova-GO   -  Juventude      #  @ Serra Dourada 20h30
+América-MG     -  Goiás          #  @ Independência 21h30
+[Sáb 20/05]
+Santa Cruz-PE  -  Guarani        #  @ Arruda 16h30
+Figueirense    -  Náutico        #  @ Orlando Scarpelli 16h30
+Oeste          -  Criciúma       #  @ Arena Barueri 16h30
+Luverdense     -  CRB            #  @ Arena Pantanal 16h30
+Internacional  -  ABC            #  @ Beira-Rio 19h00
+
+Matchday 3
+[Ter 23/05]
+Guarani        -  Figueirense    #  @ Brinco de Ouro 19h15
+CRB            -  Santa Cruz-PE  #  @ Rei Pelé 21h30
+[Sex 26/05]
+Juventude      -  Paraná Clube   #  @ Alfredo Jaconi 19h15
+Boa Esporte C  -  Oeste          #  @ Melão  20h30
+Goiás          -  Brasil de Pel  #  @ Olímpico Pedro Ludovico 21h30
+[Sáb 27/05]
+ABC            -  Vila Nova-GO   #  @ Frasqueirão 16h30
+Náutico        -  Ceará          #  @ Arena Pernambuco 16h30
+Londrina-PR    -  Luverdense     #  @ Café 16h30
+Paysandu       -  Internacional  #  @ Mangueirão 16h30
+Criciúma       -  América-MG     #  @ Heriberto Hülse 19h00
+
+Matchday 4
+[Ter 16/05]
+Paraná Clube  2 - 0 Goiás          #  @  21h30
+[Sex 02/06]
+América-MG     -  Paysandu       #  @ Independência 19h15
+Oeste          -  CRB            #  @ José Liberati 20h30
+Ceará          -  Londrina-PR    #  @ Castelão (CE) 21h30
+[Sáb 03/06]
+Santa Cruz-PE  -  ABC            #  @ Arruda 16h30
+Figueirense    -  Boa Esporte C  #  @ Orlando Scarpelli 16h30
+Vila Nova-GO   -  Guarani        #  @ Serra Dourada 16h30
+Luverdense     -  Criciúma       #  @ Passo das Emas 16h30
+Internacional  -  Juventude      #  @ Beira-Rio 19h00
+Brasil de Pel  -  Náutico        #  @ Bento Freitas 21h30
