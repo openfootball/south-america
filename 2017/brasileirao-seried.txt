@@ -1,0 +1,76 @@
+Rodada 1
+[Dom, 21/Maio]
+Portuguesa                 -    Urt
+Operario                   -    Brusque
+Cordino                    -    Santos
+Atletico                   -    Campinense
+Guarani de Juazeiro        -    América
+Coruripe                   -    Juazeirense
+América de Natal           -    Murici
+Itabaiana                  -    Fluminense de Feira
+Ituano                     -    São José
+Villa Nova A.c.            -    Bangu
+São Raimundo               -    Gurupi
+Novo Hamburgo              -    Sao Bernardo
+Ceilândia                  -    Anápolis
+Xv de Piracicaba           -    São Paulo
+Ríver                      -    Guarany de Sobral
+Itumbiara                  -    Audax
+Internacional              -    Foz do Iguaçu
+Parnahyba                  -    Globo
+Jacobina Ec                -    Sergipe
+Tocantins Esporte Clube    -    Altos
+Metropolitano              -    Pstc
+Espirito Santo             -    Red Bull Brasil
+Potiguar                   -    Maranhão
+Comercial                  -    Sinop
+Caldense                   -    Boavista
+Sousa                      -    Central
+Princesa do Solimões       -    Real Desportivo
+Rio Branco                 -    São Raimundo
+Bare                       -    Fast Clube
+Portuguesa                 -    Desportiva
+Genus                      -    S.francisco
+União de Rondonópolis      -    7 de Setembro
+[Seg, 22/Maio]
+Aparecidense               -    Luziânia
+Trem                       -    Atlético
+
+Rodada 2
+[Sáb, 27/Maio]
+Bangu                      -    Portuguesa
+Sao Bernardo               -    Internacional
+Boavista                   -    Espirito Santo
+Desportiva                 -    Villa Nova A.c.
+Anápolis                   -    Comercial
+São José                   -    Metropolitano
+Brusque                    -    Xv de Piracicaba
+Luziânia                   -    União de Rondonópolis
+Red Bull Brasil            -    Caldense
+Altos                      -    Cordino
+Juazeirense                -    Sousa
+[Dom, 28/Maio]
+Audax                      -    Portuguesa
+São Raimundo               -    Genus
+Maranhão                   -    Ríver
+São Paulo                  -    Operario
+Murici                     -    Jacobina Ec
+Guarany de Sobral          -    Potiguar
+Urt                        -    Itumbiara
+Foz do Iguaçu              -    Novo Hamburgo
+América                    -    Parnahyba
+Central                    -    Coruripe
+Sergipe                    -    América de Natal
+Fast Clube                 -    São Raimundo
+Pstc                       -    Ituano
+7 de Setembro              -    Aparecidense
+Globo                      -    Guarani de Juazeiro
+Campinense                 -    Itabaiana
+Santos                     -    Tocantins Esporte Clube
+Gurupi                     -    Bare
+S.francisco                -    Rio Branco
+Sinop                      -    Ceilândia
+Real Desportivo            -    Trem
+Atlético                   -    Princesa do Solimões
+[Qua, 31/Maio]
+Fluminense de Feira        -    Atletico

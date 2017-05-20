@@ -1,0 +1,135 @@
+Rodada 1
+[Sáb, 13/Maio]
+Tombense           1 - 1   Tupi
+Mogi Mirim         0 - 0   São Bento
+Moto Club          1 - 2   Sampaio Correa
+Volta Redonda      3 - 1   Macaé
+Bragantino         2 - 2   Botafogo
+[Dom, 14/Maio]
+Ypiranga           2 - 2   Joinville
+Botafogo           0 - 0   Cuiabá
+Csa                3 - 0   Asa
+Remo               1 - 0   Fortaleza
+[Seg, 15/Maio]
+Confiança          2 - 1   Salgueiro
+
+Rodada 2
+[Sex, 19/Maio]
+Fortaleza          1 - 0   Botafogo
+[Sáb, 20/Maio]
+Macaé               -    Bragantino
+Tupi                -    Ypiranga
+Sampaio Correa      -    Csa
+Asa                 -    Remo
+São Bento           -    Tombense
+Botafogo            -    Mogi Mirim
+[Dom, 21/Maio]
+Joinville           -    Volta Redonda
+Salgueiro           -    Moto Club
+Cuiabá              -    Confiança
+
+Rodada 3
+[Sex, 26/Maio]
+Joinville           -    Tupi
+[Sáb, 27/Maio]
+Tombense            -    Mogi Mirim
+Bragantino          -    Ypiranga
+Moto Club           -    Confiança
+São Bento           -    Macaé
+Salgueiro           -    Fortaleza
+[Dom, 28/Maio]
+Asa                 -    Sampaio Correa
+Botafogo            -    Csa
+Remo                -    Cuiabá
+[Seg, 29/Maio]
+Volta Redonda       -    Botafogo
+
+Rodada 4
+[Sáb, 03/Junho]
+Mogi Mirim          -    Bragantino
+Volta Redonda       -    Tombense
+Sampaio Correa      -    Cuiabá
+Tupi                -    São Bento
+Fortaleza           -    Asa
+[Dom, 04/Junho]
+Ypiranga            -    Macaé
+Botafogo            -    Salgueiro
+Csa                 -    Moto Club
+Botafogo            -    Joinville
+[Seg, 05/Junho]
+Confiança           -    Remo
+
+Rodada 5
+[Sáb, 10/Junho]
+Tombense            -    Joinville
+Moto Club           -    Botafogo
+Macaé               -    Tupi
+Bragantino          -    Volta Redonda
+Remo                -    Csa
+[Dom, 11/Junho]
+Ypiranga            -    Mogi Mirim
+Confiança           -    Sampaio Correa
+Asa                 -    Salgueiro
+Cuiabá              -    Fortaleza
+[Seg, 12/Junho]
+São Bento           -    Botafogo
+
+Rodada 6
+[Sáb, 17/Junho]
+Tombense            -    Bragantino
+Mogi Mirim          -    Tupi
+Fortaleza           -    Sampaio Correa
+Moto Club           -    Asa
+Joinville           -    São Bento
+[Dom, 18/Junho]
+Botafogo            -    Macaé
+Salgueiro           -    Cuiabá
+Csa                 -    Confiança
+Volta Redonda       -    Ypiranga
+[Seg, 19/Junho]
+Botafogo            -    Remo
+
+Rodada 7
+[Sáb, 24/Junho]
+Mogi Mirim          -    Volta Redonda
+Remo                -    Moto Club
+Confiança           -    Botafogo
+Macaé               -    Joinville
+Sampaio Correa      -    Salgueiro
+Bragantino          -    São Bento
+Csa                 -    Fortaleza
+[Dom, 25/Junho]
+Ypiranga            -    Tombense
+Cuiabá              -    Asa
+[Seg, 26/Junho]
+Tupi                -    Botafogo
+
+Rodada 8
+[Sáb, 01/Julho]
+Tupi                -    Volta Redonda
+Macaé               -    Mogi Mirim
+Joinville           -    Bragantino
+São Bento           -    Ypiranga
+[Dom, 02/Julho]
+Salgueiro           -    Csa
+Botafogo            -    Tombense
+Asa                 -    Botafogo
+Cuiabá              -    Moto Club
+Fortaleza           -    Confiança
+[Seg, 03/Julho]
+Sampaio Correa      -    Remo
+
+Rodada 9
+[Sáb, 08/Julho]
+Moto Club           -    Fortaleza
+Tombense            -    Macaé
+Bragantino          -    Tupi
+[Dom, 09/Julho]
+Ypiranga            -    Botafogo
+Confiança           -    Asa
+Botafogo            -    Sampaio Correa
+Volta Redonda       -    São Bento
+Csa                 -    Cuiabá
+Remo                -    Salgueiro
+[Seg, 10/Julho]
+Mogi Mirim          -    Joinville
