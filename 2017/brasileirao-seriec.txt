@@ -17,12 +17,12 @@ Rodada 2
 [Sex, 19/Maio]
 Fortaleza          1 - 0   Botafogo
 [Sáb, 20/Maio]
-Macaé               -    Bragantino
-Tupi                -    Ypiranga
-Sampaio Correa      -    Csa
-Asa                 -    Remo
-São Bento           -    Tombense
-Botafogo            -    Mogi Mirim
+Macaé                     1 - 0   Bragantino
+Tupi                      0 - 2   Ypiranga
+Sampaio Correa            0 - 2   Csa
+Asa                       1 - 0   Remo
+São Bento                 2 - 1   Tombense
+Botafogo                  2 - 0   Mogi Mirim
 [Dom, 21/Maio]
 Joinville           -    Volta Redonda
 Salgueiro           -    Moto Club
