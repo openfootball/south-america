@@ -13,19 +13,19 @@ Goiás         0 - 1 Figueirense    #  @  19h00
 Paysandu      2 - 0 Oeste          #  @  21h00
 
 Matchday 2
-[Ter 16/05]
-Brasil de Pel 1 - 1 Londrina-PR    #  @  19h15
-Ceará         0 - 0 Boa Esporte C  #  @  21h30
-[Sex 19/05]
-Paraná Clube   -  Paysandu       #  @ Vila Capanema 19h15
-Vila Nova-GO   -  Juventude      #  @ Serra Dourada 20h30
-América-MG     -  Goiás          #  @ Independência 21h30
-[Sáb 20/05]
-Santa Cruz-PE  -  Guarani        #  @ Arruda 16h30
-Figueirense    -  Náutico        #  @ Orlando Scarpelli 16h30
-Oeste          -  Criciúma       #  @ Arena Barueri 16h30
-Luverdense     -  CRB            #  @ Arena Pantanal 16h30
-Internacional  -  ABC            #  @ Beira-Rio 19h00
+[Ter, 16/Maio]
+Brasil                    1 - 1   Londrina
+Ceará                     0 - 0   Boa
+[Sex, 19/Maio]
+Paraná                    0 - 0   Paysandu
+Vila Nova                 0 - 0   Juventude
+América                   1 - 1   Goiás
+[Sáb, 20/Maio]
+Oeste                     1 - 0   Criciúma
+Luverdense                1 - 1   Crb
+Santa Cruz                2 - 1   Guarani
+Figueirense               3 - 0   Náutico
+Internacional             1 - 1   Abc
 
 Matchday 3
 [Ter 23/05]

@@ -14,10 +14,10 @@ Grêmio        2 - 0 Botafogo       #  @  19h00
 Coritiba      4 - 1 Atlético-GO    #  @  20h00
 
 Matchday 2
-Sáb 20/05
-Santos         -  Coritiba       #  @ Vila Belmiro 16h00
-Chapecoense    -  Palmeiras      #  @ Índio Condá 19h00
-Atlético-GO    -  Flamengo       #  @ Serra Dourada 21h00
+[Sáb, 20/Maio]
+Santos                    1 - 0   Coritiba
+Atlético                  0 - 3   Flamengo
+Chapecoense               1 - 0   Palmeiras
 Dom 21/05
 Botafogo       -  Ponte Preta    #  @ Engenhão 16h00
 Atlético-MG    -  Fluminense     #  @ Independência 16h00
