@@ -1,37 +1,37 @@
 Rodada 1
 [Dom, 21/Maio]
-Portuguesa                 -    Urt
-Operario                   -    Brusque
-Cordino                    -    Santos
-Atletico                   -    Campinense
-Guarani de Juazeiro        -    América
-Coruripe                   -    Juazeirense
-América de Natal           -    Murici
-Itabaiana                  -    Fluminense de Feira
-Ituano                     -    São José
-Villa Nova A.c.            -    Bangu
-São Raimundo               -    Gurupi
-Novo Hamburgo              -    Sao Bernardo
-Ceilândia                  -    Anápolis
-Xv de Piracicaba           -    São Paulo
-Ríver                      -    Guarany de Sobral
-Itumbiara                  -    Audax
-Internacional              -    Foz do Iguaçu
-Parnahyba                  -    Globo
-Jacobina Ec                -    Sergipe
-Tocantins Esporte Clube    -    Altos
-Metropolitano              -    Pstc
-Espirito Santo             -    Red Bull Brasil
-Potiguar                   -    Maranhão
-Comercial                  -    Sinop
-Caldense                   -    Boavista
-Sousa                      -    Central
-Princesa do Solimões       -    Real Desportivo
-Rio Branco                 -    São Raimundo
-Bare                       -    Fast Clube
-Portuguesa                 -    Desportiva
-Genus                      -    S.francisco
-União de Rondonópolis      -    7 de Setembro
+Portuguesa                3 - 0   Urt
+Operario                  1 - 0   Brusque
+Cordino                   1 - 0   Santos
+Atletico                  4 - 3   Campinense
+Guarani de Juazeiro       1 - 0   América
+Coruripe                  2 - 3   Juazeirense
+América de Natal          3 - 0   Murici
+Itabaiana                 1 - 4   Fluminense de Feira
+Ituano                    2 - 1   São José
+Villa Nova A.c.           1 - 3   Bangu
+São Raimundo              2 - 0   Gurupi
+Novo Hamburgo             0 - 1   Sao Bernardo
+Ceilândia                 1 - 0   Anápolis
+Xv de Piracicaba          1 - 0   São Paulo
+Ríver                     1 - 2   Guarany de Sobral
+Itumbiara                 1 - 0   Audax
+Internacional             1 - 0   Foz do Iguaçu
+Parnahyba                 2 - 0   Globo
+Jacobina Ec               2 - 1   Sergipe
+Tocantins Esporte Clube   1 - 3   Altos
+Metropolitano             1 - 0   Pstc
+Espirito Santo            0 - 0   Red Bull Brasil
+Potiguar                  0 - 0   Maranhão
+Comercial                 2 - 0   Sinop
+Caldense                  1 - 3   Boavista
+Sousa                     2 - 0   Central
+Princesa do Solimões      3 - 0   Real Desportivo
+Rio Branco                4 - 3   São Raimundo
+Bare                      0 - 0   Fast Clube
+Portuguesa                1 - 0   Desportiva
+Genus                     1 - 1   S.francisco
+União de Rondonópolis     2 - 0   7 de Setembro
 [Seg, 22/Maio]
 Aparecidense               -    Luziânia
 Trem                       -    Atlético

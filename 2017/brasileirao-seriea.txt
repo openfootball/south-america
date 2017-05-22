@@ -15,16 +15,16 @@ Coritiba      4 - 1 Atlético-GO    #  @  20h00
 
 Matchday 2
 [Sáb, 20/Maio]
-Santos                    1 - 0   Coritiba
-Atlético                  0 - 3   Flamengo
-Chapecoense               1 - 0   Palmeiras
-Dom 21/05
-Botafogo       -  Ponte Preta    #  @ Engenhão 16h00
-Atlético-MG    -  Fluminense     #  @ Independência 16h00
-Atlético-PR    -  Grêmio         #  @ Arena da Baixada 16h00
-Vitória        -  Corinthians    #  @ Barradão 16h00
-Sport          -  Cruzeiro       #  @ Ilha do Retiro 19h00
-Vasco          -  Bahia          #  @ São Januário 20h00
+Santos            1 - 0   Coritiba
+Atlético          0 - 3   Flamengo
+Chapecoense       1 - 0   Palmeiras
+[Dom, 21/Maio]
+Vasco da Gama     2 - 1   Bahia
+Atlético          0 - 2   Grêmio
+Vitória           0 - 1   Corinthians
+Atlético          1 - 2   Fluminense
+Botafogo          2 - 0   Ponte Preta
+Sport             1 - 1   Cruzeiro
 Seg 22/05
 São Paulo      -  Avaí           #  @ Morumbi 20h00
 

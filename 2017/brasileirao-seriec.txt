@@ -15,18 +15,18 @@ Confiança          2 - 1   Salgueiro
 
 Rodada 2
 [Sex, 19/Maio]
-Fortaleza          1 - 0   Botafogo
+Fortaleza         1 - 0   Botafogo
 [Sáb, 20/Maio]
-Macaé                     1 - 0   Bragantino
-Tupi                      0 - 2   Ypiranga
-Sampaio Correa            0 - 2   Csa
-Asa                       1 - 0   Remo
-São Bento                 2 - 1   Tombense
-Botafogo                  2 - 0   Mogi Mirim
+Macaé             1 - 0   Bragantino
+Tupi              0 - 2   Ypiranga
+Sampaio Correa    0 - 2   Csa
+Asa               1 - 0   Remo
+São Bento         2 - 1   Tombense
+Botafogo          2 - 0   Mogi Mirim
 [Dom, 21/Maio]
-Joinville           -    Volta Redonda
-Salgueiro           -    Moto Club
-Cuiabá              -    Confiança
+Joinville         2 - 0   Volta Redonda
+Salgueiro         2 - 0   Moto Club
+Cuiabá            1 - 2   Confiança
 
 Rodada 3
 [Sex, 26/Maio]
