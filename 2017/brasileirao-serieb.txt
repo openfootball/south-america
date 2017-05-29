@@ -35,16 +35,16 @@ Crb                       1 - 0   Santa Cruz
 Criciúma                  1 - 3   América
 Boa                       1 - 1   Oeste
 Goiás                     1 - 1   Brasil
-[Sáb 27/05]
-ABC            -  Vila Nova-GO   #  @ Frasqueirão 16h30
-Náutico        -  Ceará          #  @ Arena Pernambuco 16h30
-Londrina-PR    -  Luverdense     #  @ Café 16h30
-Paysandu       -  Internacional  #  @ Mangueirão 16h30
-Criciúma       -  América-MG     #  @ Heriberto Hülse 19h00
+[Sáb, 27/Maio]
+Londrina                  3 - 1   Luverdense
+Paysandu                  1 - 0   Internacional
+Náutico                   0 - 2   Ceará
+Abc                       1 - 0   Vila Nova
+Juventude                 2 - 1   Paraná
 
-Matchday 4
-[Ter 16/05]
-Paraná Clube  2 - 0 Goiás          #  @  21h30
+Rodada 4
+[Ter, 16/Maio]
+Paraná                    2 - 0   Goiás
 [Sex 02/06]
 América-MG     -  Paysandu       #  @ Independência 19h15
 Oeste          -  CRB            #  @ José Liberati 20h30

@@ -32,17 +32,17 @@ Rodada 3
 [Sex, 26/Maio]
 Joinville                 1 - 1   Tupi
 [Sáb, 27/Maio]
-Tombense            -    Mogi Mirim
-Bragantino          -    Ypiranga
-Moto Club           -    Confiança
-São Bento           -    Macaé
-Salgueiro           -    Fortaleza
+Tombense                  2 - 1   Mogi Mirim
+Bragantino                1 - 0   Ypiranga
+Moto Club                 4 - 0   Confiança
+São Bento                 2 - 1   Macaé
+Salgueiro                 1 - 2   Fortaleza
 [Dom, 28/Maio]
-Asa                 -    Sampaio Correa
-Botafogo            -    Csa
-Remo                -    Cuiabá
+Asa                       0 - 1   Sampaio Correa
+Botafogo                  2 - 0   Csa
+Remo                      1 - 1   Cuiabá
 [Seg, 29/Maio]
-Volta Redonda       -    Botafogo
+Volta Redonda              -    Botafogo
 
 Rodada 4
 [Sáb, 03/Junho]

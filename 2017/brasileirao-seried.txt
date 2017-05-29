@@ -38,39 +38,39 @@ Trem                      2 - 3   Atlético
 
 Rodada 2
 [Sáb, 27/Maio]
-Bangu                      -    Portuguesa
-Sao Bernardo               -    Internacional
-Boavista                   -    Espirito Santo
-Desportiva                 -    Villa Nova A.c.
-Anápolis                   -    Comercial
-São José                   -    Metropolitano
-Brusque                    -    Xv de Piracicaba
-Luziânia                   -    União de Rondonópolis
-Red Bull Brasil            -    Caldense
-Altos                      -    Cordino
-Juazeirense                -    Sousa
+Bangu                     1 - 0   Portuguesa
+Sao Bernardo              1 - 0   Internacional
+Boavista                  2 - 2   Espirito Santo
+Desportiva                0 - 0   Villa Nova A.c.
+Brusque                   3 - 1   Xv de Piracicaba
+São José                  4 - 0   Metropolitano
+Luziânia                  1 - 1   União de Rondonópolis
+Anápolis                  1 - 1   Comercial
+Red Bull Brasil           3 - 1   Caldense
+Altos                     4 - 0   Cordino
+Juazeirense               0 - 0   Sousa
 [Dom, 28/Maio]
-Audax                      -    Portuguesa
-São Raimundo               -    Genus
-Maranhão                   -    Ríver
-São Paulo                  -    Operario
-Murici                     -    Jacobina Ec
-Guarany de Sobral          -    Potiguar
-Urt                        -    Itumbiara
-Foz do Iguaçu              -    Novo Hamburgo
-América                    -    Parnahyba
-Central                    -    Coruripe
-Sergipe                    -    América de Natal
-Fast Clube                 -    São Raimundo
-Pstc                       -    Ituano
-7 de Setembro              -    Aparecidense
-Globo                      -    Guarani de Juazeiro
-Campinense                 -    Itabaiana
-Santos                     -    Tocantins Esporte Clube
-Gurupi                     -    Bare
-S.francisco                -    Rio Branco
-Sinop                      -    Ceilândia
-Real Desportivo            -    Trem
-Atlético                   -    Princesa do Solimões
+São Paulo                 1 - 0   Operario
+América                   1 - 0   Parnahyba
+Murici                    3 - 2   Jacobina Ec
+Maranhão                  3 - 0   Ríver
+Audax                     0 - 1   Portuguesa
+Guarany de Sobral         2 - 2   Potiguar
+Foz do Iguaçu             0 - 0   Novo Hamburgo
+Sergipe                   0 - 2   América de Natal
+Urt                       0 - 1   Itumbiara
+Central                   3 - 2   Coruripe
+Pstc                      2 - 1   Ituano
+Santos                    5 - 2   Tocantins Esporte Clube
+7 de Setembro             1 - 2   Aparecidense
+Globo                     2 - 0   Guarani de Juazeiro
+Fast Clube                3 - 2   São Raimundo
+Campinense                1 - 0   Itabaiana
+São Raimundo              1 - 1   Genus
+S.francisco               0 - 1   Rio Branco
+Gurupi                    1 - 1   Bare
+Sinop                     1 - 1   Ceilândia
+Real Desportivo           0 - 1   Trem
+Atlético                  2 - 1   Princesa do Solimões
 [Qua, 31/Maio]
 Fluminense de Feira        -    Atletico

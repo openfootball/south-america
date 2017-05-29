@@ -28,20 +28,20 @@ Sport             1 - 1   Cruzeiro
 Seg 22/05
 São Paulo         2 - 0   Avaí
 
-Matchday 3
-Sáb 27/05
-São Paulo      -  Palmeiras      #  @ Morumbi 16h00
-Vasco          -  Fluminense     #  @ São Januário 19h00
-Vitória        -  Coritiba       #  @ Barradão 21h00
-Dom 28/05
-Atlético-MG    -  Ponte Preta    #  @ Independência 11h00
-Santos         -  Cruzeiro       #  @ Vila Belmiro 16h00
-Atlético-PR    -  Flamengo       #  @ Arena da Baixada 16h00
-Atlético-GO    -  Corinthians    #  @ Serra Dourada 16h00
-Chapecoense    -  Avaí           #  @ Índio Condá 16h00
-Botafogo       -  Bahia          #  @ Nilton Santos 19h00
-Seg 29/05
-Sport          -  Grêmio         #  @ Ilha do Retiro 20h00
+Rodada 3
+[Sáb, 27/Maio]
+Vasco da Gama      3 - 2   Fluminense
+São Paulo          2 - 0   Palmeiras
+Vitória            0 - 1   Coritiba
+[Dom, 28/Maio]
+Atlético           2 - 2   Ponte Preta
+Santos             0 - 1   Cruzeiro
+Atlético           0 - 1   Corinthians
+Atlético           1 - 1   Flamengo
+Sport              4 - 3   Grêmio
+Botafogo           1 - 0   Bahia
+[Seg, 29/Maio]
+Chapecoense         -    Avaí
 
 Matchday 4
 Sáb 03/06
