@@ -45,14 +45,15 @@ Juventude                 2 - 1   Paraná
 Rodada 4
 [Ter, 16/Maio]
 Paraná                    2 - 0   Goiás
-[Sex 02/06]
-América-MG     -  Paysandu       #  @ Independência 19h15
-Oeste          -  CRB            #  @ José Liberati 20h30
-Ceará          -  Londrina-PR    #  @ Castelão (CE) 21h30
-[Sáb 03/06]
-Santa Cruz-PE  -  ABC            #  @ Arruda 16h30
-Figueirense    -  Boa Esporte C  #  @ Orlando Scarpelli 16h30
-Vila Nova-GO   -  Guarani        #  @ Serra Dourada 16h30
-Luverdense     -  Criciúma       #  @ Passo das Emas 16h30
-Internacional  -  Juventude      #  @ Beira-Rio 19h00
-Brasil de Pel  -  Náutico        #  @ Bento Freitas 21h30
+[Ter, 30/Maio]
+Figueirense                 -    Boa
+Brasil                      -    Náutico
+[Sex, 02/Junho]
+América                     -    Paysandu
+Oeste                       -    Crb
+Ceará                       -    Londrina
+[Sáb, 03/Junho]
+Vila Nova                   -    Guarani
+Santa Cruz                  -    Abc
+Luverdense                  -    Criciúma
+Internacional               -    Juventude
