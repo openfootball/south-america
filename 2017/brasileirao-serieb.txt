@@ -1,59 +1,59 @@
-Matchday 1
-[Sex 12/05]
-CRB           1 - 0 Ceará          #  @  19h15
-Guarani       2 - 0 Brasil de Pel  #  @  20h30
-Juventude     2 - 1 Luverdense     #  @  20h30
-Náutico       0 - 0 América-MG     #  @  21h30
-[Sáb 13/05]
-ABC           0 - 0 Paraná Clube   #  @  16h30
-Criciúma      1 - 2 Santa Cruz-PE  #  @  16h30
-Londrina-PR   0 - 3 Internacional  #  @  16h30
-Boa Esporte C 0 - 1 Vila Nova-GO   #  @  16h30
-Goiás         0 - 1 Figueirense    #  @  19h00
-Paysandu      2 - 0 Oeste          #  @  21h00
+Rodada 1
+[Sex, 12/Maio]
+Crb             1 - 0   Ceará
+Guarani         2 - 0   Brasil
+Juventude       2 - 1   Luverdense
+Náutico         0 - 0   América
+[Sáb, 13/Maio]
+Abc             0 - 0   Paraná
+Criciúma        1 - 2   Santa Cruz
+Londrina        0 - 3   Internacional
+Boa             0 - 1   Vila Nova
+Goiás           0 - 1   Figueirense
+Paysandu        2 - 0   Oeste
 
-Matchday 2
+Rodada 2
 [Ter, 16/Maio]
-Brasil                    1 - 1   Londrina
-Ceará                     0 - 0   Boa
+Brasil          1 - 1   Londrina
+Ceará           0 - 0   Boa
 [Sex, 19/Maio]
-Paraná                    0 - 0   Paysandu
-Vila Nova                 0 - 0   Juventude
-América                   1 - 1   Goiás
+Paraná          0 - 0   Paysandu
+Vila Nova       0 - 0   Juventude
+América         1 - 1   Goiás
 [Sáb, 20/Maio]
-Oeste                     1 - 0   Criciúma
-Luverdense                1 - 1   Crb
-Santa Cruz                2 - 1   Guarani
-Figueirense               3 - 0   Náutico
-Internacional             1 - 1   Abc
+Santa Cruz      2 - 1   Guarani
+Figueirense     3 - 0   Náutico
+Oeste           1 - 0   Criciúma
+Luverdense      1 - 1   Crb
+Internacional   1 - 1   Abc
 
-Matchday 3
-[Ter 23/05]
-Guarani                   2 - 0   Figueirense
-Crb                       1 - 0   Santa Cruz
-[Sex 26/05]
-Criciúma                  1 - 3   América
-Boa                       1 - 1   Oeste
-Goiás                     1 - 1   Brasil
+Rodada 3
+[Ter, 23/Maio]
+Crb             1 - 0   Santa Cruz
+Guarani         2 - 0   Figueirense
+[Sex, 26/Maio]
+Criciúma        1 - 3   América
+Boa             1 - 1   Oeste
+Goiás           1 - 1   Brasil
 [Sáb, 27/Maio]
-Londrina                  3 - 1   Luverdense
-Paysandu                  1 - 0   Internacional
-Náutico                   0 - 2   Ceará
-Abc                       1 - 0   Vila Nova
-Juventude                 2 - 1   Paraná
+Abc             1 - 0   Vila Nova
+Náutico         0 - 2   Ceará
+Londrina        3 - 1   Luverdense
+Paysandu        1 - 0   Internacional
+Juventude       2 - 1   Paraná
 
 Rodada 4
 [Ter, 16/Maio]
-Paraná                    2 - 0   Goiás
+Paraná          2 - 0   Goiás
 [Ter, 30/Maio]
-Figueirense                 -    Boa
-Brasil                      -    Náutico
+Figueirense     0 - 2   Boa
+Brasil          2 - 0   Náutico
 [Sex, 02/Junho]
-América                     -    Paysandu
-Oeste                       -    Crb
-Ceará                       -    Londrina
+América         0 - 2   Paysandu
+Oeste           2 - 0   Crb
+Ceará           1 - 0   Londrina
 [Sáb, 03/Junho]
-Vila Nova                   -    Guarani
-Santa Cruz                  -    Abc
-Luverdense                  -    Criciúma
-Internacional               -    Juventude
+Santa Cruz      2 - 1   Abc
+Vila Nova       3 - 1   Guarani
+Luverdense      0 - 0   Criciúma
+Internacional   1 - 1   Juventude

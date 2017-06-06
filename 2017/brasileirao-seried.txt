@@ -1,76 +1,115 @@
 Rodada 1
 [Dom, 21/Maio]
-Portuguesa                3 - 0   Urt
-Operario                  1 - 0   Brusque
-Cordino                   1 - 0   Santos
-Atletico                  4 - 3   Campinense
-Guarani de Juazeiro       1 - 0   América
-Coruripe                  2 - 3   Juazeirense
-América de Natal          3 - 0   Murici
-Itabaiana                 1 - 4   Fluminense de Feira
-Ituano                    2 - 1   São José
-Villa Nova A.c.           1 - 3   Bangu
-São Raimundo              2 - 0   Gurupi
-Novo Hamburgo             0 - 1   Sao Bernardo
-Ceilândia                 1 - 0   Anápolis
-Xv de Piracicaba          1 - 0   São Paulo
-Ríver                     1 - 2   Guarany de Sobral
-Itumbiara                 1 - 0   Audax
-Internacional             1 - 0   Foz do Iguaçu
-Parnahyba                 2 - 0   Globo
-Jacobina Ec               2 - 1   Sergipe
-Tocantins Esporte Clube   1 - 3   Altos
-Metropolitano             1 - 0   Pstc
-Espirito Santo            0 - 0   Red Bull Brasil
-Potiguar                  0 - 0   Maranhão
-Comercial                 2 - 0   Sinop
-Caldense                  1 - 3   Boavista
-Sousa                     2 - 0   Central
-Princesa do Solimões      3 - 0   Real Desportivo
-Rio Branco                4 - 3   São Raimundo
-Bare                      0 - 0   Fast Clube
-Portuguesa                1 - 0   Desportiva
-Genus                     1 - 1   S.francisco
-União de Rondonópolis     2 - 0   7 de Setembro
+Portuguesa               3 - 0   Urt
+Cordino                  1 - 0   Santos
+Operario                 1 - 0   Brusque
+Itabaiana                1 - 4   Fluminense de Feira
+Guarani de Juazeiro      1 - 0   América
+América de Natal         3 - 0   Murici
+Internacional            1 - 0   Foz do Iguaçu
+Metropolitano            1 - 0   Pstc
+Ríver                    1 - 2   Guarany de Sobral
+São Raimundo             2 - 0   Gurupi
+Xv de Piracicaba         1 - 0   São Paulo
+Coruripe                 2 - 3   Juazeirense
+Ceilândia                1 - 0   Anápolis
+Villa Nova A.c.          1 - 3   Bangu
+Jacobina Ec              2 - 1   Sergipe
+Ituano                   2 - 1   São José
+Novo Hamburgo            0 - 1   Sao Bernardo
+Tocantins Esporte Clube  1 - 3   Altos
+Parnahyba                2 - 0   Globo
+Itumbiara                1 - 0   Audax
+Atletico                 4 - 3   Campinense
+Espirito Santo           0 - 0   Red Bull Brasil
+Sousa                    2 - 0   Central
+Comercial                2 - 0   Sinop
+Caldense                 1 - 3   Boavista
+Potiguar                 0 - 0   Maranhão
+Princesa do Solimões     3 - 0   Real Desportivo
+Rio Branco               4 - 3   São Raimundo
+Bare                     0 - 0   Fast Clube
+Genus                    1 - 1   S.francisco
+União de Rondonópolis    2 - 0   7 de Setembro
+Portuguesa               1 - 0   Desportiva
 [Seg, 22/Maio]
-Aparecidense              0 - 1   Luziânia
-Trem                      2 - 3   Atlético
+Aparecidense             0 - 1   Luziânia
+Trem                     2 - 3   Atlético
 
 Rodada 2
 [Sáb, 27/Maio]
-Bangu                     1 - 0   Portuguesa
-Sao Bernardo              1 - 0   Internacional
-Boavista                  2 - 2   Espirito Santo
-Desportiva                0 - 0   Villa Nova A.c.
-Brusque                   3 - 1   Xv de Piracicaba
-São José                  4 - 0   Metropolitano
-Luziânia                  1 - 1   União de Rondonópolis
-Anápolis                  1 - 1   Comercial
-Red Bull Brasil           3 - 1   Caldense
-Altos                     4 - 0   Cordino
-Juazeirense               0 - 0   Sousa
+Sao Bernardo             1 - 0   Internacional
+Bangu                    1 - 0   Portuguesa
+Boavista                 2 - 2   Espirito Santo
+Anápolis                 1 - 1   Comercial
+Luziânia                 1 - 1   União de Rondonópolis
+Desportiva               0 - 0   Villa Nova A.c.
+Brusque                  3 - 1   Xv de Piracicaba
+São José                 4 - 0   Metropolitano
+Altos                    4 - 0   Cordino
+Red Bull Brasil          3 - 1   Caldense
+Juazeirense              0 - 0   Sousa
 [Dom, 28/Maio]
-São Paulo                 1 - 0   Operario
-América                   1 - 0   Parnahyba
-Murici                    3 - 2   Jacobina Ec
-Maranhão                  3 - 0   Ríver
-Audax                     0 - 1   Portuguesa
-Guarany de Sobral         2 - 2   Potiguar
-Foz do Iguaçu             0 - 0   Novo Hamburgo
-Sergipe                   0 - 2   América de Natal
-Urt                       0 - 1   Itumbiara
-Central                   3 - 2   Coruripe
-Pstc                      2 - 1   Ituano
-Santos                    5 - 2   Tocantins Esporte Clube
-7 de Setembro             1 - 2   Aparecidense
-Globo                     2 - 0   Guarani de Juazeiro
-Fast Clube                3 - 2   São Raimundo
-Campinense                1 - 0   Itabaiana
-São Raimundo              1 - 1   Genus
-S.francisco               0 - 1   Rio Branco
-Gurupi                    1 - 1   Bare
-Sinop                     1 - 1   Ceilândia
-Real Desportivo           0 - 1   Trem
-Atlético                  2 - 1   Princesa do Solimões
+São Paulo                1 - 0   Operario
+Guarany de Sobral        2 - 2   Potiguar
+Murici                   3 - 2   Jacobina Ec
+Foz do Iguaçu            0 - 0   Novo Hamburgo
+Maranhão                 3 - 0   Ríver
+Sergipe                  0 - 2   América de Natal
+Audax                    0 - 1   Portuguesa
+Central                  3 - 2   Coruripe
+América                  1 - 0   Parnahyba
+Urt                      0 - 1   Itumbiara
+7 de Setembro            1 - 2   Aparecidense
+Campinense               1 - 0   Itabaiana
+Globo                    2 - 0   Guarani de Juazeiro
+Santos                   5 - 2   Tocantins Esporte Clube
+Fast Clube               3 - 2   São Raimundo
+Pstc                     2 - 1   Ituano
+Gurupi                   1 - 1   Bare
+São Raimundo             1 - 1   Genus
+S.francisco              0 - 1   Rio Branco
+Atlético                 2 - 1   Princesa do Solimões
+Real Desportivo          0 - 1   Trem
+Sinop                    1 - 1   Ceilândia
 [Qua, 31/Maio]
-Fluminense de Feira        -    Atletico
+Fluminense de Feira      3 - 1   Atletico
+
+Rodada 3
+[Sáb, 03/Junho]
+Sao Bernardo             2 - 0   Foz do Iguaçu
+Luziânia                 5 - 0   7 de Setembro
+Espirito Santo           0 - 1   Caldense
+Altos                    1 - 2   Santos
+Red Bull Brasil          0 - 1   Boavista
+Audax                    0 - 1   Urt
+[Dom, 04/Junho]
+Bangu                    0 - 1   Desportiva
+Operario                 1 - 0   Xv de Piracicaba
+Maranhão                 1 - 0   Guarany de Sobral
+Villa Nova A.c.          2 - 1   Portuguesa
+Itabaiana                2 - 1   Atletico
+Murici                   3 - 0   Sergipe
+Novo Hamburgo            2 - 1   Internacional
+Itumbiara                1 - 1   Portuguesa
+Tocantins Esporte Clube  1 - 0   Cordino
+Metropolitano            0 - 1   Ituano
+Guarani de Juazeiro      1 - 0   Parnahyba
+Central                  1 - 1   Juazeirense
+Fluminense de Feira      0 - 0   Campinense
+Brusque                  3 - 1   São Paulo
+América                  1 - 0   Globo
+Potiguar                 0 - 2   Ríver
+Fast Clube               1 - 1   Gurupi
+S.francisco              1 - 0   São Raimundo
+Comercial                1 - 3   Ceilândia
+Sousa                    1 - 1   Coruripe
+Pstc                     1 - 3   São José
+Atlético                 5 - 0   Real Desportivo
+Genus                    1 - 2   Rio Branco
+Sinop                    2 - 2   Anápolis
+Bare                     0 - 1   São Raimundo
+[Seg, 05/Junho]
+América de Natal         3 - 1   Jacobina Ec
+Aparecidense             3 - 0   União de Rondonópolis
+Trem                     2 - 0   Princesa do Solimões
