@@ -58,9 +58,9 @@ Cruzeiro        0 - 2   Chapecoense
 [Seg, 05/Junho]
 Bahia           3 - 0   Atlético
 
-Matchday 5
-Ter 06/06
-Fluminense     -  Atlético-PR    #  @ A definir 21h00
+Rodada 5
+[Ter, 06/Junho]
+Fluminense      1 - 1   Atlético
 Qua 07/06
 Atlético-MG    -  Avaí           #  @ Independência 19h30
 Coritiba       -  Palmeiras      #  @ Couto Pereira 19h30

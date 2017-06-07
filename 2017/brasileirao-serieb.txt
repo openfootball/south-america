@@ -57,3 +57,16 @@ Santa Cruz      2 - 1   Abc
 Vila Nova       3 - 1   Guarani
 Luverdense      0 - 0   Criciúma
 Internacional   1 - 1   Juventude
+
+Rodada 5
+[Ter, 06/Junho]
+Juventude       1 - 0   Criciúma
+Abc             2 - 1   Paysandu
+Guarani         2 - 1   Boa
+Náutico         1 - 1   Oeste
+Goiás           2 - 1   Santa Cruz
+Londrina        1 - 1   Paraná
+Figueirense     1 - 2   Internacional
+Crb             0 - 1   Brasil
+Luverdense      1 - 1   Vila Nova
+América         1 - 0   Ceará
