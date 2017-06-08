@@ -61,13 +61,12 @@ Bahia           3 - 0   Atlético
 Rodada 5
 [Ter, 06/Junho]
 Fluminense      1 - 1   Atlético
-Qua 07/06
-Atlético-MG    -  Avaí           #  @ Independência 19h30
-Coritiba       -  Palmeiras      #  @ Couto Pereira 19h30
-Santos         -  Botafogo       #  @ Vila Belmiro 21h00
-Vasco          -  Corinthians    #  @ São Januário 21h45
-Sport          -  Flamengo       #  @ Ilha do Retiro 21h45
-Chapecoense    -  Grêmio         #  @ Índio Condá 21h45
+[Qua, 07/Junho]
+Atlético        1 - 0   Avaí
+Coritiba        1 - 0   Palmeiras
+Santos          1 - 0   Botafogo
+Vasco da Gama   2 - 5   Corinthians
+Sport           2 - 0   Flamengo
 Qui 08/06
 São Paulo      -  Vitória        #  @ Morumbi 19h30
 Atlético-GO    -  Ponte Preta    #  @ Olímpico Pedro Ludovico 19h30
