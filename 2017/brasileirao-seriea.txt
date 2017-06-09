@@ -67,10 +67,11 @@ Coritiba        1 - 0   Palmeiras
 Santos          1 - 0   Botafogo
 Vasco da Gama   2 - 5   Corinthians
 Sport           2 - 0   Flamengo
-Qui 08/06
-São Paulo      -  Vitória        #  @ Morumbi 19h30
-Atlético-GO    -  Ponte Preta    #  @ Olímpico Pedro Ludovico 19h30
-Bahia          -  Cruzeiro       #  @ Fonte Nova 21h00
+[Qui, 08/Junho]
+São Paulo       2 - 0   Vitória
+Atlético        3 - 0   Ponte Preta
+Chapecoense     3 - 6   Grêmio
+Bahia           1 - 0   Cruzeiro
 
 Matchday 6
 Sáb 10/06
