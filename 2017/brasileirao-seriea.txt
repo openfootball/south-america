@@ -73,18 +73,18 @@ Atlético        3 - 0   Ponte Preta
 Chapecoense     3 - 6   Grêmio
 Bahia           1 - 0   Cruzeiro
 
-Matchday 6
-Sáb 10/06
-Palmeiras      -  Fluminense     #  @ Allianz Parque 16h00
-Vasco          -  Sport          #  @ São Januário 19h00
-Dom 11/06
-Botafogo       -  Coritiba       #  @ Engenhão 11h00
-Corinthians    -  São Paulo      #  @ Arena Corinthians 16h00
-Vitória        -  Atlético-MG    #  @ Barradão 16h00
-Ponte Preta    -  Chapecoense    #  @ Moisés Lucarelli 16h00
-Avaí           -  Flamengo       #  @ Ressacada 16h00
-Cruzeiro       -  Atlético-GO    #  @ Mineirão 18h30
-Atlético-PR    -  Santos         #  @ Arena da Baixada 19h00
+Rodada 6
+[Sáb, 10/Junho]
+Palmeiras       3 - 1   Fluminense
+Vasco da Gama   2 - 1   Sport
+[Dom, 11/Junho]
+Botafogo        2 - 2   Coritiba
+Vitória         2 - 0   Atlético
+Avaí            1 - 1   Flamengo
+Corinthians     3 - 2   São Paulo
+Ponte Preta     3 - 2   Chapecoense
+Cruzeiro        2 - 0   Atlético
+Atlético        0 - 2   Santos
 Seg 12/06
 Grêmio         -  Bahia          #  @ Arena Grêmio 20h00
 

@@ -70,3 +70,17 @@ Figueirense     1 - 2   Internacional
 Crb             0 - 1   Brasil
 Luverdense      1 - 1   Vila Nova
 América         1 - 0   Ceará
+
+Rodada 6
+[Sex, 09/Junho]
+Criciúma        1 - 0   Crb
+Vila Nova       2 - 0   América
+Santa Cruz      1 - 3   Londrina
+Paysandu        0 - 1   Goiás
+[Sáb, 10/Junho]
+Internacional   4 - 2   Náutico
+Boa             0 - 2   Juventude
+Brasil          2 - 3   Ceará
+Paraná          0 - 1   Guarani
+Abc             2 - 2   Figueirense
+Oeste           0 - 0   Luverdense

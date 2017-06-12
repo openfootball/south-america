@@ -113,3 +113,42 @@ Bare                     0 - 1   São Raimundo
 América de Natal         3 - 1   Jacobina Ec
 Aparecidense             3 - 0   União de Rondonópolis
 Trem                     2 - 0   Princesa do Solimões
+
+Rodada 4
+[Sex, 09/Junho]
+Portuguesa               0 - 0   Villa Nova A.c.
+Xv de Piracicaba         0 - 1   Operario
+[Sáb, 10/Junho]
+Boavista                 0 - 2   Red Bull Brasil
+Portuguesa               2 - 0   Itumbiara
+Ceilândia                0 - 1   Comercial
+Sergipe                  2 - 1   Murici
+Caldense                 0 - 2   Espirito Santo
+Desportiva               2 - 2   Bangu
+Anápolis                 0 - 0   Sinop
+Ituano                   0 - 0   Metropolitano
+Princesa do Solimões     3 - 0   Trem
+Juazeirense              3 - 0   Central
+[Dom, 11/Junho]
+São Paulo                1 - 1   Brusque
+São José                 4 - 0   Pstc
+Atletico                 2 - 2   Itabaiana
+Parnahyba                2 - 0   Guarani de Juazeiro
+São Raimundo             4 - 0   Bare
+Guarany de Sobral        2 - 1   Maranhão
+Jacobina Ec              1 - 0   América de Natal
+Urt                      2 - 1   Audax
+Cordino                  1 - 1   Tocantins Esporte Clube
+Coruripe                 1 - 0   Sousa
+Internacional            1 - 0   Novo Hamburgo
+Foz do Iguaçu            2 - 1   Sao Bernardo
+Campinense               0 - 0   Fluminense de Feira
+7 de Setembro            0 - 0   Luziânia
+Globo                    1 - 0   América
+Santos                   1 - 1   Altos
+Ríver                    2 - 1   Potiguar
+Rio Branco               3 - 1   Genus
+São Raimundo             2 - 2   S.francisco
+Gurupi                   2 - 0   Fast Clube
+Real Desportivo          2 - 2   Atlético
+União de Rondonópolis    2 - 0   Aparecidense

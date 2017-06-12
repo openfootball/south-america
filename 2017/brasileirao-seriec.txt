@@ -61,18 +61,18 @@ Confiança        0 - 1   Remo
 
 Rodada 5
 [Sáb, 10/Junho]
-Tombense            -    Joinville
-Moto Club           -    Botafogo
-Macaé               -    Tupi
-Bragantino          -    Volta Redonda
-Remo                -    Csa
+Macaé            1 - 3   Tupi
+Tombense         2 - 2   Joinville
+Bragantino       1 - 1   Volta Redonda
+Moto Club        0 - 0   Botafogo
+Remo             1 - 1   Csa
 [Dom, 11/Junho]
-Ypiranga            -    Mogi Mirim
-Confiança           -    Sampaio Correa
-Asa                 -    Salgueiro
-Cuiabá              -    Fortaleza
+Ypiranga         2 - 0   Mogi Mirim
+Asa              1 - 1   Salgueiro
+Cuiabá           2 - 2   Fortaleza
 [Seg, 12/Junho]
-São Bento           -    Botafogo
+Confiança         -    Sampaio Correa
+São Bento         -    Botafogo
 
 Rodada 6
 [Sáb, 17/Junho]
