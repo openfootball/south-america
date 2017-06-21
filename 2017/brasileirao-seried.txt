@@ -152,3 +152,43 @@ São Raimundo             2 - 2   S.francisco
 Gurupi                   2 - 0   Fast Clube
 Real Desportivo          2 - 2   Atlético
 União de Rondonópolis    2 - 0   Aparecidense
+
+Rodada 5
+[Sex, 16/Junho]
+Xv de Piracicaba         1 - 0   Brusque
+[Sáb, 17/Junho]
+Portuguesa               2 - 1   Audax
+Ceilândia                3 - 0   Sinop
+Caldense                 2 - 0   Red Bull Brasil
+Espirito Santo           1 - 1   Boavista
+Ituano                   0 - 0   Pstc
+Metropolitano            1 - 0   São José
+Portuguesa               3 - 0   Bangu
+[Dom, 18/Junho]
+Operario                 3 - 1   São Paulo
+América de Natal         3 - 2   Sergipe
+Guarani de Juazeiro      0 - 2   Globo
+Jacobina Ec              3 - 0   Murici
+Cordino                  2 - 1   Altos
+Villa Nova A.c.          2 - 1   Desportiva
+Itabaiana                1 - 0   Campinense
+Coruripe                 2 - 3   Central
+Novo Hamburgo            1 - 1   Foz do Iguaçu
+Parnahyba                2 - 0   América
+Itumbiara                0 - 1   Urt
+Atletico                 1 - 0   Fluminense de Feira
+Tocantins Esporte Clube  0 - 1   Santos
+São Raimundo             1 - 1   Fast Clube
+Potiguar                 1 - 2   Guarany de Sobral
+Comercial                2 - 3   Anápolis
+Sousa                    2 - 2   Juazeirense
+Ríver                    2 - 1   Maranhão
+Princesa do Solimões     1 - 0   Atlético
+Rio Branco               0 - 0   S.francisco
+Genus                    1 - 0   São Raimundo
+União de Rondonópolis    1 - 1   Luziânia
+Bare                     1 - 2   Gurupi
+[Seg, 19/Junho]
+Aparecidense             2 - 1   7 de Setembro
+Internacional            0 - 0   Sao Bernardo
+Trem                     2 - 1   Real Desportivo

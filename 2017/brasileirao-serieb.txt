@@ -84,3 +84,30 @@ Brasil          2 - 3   Ceará
 Paraná          0 - 1   Guarani
 Abc             2 - 2   Figueirense
 Oeste           0 - 0   Luverdense
+
+Rodada 7
+[Ter, 13/Junho]
+Náutico         1 - 2   Paraná
+Guarani         2 - 0   Paysandu
+Londrina        1 - 1   Oeste
+Figueirense     2 - 2   Criciúma
+Goiás           4 - 1   Boa
+Juventude       3 - 0   Abc
+Crb             1 - 2   Vila Nova
+Ceará           1 - 3   Santa Cruz
+América         1 - 1   Internacional
+Luverdense      4 - 0   Brasil
+
+Rodada 8
+[Sex, 16/Junho]
+Criciúma        3 - 2   Guarani
+Ceará           1 - 1   Luverdense
+Paraná          1 - 0   Figueirense
+Goiás           1 - 2   Abc
+[Sáb, 17/Junho]
+Santa Cruz      0 - 0   Internacional
+Boa             2 - 1   Náutico
+Paysandu        0 - 0   Juventude
+Crb             0 - 3   Londrina
+Brasil          3 - 0   Vila Nova
+Oeste           0 - 0   América

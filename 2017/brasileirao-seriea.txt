@@ -79,43 +79,43 @@ Palmeiras       3 - 1   Fluminense
 Vasco da Gama   2 - 1   Sport
 [Dom, 11/Junho]
 Botafogo        2 - 2   Coritiba
-Vitória         2 - 0   Atlético
-Avaí            1 - 1   Flamengo
 Corinthians     3 - 2   São Paulo
+Vitória         2 - 0   Atlético
 Ponte Preta     3 - 2   Chapecoense
+Avaí            1 - 1   Flamengo
 Cruzeiro        2 - 0   Atlético
 Atlético        0 - 2   Santos
-Seg 12/06
-Grêmio         -  Bahia          #  @ Arena Grêmio 20h00
+[Seg, 12/Junho]
+Grêmio          1 - 0   Bahia
 
-Matchday 7
-Qua 14/06
-Atlético-MG    -  Atlético-PR    #  @ Independência 19h30
-Vitória        -  Botafogo       #  @ Barradão 19h30
-Atlético-GO    -  Avaí           #  @ Olímpico Pedro Ludovico 19h30
-Flamengo       -  Ponte Preta    #  @ A definir 21h00
-Santos         -  Palmeiras      #  @ Vila Belmiro 21h45
-Corinthians    -  Cruzeiro       #  @ Arena Corinthians 21h45
-Chapecoense    -  Vasco          #  @ Índio Condá 21h45
-Qui 15/06
-Coritiba       -  Bahia          #  @ Couto Pereira 16h00
-Sport          -  São Paulo      #  @ Ilha do Retiro 19h00
-Fluminense     -  Grêmio         #  @ A definir 21h00
+Rodada 7
+[Qua, 14/Junho]
+Sport           0 - 0   São Paulo
+Atlético        0 - 1   Atlético
+Vitória         2 - 2   Botafogo
+Atlético        3 - 1   Avaí
+Flamengo        2 - 0   Ponte Preta
+Santos          1 - 0   Palmeiras
+Corinthians     1 - 0   Cruzeiro
+Chapecoense     2 - 1   Vasco da Gama
+[Qui, 15/Junho]
+Coritiba        0 - 0   Bahia
+Fluminense      0 - 2   Grêmio
 
-Matchday 8
-Sáb 17/06
-Atlético-GO    -  Atlético-PR    #  @ Olímpico Pedro Ludovico 16h00
-Vasco          -  Avaí           #  @ São Januário 19h00
-Santos         -  Ponte Preta    #  @ Vila Belmiro 21h00
-Dom 18/06
-Coritiba       -  Corinthians    #  @ Couto Pereira 11h00
-Fluminense     -  Flamengo       #  @ A definir 16h00
-São Paulo      -  Atlético-MG    #  @ Morumbi 16h00
-Bahia          -  Palmeiras      #  @ Fonte Nova 16h00
-Chapecoense    -  Botafogo       #  @ Índio Condá 16h00
-Sport          -  Vitória        #  @ Ilha do Retiro 19h00
-Seg 19/06
-Cruzeiro       -  Grêmio         #  @ Mineirão 20h00
+Rodada 8
+[Sáb, 17/Junho]
+Atlético        0 - 1   Atlético
+Vasco da Gama   1 - 0   Avaí
+Santos          0 - 0   Ponte Preta
+[Dom, 18/Junho]
+Coritiba        0 - 0   Corinthians
+Fluminense      2 - 2   Flamengo
+São Paulo       1 - 2   Atlético
+Bahia           2 - 4   Palmeiras
+Chapecoense     0 - 2   Botafogo
+Sport           1 - 3   Vitória
+[Seg, 19/Junho]
+Cruzeiro        3 - 3   Grêmio
 
 Matchday 9
 Qua 21/06

@@ -63,31 +63,32 @@ Rodada 5
 [Sáb, 10/Junho]
 Macaé            1 - 3   Tupi
 Tombense         2 - 2   Joinville
-Bragantino       1 - 1   Volta Redonda
 Moto Club        0 - 0   Botafogo
+Bragantino       1 - 1   Volta Redonda
 Remo             1 - 1   Csa
 [Dom, 11/Junho]
 Ypiranga         2 - 0   Mogi Mirim
 Asa              1 - 1   Salgueiro
 Cuiabá           2 - 2   Fortaleza
 [Seg, 12/Junho]
-Confiança         -    Sampaio Correa
-São Bento         -    Botafogo
+Confiança        2 - 2   Sampaio Correa
+São Bento        0 - 0   Botafogo
 
 Rodada 6
+[Sex, 16/Junho]
+Csa              1 - 1   Confiança
 [Sáb, 17/Junho]
-Tombense            -    Bragantino
-Mogi Mirim          -    Tupi
-Fortaleza           -    Sampaio Correa
-Moto Club           -    Asa
-Joinville           -    São Bento
+Tombense         0 - 0   Bragantino
+Mogi Mirim       2 - 0   Tupi
+Moto Club        1 - 1   Asa
+Volta Redonda    0 - 0   Ypiranga
 [Dom, 18/Junho]
-Botafogo            -    Macaé
-Salgueiro           -    Cuiabá
-Csa                 -    Confiança
-Volta Redonda       -    Ypiranga
+Joinville        1 - 1   São Bento
+Salgueiro        1 - 1   Cuiabá
+Botafogo         3 - 0   Macaé
+Fortaleza        3 - 0   Sampaio Correa
 [Seg, 19/Junho]
-Botafogo            -    Remo
+Botafogo         3 - 2   Remo
 
 Rodada 7
 [Sáb, 24/Junho]
