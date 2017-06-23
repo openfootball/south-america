@@ -117,19 +117,19 @@ Sport           1 - 3   Vitória
 [Seg, 19/Junho]
 Cruzeiro        3 - 3   Grêmio
 
-Matchday 9
-Qua 21/06
-Vitória        -  Santos         #  @ Barradão 19h30
-Palmeiras      -  Atlético-GO    #  @ Allianz Parque 21h00
-Botafogo       -  Vasco          #  @ Engenhão 21h45
-Atlético-MG    -  Sport          #  @ Independência 21h45
-Atlético-PR    -  São Paulo      #  @ Arena da Baixada 21h45
-Qui 22/06
-Flamengo       -  Chapecoense    #  @ A definir 19h30
-Grêmio         -  Coritiba       #  @ Arena Grêmio 19h30
-Ponte Preta    -  Cruzeiro       #  @ Moisés Lucarelli 19h30
-Corinthians    -  Bahia          #  @ Arena Corinthians 21h00
-Avaí           -  Fluminense     #  @ Ressacada 21h00
+Rodada 9
+[Qua, 21/Junho]
+Vitória         0 - 2   Santos
+Botafogo        3 - 1   Vasco da Gama
+Palmeiras       1 - 0   Atlético
+Avaí            0 - 3   Fluminense
+Atlético        1 - 0   São Paulo
+Atlético        2 - 2   Sport
+[Qui, 22/Junho]
+Corinthians     3 - 0   Bahia
+Ponte Preta     1 - 0   Cruzeiro
+Grêmio          2 - 0   Coritiba
+Flamengo        5 - 1   Chapecoense
 
 Matchday 10
 Sáb 24/06
