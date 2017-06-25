@@ -131,9 +131,9 @@ Ponte Preta     1 - 0   Cruzeiro
 Grêmio          2 - 0   Coritiba
 Flamengo        5 - 1   Chapecoense
 
-Matchday 10
-Sáb 24/06
-Santos         -  Sport          #  @ Vila Belmiro 19h00
+Rodada 10
+[Sáb, 24/Junho]
+Santos          0 - 1   Sport
 Dom 25/06
 Vasco          -  Atlético-GO    #  @ São Januário 11h00
 São Paulo      -  Fluminense     #  @ Morumbi 16h00

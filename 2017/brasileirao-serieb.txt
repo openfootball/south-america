@@ -111,3 +111,30 @@ Paysandu        0 - 0   Juventude
 Crb             0 - 3   Londrina
 Brasil          3 - 0   Vila Nova
 Oeste           0 - 0   América
+
+Rodada 9
+[Ter, 20/Junho]
+Juventude       1 - 2   Brasil
+América         1 - 0   Santa Cruz
+Náutico         2 - 3   Goiás
+Abc             1 - 3   Crb
+Figueirense     2 - 3   Luverdense
+Londrina        0 - 1   Criciúma
+Paysandu        0 - 0   Boa
+Internacional   0 - 0   Paraná
+Guarani         0 - 0   Oeste
+Vila Nova       1 - 1   Ceará
+
+Rodada 10
+[Sex, 23/Junho]
+Crb             2 - 1   Paysandu
+Boa             2 - 1   Abc
+Criciúma        2 - 1   Paraná
+Luverdense      0 - 3   América
+[Sáb, 24/Junho]
+Brasil          0 - 1   Internacional
+Goiás           0 - 2   Vila Nova
+Londrina        2 - 2   Juventude
+Ceará           3 - 0   Oeste
+Santa Cruz      1 - 1   Figueirense
+Guarani         2 - 1   Náutico

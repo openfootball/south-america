@@ -92,13 +92,12 @@ Botafogo         3 - 2   Remo
 
 Rodada 7
 [Sáb, 24/Junho]
-Mogi Mirim          -    Volta Redonda
-Remo                -    Moto Club
-Confiança           -    Botafogo
-Macaé               -    Joinville
-Sampaio Correa      -    Salgueiro
-Bragantino          -    São Bento
-Csa                 -    Fortaleza
+Macaé            1 - 0   Joinville
+Mogi Mirim       2 - 1   Volta Redonda
+Confiança        0 - 1   Botafogo
+Bragantino       0 - 3   São Bento
+Remo             3 - 2   Moto Club
+Tupi             0 - 0   Botafogo
 [Dom, 25/Junho]
 Ypiranga            -    Tombense
 Cuiabá              -    Asa
