@@ -99,8 +99,9 @@ Bragantino       0 - 3   São Bento
 Remo             3 - 2   Moto Club
 Tupi             0 - 0   Botafogo
 [Dom, 25/Junho]
-Ypiranga            -    Tombense
-Cuiabá              -    Asa
+Ypiranga         0 - 1   Tombense
+Sampaio Correa   1 - 0   Salgueiro
+Cuiabá           1 - 1   Asa
 [Seg, 26/Junho]
 Tupi                -    Botafogo
 

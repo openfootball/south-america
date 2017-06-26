@@ -134,14 +134,14 @@ Flamengo        5 - 1   Chapecoense
 Rodada 10
 [Sáb, 24/Junho]
 Santos          0 - 1   Sport
-Dom 25/06
-Vasco          -  Atlético-GO    #  @ São Januário 11h00
-São Paulo      -  Fluminense     #  @ Morumbi 16h00
-Cruzeiro       -  Coritiba       #  @ Mineirão 16h00
-Atlético-PR    -  Vitória        #  @ Arena da Baixada 16h00
-Grêmio         -  Corinthians    #  @ Arena Grêmio 16h00
-Ponte Preta    -  Palmeiras      #  @ Moisés Lucarelli 16h00
-Bahia          -  Flamengo       #  @ Fonte Nova 18h30
-Chapecoense    -  Atlético-MG    #  @ Índio Condá 19h00
+[Dom, 25/Junho]
+Vasco da Gama   1 - 0   Atlético
+Atlético        4 - 1   Vitória
+Cruzeiro        2 - 0   Coritiba
+Grêmio          0 - 1   Corinthians
+São Paulo       1 - 1   Fluminense
+Ponte Preta     1 - 2   Palmeiras
+Bahia           0 - 1   Flamengo
+Chapecoense     0 - 1   Atlético
 Seg 26/06
 Botafogo       -  Avaí           #  @ Engenhão 20h00

@@ -192,3 +192,40 @@ Bare                     1 - 2   Gurupi
 Aparecidense             2 - 1   7 de Setembro
 Internacional            0 - 0   Sao Bernardo
 Trem                     2 - 1   Real Desportivo
+
+Rodada 6
+[Dom, 25/Junho]
+Sergipe                  2 - 0   Jacobina Ec
+Anápolis                 2 - 0   Ceilândia
+São Raimundo             1 - 0   Rio Branco
+Real Desportivo          0 - 1   Princesa do Solimões
+Globo                    2 - 0   Parnahyba
+Guarany de Sobral        2 - 1   Ríver
+Santos                   2 - 1   Cordino
+Juazeirense              0 - 1   Coruripe
+Desportiva               1 - 0   Portuguesa
+Boavista                 3 - 1   Caldense
+Campinense               2 - 0   Atletico
+São José                 1 - 0   Ituano
+Foz do Iguaçu            1 - 1   Internacional
+São Paulo                3 - 4   Xv de Piracicaba
+Urt                      0 - 0   Portuguesa
+Gurupi                   3 - 1   São Raimundo
+7 de Setembro            1 - 2   União de Rondonópolis
+Atlético                 4 - 0   Trem
+Audax                    2 - 2   Itumbiara
+América                  1 - 1   Guarani de Juazeiro
+Maranhão                 3 - 0   Potiguar
+Central                  0 - 1   Sousa
+Fast Clube               1 - 1   Bare
+Sinop                    2 - 3   Comercial
+Luziânia                 3 - 3   Aparecidense
+Altos                    4 - 0   Tocantins Esporte Clube
+Fluminense de Feira      2 - 2   Itabaiana
+Red Bull Brasil          0 - 1   Espirito Santo
+Bangu                    1 - 1   Villa Nova A.c.
+S.francisco              3 - 2   Genus
+Sao Bernardo             2 - 1   Novo Hamburgo
+Pstc                     0 - 1   Metropolitano
+Brusque                  1 - 0   Operario
+Murici                   0 - 2   América de Natal
