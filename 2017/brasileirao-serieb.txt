@@ -138,3 +138,8 @@ Londrina        2 - 2   Juventude
 Ceará           3 - 0   Oeste
 Santa Cruz      1 - 1   Figueirense
 Guarani         2 - 1   Náutico
+
+Rodada 11
+[Ter, 27/Junho]
+Juventude       3 - 0   Goiás
+Figueirense     3 - 1   Londrina
