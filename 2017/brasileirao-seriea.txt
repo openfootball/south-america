@@ -145,3 +145,414 @@ Bahia           0 - 1   Flamengo
 Chapecoense     0 - 1   Atlético
 [Seg, 26/Junho]
 Botafogo        0 - 2   Avaí
+
+Rodada 11
+[Sáb, 01/07]
+Palmeiras	1 - 0	Grêmio
+Atlético GO	1 - 1	Santos
+[Dom, 02/07]
+Flamengo	2 - 0	São Paulo
+Corinthians	1 - 0	Botafogo
+Atlético MG	3 - 1	Cruzeiro
+Sport		1 - 0	Atlético PR
+Vitória		0 - 0	Bahia
+Coritiba	2 - 2	Vasco
+Avaí		0 - 0	Ponte Preta
+[Seg, 03/07]
+Fluminense	3 - 3	Chapecoense
+
+Rodada 12
+[Sáb, 08/07]
+Atlético GO	1 - 2	Vitória
+Vasco		0 - 1	Flamengo
+Corinthians	2 - 0	Ponte Preta
+[Dom, 09/07]
+Chapecoense	1 - 1	Atlético PR
+Cruzeiro	3 - 1	Palmeiras
+Grêmio		0 - 2	Avaí
+Bahia		1 - 1	Fluminense
+Botafogo	1 - 1	Atlético MG
+Santos		3 - 2	São Paulo
+[Seg, 10/07]
+Coritiba	0 - 3	Sport
+
+Rodada 13
+[Qua, 12/07]
+Atlético MG	0 - 1	Santos
+Ponte Preta	0 - 3	Bahia
+Fluminense	0 - 1	Botafogo
+Palmeiras	0 - 2	Corinthians
+Atlético PR	0 - 2	Cruzeiro
+Vitória		1 - 4	Vasco
+[Qui, 13/07]
+Flamengo	0 - 1	Grêmio
+São Paulo	2 - 2	Atlético GO
+Sport		3 - 0	Chapecoense
+Avaí		1 - 4	Coritiba
+
+Rodada 14
+[Sáb, 15/07]
+Corinthians	2 - 2	Atlético PR
+[Dom, 16/07]
+Palmeiras	4 - 2	Vitória
+Vasco		0 - 0	Santos
+Cruzeiro	1 - 1	Flamengo
+Grêmio		3 - 1	Ponte Preta
+Atlético GO	1 - 2	Altético MG
+Chapecoense	2 - 0	São Paulo
+Coritiba	1 - 2	Fluminense
+Bahia		1 - 1	Avaí
+[Seg, 17/07]
+Botafogo	2 - 1	Sport
+
+Rodada 15
+[Qua, 19/07]
+Santos		1 - 0	Chapecoense
+Vitória		1 - 3	Grêmio
+Ponte Preta	4 - 0	Coritiba
+Avaí		0 - 0	Avaí
+Flamengo	2 - 2	Palmeiras
+São Paulo	1 - 0	Vasco
+Atlético MG	0 - 2	Bahia
+[Qui, 20/07]
+Fluminense	1 - 1	Cruzeiro
+Sport		4 - 0	Atlético GO
+Atlético PR	0 - 0	Botafogo
+
+Rodada 16
+[Sáb, 22/07]
+Vitória		1 - 2	Chapecoense
+Flamengo	2 - 1	Coritiba
+[Dom, 23/07]
+Santos		3 - 0	Bahia
+Fluminense	0 - 1	Corithians
+Sport		0 - 2	Palmeiras
+Avaí		1 - 0	Cruzeiro
+Atlético MG	1 - 2	Vasco
+Atlético PR	0 - 2	Ponte Preta
+Atletico GO	1 - 1	Botafogo
+[Seg, 24/07]
+São Paulo	1 - 1	Grêmio
+
+Rodada 17
+[Sáb, 29/07]
+Botafogo	3 - 4	São Paulo
+Palmeiras	2 - 0	Avaí
+[Dom, 30/07]
+Chapeconse	1 - 2	Atlético GO
+Corinthians	1 - 1	Flamengo
+Coritiba	0 - 2	Atlético MG
+Bahia		1 - 3	Sport
+Cruzeiro	0 - 0	Vitória
+Grêmio		1 - 1	Santos
+[Seg, 31/07]
+Vasco		0 - 1	Atlético PR
+[Qua, 09/08]
+Ponte Preta	0 - 0	Fluminense
+
+Rodada 18
+[Qua, 02/08]
+Sport		2 - 2	Fluminense
+Chapecoense	1 - 1	Bahia
+Atlético MG	0 - 2	Corinthians
+Vitória		3 - 1	Ponte Preta
+Botafogo	1 - 2	Palmeiras
+Santos		3 - 2	Flamengo
+Atlético GO	0 - 1	Grêmio
+[Qui, 03/08]
+São Paulo	1 - 2	Coritiba
+Atlético PR	5 - 0	Avaí
+Vasco		0 - 3	Cruzeiro
+
+Rodada 19
+[Sáb, 05/08]
+Fluminense	3 - 1	Atlético GO
+Corinthians	3 - 1	Sport
+[Dom, 06/08]
+Flamengo	0 - 2	Vitória
+Palmeiras	0 - 1	Altético PR
+Cruzeiro	0 - 0	Botafogo
+Coritiba	2 - 0	Chapecoense
+Grêmio		2 - 0	Atlético MG
+Bahia		2 - 1	São Paulo
+Ponte Preta	0 - 0	Vasco
+Avaí		0 - 0	Santos
+
+Rodada 20
+[Sáb, 12/08]
+Atlético GO	1 - 0	Coritiba
+Vitória		0 - 1	Avaí
+[Dom, 13/08]
+São Paulo	3 - 2	Cruzeiro
+Vasco		1 - 1	Palmeiras
+Altético MG	2 - 0	Flamengo
+Sport		0 - 0	Ponte Preta
+Botafogo	1 - 0	Grêmio
+Atlético PR	4 - 1 	Bahia
+[Seg, 14/08]
+Santos		0 - 0	Fluminense
+[Qua, 23/08]
+Chapecoense	0 - 0	Corinthians
+
+Rodada 21
+[Sáb, 19/08]
+Corinthians	0 - 1	Vitória
+Flamengo	2 - 0	Altético GO
+[Dom, 20/08]
+Grêmio		0 - 0	Altético PR
+Cruzeiro	2 - 0	Sport
+Bahia		3 - 0	Vasco
+Ponte Preta	2 - 1	Botafogo
+Avaí		1 - 1	São Paulo
+Palmeiras	0 - 2	Chapecoense
+Coritiba	0 - 0	Santos
+[Seg, 21/08]
+Fluminense	2 - 1	Altético MG
+
+Rodada 22
+[Sáb, 26/08]
+Fluminense	0 - 1	Vasco
+Corinthians	0 - 1	Atlético GO
+[Dom, 27/08]
+Flamengo	2 - 0	Altético PR
+Palmeiras	4 - 2	São Paulo
+Bahia		1 - 2	Botafogo
+Ponte Preta	1 - 2	Altético MG
+Cruzeiro	1 - 1	Santos
+Avaí		1 - 0	Chapecoense
+[Seg, 28/08]
+Coritiba	0 - 1	Vitória
+[Sáb, 02/09]
+Grêmio		5 - 0	Sport
+
+Rodada 23
+[Sáb, 09/09]
+Altético MG	1 - 1	Palmeiras
+Vasco		1 - 0	Grêmio
+São Paulo	2 - 2	Ponte Preta
+[Dom, 10/09]
+Atlético PR	1 - 1	Coritiba
+Santos		2 - 0	Santos
+Sport		0 - 1	Corinthians
+Vitória		2 - 2	Fluminense
+Botafogo	2 - 0	Flamengo
+Chapecoense	1 - 2	Cruzeiro
+[Seg, 11/09]
+Atlético GO	1 - 1	Bahia
+
+Rodada 24
+[Sáb, 16/09]
+Botafogo	2 - 0	Santos
+Ponte Preta	1 - 3	Atlético GO
+[Dom, 17/09]
+Avaí		1 - 1	Altético MG
+Flamengo	2 - 0	Sport
+Corinthians	1 - 0	Vasco
+Atlético PR	3 - 1	Fluminense
+Grêmio		0 - 1	Chapecoense
+Vitória		1 - 2	São Paulo
+Cruzeiro	1 - 0	Bahia
+[Seg, 18/09]
+Palmeiras	1 - 0	Coritiba
+
+Rodada 25
+[Sáb, 23/09]
+Flamengo	1 - 1	Avaí
+Santos		1 - 0	Atlético PR
+[Dom, 24/09]
+São Paulo	1 - 1	Corinthians
+Fluminense	0 - 1	Palmeiras
+Coritiba	2 - 3	Botafogo
+Atlético GO	1 - 2	Cruzeiro
+Chapecoense	1 - 0	Ponte Preta
+Atlético MG	1 - 3	Vitória
+Bahia		1 - 0	Grêmio
+[Seg, 25/09]
+Sport		1 - 1	Vasco
+
+Rodada 26
+[Sáb, 30/09]
+Vasco		1 - 1	Chapecoense
+Bahia		1 - 1	Coritiba
+Palmeiras	0 - 1	Santos
+[Dom, 01/10]
+Botafogo	2 - 3	Vitória
+São Paulo	1 - 0	Sport
+Cruzeiro	1 - 1	Corinthians
+Grêmio		1 - 0	Fluminense
+Avaí		0 - 2	Atlético GO
+Atlético PR	0 - 2	Atlético MG
+[Seg, 02/10]
+Ponte Preta	1 - 0	Flamengo
+
+Rodada 27
+[Qua, 11/10]
+Botafogo	2 - 1	Chapecoense
+Altético PR	2 - 2	Atlético GO
+Corinthians	3 - 1	Coritiba
+Atlético MG	1 - 0	São Paulo
+Grêmio		0 - 1	Cruzeiro
+Avaí		1 - 2	Vasco
+[Qui, 12/10]
+Flamengo	1 - 1	Fluminense
+Vitória		1 - 2	Sport
+Ponte Preta	1 - 1	Santos
+Palmeiras	2 - 2	Bahia
+
+Rodada 28
+[Sáb, 07/10]
+Cruzeiro	2 - 1	Ponte Preta
+[Sáb, 14/10]
+Vasco		1 - 0	Botafogo
+São Paulo	2 - 1	Altético PR
+[Dom, 15/10]
+Fluminense	1 - 0	Avaí
+Sport		1 - 1	Atlético MG
+Altético GO	1 - 3	Palmeiras
+Chapecoense	0 - 1	Flamengo
+Coritiba	0 - 1	Grêmio
+Bahia		2 - 0	Corinthians
+[Seg, 16/10]
+Santos		2 - 2	Vitória
+
+Rodada 29
+[Qua, 18/10]
+Coritiba	1 - 0	Cruzeiro
+Atlético GO	0 - 1	Vasco
+Atlético MG	2 - 3	Chapecoense
+Fluminense	3 - 1	São Paulo
+Corinthians	0 - 0	Grêmio
+Avaí		1 - 1	Botafogo
+[Qui, 19/10]
+Palmeiras	2 - 0	Ponte Preta
+Vitória		2 - 3	Altético PR
+Flamengo	4 - 1	Bahia
+Sport		1 - 1	Santos
+
+Rodada 30
+[Sáb, 21/10]
+Vasco		1 - 1	Coritiba
+[Dom, 22/10]
+Santos		1 - 0	Atletico GO
+São Paulo	2 - 0	Flamengo
+Cruzeiro	1 - 3	Atlético MG
+Atlético PR	2 - 1	Sport
+Grêmio		1 - 3	Palmeiras
+Bahia		2 - 1	Vitória
+Ponte Preta	1 - 2	Avaí
+Chapecoense	2 - 0	Fluminense
+[Seg, 23/10]
+Botafogo	2 - 1	Corinthians
+
+Rodada 31
+[Sáb, 28/10]
+São Paulo	2 - 1	Santos
+Flamengo	0 - 0	Vasco
+Atlético PR	0 - 0	Chapecoense
+[Dom, 29/10]
+Fluminense	1 - 1	Bahia
+Altético MG	0 - 0	Botafogo
+Ponte Preta	1 - 0	Corinthians
+Sport		3 - 4	Coritiba
+Vitória		1 - 1	Atlético GO
+Avaí		2 - 2	Grêmio
+[Seg, 30/10]
+Palmeiras	2 - 2	Cruzeiro
+
+Rodada 32
+[Sáb, 04/11]
+Santos		3 - 1	Atlético MG
+Botafogo	1 - 2	Fluminense
+Atlético GO	0 - 1	São Paulo
+Coritiba	4 - 0	Avaí
+[Dom, 05/11]
+Corinthians	3 - 2	Palmeiras
+Cruzeiro	1 - 0	Atlético PR
+Grêmio		3 - 1	Flamengo
+Bahia		2 - 0	Ponte Preta
+Vasco		1 - 1	Vitória
+Chapecoense	1 - 1	Sport
+
+Rodada 33
+[Qua, 08/11]
+Ponte Preta	0 - 1	Grêmio
+Avaí		1 - 2	Bahia
+Atlético PR	0 - 1	Corinthians
+Sport		1 - 2	Botafogo
+Flamengo	2 - 0	Cruzeiro
+Santos		1 - 2	Vasco
+Vitória		3 - 1	Palmeiras
+[Qui, 09/11]
+São Paulo	2 - 2	Chapecoense
+Altético MG	3 - 2	Atlético GO
+Fluminense	2 - 2	Coritiba
+
+Rodada 34
+[Sáb, 11/11]
+Botafogo	0 - 1	Atlético PR
+Corinthians	1 - 0	Avaí
+[Dom, 12/11]
+Vasco		1 - 1	São Paulo
+Palmeiras	2 - 0	Flamengo
+Grêmio		1 - 1	Vitória
+Atlético GO	2 - 0	Sport
+Bahia		2 - 2	Atlético MG
+Cruzeiro	3 - 1	Fluminense
+Coritiba	1 - 1	Ponte Preta
+[Seg, 13/11]
+Chapecoense	2 - 0	Santos
+
+Rodada 35
+[Qua, 15/11]
+Ponte Preta	2 - 1	Atlético PR
+Cruzeiro	2 - 2	Avai
+Grêmio		1 - 0	São Paulo
+Vasco		1 - 1	Atlético MG
+Corinthians	3 - 1	Fluminense
+[Qui, 16/11]
+Botafogo	1 - 2	Atlético GO
+Palmeiras	5 - 1	Sport
+Chapecoense	1 - 0	Flamengo
+Bahia		3 - 1	Santos
+
+Rodada 36
+[Dom, 19/11]
+Flamengo	3 - 0	Corinthians
+São Paulo	0 - 0	Botafogo
+Sport		1 - 0	Bahia
+Vitória		1 - 1	Cruzeiro
+Atlético GO	1 - 1	Chapecoense
+Santos		1 - 0 	Grêmio
+Atletico MG	3 - 0	Coritiba
+Altético PR	3 - 1	Vasco
+[Seg, 20/11]
+Fluminense	2 - 0	Ponte Preta
+Avaí		2 - 1	Palmeiras
+
+Rodada 37
+[Sáb, 25/11]
+Fluminense	1 - 2	Sport
+[Dom, 26/11]
+Corinthians	2 - 2	Altético MG
+Cruzeiro	0 - 1	Vasco
+Coritiba	1 - 2	São Paulo
+Grêmio		1 - 1	Atlético GO
+Ponte Preta	2 - 3	Vitória
+Avaí		1 - 0	Altético PR
+Flamengo	1 - 2	Santos
+Bahia		0 - 1	Chapecoense
+[Seg, 27/11]
+Palmeiras	2 - 0	Botafogo
+
+Rodada 38
+[Dom, 03/12]
+Botafogo	2 - 2	Cruzeiro
+Vasco		2 - 1	Ponte Preta
+Santos		1 - 1	Avaí
+São Paulo	1 - 1	Bahia
+Atlético MG	4 - 3	Grêmio
+Altético PR	3 - 0	Palmeiras
+Sport		1 - 0	Corinthians
+Vitória		1 - 2	Flamengo
+Atlético GO	1 - 1	Fluminense
+Chapencoense	2 - 1	Coritiba
