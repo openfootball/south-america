@@ -1,33 +1,31 @@
-#################################################
+############################
+#  Brazil,  br
+
+Key,          Name,                        Code
+
 #  Campeonato Brasileiro Série A | Brasileirão
-#################################################
 
-# 2016 - 20 clubs
+corinthians,  Corinthians SP,              COR
+saopaulo,     São Paulo SP,                SAO
+santossp,     Santos SP,                   SAN
+palmeiras,    Palmeiras SP,                PAL
+pontepreta,   Ponte Preta,                 PON
+botafogo,     Botafogo RJ,                 BOT
+flamengo,     Flamengo RJ,                 FLA
+fluminense,   Fluminense RJ,               FLU
+atleticomg,   Atlético Mineiro,            CAM
+cruzeiro,     Cruzeiro MG,                 CRU
+americamg,    América MG,                  AMG
+gremio,       Grêmio Porto Alegre,         GRE
+interrs,      Internacional Porto Alegre,  INT
+atleticopr,   Atlético Paranaense,         CAP
+coritiba,     Coritiba PR,                 CTB
+figueirense,  Figueirense,                 FIG
+chapecoense,  Chapecoense,                 CHA
+sportrecife,  Sport Recife,                SPT
+santacruzpe,  Santa Cruz,                  SAN
+vitoria,      EC Vitória,                  VIT
 
-corinthians,Corinthians|SC Corinthians Paulista|Corinthians SP|Corinthians São Paulo|Sport Club Corinthians Paulista,COR,city:saopaulo
-saopaulo,São Paulo|São Paulo FC|FC São Paulo|São Paulo SP|São Paulo Futebol Clube,SAO,city:saopaulo
-santossp,Santos|Santos SP|Santos FC|FC Santos|Santos Futebol Clube,SAN,city:santos ## nb: santos key taken by Santos Laguna - liga mx - thus,use santossp for now
-palmeiras,Palmeiras|Palmeiras SP|SE Palmeiras|SE Palmeiras São Paulo|Sociedade Esportiva Palmeiras,PAL,city:saopaulo
-pontepreta,Ponte Preta|AA Ponte Preta|Associação Atlética Ponte Preta,PON,city:campinas
-botafogo,Botafogo|Botafogo RJ|Botafogo FR|Botafogo de Futebol e Regatas,BOT,city:riodejaneiro
-flamengo,Flamengo|CR Flamengo|Flamengo RJ|Flamengo Rio de Janeiro|Clube de Regatas do Flamengo,FLA,city:riodejaneiro
-fluminense,Fluminense|Fluminense FC|Fluminense RJ|Fluminense Rio de Janeiro|Fluminense Football Club,FLU,city:riodejaneiro
-atleticomg,Atlético Mineiro|C Atlético Mineiro|Atlético MG|Atlético/MG|Clube Atlético Mineiro,CAM,city:belohorizonte
-cruzeiro,Cruzeiro|Cruzeiro EC|Cruzeiro MG|Cruzeiro Esporte Clube|Cruzeiro Belo Horizonte,CRU,city:belohorizonte
-americamg,América Mineiro|América MG|América FC|América Futebol Clube,AMG,city:belohorizonte
-gremio,Grêmio|Grêmio RS|Grêmio Porto Alegre|Grêmio FBPA|Grêmio Foot-Ball Porto Alegrense,GRE,city:portoalegre
-interrs,Internacional|SC Internacional|Internacional RS|Internacional Porto Alegre|Sport Club Internacional,INT,city:portoalegre
-atleticopr,Atlético Paranaense|C Atlético Paranaense|Atlético PR|Atlético/PR|Clube Atlético Paranaense,CAP,city:curitiba
-coritiba,Coritiba|Coritiba FC|Coritiba PR|Coritiba FC|Coritiba Football Club,CTB,city:curitiba
-figueirense,Figueirense|Figueirense FC|Figueirense SC|Figueirense Futebol Clube,FIG,city:florianopolis
-chapecoense,Chapecoense|Associação Chapecoense de Futebol,CHA,city:chapeco
-sportrecife,Sport|Sport Recife|Sport PE|Sport Club do Recife, SPT, city:recife
-santacruzpe,Santa Cruz|Santa Cruz FC|Santa Cruz Futebol Clube, SAN, city:recife
-vitoria,Vitória|EC Vitória|Esporte Clube Vitória,VIT,city:salvador
-
-# 2015
-# 2014
-# 2013
 
 #################################################
 #  Campeonato Brasileiro Série B | Brasileirão
@@ -54,10 +52,6 @@ paysandu, Paysandu|Paysandu SC|Paysandu Sport Club, PAY, city:belem
 crb, CRB|CRB AL|Clube de Regatas Brasil, CRB, city:maceio
 luverdense, Luverdense|Luverdense EC|Luverdense Esporte Clube, LUV, city:lucasdorioverde
 sampaiocorrea, Sampaio Corrêa|Sampaio Corrêa FC|Sampaio Corrêa Futebol Clube, SAC, city:saoluis
-
-# 2015
-# 2014
-# 2013
 
 
 #################################################
