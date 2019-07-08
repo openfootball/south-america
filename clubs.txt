@@ -27,31 +27,28 @@ santacruzpe,  Santa Cruz,                  SAN
 vitoria,      EC Vitória,                  VIT
 
 
-#################################################
 #  Campeonato Brasileiro Série B | Brasileirão
-#################################################
-# 2016 - 20 clubs
 
-criciuma,Criciúma|Criciúma EC|Criciúma Esporte Clube,CRI,city:criciuma
-avai, Avai|Avaí FC|Avaí Futebol Clube, AVA, city:florianopolis
-joinvile, Joinvile|Joinvile EC|Joinville Esporte Clube, JOI, city:joinvile
-goias,Goiás|Goiás EC|Goiás Esporte Clube,GOI,city:goiania
-atleticogo,Atlético GO|Atlético Goianiense|,ACG,city:goiania
-vilanovago, Vila Nova|Vila Nova GO|Vila Nova de Goias|Vila Nova FC|Vila Nova Futebol Clube, VIL, city:goiania
-bragantino, Bragantino|CA Bragantino|Clube Atlético Bragantino, BRA, city:bragancapaulista
-oeste,  Oeste|Oeste SP}Oeste FC|Oeste Futebol Clube, OES, city:itapolis
-londrina, Londrina|Londrina EC|Londrina Esporte Clube, LON, city:londrina
-parana, Parana|Paraná Clube, PAR, city:curitiba
-vascodagama,Vasco|CR Vasco da Gama|Vasco RJ|Vasco da Gama|Vasco da Gama Rio de Janeiro|Club de Regatas Vasco da Gama,VAS,city:riodejaneiro
-bahia,Bahia|Bahia BA|EC Bahia|Esporte Clube Bahia,BAI,city:salvador
-nautico,Náutico|C Náutico Capibaribe|Náutico PE|Clube Náutico Capibaribe,NAU,city:recife
-tupi, Tupi|Tupi MG|Tupi FC|Tupi Football Club, TUP, city:juizdefora
-brasilrs, Brasil de Pelotas|Brasil RS|GE Brasil|Grêmio Esportivo Brasil|Grêmio Esportivo Brasil de Pelotas, GEB, city:pelotas
-ceara, Ceará|Ceára SC|Ceará Sporting Club, CEA, city:fortaleza
-paysandu, Paysandu|Paysandu SC|Paysandu Sport Club, PAY, city:belem
-crb, CRB|CRB AL|Clube de Regatas Brasil, CRB, city:maceio
-luverdense, Luverdense|Luverdense EC|Luverdense Esporte Clube, LUV, city:lucasdorioverde
-sampaiocorrea, Sampaio Corrêa|Sampaio Corrêa FC|Sampaio Corrêa Futebol Clube, SAC, city:saoluis
+criciuma,      Criciúma EC,                CRI
+avai,          Avaí FC,                    AVA
+joinvile,      Joinvile EC,                JOI
+goias,         Goiás EC,                   GOI
+atleticogo,    Atlético GO,                ACG
+vilanovago,    Vila Nova GO,               VIL
+bragantino,    CA Bragantino,              BRA
+oeste,         Oeste SP,                   OES
+londrina,      Londrina EC,                LON
+parana,        Paraná Clube,               PAR
+vascodagama,   CR Vasco da Gama,           VAS
+bahia,         Bahia BA,                   BAI
+nautico,       C Náutico Capibaribe,       NAU
+tupi,          Tupi MG,                    TUP
+brasilrs,      Brasil RS,                  GEB
+ceara,         Ceára SC,                   CEA
+paysandu,      Paysandu SC,                PAY
+crb,           CRB AL,                     CRB
+luverdense,    Luverdense EC,              LUV
+sampaiocorrea, Sampaio Corrêa FC,          SAC
 
 
 #################################################
