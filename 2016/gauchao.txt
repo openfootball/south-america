@@ -1,182 +1,198 @@
 ###################################
-# Gauchão - Campeonato Gaúcho 2016
-# br.rs.1
+# Gauchão-Campeonato Gaúcho 2016
+# br.rs
 
 Rodada 1
-[Sab 30/01]
-	Glória-RS           3 - 1 Veranópolis        
-	Juventude           2 - 1 São Paulo-RS       
-[Dom 31/01]
-	Brasil de Pelotas   1 - 3 Grêmio             
-	Novo Hamburgo       2 - 0 Cruzeiro-RS        
-	Passo Fundo         0 - 3 São José-RS        
-[Sab 06/02]
-	Internacional       3 - 2 Ypiranga           
-[Dom 07/02]
-	Aimoré              1 - 2 Lajeadense         
+
+[Sat 30.01.]
+	Glória           3-1 Veranópolis        
+	Juventude           2-1 São Paulo-RS       
+[Sun 31.01.]
+	Brasil de Pelotas   1-3 Grêmio             
+	Novo Hamburgo       2-0 Cruzeiro-RS        
+	Passo Fundo         0-3 São José-RS        
+[Sat 06.02.]
+	Internacional       3-2 Ypiranga           
+[Sun 07.02.]
+	Aimoré              1-2 Lajeadense         
 
 Rodada 2
-[Qua 03/02]
-	Lajeadense          1 - 3 Juventude          
-	Veranópolis         0 - 0 Novo Hamburgo      
-	Ypiranga            4 - 0 Passo Fundo        
-	São Paulo-RS        2 - 1 Glória-RS          
-	São José-RS         0 - 0 Internacional      
-[Qui 04/02]
-	Grêmio              3 - 1 Aimoré             
-	Cruzeiro-RS         1 - 1 Brasil de Pelotas  
+
+[Wed 03.02.]
+	Lajeadense          1-3 Juventude          
+	Veranópolis         0-0 Novo Hamburgo      
+	Ypiranga            4-0 Passo Fundo        
+	São Paulo-RS        2-1 Glória          
+	São José-RS         0-0 Internacional      
+[Thu 04.02.]
+	Grêmio              3-1 Aimoré             
+	Cruzeiro-RS         1-1 Brasil de Pelotas  
 
 Rodada 3
-[Dom 07/02]
-	São José-RS         2 - 0 Cruzeiro-RS        
-[Qua 10/02]
-	Juventude           2 - 0 Aimoré             
-	Brasil de Pelotas   1 - 1 Ypiranga           
-	Novo Hamburgo       0 - 0 Glória-RS          
-	Lajeadense          0 - 1 São Paulo-RS       
-	Veranópolis         0 - 1 Grêmio             
-[Qui 11/02]
-	Internacional       2 - 1 Passo Fundo        
+
+[Sun 07.02.]
+	São José-RS         2-0 Cruzeiro-RS        
+[Wed 10.02.]
+	Juventude           2-0 Aimoré             
+	Brasil de Pelotas   1-1 Ypiranga           
+	Novo Hamburgo       0-0 Glória          
+	Lajeadense          0-1 São Paulo-RS       
+	Veranópolis         0-1 Grêmio             
+[Thu 11.02.]
+	Internacional       2-1 Passo Fundo        
 
 Rodada 4
-[Sex 12/02]
-	Grêmio              0 - 2 São José-RS        
-[Sab 13/02]
-	Glória-RS           1 - 1 Brasil de Pelotas  
-	Cruzeiro-RS         1 - 2 Juventude          
-[Dom 14/02]
-	Aimoré              1 - 1 Internacional      
-	Ypiranga            2 - 1 Veranópolis        
-	São Paulo-RS        1 - 0 Novo Hamburgo      
-[Seg 15/02]
-	Passo Fundo         2 - 1 Lajeadense         
+
+[Fri 12.02.]
+	Grêmio              0-2 São José-RS        
+[Sat 13.02.]
+	Glória           1-1 Brasil de Pelotas  
+	Cruzeiro-RS         1-2 Juventude          
+[Sun 14.02.]
+	Aimoré              1-1 Internacional      
+	Ypiranga            2-1 Veranópolis        
+	São Paulo-RS        1-0 Novo Hamburgo      
+[Mon 15.02.]
+	Passo Fundo         2-1 Lajeadense         
 
 Rodada 5
-[Sex 19/02]
-	São José-RS         2 - 1 Ypiranga           
-[Sab 20/02]
-	Internacional       4 - 0 Cruzeiro-RS        
-	Juventude           3 - 1 Passo Fundo        
-[Dom 21/02]
-	Grêmio              1 - 0 Novo Hamburgo      
-	Aimoré              2 - 1 Glória-RS          
-	Veranópolis         0 - 2 São Paulo-RS       
-	Lajeadense          1 - 1 Brasil de Pelotas  
+
+[Fri 19.02.]
+	São José-RS         2-1 Ypiranga           
+[Sat 20.02.]
+	Internacional       4-0 Cruzeiro-RS        
+	Juventude           3-1 Passo Fundo        
+[Sun 21.02.]
+	Grêmio              1-0 Novo Hamburgo      
+	Aimoré              2-1 Glória          
+	Veranópolis         0-2 São Paulo-RS       
+	Lajeadense          1-1 Brasil de Pelotas  
 
 Rodada 6
-[Qua 24/02]
-	Ypiranga            0 - 0 Juventude          
-	Internacional       1 - 2 Veranópolis        
-	Brasil de Pelotas   3 - 3 Aimoré             
-	Novo Hamburgo       0 - 1 Passo Fundo        
-	Lajeadense          1 - 2 São José-RS        
-	Glória-RS           1 - 1 Cruzeiro-RS        
-	São Paulo-RS        3 - 2 Grêmio             
+
+[Wed 24.02.]
+	Ypiranga            0-0 Juventude          
+	Internacional       1-2 Veranópolis        
+	Brasil de Pelotas   3-3 Aimoré             
+	Novo Hamburgo       0-1 Passo Fundo        
+	Lajeadense          1-2 São José-RS        
+	Glória           1-1 Cruzeiro-RS        
+	São Paulo-RS        3-2 Grêmio             
 
 Rodada 7
-[Sab 27/02]
-	Grêmio              4 - 2 Glória-RS          
-	São Paulo-RS        1 - 2 Brasil de Pelotas  
-[Dom 28/02]
-	Juventude           0 - 1 Internacional      
-	Novo Hamburgo       3 - 1 Ypiranga           
-	Aimoré              1 - 1 São José-RS        
-[Seg 29/02]
-	Cruzeiro-RS         1 - 1 Lajeadense         
-[Ter 01/03]
-	Passo Fundo         0 - 0 Veranópolis        
+
+[Sat 27.02.]
+	Grêmio              4-2 Glória          
+	São Paulo-RS        1-2 Brasil de Pelotas  
+[Sun 28.02.]
+	Juventude           0-1 Internacional      
+	Novo Hamburgo       3-1 Ypiranga           
+	Aimoré              1-1 São José-RS        
+[Mon 29.02.]
+	Cruzeiro-RS         1-1 Lajeadense         
+[Tue 01.03.]
+	Passo Fundo         0-0 Veranópolis        
 
 Rodada 8
-[Sab 05/03]
-	São José-RS         2 - 0 Novo Hamburgo      
-[Dom 06/03]
-	Ypiranga            4 - 2 São Paulo-RS       
-	Brasil de Pelotas   0 - 1 Juventude          
-	Veranópolis         1 - 0 Aimoré             
-	Passo Fundo         2 - 1 Cruzeiro-RS        
-	Grêmio              0 - 0 Internacional      
-[Seg 07/03]
-	Lajeadense          1 - 0 Glória-RS          
+
+[Sat 05.03.]
+	São José-RS         2-0 Novo Hamburgo      
+[Sun 06.03.]
+	Ypiranga            4-2 São Paulo-RS       
+	Brasil de Pelotas   0-1 Juventude          
+	Veranópolis         1-0 Aimoré             
+	Passo Fundo         2-1 Cruzeiro-RS        
+	Grêmio              0-0 Internacional      
+[Mon 07.03.]
+	Lajeadense          1-0 Glória          
 
 Rodada 9
-[Sab 12/03]
-	Cruzeiro-RS         1 - 3 Grêmio             
-[Dom 13/03]
-	Internacional       1 - 1 São Paulo-RS       
-	Glória-RS           2 - 0 Ypiranga           
-	Juventude           0 - 0 São José-RS        
-	Passo Fundo         2 - 1 Aimoré             
-	Brasil de Pelotas   1 - 0 Veranópolis        
-[Seg 14/03]
-	Novo Hamburgo       1 - 0 Lajeadense         
+
+[Sat 12.03.]
+	Cruzeiro-RS         1-3 Grêmio             
+[Sun 13.03.]
+	Internacional       1-1 São Paulo-RS       
+	Glória           2-0 Ypiranga           
+	Juventude           0-0 São José-RS        
+	Passo Fundo         2-1 Aimoré             
+	Brasil de Pelotas   1-0 Veranópolis        
+[Mon 14.03.]
+	Novo Hamburgo       1-0 Lajeadense         
 
 Rodada 10
-[Sab 19/03]
-	São José-RS         1 - 2 Veranópolis        
-[Dom 20/03]
-	Lajeadense          0 - 0 Internacional      
-	Juventude           3 - 3 Glória-RS          
-	Aimoré              1 - 2 Cruzeiro-RS        
-	Ypiranga            1 - 2 Grêmio             
-	São Paulo-RS        2 - 2 Passo Fundo        
-[Seg 21/03]
-	Novo Hamburgo       1 - 1 Brasil de Pelotas  
+
+[Sat 19.03.]
+	São José-RS         1-2 Veranópolis        
+[Sun 20.03.]
+	Lajeadense          0-0 Internacional      
+	Juventude           3-3 Glória          
+	Aimoré              1-2 Cruzeiro-RS        
+	Ypiranga            1-2 Grêmio             
+	São Paulo-RS        2-2 Passo Fundo        
+[Mon 21.03.]
+	Novo Hamburgo       1-1 Brasil de Pelotas  
 
 Rodada 11
-[Sab 26/03]
-	Internacional      4 - 2 Novo Hamburgo      
-[Dom 27/03]
-	Grêmio              3 - 0 Lajeadense         
-	Brasil de Pelotas   0 - 0 São José-RS        
-	Glória-RS           0 - 0  Passo Fundo        
-	Cruzeiro-RS         1 - 0 São Paulo-RS       
-	Ypiranga            2 - 1 Aimoré             
-	Veranópolis         2 - 1 Juventude          
+
+[Sat 26.03.]
+	Internacional      4-2 Novo Hamburgo      
+[Sun 27.03.]
+	Grêmio              3-0 Lajeadense         
+	Brasil de Pelotas   0-0 São José-RS        
+	Glória           0-0  Passo Fundo        
+	Cruzeiro-RS         1-0 São Paulo-RS       
+	Ypiranga            2-1 Aimoré             
+	Veranópolis         2-1 Juventude          
 
 Rodada 12
-[Qua 30/03]
-	São José-RS         2 - 1 Glória-RS          
-	Cruzeiro-RS         1 - 1 Ypiranga           
-	Juventude           2 - 2 Novo Hamburgo      
-	Lajeadense          0 - 0 Veranópolis        
-	Aimoré              0 - 0 São Paulo-RS       
-	Passo Fundo         1 - 5 Grêmio             
-[Qui 31/03]
-	Internacional       4 - 1 Brasil de Pelotas  
+
+[Wed 30.03.]
+	São José-RS         2-1 Glória          
+	Cruzeiro-RS         1-1 Ypiranga           
+	Juventude           2-2 Novo Hamburgo      
+	Lajeadense          0-0 Veranópolis        
+	Aimoré              0-0 São Paulo-RS       
+	Passo Fundo         1-5 Grêmio             
+[Thu 31.03.]
+	Internacional       4-1 Brasil de Pelotas  
 
 Rodada 13
-[Dom 03/04]
-	Grêmio              2 - 2 Juventude          
-	Glória-RS           0 - 3 Internacional      
-	Veranópolis         0 - 1 Cruzeiro-RS        
-	Novo Hamburgo       2 - 1 Aimoré             
-	Brasil de Pelotas   1 - 0 Passo Fundo        
-	Ypiranga            2 - 1 Lajeadense         
-	São Paulo-RS        1 - 5 São José-RS        
+
+[Sun 03.04.]
+	Grêmio              2-2 Juventude          
+	Glória           0-3 Internacional      
+	Veranópolis         0-1 Cruzeiro-RS        
+	Novo Hamburgo       2-1 Aimoré             
+	Brasil de Pelotas   1-0 Passo Fundo        
+	Ypiranga            2-1 Lajeadense         
+	São Paulo-RS        1-5 São José-RS        
 
 Quartas-de-final
-[Qua 06/04]
-	Grêmio	4 - 1 Brasil de Pelotas
-[Sab 09/04]
-	São José-RS 1 - 0 Novo Hamburgo
-[Dom 10/04]
-	Internacional 3 - 0 São Paulo-RS
-[Ter 12/04]
-	Juventude - Ypiranga
+
+[Wed 06.04.]
+	Grêmio	4-1 Brasil de Pelotas
+[Sat 09.04.]
+	São José-RS 1-0 Novo Hamburgo
+[Sun 10.04.]
+	Internacional 3-0 São Paulo-RS
+[Tue 12.04.]
+	Juventude-Ypiranga
 
 Semi-finais
-[Sab 16/04]
-	Internacional 0 - 0 São José-RS
-[Qui 21/04]
-	Juventude 2 - 0 Grêmio
-[Sab 23/04]
-	São José-RS 0 - 1 Internacional
-[Dom 24/04]
-	Grêmio 3 - 1 Juventude
+
+[Sat 16.04.]
+	Internacional 0-0 São José-RS
+[Thu 21.04.]
+	Juventude 2-0 Grêmio
+[Sat 23.04.]
+	São José-RS 0-1 Internacional
+[Sun 24.04.]
+	Grêmio 3-1 Juventude
 
 Finais
-[Dom 01/05]
-	Juventude 0 - 1 Internacional
-[Dom 08/05]
-	Internacional 3 - 0 Juventude
+
+[Sun 01.05.]
+	Juventude 0-1 Internacional
+[Sun 08.05.]
+	Internacional 3-0 Juventude
 
