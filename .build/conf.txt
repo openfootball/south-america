@@ -1,0 +1,566 @@
+57 datafiles:
+[1/57] >2003/brasileirao-seriea.txt<
+  1 section(s):
+    698 lines - league: >Brasileiro Série A< (br.1), season: >2003<, 153 clubs, 46 rounds
+     !! 36× Domingo
+     !! 36× Sábado
+     !! 15× Quarta-feira
+     !! 12× Quinta-feira
+     !! 2× 30/07/2003
+     !! 01/06/2003
+     !! 01/11/2003
+     !! 02/08/2003
+     !! 02/11/2003
+     !! 03/05/2003
+     !! 03/08/2003
+     !! 04/05/2003
+     !! 04/10/2003
+     !! 05/04/2003
+     !! 05/07/2003
+     !! 05/10/2003
+     !! 05/11/2003
+     !! 06/04/2003
+     !! 06/07/2003
+     !! 06/08/2003
+     !! 06/11/2003
+     !! 06/12/2003
+     !! 07/06/2003
+     !! 07/08/2003
+     !! 07/12/2003
+     !! 08/06/2003
+     !! 08/10/2003
+     !! 08/11/2003
+     !! 09/04/2003
+     !! 09/07/2003
+     !! 09/08/2003
+     !! 09/10/2003
+     !! 09/11/2003
+     !! 09h00
+     !! 0x0 Bahia
+     !! 0x0 Santos
+     !! 0x1 Internacional
+     !! 0x3 Atlético-MG
+     !! 10/05/2003
+     !! 10/07/2003
+     !! 10/08/2003
+     !! 11/05/2003
+     !! 11/10/2003
+     !! 12/04/2003
+     !! 12/07/2003
+     !! 12/10/2003
+     !! 13/04/2003
+     !! 13/07/2003
+     !! 13/09/2003
+     !! 13/12/2003
+     !! 14/06/2003
+     !! 14/09/2003
+     !! 14/12/2003
+     !! 15/06/2003
+     !! 15/10/2003
+     !! 16/04/2003
+     !! 16/07/2003
+     !! 16/08/2003
+     !! 17/04/2003
+     !! 17/05/2003
+     !! 17/07/2003
+     !! 17/08/2003
+     !! 18/04/2003
+     !! 18/05/2003
+     !! 18/10/2003
+     !! 19/04/2003
+     !! 19/06/2003
+     !! 19/07/2003
+     !! 19/10/2003
+     !! 1x0 Juventude
+     !! 1x1 Coritiba
+     !! 1x1 Figueirense
+     !! 1x1 Fortaleza
+     !! 1x2 Flamengo
+     !! 1x2 Vitória
+     !! 20/04/2003
+     !! 20/07/2003
+     !! 20/08/2003
+     !! 20/09/2003
+     !! 21/04/2003
+     !! 21/06/2003
+     !! 21/08/2003
+     !! 21/09/2003
+     !! 22/06/2003
+     !! 22/10/2003
+     !! 22/11/2003
+     !! 23/07/2003
+     !! 23/08/2003
+     !! 23/10/2003
+     !! 23/11/2003
+     !! 24/05/2003
+     !! 24/07/2003
+     !! 24/08/2003
+     !! 24/09/2003
+     !! 25/05/2003
+     !! 25/09/2003
+     !! 25/10/2003
+     !! 26/04/2003
+     !! 26/07/2003
+     !! 26/10/2003
+     !! 27/04/2003
+     !! 27/07/2003
+     !! 27/09/2003
+     !! 28/06/2003
+     !! 28/09/2003
+     !! 29/03/2003
+     !! 29/06/2003
+     !! 29/11/2003
+     !! 2x0 Fluminense
+     !! 2x0 Grêmio
+     !! 2x2 Paraná
+     !! 2x2 Paysandu
+     !! 2x2 São Caetano
+     !! 2x2 São Paulo
+     !! 2x4 Cruzeiro
+     !! 30/03/2003
+     !! 30/08/2003
+     !! 30/11/2003
+     !! 31/05/2003
+     !! 31/07/2003
+     !! 31/08/2003
+     !! 3x0 Atlético-PR
+     !! 3x1 Guarani
+     !! 3x2 Criciúma
+     !! 3x3 Corinthians
+     !! 4x2 Vasco
+     !! 6x4 Goiás
+     !! Fortaleza 2x3 Ponte Preta
+     !! Juventude
+     !! Segunda-feira
+     !! São Caetano
+     !! São Caetano 2x0
+[2/57] >2004/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[3/57] >2005/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[4/57] >2006/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[5/57] >2007/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[6/57] >2008/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[7/57] >2009/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[8/57] >2010/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[9/57] >2011/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[10/57] >2011/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[11/57] >2011/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[12/57] >2011/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[13/57] >2011/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[14/57] >2012/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[15/57] >2012/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[16/57] >2012/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[17/57] >2012/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[18/57] >2012/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[19/57] >2012/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[20/57] >2013/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[21/57] >2013/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[22/57] >2013/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[23/57] >2013/cb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[24/57] >2013/copadobrasil.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[25/57] >2013/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[26/57] >2013/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[27/57] >2013/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[28/57] >2013/paulistao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[29/57] >2014/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[30/57] >2014/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[31/57] >2014/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[32/57] >2014/copadobrasil.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[33/57] >2014/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[34/57] >2014/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[35/57] >2014/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[36/57] >2014/paulistao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[37/57] >2015/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[38/57] >2015/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[39/57] >2015/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[40/57] >2015/copadobrasil.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[41/57] >2015/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[42/57] >2015/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[43/57] >2015/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[44/57] >2015/paulistao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[45/57] >2016/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[46/57] >2016/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[47/57] >2016/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[48/57] >2016/copadobrasil.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[49/57] >2016/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[50/57] >2016/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[51/57] >2016/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[52/57] >2016/paulistao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[53/57] >2016/primeira-liga.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[54/57] >2017/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[55/57] >2017/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[56/57] >2017/brasileirao-seriec.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[57/57] >2017/brasileirao-seried.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+
+
+[1/57] >2003/brasileirao-seriea.txt<
+  1 section(s):
+    698 lines - league: >Brasileiro Série A< (br.1), season: >2003<
+      153 clubs:
+     !! 36× Domingo
+     !! 36× Sábado
+     !! 15× Quarta-feira
+     !! 12× Quinta-feira
+     !! 2× 30/07/2003
+        2× Paraná ⇒ Paraná Clube
+     !! 01/06/2003
+     !! 01/11/2003
+     !! 02/08/2003
+     !! 02/11/2003
+     !! 03/05/2003
+     !! 03/08/2003
+     !! 04/05/2003
+     !! 04/10/2003
+     !! 05/04/2003
+     !! 05/07/2003
+     !! 05/10/2003
+     !! 05/11/2003
+     !! 06/04/2003
+     !! 06/07/2003
+     !! 06/08/2003
+     !! 06/11/2003
+     !! 06/12/2003
+     !! 07/06/2003
+     !! 07/08/2003
+     !! 07/12/2003
+     !! 08/06/2003
+     !! 08/10/2003
+     !! 08/11/2003
+     !! 09/04/2003
+     !! 09/07/2003
+     !! 09/08/2003
+     !! 09/10/2003
+     !! 09/11/2003
+     !! 09h00
+     !! 0x0 Bahia
+     !! 0x0 Santos
+     !! 0x1 Internacional
+     !! 0x3 Atlético-MG
+     !! 10/05/2003
+     !! 10/07/2003
+     !! 10/08/2003
+     !! 11/05/2003
+     !! 11/10/2003
+     !! 12/04/2003
+     !! 12/07/2003
+     !! 12/10/2003
+     !! 13/04/2003
+     !! 13/07/2003
+     !! 13/09/2003
+     !! 13/12/2003
+     !! 14/06/2003
+     !! 14/09/2003
+     !! 14/12/2003
+     !! 15/06/2003
+     !! 15/10/2003
+     !! 16/04/2003
+     !! 16/07/2003
+     !! 16/08/2003
+     !! 17/04/2003
+     !! 17/05/2003
+     !! 17/07/2003
+     !! 17/08/2003
+     !! 18/04/2003
+     !! 18/05/2003
+     !! 18/10/2003
+     !! 19/04/2003
+     !! 19/06/2003
+     !! 19/07/2003
+     !! 19/10/2003
+     !! 1x0 Juventude
+     !! 1x1 Coritiba
+     !! 1x1 Figueirense
+     !! 1x1 Fortaleza
+     !! 1x2 Flamengo
+     !! 1x2 Vitória
+     !! 20/04/2003
+     !! 20/07/2003
+     !! 20/08/2003
+     !! 20/09/2003
+     !! 21/04/2003
+     !! 21/06/2003
+     !! 21/08/2003
+     !! 21/09/2003
+     !! 22/06/2003
+     !! 22/10/2003
+     !! 22/11/2003
+     !! 23/07/2003
+     !! 23/08/2003
+     !! 23/10/2003
+     !! 23/11/2003
+     !! 24/05/2003
+     !! 24/07/2003
+     !! 24/08/2003
+     !! 24/09/2003
+     !! 25/05/2003
+     !! 25/09/2003
+     !! 25/10/2003
+     !! 26/04/2003
+     !! 26/07/2003
+     !! 26/10/2003
+     !! 27/04/2003
+     !! 27/07/2003
+     !! 27/09/2003
+     !! 28/06/2003
+     !! 28/09/2003
+     !! 29/03/2003
+     !! 29/06/2003
+     !! 29/11/2003
+     !! 2x0 Fluminense
+     !! 2x0 Grêmio
+     !! 2x2 Paraná
+     !! 2x2 Paysandu
+     !! 2x2 São Caetano
+     !! 2x2 São Paulo
+     !! 2x4 Cruzeiro
+     !! 30/03/2003
+     !! 30/08/2003
+     !! 30/11/2003
+     !! 31/05/2003
+     !! 31/07/2003
+     !! 31/08/2003
+     !! 3x0 Atlético-PR
+     !! 3x1 Guarani
+     !! 3x2 Criciúma
+     !! 3x3 Corinthians
+     !! 4x2 Vasco
+     !! 6x4 Goiás
+        Atlético-MG ⇒ Atlético MG
+        Atlético-PR ⇒ Atlético PR
+        Bahia ⇒ EC Bahia
+        Corinthians ⇒ Corinthians SP
+        Coritiba ⇒ Coritiba PR
+        Criciúma ⇒ Criciúma EC
+        Cruzeiro ⇒ Cruzeiro MG
+        Figueirense
+        Flamengo ⇒ Flamengo RJ
+        Fluminense ⇒ Fluminense RJ
+        Fortaleza
+     !! Fortaleza 2x3 Ponte Preta
+        Goiás ⇒ Goiás EC
+        Grêmio ⇒ Grêmio RS
+        Guarani ⇒ Guarani FC
+     !! Juventude
+        Paysandu ⇒ Paysandu SC
+        Ponte Preta
+        Santos ⇒ Santos SP
+     !! Segunda-feira
+     !! São Caetano
+     !! São Caetano 2x0
+        São Paulo ⇒ São Paulo FC
+        Vasco ⇒ CR Vasco da Gama
+        Vitória ⇒ EC Vitória
+      46 rounds:
+        1ª Rodada, 13 matches
+        2ª Rodada, 14 matches
+        3ª Rodada, 2 matches
+        4ª Rodada, 3 matches
+        5ª Rodada, 3 matches
+        6ª Rodada, 2 matches
+        7ª Rodada, 2 matches
+        8ª Rodada, 2 matches
+        9ª Rodada, 2 matches
+        10ª Rodada, 2 matches
+        11ª Rodada, 2 matches
+        12ª Rodada, 3 matches
+        13ª Rodada, 2 matches
+        14ª Rodada, 4 matches
+        15ª Rodada, 3 matches
+        16ª Rodada, 2 matches
+        17ª Rodada, 2 matches
+        18ª Rodada, 2 matches
+        19ª Rodada, 3 matches
+        20ª Rodada, 2 matches
+        21ª Rodada, 2 matches
+        22ª Rodada, 3 matches
+        23ª Rodada, 2 matches
+        24ª Rodada, 2 matches
+        25ª Rodada, 2 matches
+        26ª Rodada, 2 matches
+        27ª Rodada, 2 matches
+        28ª Rodada, 2 matches
+        29ª Rodada, 2 matches
+        30ª Rodada, 2 matches
+        31ª Rodada, 2 matches
+        32ª Rodada, 2 matches
+        33ª Rodada, 3 matches
+        34ª Rodada, 2 matches
+        35ª Rodada, 2 matches
+        36ª Rodada, 3 matches
+        37ª Rodada, 2 matches
+        38ª Rodada, 2 matches
+        39ª Rodada, 2 matches
+        40ª Rodada, 2 matches
+        41ª Rodada, 2 matches
+        42ª Rodada, 2 matches
+        43ª Rodada, 2 matches
+        44ª Rodada, 2 matches
+        45ª Rodada, 2 matches
+        46ª Rodada, 2 matches
+[2/57] >2004/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[3/57] >2005/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[4/57] >2006/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[5/57] >2007/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[6/57] >2008/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[7/57] >2009/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[8/57] >2010/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[9/57] >2011/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[10/57] >2011/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[11/57] >2011/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[12/57] >2011/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[13/57] >2011/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[14/57] >2012/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[15/57] >2012/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[16/57] >2012/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[17/57] >2012/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[18/57] >2012/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[19/57] >2012/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[20/57] >2013/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[21/57] >2013/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[22/57] >2013/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[23/57] >2013/cb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[24/57] >2013/copadobrasil.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[25/57] >2013/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[26/57] >2013/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[27/57] >2013/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[28/57] >2013/paulistao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[29/57] >2014/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[30/57] >2014/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[31/57] >2014/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[32/57] >2014/copadobrasil.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[33/57] >2014/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[34/57] >2014/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[35/57] >2014/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[36/57] >2014/paulistao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[37/57] >2015/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[38/57] >2015/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[39/57] >2015/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[40/57] >2015/copadobrasil.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[41/57] >2015/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[42/57] >2015/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[43/57] >2015/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[44/57] >2015/paulistao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[45/57] >2016/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[46/57] >2016/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[47/57] >2016/carioca.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[48/57] >2016/copadobrasil.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[49/57] >2016/gauchao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[50/57] >2016/mineiro.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[51/57] >2016/paranaense.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[52/57] >2016/paulistao.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[53/57] >2016/primeira-liga.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[54/57] >2017/brasileirao-seriea.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[55/57] >2017/brasileirao-serieb.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[56/57] >2017/brasileirao-seriec.txt<
+  !!! WARN !!! - NO sections found; 0 sections
+[57/57] >2017/brasileirao-seried.txt<
+  !!! WARN !!! - NO sections found; 0 sections

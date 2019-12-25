@@ -4,17 +4,17 @@
 ## Build Your Own `brazil.db` Copy
 
 
-Try in your working folder (e.g. `/br-brazil`):
+Try in your working folder (that is, `/brazil`):
 
 ```
-$ sportdb build             
+$ sportdb build
 $ sportdb --verbose build     # or for more (verbose) details incl. debug info
 ```
 
-This will read in the [`./Datafile`](https://github.com/openfootball/br-brazil/blob/master/Datafile) and
+This will
 
 - setup a new single-file SQLite database e.g. `./sport.db`
-- read in all plain text datasets
+- read in all datasets in plain text (`.txt`)
 
 That's it. Try:
 
