@@ -1,139 +1,12 @@
 57 datafiles:
 [1/57] >2003/brasileirao-seriea.txt<
   1 section(s):
-    698 lines - league: >Brasileiro Série A< (br.1), season: >2003<, 153 clubs, 46 rounds
-     !! 36× Domingo
-     !! 36× Sábado
-     !! 15× Quarta-feira
-     !! 12× Quinta-feira
-     !! 2× 30/07/2003
-     !! 01/06/2003
-     !! 01/11/2003
-     !! 02/08/2003
-     !! 02/11/2003
-     !! 03/05/2003
-     !! 03/08/2003
-     !! 04/05/2003
-     !! 04/10/2003
-     !! 05/04/2003
-     !! 05/07/2003
-     !! 05/10/2003
-     !! 05/11/2003
-     !! 06/04/2003
-     !! 06/07/2003
-     !! 06/08/2003
-     !! 06/11/2003
-     !! 06/12/2003
-     !! 07/06/2003
-     !! 07/08/2003
-     !! 07/12/2003
-     !! 08/06/2003
-     !! 08/10/2003
-     !! 08/11/2003
-     !! 09/04/2003
-     !! 09/07/2003
-     !! 09/08/2003
-     !! 09/10/2003
-     !! 09/11/2003
-     !! 09h00
-     !! 0x0 Bahia
-     !! 0x0 Santos
-     !! 0x1 Internacional
-     !! 0x3 Atlético-MG
-     !! 10/05/2003
-     !! 10/07/2003
-     !! 10/08/2003
-     !! 11/05/2003
-     !! 11/10/2003
-     !! 12/04/2003
-     !! 12/07/2003
-     !! 12/10/2003
-     !! 13/04/2003
-     !! 13/07/2003
-     !! 13/09/2003
-     !! 13/12/2003
-     !! 14/06/2003
-     !! 14/09/2003
-     !! 14/12/2003
-     !! 15/06/2003
-     !! 15/10/2003
-     !! 16/04/2003
-     !! 16/07/2003
-     !! 16/08/2003
-     !! 17/04/2003
-     !! 17/05/2003
-     !! 17/07/2003
-     !! 17/08/2003
-     !! 18/04/2003
-     !! 18/05/2003
-     !! 18/10/2003
-     !! 19/04/2003
-     !! 19/06/2003
-     !! 19/07/2003
-     !! 19/10/2003
-     !! 1x0 Juventude
-     !! 1x1 Coritiba
-     !! 1x1 Figueirense
-     !! 1x1 Fortaleza
-     !! 1x2 Flamengo
-     !! 1x2 Vitória
-     !! 20/04/2003
-     !! 20/07/2003
-     !! 20/08/2003
-     !! 20/09/2003
-     !! 21/04/2003
-     !! 21/06/2003
-     !! 21/08/2003
-     !! 21/09/2003
-     !! 22/06/2003
-     !! 22/10/2003
-     !! 22/11/2003
-     !! 23/07/2003
-     !! 23/08/2003
-     !! 23/10/2003
-     !! 23/11/2003
-     !! 24/05/2003
-     !! 24/07/2003
-     !! 24/08/2003
-     !! 24/09/2003
-     !! 25/05/2003
-     !! 25/09/2003
-     !! 25/10/2003
-     !! 26/04/2003
-     !! 26/07/2003
-     !! 26/10/2003
-     !! 27/04/2003
-     !! 27/07/2003
-     !! 27/09/2003
-     !! 28/06/2003
-     !! 28/09/2003
-     !! 29/03/2003
-     !! 29/06/2003
-     !! 29/11/2003
-     !! 2x0 Fluminense
-     !! 2x0 Grêmio
-     !! 2x2 Paraná
-     !! 2x2 Paysandu
-     !! 2x2 São Caetano
-     !! 2x2 São Paulo
-     !! 2x4 Cruzeiro
-     !! 30/03/2003
-     !! 30/08/2003
-     !! 30/11/2003
-     !! 31/05/2003
-     !! 31/07/2003
-     !! 31/08/2003
-     !! 3x0 Atlético-PR
-     !! 3x1 Guarani
-     !! 3x2 Criciúma
-     !! 3x3 Corinthians
-     !! 4x2 Vasco
-     !! 6x4 Goiás
-     !! Fortaleza 2x3 Ponte Preta
-     !! Juventude
-     !! Segunda-feira
-     !! São Caetano
-     !! São Caetano 2x0
+    698 lines - league: >Brasileiro Série A< (br.1), season: >2003<, 27 clubs, 46 rounds
+     !! 46× Juventude
+     !! 46× São Caetano
+     !! 09h00  Fortaleza
+!! ERROR: 2 duplicate club record(s) found
+
 [2/57] >2004/brasileirao-seriea.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [3/57] >2005/brasileirao-seriea.txt<
@@ -251,207 +124,83 @@
 [1/57] >2003/brasileirao-seriea.txt<
   1 section(s):
     698 lines - league: >Brasileiro Série A< (br.1), season: >2003<
-      153 clubs:
-     !! 36× Domingo
-     !! 36× Sábado
-     !! 15× Quarta-feira
-     !! 12× Quinta-feira
-     !! 2× 30/07/2003
-        2× Paraná ⇒ Paraná Clube
-     !! 01/06/2003
-     !! 01/11/2003
-     !! 02/08/2003
-     !! 02/11/2003
-     !! 03/05/2003
-     !! 03/08/2003
-     !! 04/05/2003
-     !! 04/10/2003
-     !! 05/04/2003
-     !! 05/07/2003
-     !! 05/10/2003
-     !! 05/11/2003
-     !! 06/04/2003
-     !! 06/07/2003
-     !! 06/08/2003
-     !! 06/11/2003
-     !! 06/12/2003
-     !! 07/06/2003
-     !! 07/08/2003
-     !! 07/12/2003
-     !! 08/06/2003
-     !! 08/10/2003
-     !! 08/11/2003
-     !! 09/04/2003
-     !! 09/07/2003
-     !! 09/08/2003
-     !! 09/10/2003
-     !! 09/11/2003
-     !! 09h00
-     !! 0x0 Bahia
-     !! 0x0 Santos
-     !! 0x1 Internacional
-     !! 0x3 Atlético-MG
-     !! 10/05/2003
-     !! 10/07/2003
-     !! 10/08/2003
-     !! 11/05/2003
-     !! 11/10/2003
-     !! 12/04/2003
-     !! 12/07/2003
-     !! 12/10/2003
-     !! 13/04/2003
-     !! 13/07/2003
-     !! 13/09/2003
-     !! 13/12/2003
-     !! 14/06/2003
-     !! 14/09/2003
-     !! 14/12/2003
-     !! 15/06/2003
-     !! 15/10/2003
-     !! 16/04/2003
-     !! 16/07/2003
-     !! 16/08/2003
-     !! 17/04/2003
-     !! 17/05/2003
-     !! 17/07/2003
-     !! 17/08/2003
-     !! 18/04/2003
-     !! 18/05/2003
-     !! 18/10/2003
-     !! 19/04/2003
-     !! 19/06/2003
-     !! 19/07/2003
-     !! 19/10/2003
-     !! 1x0 Juventude
-     !! 1x1 Coritiba
-     !! 1x1 Figueirense
-     !! 1x1 Fortaleza
-     !! 1x2 Flamengo
-     !! 1x2 Vitória
-     !! 20/04/2003
-     !! 20/07/2003
-     !! 20/08/2003
-     !! 20/09/2003
-     !! 21/04/2003
-     !! 21/06/2003
-     !! 21/08/2003
-     !! 21/09/2003
-     !! 22/06/2003
-     !! 22/10/2003
-     !! 22/11/2003
-     !! 23/07/2003
-     !! 23/08/2003
-     !! 23/10/2003
-     !! 23/11/2003
-     !! 24/05/2003
-     !! 24/07/2003
-     !! 24/08/2003
-     !! 24/09/2003
-     !! 25/05/2003
-     !! 25/09/2003
-     !! 25/10/2003
-     !! 26/04/2003
-     !! 26/07/2003
-     !! 26/10/2003
-     !! 27/04/2003
-     !! 27/07/2003
-     !! 27/09/2003
-     !! 28/06/2003
-     !! 28/09/2003
-     !! 29/03/2003
-     !! 29/06/2003
-     !! 29/11/2003
-     !! 2x0 Fluminense
-     !! 2x0 Grêmio
-     !! 2x2 Paraná
-     !! 2x2 Paysandu
-     !! 2x2 São Caetano
-     !! 2x2 São Paulo
-     !! 2x4 Cruzeiro
-     !! 30/03/2003
-     !! 30/08/2003
-     !! 30/11/2003
-     !! 31/05/2003
-     !! 31/07/2003
-     !! 31/08/2003
-     !! 3x0 Atlético-PR
-     !! 3x1 Guarani
-     !! 3x2 Criciúma
-     !! 3x3 Corinthians
-     !! 4x2 Vasco
-     !! 6x4 Goiás
-        Atlético-MG ⇒ Atlético MG
-        Atlético-PR ⇒ Atlético PR
-        Bahia ⇒ EC Bahia
-        Corinthians ⇒ Corinthians SP
-        Coritiba ⇒ Coritiba PR
-        Criciúma ⇒ Criciúma EC
-        Cruzeiro ⇒ Cruzeiro MG
-        Figueirense
-        Flamengo ⇒ Flamengo RJ
-        Fluminense ⇒ Fluminense RJ
-        Fortaleza
-     !! Fortaleza 2x3 Ponte Preta
-        Goiás ⇒ Goiás EC
-        Grêmio ⇒ Grêmio RS
-        Guarani ⇒ Guarani FC
-     !! Juventude
-        Paysandu ⇒ Paysandu SC
-        Ponte Preta
-        Santos ⇒ Santos SP
-     !! Segunda-feira
-     !! São Caetano
-     !! São Caetano 2x0
-        São Paulo ⇒ São Paulo FC
-        Vasco ⇒ CR Vasco da Gama
-        Vitória ⇒ EC Vitória
+      27 clubs:
+        46× Atlético-MG ⇒ Atlético MG
+        46× Atlético-PR ⇒ Atlético PR
+        46× Bahia ⇒ EC Bahia
+        46× Corinthians ⇒ Corinthians SP
+        46× Coritiba ⇒ Coritiba PR
+        46× Criciúma ⇒ Criciúma EC
+        46× Figueirense
+        46× Flamengo ⇒ Flamengo RJ
+        46× Fluminense ⇒ Fluminense RJ
+        46× Goiás ⇒ Goiás EC
+        46× Grêmio ⇒ Grêmio RS
+        46× Guarani ⇒ Guarani FC
+        46× Internacional ⇒ Internacional Porto Alegre
+     !! 46× Juventude
+        46× Paraná ⇒ Paraná Clube
+        46× Ponte Preta
+        46× Santos ⇒ Santos SP
+     !! 46× São Caetano
+        46× São Paulo ⇒ São Paulo FC
+        46× Vasco ⇒ CR Vasco da Gama
+        46× Vitória ⇒ EC Vitória
+        45× Cruzeiro ⇒ Cruzeiro MG
+        45× Fortaleza
+        45× Paysandu ⇒ Paysandu SC
+     !! 09h00  Fortaleza
+        CRUZEIRO ⇒ Cruzeiro MG
+        PAYSANDU ⇒ Paysandu SC
+!! ERROR: 2 duplicate club record(s) found
+
       46 rounds:
-        1ª Rodada, 13 matches
-        2ª Rodada, 14 matches
-        3ª Rodada, 2 matches
-        4ª Rodada, 3 matches
-        5ª Rodada, 3 matches
-        6ª Rodada, 2 matches
-        7ª Rodada, 2 matches
-        8ª Rodada, 2 matches
-        9ª Rodada, 2 matches
-        10ª Rodada, 2 matches
-        11ª Rodada, 2 matches
-        12ª Rodada, 3 matches
-        13ª Rodada, 2 matches
-        14ª Rodada, 4 matches
-        15ª Rodada, 3 matches
-        16ª Rodada, 2 matches
-        17ª Rodada, 2 matches
-        18ª Rodada, 2 matches
-        19ª Rodada, 3 matches
-        20ª Rodada, 2 matches
-        21ª Rodada, 2 matches
-        22ª Rodada, 3 matches
-        23ª Rodada, 2 matches
-        24ª Rodada, 2 matches
-        25ª Rodada, 2 matches
-        26ª Rodada, 2 matches
-        27ª Rodada, 2 matches
-        28ª Rodada, 2 matches
-        29ª Rodada, 2 matches
-        30ª Rodada, 2 matches
-        31ª Rodada, 2 matches
-        32ª Rodada, 2 matches
-        33ª Rodada, 3 matches
-        34ª Rodada, 2 matches
-        35ª Rodada, 2 matches
-        36ª Rodada, 3 matches
-        37ª Rodada, 2 matches
-        38ª Rodada, 2 matches
-        39ª Rodada, 2 matches
-        40ª Rodada, 2 matches
-        41ª Rodada, 2 matches
-        42ª Rodada, 2 matches
-        43ª Rodada, 2 matches
-        44ª Rodada, 2 matches
-        45ª Rodada, 2 matches
-        46ª Rodada, 2 matches
+        1ª Rodada, 12 matches
+        2ª Rodada, 12 matches
+        3ª Rodada, 12 matches
+        4ª Rodada, 12 matches
+        5ª Rodada, 12 matches
+        6ª Rodada, 12 matches
+        7ª Rodada, 12 matches
+        8ª Rodada, 12 matches
+        9ª Rodada, 12 matches
+        10ª Rodada, 12 matches
+        11ª Rodada, 12 matches
+        12ª Rodada, 12 matches
+        13ª Rodada, 12 matches
+        14ª Rodada, 12 matches
+        15ª Rodada, 12 matches
+        16ª Rodada, 12 matches
+        17ª Rodada, 12 matches
+        18ª Rodada, 12 matches
+        19ª Rodada, 12 matches
+        20ª Rodada, 12 matches
+        21ª Rodada, 12 matches
+        22ª Rodada, 12 matches
+        23ª Rodada, 12 matches
+        24ª Rodada, 12 matches
+        25ª Rodada, 12 matches
+        26ª Rodada, 12 matches
+        27ª Rodada, 12 matches
+        28ª Rodada, 12 matches
+        29ª Rodada, 12 matches
+        30ª Rodada, 12 matches
+        31ª Rodada, 12 matches
+        32ª Rodada, 12 matches
+        33ª Rodada, 12 matches
+        34ª Rodada, 12 matches
+        35ª Rodada, 12 matches
+        36ª Rodada, 12 matches
+        37ª Rodada, 12 matches
+        38ª Rodada, 12 matches
+        39ª Rodada, 12 matches
+        40ª Rodada, 12 matches
+        41ª Rodada, 12 matches
+        42ª Rodada, 12 matches
+        43ª Rodada, 12 matches
+        44ª Rodada, 12 matches
+        45ª Rodada, 12 matches
+        46ª Rodada, 12 matches
 [2/57] >2004/brasileirao-seriea.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [3/57] >2005/brasileirao-seriea.txt<
