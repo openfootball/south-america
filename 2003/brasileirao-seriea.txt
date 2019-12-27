@@ -763,7 +763,7 @@
 17h00  Vitória 1x0 Coritiba @ Barradão
 18h00  Ponte Preta 1x2 São Paulo @ Moisés Lucarelli
 18h00  Corinthians 1x2 Bahia @ Pacaembu
-16h00  CRUZEIRO 2x1 PAYSANDU @ Mineirão
+16h00  Cruzeiro 2x1 Paysandu @ Mineirão       ## todo/check why clubs were in ALL UPCASE ??
 
 45ª Rodada
 06/12/2003 - Sábado
