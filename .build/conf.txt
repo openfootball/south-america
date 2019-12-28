@@ -1,12 +1,7 @@
 57 datafiles:
 [1/57] >2003/brasileirao-seriea.txt<
   1 section(s):
-    698 lines - league: >Brasileiro Série A< (br.1), season: >2003<, 27 clubs, 46 rounds
-     !! 46× Juventude
-     !! 46× São Caetano
-     !! 09h00  Fortaleza
-!! ERROR: 2 duplicate club record(s) found
-
+    698 lines - league: >Campeonato Brasileiro Série A< (br.1), season: >2003<, 24 clubs, 46 rounds
 [2/57] >2004/brasileirao-seriea.txt<
   !!! WARN !!! - NO sections found; 0 sections
 [3/57] >2005/brasileirao-seriea.txt<
@@ -123,37 +118,32 @@
 
 [1/57] >2003/brasileirao-seriea.txt<
   1 section(s):
-    698 lines - league: >Brasileiro Série A< (br.1), season: >2003<
-      27 clubs:
+    698 lines - league: >Campeonato Brasileiro Série A< (br.1), season: >2003<
+      24 clubs:
         46× Atlético-MG ⇒ Atlético MG
         46× Atlético-PR ⇒ Atlético PR
         46× Bahia ⇒ EC Bahia
         46× Corinthians ⇒ Corinthians SP
         46× Coritiba ⇒ Coritiba PR
         46× Criciúma ⇒ Criciúma EC
+        46× Cruzeiro ⇒ Cruzeiro MG
         46× Figueirense
         46× Flamengo ⇒ Flamengo RJ
         46× Fluminense ⇒ Fluminense RJ
+        46× Fortaleza
         46× Goiás ⇒ Goiás EC
         46× Grêmio ⇒ Grêmio RS
         46× Guarani ⇒ Guarani FC
         46× Internacional ⇒ Internacional Porto Alegre
-     !! 46× Juventude
+        46× Juventude ⇒ Esporte Clube Juventude
         46× Paraná ⇒ Paraná Clube
+        46× Paysandu ⇒ Paysandu SC
         46× Ponte Preta
         46× Santos ⇒ Santos SP
-     !! 46× São Caetano
+        46× São Caetano ⇒ AD São Caetano
         46× São Paulo ⇒ São Paulo FC
         46× Vasco ⇒ CR Vasco da Gama
         46× Vitória ⇒ EC Vitória
-        45× Cruzeiro ⇒ Cruzeiro MG
-        45× Fortaleza
-        45× Paysandu ⇒ Paysandu SC
-     !! 09h00  Fortaleza
-        CRUZEIRO ⇒ Cruzeiro MG
-        PAYSANDU ⇒ Paysandu SC
-!! ERROR: 2 duplicate club record(s) found
-
       46 rounds:
         1ª Rodada, 12 matches
         2ª Rodada, 12 matches
