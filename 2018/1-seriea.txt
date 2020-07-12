@@ -1,0 +1,621 @@
+=  Brasileiro Série A 2018
+
+
+Rodada 1
+[Sáb, 14/Abril]
+  Cruzeiro MG              0-1  Grêmio RS
+  EC Vitória               2-2  Flamengo RJ
+[Dom, 15/Abril]
+  Santos SP                2-0  Ceára SC
+  América MG               3-0  Sport Recife
+  Internacional Porto Alegre  2-0  EC Bahia
+  CR Vasco da Gama         2-1  Atlético MG
+  Corinthians SP           2-1  Fluminense RJ
+  Atlético PR              5-1  Chapecoense
+[Seg, 16/Abril]
+  São Paulo FC             1-0  Paraná Clube
+  Botafogo RJ              1-1  Palmeiras SP
+
+
+Rodada 2
+[Sáb, 21/Abril]
+  EC Bahia                 1-0  Santos SP
+  Flamengo RJ              2-0  América MG
+[Dom, 22/Abril]
+  Paraná Clube             0-4  Corinthians SP
+  Atlético MG              2-1  EC Vitória
+  Fluminense RJ            1-0  Cruzeiro MG
+  Palmeiras SP             1-0  Internacional Porto Alegre
+  Ceára SC                 0-0  São Paulo FC
+  Chapecoense              1-1  CR Vasco da Gama
+  Grêmio RS                0-0  Atlético PR
+[Seg, 23/Abril]
+  Sport Recife             1-1  Botafogo RJ
+
+
+Rodada 3
+[Sáb, 28/Abril]
+  Botafogo RJ              2-1  Grêmio RS
+[Dom, 29/Abril]
+  Palmeiras SP             0-0  Chapecoense
+  Ceára SC                 0-3  Flamengo RJ
+  Paraná Clube             1-2  Sport Recife
+  EC Bahia                 0-0  Atlético PR
+  Atlético MG              1-0  Corinthians SP
+  Fluminense RJ            1-1  São Paulo FC
+  Internacional Porto Alegre  0-0  Cruzeiro MG
+[Seg, 30/Abril]
+  América MG               2-1  EC Vitória
+
+
+Rodada 4
+[Sáb, 5/Maio]
+  São Paulo FC             2-2  Atlético MG
+  CR Vasco da Gama         4-1  América MG
+[Dom, 6/Maio]
+  Corinthians SP           1-1  Ceára SC
+  Cruzeiro MG              1-0  Botafogo RJ
+  Flamengo RJ              2-0  Internacional Porto Alegre
+  Atlético PR              1-3  Palmeiras SP
+  EC Vitória               1-2  Fluminense RJ
+  Grêmio RS                5-1  Santos SP
+  Sport Recife             2-0  EC Bahia
+[Seg, 7/Maio]
+  Chapecoense              1-1  Paraná Clube
+
+
+Rodada 5
+[Sáb, 12/Maio]
+  Grêmio RS                0-0  Internacional Porto Alegre
+[Dom, 13/Maio]
+  Cruzeiro MG              2-0  Sport Recife
+  EC Bahia                 2-2  São Paulo FC
+  CR Vasco da Gama         2-3  EC Vitória
+  Corinthians SP           1-0  Palmeiras SP
+  Atlético PR              1-2  Atlético MG
+  Chapecoense              3-2  Flamengo RJ
+  Santos SP                3-1  Paraná Clube
+[Seg, 14/Maio]
+  Botafogo RJ              2-1  Fluminense RJ
+  Ceára SC                 2-2  América MG
+
+
+Rodada 6
+[Sáb, 19/Maio]
+  Atlético MG              1-0  Cruzeiro MG
+  Flamengo RJ              1-1  CR Vasco da Gama
+[Dom, 20/Maio]
+  Palmeiras SP             3-0  EC Bahia
+  EC Vitória               2-1  Ceára SC
+  São Paulo FC             1-0  Santos SP
+  Sport Recife             1-1  Corinthians SP
+  América MG               1-0  Botafogo RJ
+  Paraná Clube             0-0  Grêmio RS
+  Fluminense RJ            2-0  Atlético PR
+[Seg, 21/Maio]
+  Internacional Porto Alegre  3-0  Chapecoense
+
+
+Rodada 7
+[Sáb, 26/Maio]
+  Fluminense RJ            3-1  Chapecoense
+  Palmeiras SP             2-3  Sport Recife
+[Dom, 27/Maio]
+  Atlético MG              0-1  Flamengo RJ
+  Paraná Clube             0-0  Atlético PR
+  Internacional Porto Alegre  2-1  Corinthians SP
+  Santos SP                0-1  Cruzeiro MG
+  Botafogo RJ              1-1  EC Vitória
+  EC Bahia                 3-0  CR Vasco da Gama
+  Ceára SC                 0-1  Grêmio RS
+  América MG               1-3  São Paulo FC
+
+
+Rodada 8
+[Qua, 30/Maio]
+  CR Vasco da Gama         1-0  Paraná Clube
+  Sport Recife             3-2  Atlético MG
+  EC Vitória               2-3  Internacional Porto Alegre
+[Qui, 31/Maio]
+  São Paulo FC             3-2  Botafogo RJ
+  Chapecoense              2-0  Ceára SC
+  Cruzeiro MG              1-0  Palmeiras SP
+  Grêmio RS                0-0  Fluminense RJ
+  Flamengo RJ              2-0  EC Bahia
+  Corinthians SP           1-0  América MG
+[Sex, 1/Junho]
+  Atlético PR              2-0  Santos SP
+
+
+Rodada 9
+[Sáb, 2/Junho]
+  Internacional Porto Alegre  0-0  Sport Recife
+  Atlético MG              3-3  Chapecoense
+  CR Vasco da Gama         1-2  Botafogo RJ
+[Dom, 3/Junho]
+  Palmeiras SP             3-1  São Paulo FC
+  EC Bahia                 0-2  Grêmio RS
+  Santos SP                5-2  EC Vitória
+  Flamengo RJ              1-0  Corinthians SP
+  América MG               3-1  Atlético PR
+  Ceára SC                 0-1  Cruzeiro MG
+[Seg, 4/Junho]
+  Paraná Clube             2-1  Fluminense RJ
+
+
+Rodada 10
+[Qua, 6/Junho]
+  São Paulo FC             0-0  Internacional Porto Alegre
+  Botafogo RJ              0-0  Ceára SC
+  EC Vitória               1-0  Chapecoense
+[Qui, 7/Junho]
+  Corinthians SP           1-1  Santos SP
+  Sport Recife             1-0  Atlético PR
+  Grêmio RS                0-2  Palmeiras SP
+  Cruzeiro MG              1-1  CR Vasco da Gama
+  Fluminense RJ            0-2  Flamengo RJ
+  Paraná Clube             1-0  EC Bahia
+[Sex, 8/Junho]
+  América MG               1-3  Atlético MG
+
+
+Rodada 11
+[Sáb, 9/Junho]
+  Atlético PR              0-1  São Paulo FC
+  CR Vasco da Gama         3-2  Sport Recife
+  Chapecoense              2-0  Cruzeiro MG
+[Dom, 10/Junho]
+  Corinthians SP           0-0  EC Vitória
+  Grêmio RS                1-0  América MG
+  EC Bahia                 3-3  Botafogo RJ
+  Atlético MG              5-2  Fluminense RJ
+  Ceára SC                 2-2  Palmeiras SP
+  Santos SP                1-2  Internacional Porto Alegre
+  Flamengo RJ              2-0  Paraná Clube
+
+
+Rodada 12
+[Qua, 13/Junho]
+  São Paulo FC             3-0  EC Vitória
+  América MG               0-0  Chapecoense
+  Fluminense RJ            0-1  Santos SP
+  Sport Recife             0-0  Grêmio RS
+  Paraná Clube             1-1  Cruzeiro MG
+[Qui, 14/Junho]
+  Botafogo RJ              2-0  Atlético PR
+  Palmeiras SP             1-1  Flamengo RJ
+  Internacional Porto Alegre  3-1  CR Vasco da Gama
+  EC Bahia                 1-0  Corinthians SP
+  Atlético MG              2-1  Ceára SC
+
+
+Rodada 13
+[Qua, 18/Julho]
+  Ceára SC                 1-0  Sport Recife
+[Qui, 19/Julho]
+  EC Vitória               1-0  Paraná Clube
+  Grêmio RS                2-0  Atlético MG
+  Flamengo RJ              0-1  São Paulo FC
+  Corinthians SP           2-0  Botafogo RJ
+  Cruzeiro MG              3-1  América MG
+  Chapecoense              1-1  EC Bahia
+  Santos SP                1-1  Palmeiras SP
+  CR Vasco da Gama         1-1  Fluminense RJ
+[Sex, 20/Julho]
+  Atlético PR              2-2  Internacional Porto Alegre
+
+
+Rodada 14
+[Sáb, 21/Julho]
+  Flamengo RJ              2-0  Botafogo RJ
+[Dom, 22/Julho]
+  São Paulo FC             3-1  Corinthians SP
+  EC Bahia                 4-1  EC Vitória
+  CR Vasco da Gama         1-0  Grêmio RS
+  Sport Recife             1-2  Fluminense RJ
+  Palmeiras SP             3-2  Atlético MG
+  Paraná Clube             1-0  América MG
+  Cruzeiro MG              2-1  Atlético PR
+  Chapecoense              0-0  Santos SP
+[Seg, 23/Julho]
+  Internacional Porto Alegre  1-0  Ceára SC
+
+
+Rodada 15
+[Qua, 25/Julho]
+  Fluminense RJ            1-0  Palmeiras SP
+[Qui, 26/Julho]
+  Atlético MG              2-0  Paraná Clube
+  Santos SP                1-1  Flamengo RJ
+  Corinthians SP           2-0  Cruzeiro MG
+  Grêmio RS                2-1  São Paulo FC
+  Botafogo RJ              1-0  Chapecoense
+  EC Vitória               1-0  Sport Recife
+  América MG               2-1  Internacional Porto Alegre
+
+
+Rodada 16
+[Sáb, 28/Julho]
+  Ceára SC                 1-0  Fluminense RJ
+[Dom, 29/Julho]
+  CR Vasco da Gama         1-4  Corinthians SP
+  Palmeiras SP             3-0  Paraná Clube
+  Internacional Porto Alegre  3-0  Botafogo RJ
+  Cruzeiro MG              0-2  São Paulo FC
+  Flamengo RJ              4-1  Sport Recife
+  Atlético PR              4-0  EC Vitória
+  Santos SP                0-1  América MG
+  Chapecoense              1-1  Grêmio RS
+[Seg, 30/Julho]
+  EC Bahia                 2-2  Atlético MG
+
+
+Rodada 17
+[Sáb, 4/Agosto]
+  Botafogo RJ              0-0  Santos SP
+  Grêmio RS                2-0  Flamengo RJ
+[Dom, 5/Agosto]
+  Corinthians SP           0-0  Atlético PR
+  São Paulo FC             2-1  CR Vasco da Gama
+  América MG               0-0  Palmeiras SP
+  EC Vitória               1-1  Cruzeiro MG
+  Paraná Clube             0-1  Ceára SC
+  Fluminense RJ            1-1  EC Bahia
+  Sport Recife             1-1  Chapecoense
+[Seg, 6/Agosto]
+  Atlético MG              0-1  Internacional Porto Alegre
+
+
+Rodada 20
+[Qua, 8/Agosto]
+  Ceára SC                 1-1  Santos SP
+
+
+Rodada 18
+[Sáb, 11/Agosto]
+  Ceára SC                 0-0  Atlético PR
+  EC Bahia                 1-0  América MG
+[Dom, 12/Agosto]
+  Atlético MG              3-1  Santos SP
+  Paraná Clube             1-1  Botafogo RJ
+  Flamengo RJ              1-0  Cruzeiro MG
+  Sport Recife             1-3  São Paulo FC
+  Chapecoense              2-1  Corinthians SP
+  Grêmio RS                4-0  EC Vitória
+  Palmeiras SP             1-0  CR Vasco da Gama
+[Seg, 13/Agosto]
+  Fluminense RJ            0-3  Internacional Porto Alegre
+
+
+Rodada 19
+[Sáb, 18/Agosto]
+  Santos SP                3-0  Sport Recife
+  Corinthians SP           0-1  Grêmio RS
+[Dom, 19/Agosto]
+  Internacional Porto Alegre  1-0  Paraná Clube
+  Atlético PR              3-0  Flamengo RJ
+  Cruzeiro MG              1-1  EC Bahia
+  Botafogo RJ              0-3  Atlético MG
+  EC Vitória               0-3  Palmeiras SP
+  São Paulo FC             2-0  Chapecoense
+  América MG               0-0  Fluminense RJ
+[Seg, 20/Agosto]
+  CR Vasco da Gama         1-1  Ceára SC
+
+
+Rodada 20
+[Qua, 22/Agosto]
+  EC Bahia                 0-1  Internacional Porto Alegre
+  Paraná Clube             1-1  São Paulo FC
+[Qui, 23/Agosto]
+  Sport Recife             0-2  América MG
+  Palmeiras SP             2-0  Botafogo RJ
+  Grêmio RS                1-1  Cruzeiro MG
+  Fluminense RJ            1-0  Corinthians SP
+  Flamengo RJ              1-0  EC Vitória
+  Atlético MG              0-0  CR Vasco da Gama
+
+
+Rodada 21
+[Sáb, 25/Agosto]
+  Santos SP                2-0  EC Bahia
+  Corinthians SP           1-0  Paraná Clube
+  Atlético PR              2-1  Grêmio RS
+[Dom, 26/Agosto]
+  Cruzeiro MG              2-1  Fluminense RJ
+  Botafogo RJ              2-0  Sport Recife
+  São Paulo FC             1-0  Ceára SC
+  Internacional Porto Alegre  0-0  Palmeiras SP
+  América MG               2-2  Flamengo RJ
+  EC Vitória               1-0  Atlético MG
+  CR Vasco da Gama         3-1  Chapecoense
+
+
+Rodada 15
+[Qua, 29/Agosto]
+  Atlético PR              1-0  CR Vasco da Gama
+  Ceára SC                 0-2  EC Bahia
+
+
+Rodada 22
+[Sáb, 1/Set]
+  Grêmio RS                4-0  Botafogo RJ
+  EC Vitória               1-0  América MG
+  CR Vasco da Gama         0-3  Santos SP
+[Dom, 2/Set]
+  Corinthians SP           1-1  Atlético MG
+  Flamengo RJ              0-1  Ceára SC
+  São Paulo FC             1-1  Fluminense RJ
+  Sport Recife             1-0  Paraná Clube
+  Atlético PR              2-0  EC Bahia
+  Cruzeiro MG              0-0  Internacional Porto Alegre
+  Chapecoense              1-2  Palmeiras SP
+
+
+Rodada 23
+[Qua, 5/Set]
+  Botafogo RJ              1-1  Cruzeiro MG
+  EC Bahia                 2-0  Sport Recife
+  Ceára SC                 2-1  Corinthians SP
+[Qui, 6/Set]
+  Palmeiras SP             2-0  Atlético PR
+  Paraná Clube             1-1  Chapecoense
+  Internacional Porto Alegre  2-1  Flamengo RJ
+  Atlético MG              1-0  São Paulo FC
+  Santos SP                0-0  Grêmio RS
+  Fluminense RJ            0-0  EC Vitória
+  América MG               2-1  CR Vasco da Gama
+
+
+Rodada 24
+[Sáb, 8/Set]
+  Sport Recife             0-0  Cruzeiro MG
+  São Paulo FC             1-0  EC Bahia
+[Dom, 9/Set]
+  Flamengo RJ              2-0  Chapecoense
+  Internacional Porto Alegre  1-0  Grêmio RS
+  Fluminense RJ            1-0  Botafogo RJ
+  Palmeiras SP             1-0  Corinthians SP
+  América MG               0-0  Ceára SC
+  EC Vitória               1-0  CR Vasco da Gama
+  Paraná Clube             0-2  Santos SP
+[Seg, 10/Set]
+  Atlético MG              3-1  Atlético PR
+
+
+Rodada 20
+[Qui, 13/Set]
+  Chapecoense              2-1  Atlético PR
+
+
+Rodada 25
+[Sáb, 15/Set]
+  Grêmio RS                2-0  Paraná Clube
+  Ceára SC                 2-0  EC Vitória
+  CR Vasco da Gama         1-1  Flamengo RJ
+[Dom, 16/Set]
+  Botafogo RJ              1-0  América MG
+  Cruzeiro MG              0-0  Atlético MG
+  Santos SP                0-0  São Paulo FC
+  EC Bahia                 1-1  Palmeiras SP
+  Atlético PR              3-1  Fluminense RJ
+  Corinthians SP           2-1  Sport Recife
+[Seg, 17/Set]
+  Chapecoense              2-1  Internacional Porto Alegre
+
+
+Rodada 26
+[Sáb, 22/Set]
+  São Paulo FC             1-1  América MG
+[Dom, 23/Set]
+  Grêmio RS                3-2  Ceára SC
+  Flamengo RJ              2-1  Atlético MG
+  Corinthians SP           1-1  Internacional Porto Alegre
+  Atlético PR              3-0  Paraná Clube
+  Sport Recife             0-1  Palmeiras SP
+  EC Vitória               3-4  Botafogo RJ
+  Cruzeiro MG              2-1  Santos SP
+[Seg, 24/Set]
+  CR Vasco da Gama         2-1  EC Bahia
+  Chapecoense              1-2  Fluminense RJ
+
+
+Rodada 3
+[Qui, 27/Set]
+  Santos SP                1-1  CR Vasco da Gama
+
+
+Rodada 27
+[Sáb, 29/Set]
+  Fluminense RJ            0-1  Grêmio RS
+  América MG               0-0  Corinthians SP
+[Dom, 30/Set]
+  EC Bahia                 0-0  Flamengo RJ
+  Palmeiras SP             3-1  Cruzeiro MG
+  Internacional Porto Alegre  2-1  EC Vitória
+  Santos SP                1-0  Atlético PR
+  Botafogo RJ              2-2  São Paulo FC
+  Atlético MG              5-2  Sport Recife
+  Ceára SC                 3-1  Chapecoense
+[Seg, 1/Out]
+  Paraná Clube             1-1  CR Vasco da Gama
+
+
+Rodada 28
+[Sex, 5/Out]
+  Sport Recife             2-1  Internacional Porto Alegre
+[Sáb, 6/Out]
+  Corinthians SP           0-3  Flamengo RJ
+  EC Vitória               0-1  Santos SP
+  Atlético PR              4-0  América MG
+  Chapecoense              1-0  Atlético MG
+  São Paulo FC             0-2  Palmeiras SP
+[Dom, 7/Out]
+  Grêmio RS                2-2  EC Bahia
+[Seg, 8/Out]
+  Fluminense RJ            4-0  Paraná Clube
+[Qua, 10/Out]
+  Botafogo RJ              1-1  CR Vasco da Gama
+
+
+Rodada 29
+[Sáb, 13/Out]
+  Flamengo RJ              3-0  Fluminense RJ
+  Santos SP                1-0  Corinthians SP
+[Dom, 14/Out]
+  EC Bahia                 2-0  Paraná Clube
+  Chapecoense              0-1  EC Vitória
+  Internacional Porto Alegre  3-1  São Paulo FC
+  CR Vasco da Gama         2-0  Cruzeiro MG
+  Palmeiras SP             2-0  Grêmio RS
+  Atlético MG              0-0  América MG
+  Atlético PR              4-0  Sport Recife
+[Seg, 15/Out]
+  Ceára SC                 0-0  Botafogo RJ
+
+
+Rodada 30
+[Sáb, 20/Out]
+  Botafogo RJ              0-1  EC Bahia
+  América MG               1-1  Grêmio RS
+  São Paulo FC             0-0  Atlético PR
+  Sport Recife             2-1  CR Vasco da Gama
+[Dom, 21/Out]
+  Fluminense RJ            1-0  Atlético MG
+  Palmeiras SP             2-1  Ceára SC
+  EC Vitória               2-2  Corinthians SP
+  Cruzeiro MG              3-0  Chapecoense
+  Paraná Clube             0-4  Flamengo RJ
+[Seg, 22/Out]
+  Internacional Porto Alegre  2-2  Santos SP
+
+
+Rodada 28
+[Qua, 24/Out]
+  Cruzeiro MG              0-2  Ceára SC
+
+
+Rodada 31
+[Sex, 26/Out]
+  EC Vitória               0-1  São Paulo FC
+[Sáb, 27/Out]
+  CR Vasco da Gama         1-1  Internacional Porto Alegre
+  Grêmio RS                3-4  Sport Recife
+  Santos SP                3-0  Fluminense RJ
+  Flamengo RJ              1-1  Palmeiras SP
+  Corinthians SP           2-1  EC Bahia
+  Chapecoense              1-0  América MG
+[Dom, 28/Out]
+  Cruzeiro MG              3-1  Paraná Clube
+  Atlético PR              2-1  Botafogo RJ
+[Seg, 29/Out]
+  Ceára SC                 2-1  Atlético MG
+
+
+Rodada 32
+[Sáb, 3/Nov]
+  Atlético MG              0-1  Grêmio RS
+  Fluminense RJ            0-1  CR Vasco da Gama
+  Palmeiras SP             3-2  Santos SP
+[Dom, 4/Nov]
+  São Paulo FC             2-2  Flamengo RJ
+  Botafogo RJ              1-0  Corinthians SP
+  América MG               1-2  Cruzeiro MG
+  Paraná Clube             1-1  EC Vitória
+  Internacional Porto Alegre  2-1  Atlético PR
+  EC Bahia                 1-0  Chapecoense
+[Seg, 5/Nov]
+  Sport Recife             1-0  Ceára SC
+
+
+Rodada 33
+[Sáb, 10/Nov]
+  Corinthians SP           1-1  São Paulo FC
+  América MG               0-1  Paraná Clube
+  Botafogo RJ              2-1  Flamengo RJ
+  Atlético PR              2-0  Cruzeiro MG
+[Dom, 11/Nov]
+  Grêmio RS                2-1  CR Vasco da Gama
+  Atlético MG              1-1  Palmeiras SP
+  Ceára SC                 1-1  Internacional Porto Alegre
+  EC Vitória               2-2  EC Bahia
+  Fluminense RJ            0-0  Sport Recife
+[Seg, 12/Nov]
+  Santos SP                0-1  Chapecoense
+
+
+Rodada 34
+[Qua, 14/Nov]
+  CR Vasco da Gama         1-1  Atlético PR
+  EC Bahia                 2-1  Ceára SC
+  Paraná Clube             0-1  Atlético MG
+  Cruzeiro MG              1-0  Corinthians SP
+  Sport Recife             0-0  EC Vitória
+  Palmeiras SP             3-0  Fluminense RJ
+[Qui, 15/Nov]
+  Flamengo RJ              1-0  Santos SP
+  Chapecoense              0-1  Botafogo RJ
+  São Paulo FC             1-1  Grêmio RS
+  Internacional Porto Alegre  2-0  América MG
+
+
+Rodada 35
+[Sáb, 17/Nov]
+  Corinthians SP           1-0  CR Vasco da Gama
+  EC Vitória               1-2  Atlético PR
+  Atlético MG              1-0  EC Bahia
+[Dom, 18/Nov]
+  Botafogo RJ              1-0  Internacional Porto Alegre
+  Sport Recife             0-1  Flamengo RJ
+  América MG               2-1  Santos SP
+  Paraná Clube             1-1  Palmeiras SP
+  São Paulo FC             1-0  Cruzeiro MG
+  Grêmio RS                2-0  Chapecoense
+[Seg, 19/Nov]
+  Fluminense RJ            0-0  Ceára SC
+
+
+Rodada 36
+[Qua, 21/Nov]
+  Internacional Porto Alegre  1-2  Atlético MG
+  Santos SP                1-1  Botafogo RJ
+  Cruzeiro MG              3-0  EC Vitória
+  Flamengo RJ              2-0  Grêmio RS
+  Palmeiras SP             4-0  América MG
+  Atlético PR              1-0  Corinthians SP
+[Qui, 22/Nov]
+  CR Vasco da Gama         2-0  São Paulo FC
+  EC Bahia                 2-0  Fluminense RJ
+  Ceára SC                 1-0  Paraná Clube
+  Chapecoense              2-1  Sport Recife
+
+
+Rodada 37
+[Sáb, 24/Nov]
+  Santos SP                3-2  Atlético MG
+[Dom, 25/Nov]
+  Cruzeiro MG              0-2  Flamengo RJ
+  CR Vasco da Gama         0-1  Palmeiras SP
+  Atlético PR              2-2  Ceára SC
+  EC Vitória               0-0  Grêmio RS
+  Internacional Porto Alegre  2-0  Fluminense RJ
+  Corinthians SP           0-0  Chapecoense
+  América MG               1-0  EC Bahia
+[Seg, 26/Nov]
+  São Paulo FC             0-0  Sport Recife
+  Botafogo RJ              2-1  Paraná Clube
+
+
+Rodada 38
+[Sáb, 1/Dez]
+  Atlético MG              1-0  Botafogo RJ
+  Flamengo RJ              1-2  Atlético PR
+[Dom, 2/Dez]
+  Grêmio RS                1-0  Corinthians SP
+  EC Bahia                 0-0  Cruzeiro MG
+  Fluminense RJ            1-0  América MG
+  Sport Recife             2-1  Santos SP
+  Palmeiras SP             3-2  EC Vitória
+  Ceára SC                 0-0  CR Vasco da Gama
+  Paraná Clube             1-1  Internacional Porto Alegre
+  Chapecoense              1-0  São Paulo FC

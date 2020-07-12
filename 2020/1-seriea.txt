@@ -1,0 +1,533 @@
+=  Brasileiro Série A 2020
+
+
+Rodada 1
+[Dom, 3/Maio]
+  Grêmio RS                -  Fluminense RJ
+  Santos SP                -  RB Bragantino
+  Botafogo RJ              -  EC Bahia
+  Coritiba PR              -  Internacional Porto Alegre
+  Flamengo RJ              -  Atlético MG
+  Corinthians SP           -  Atlético GO
+  Sport Recife             -  Ceára SC
+  Palmeiras SP             -  CR Vasco da Gama
+  Goiás EC                 -  São Paulo FC
+  Fortaleza EC             -  Atlético PR
+
+
+Rodada 2
+[Dom, 10/Maio]
+  São Paulo FC             -  Fortaleza EC
+  Internacional Porto Alegre  -  Santos SP
+  Atlético GO              -  Flamengo RJ
+  EC Bahia                 -  Coritiba PR
+  Atlético MG              -  Corinthians SP
+  CR Vasco da Gama         -  Sport Recife
+  Fluminense RJ            -  Palmeiras SP
+  Atlético PR              -  Goiás EC
+  Ceára SC                 -  Grêmio RS
+  RB Bragantino            -  Botafogo RJ
+
+
+Rodada 3
+[Dom, 17/Maio]
+  Grêmio RS                -  Corinthians SP
+  Santos SP                -  Atlético PR
+  Atlético GO              -  Sport Recife
+  EC Bahia                 -  RB Bragantino
+  Atlético MG              -  Ceára SC
+  Coritiba PR              -  Flamengo RJ
+  CR Vasco da Gama         -  São Paulo FC
+  Fluminense RJ            -  Internacional Porto Alegre
+  Palmeiras SP             -  Goiás EC
+  Fortaleza EC             -  Botafogo RJ
+
+
+Rodada 4
+[Dom, 24/Maio]
+  Internacional Porto Alegre  -  Atlético GO
+  Botafogo RJ              -  Atlético MG
+  Flamengo RJ              -  Grêmio RS
+  Corinthians SP           -  Coritiba PR
+  Sport Recife             -  Santos SP
+  Atlético PR              -  Palmeiras SP
+  Ceára SC                 -  CR Vasco da Gama
+  Goiás EC                 -  Fortaleza EC
+  RB Bragantino            -  Fluminense RJ
+  São Paulo FC             -  EC Bahia
+
+
+Rodada 5
+[Dom, 31/Maio]
+  Internacional Porto Alegre  -  Atlético MG
+  Flamengo RJ              -  Botafogo RJ
+  CR Vasco da Gama         -  Grêmio RS
+  Corinthians SP           -  Fortaleza EC
+  Sport Recife             -  São Paulo FC
+  Palmeiras SP             -  Santos SP
+  Atlético PR              -  Fluminense RJ
+  Ceára SC                 -  EC Bahia
+  Goiás EC                 -  Atlético GO
+  RB Bragantino            -  Coritiba PR
+
+
+Rodada 6
+[Qua, 10/Junho]
+  São Paulo FC             -  Corinthians SP
+  Grêmio RS                -  Goiás EC
+  Santos SP                -  Flamengo RJ
+  Botafogo RJ              -  Internacional Porto Alegre
+  Atlético GO              -  Ceára SC
+  EC Bahia                 -  Palmeiras SP
+  Atlético MG              -  Atlético PR
+  Coritiba PR              -  Sport Recife
+  Fluminense RJ            -  CR Vasco da Gama
+  Fortaleza EC             -  RB Bragantino
+
+
+Rodada 7
+[Dom, 14/Junho]
+  Grêmio RS                -  Sport Recife
+  Santos SP                -  CR Vasco da Gama
+  Botafogo RJ              -  Coritiba PR
+  EC Bahia                 -  Flamengo RJ
+  Atlético MG              -  São Paulo FC
+  Fluminense RJ            -  Atlético GO
+  Palmeiras SP             -  Internacional Porto Alegre
+  Atlético PR              -  RB Bragantino
+  Ceára SC                 -  Fortaleza EC
+  Goiás EC                 -  Corinthians SP
+
+
+Rodada 8
+[Qua, 17/Junho]
+  São Paulo FC             -  Fluminense RJ
+  Internacional Porto Alegre  -  EC Bahia
+  Atlético GO              -  Grêmio RS
+  Coritiba PR              -  Atlético MG
+  Flamengo RJ              -  Fortaleza EC
+  CR Vasco da Gama         -  Atlético PR
+  Corinthians SP           -  Botafogo RJ
+  Sport Recife             -  Goiás EC
+  Ceára SC                 -  Santos SP
+  RB Bragantino            -  Palmeiras SP
+
+
+Rodada 9
+[Dom, 21/Junho]
+  São Paulo FC             -  RB Bragantino
+  Internacional Porto Alegre  -  Ceára SC
+  Santos SP                -  Atlético MG
+  EC Bahia                 -  Grêmio RS
+  CR Vasco da Gama         -  Atlético GO
+  Fluminense RJ            -  Flamengo RJ
+  Corinthians SP           -  Palmeiras SP
+  Atlético PR              -  Botafogo RJ
+  Goiás EC                 -  Coritiba PR
+  Fortaleza EC             -  Sport Recife
+
+
+Rodada 10
+[Qua, 24/Junho]
+  Grêmio RS                -  Fortaleza EC
+  Santos SP                -  São Paulo FC
+  Botafogo RJ              -  CR Vasco da Gama
+  EC Bahia                 -  Atlético GO
+  Atlético MG              -  RB Bragantino
+  Fluminense RJ            -  Corinthians SP
+  Palmeiras SP             -  Sport Recife
+  Atlético PR              -  Coritiba PR
+  Ceára SC                 -  Flamengo RJ
+  Goiás EC                 -  Internacional Porto Alegre
+
+
+Rodada 11
+[Dom, 28/Junho]
+  São Paulo FC             -  Atlético PR
+  Grêmio RS                -  Palmeiras SP
+  Botafogo RJ              -  Santos SP
+  Atlético GO              -  Atlético MG
+  Coritiba PR              -  CR Vasco da Gama
+  Flamengo RJ              -  Goiás EC
+  Corinthians SP           -  EC Bahia
+  Sport Recife             -  Fluminense RJ
+  Fortaleza EC             -  Internacional Porto Alegre
+  RB Bragantino            -  Ceára SC
+
+
+Rodada 12
+[Qua, 1/Julho]
+  Internacional Porto Alegre  -  São Paulo FC
+  Santos SP                -  Fortaleza EC
+  Atlético GO              -  Botafogo RJ
+  Atlético MG              -  Grêmio RS
+  CR Vasco da Gama         -  RB Bragantino
+  Fluminense RJ            -  Coritiba PR
+  Sport Recife             -  Corinthians SP
+  Palmeiras SP             -  Flamengo RJ
+  Atlético PR              -  EC Bahia
+  Ceára SC                 -  Goiás EC
+
+
+Rodada 13
+[Dom, 5/Julho]
+  Grêmio RS                -  Internacional Porto Alegre
+  Botafogo RJ              -  Fluminense RJ
+  EC Bahia                 -  Sport Recife
+  Atlético MG              -  CR Vasco da Gama
+  Coritiba PR              -  São Paulo FC
+  Flamengo RJ              -  Atlético PR
+  Palmeiras SP             -  Ceára SC
+  Goiás EC                 -  Santos SP
+  Fortaleza EC             -  Atlético GO
+  RB Bragantino            -  Corinthians SP
+
+
+Rodada 14
+[Qua, 8/Julho]
+  São Paulo FC             -  Atlético GO
+  Grêmio RS                -  Coritiba PR
+  Botafogo RJ              -  Palmeiras SP
+  EC Bahia                 -  CR Vasco da Gama
+  Flamengo RJ              -  Sport Recife
+  Corinthians SP           -  Santos SP
+  Atlético PR              -  Ceára SC
+  Goiás EC                 -  Fluminense RJ
+  Fortaleza EC             -  Atlético MG
+  RB Bragantino            -  Internacional Porto Alegre
+
+
+Rodada 15
+[Dom, 12/Julho]
+  Internacional Porto Alegre  -  Atlético PR
+  Santos SP                -  Grêmio RS
+  Atlético GO              -  RB Bragantino
+  Atlético MG              -  Goiás EC
+  Coritiba PR              -  Fortaleza EC
+  CR Vasco da Gama         -  Flamengo RJ
+  Fluminense RJ            -  EC Bahia
+  Sport Recife             -  Botafogo RJ
+  Palmeiras SP             -  São Paulo FC
+  Ceára SC                 -  Corinthians SP
+
+
+Rodada 16
+[Dom, 19/Julho]
+  Grêmio RS                -  Botafogo RJ
+  Santos SP                -  Atlético GO
+  Atlético MG              -  Fluminense RJ
+  Flamengo RJ              -  RB Bragantino
+  CR Vasco da Gama         -  Fortaleza EC
+  Sport Recife             -  Internacional Porto Alegre
+  Palmeiras SP             -  Coritiba PR
+  Atlético PR              -  Corinthians SP
+  Ceára SC                 -  São Paulo FC
+  Goiás EC                 -  EC Bahia
+
+
+Rodada 17
+[Dom, 2/Agosto]
+  São Paulo FC             -  Grêmio RS
+  Internacional Porto Alegre  -  CR Vasco da Gama
+  Botafogo RJ              -  Goiás EC
+  Atlético GO              -  Atlético PR
+  EC Bahia                 -  Atlético MG
+  Coritiba PR              -  Santos SP
+  Fluminense RJ            -  Ceára SC
+  Corinthians SP           -  Flamengo RJ
+  Fortaleza EC             -  Palmeiras SP
+  RB Bragantino            -  Sport Recife
+
+
+Rodada 18
+[Dom, 9/Agosto]
+  São Paulo FC             -  Botafogo RJ
+  Internacional Porto Alegre  -  Flamengo RJ
+  Atlético GO              -  Palmeiras SP
+  EC Bahia                 -  Fortaleza EC
+  Atlético MG              -  Sport Recife
+  CR Vasco da Gama         -  Corinthians SP
+  Fluminense RJ            -  Santos SP
+  Atlético PR              -  Grêmio RS
+  Ceára SC                 -  Coritiba PR
+  RB Bragantino            -  Goiás EC
+
+
+Rodada 19
+[Dom, 16/Agosto]
+  Grêmio RS                -  RB Bragantino
+  Santos SP                -  EC Bahia
+  Botafogo RJ              -  Ceára SC
+  Coritiba PR              -  Atlético GO
+  Flamengo RJ              -  São Paulo FC
+  Corinthians SP           -  Internacional Porto Alegre
+  Sport Recife             -  Atlético PR
+  Palmeiras SP             -  Atlético MG
+  Goiás EC                 -  CR Vasco da Gama
+  Fortaleza EC             -  Fluminense RJ
+
+
+Rodada 20
+[Dom, 23/Agosto]
+  São Paulo FC             -  Goiás EC
+  Internacional Porto Alegre  -  Coritiba PR
+  Atlético GO              -  Corinthians SP
+  EC Bahia                 -  Botafogo RJ
+  Atlético MG              -  Flamengo RJ
+  CR Vasco da Gama         -  Palmeiras SP
+  Fluminense RJ            -  Grêmio RS
+  Atlético PR              -  Fortaleza EC
+  Ceára SC                 -  Sport Recife
+  RB Bragantino            -  Santos SP
+
+
+Rodada 21
+[Dom, 30/Agosto]
+  Grêmio RS                -  Ceára SC
+  Santos SP                -  Internacional Porto Alegre
+  Botafogo RJ              -  RB Bragantino
+  Coritiba PR              -  EC Bahia
+  Flamengo RJ              -  Atlético GO
+  Corinthians SP           -  Atlético MG
+  Sport Recife             -  CR Vasco da Gama
+  Palmeiras SP             -  Fluminense RJ
+  Goiás EC                 -  Atlético PR
+  Fortaleza EC             -  São Paulo FC
+
+
+Rodada 22
+[Dom, 13/Set]
+  São Paulo FC             -  CR Vasco da Gama
+  Internacional Porto Alegre  -  Fluminense RJ
+  Botafogo RJ              -  Fortaleza EC
+  Flamengo RJ              -  Coritiba PR
+  Corinthians SP           -  Grêmio RS
+  Sport Recife             -  Atlético GO
+  Atlético PR              -  Santos SP
+  Ceára SC                 -  Atlético MG
+  Goiás EC                 -  Palmeiras SP
+  RB Bragantino            -  EC Bahia
+
+
+Rodada 23
+[Dom, 20/Set]
+  Grêmio RS                -  Flamengo RJ
+  Santos SP                -  Sport Recife
+  Atlético GO              -  Internacional Porto Alegre
+  EC Bahia                 -  São Paulo FC
+  Atlético MG              -  Botafogo RJ
+  Coritiba PR              -  Corinthians SP
+  CR Vasco da Gama         -  Ceára SC
+  Fluminense RJ            -  RB Bragantino
+  Palmeiras SP             -  Atlético PR
+  Fortaleza EC             -  Goiás EC
+
+
+Rodada 24
+[Dom, 27/Set]
+  São Paulo FC             -  Sport Recife
+  Grêmio RS                -  CR Vasco da Gama
+  Santos SP                -  Palmeiras SP
+  Botafogo RJ              -  Flamengo RJ
+  Atlético GO              -  Goiás EC
+  EC Bahia                 -  Ceára SC
+  Atlético MG              -  Internacional Porto Alegre
+  Coritiba PR              -  RB Bragantino
+  Fluminense RJ            -  Atlético PR
+  Fortaleza EC             -  Corinthians SP
+
+
+Rodada 25
+[Sáb, 3/Out]
+  Internacional Porto Alegre  -  Botafogo RJ
+  Flamengo RJ              -  Santos SP
+  CR Vasco da Gama         -  Fluminense RJ
+  Corinthians SP           -  São Paulo FC
+  Sport Recife             -  Coritiba PR
+  Palmeiras SP             -  EC Bahia
+  Atlético PR              -  Atlético MG
+  Ceára SC                 -  Atlético GO
+  Goiás EC                 -  Grêmio RS
+  RB Bragantino            -  Fortaleza EC
+
+
+Rodada 26
+[Qua, 14/Out]
+  São Paulo FC             -  Atlético MG
+  Internacional Porto Alegre  -  Palmeiras SP
+  Atlético GO              -  Fluminense RJ
+  Coritiba PR              -  Botafogo RJ
+  Flamengo RJ              -  EC Bahia
+  CR Vasco da Gama         -  Santos SP
+  Corinthians SP           -  Goiás EC
+  Sport Recife             -  Grêmio RS
+  Fortaleza EC             -  Ceára SC
+  RB Bragantino            -  Atlético PR
+
+
+Rodada 27
+[Dom, 18/Out]
+  Grêmio RS                -  Atlético GO
+  Santos SP                -  Ceára SC
+  Botafogo RJ              -  Corinthians SP
+  EC Bahia                 -  Internacional Porto Alegre
+  Atlético MG              -  Coritiba PR
+  Fluminense RJ            -  São Paulo FC
+  Palmeiras SP             -  RB Bragantino
+  Atlético PR              -  CR Vasco da Gama
+  Goiás EC                 -  Sport Recife
+  Fortaleza EC             -  Flamengo RJ
+
+
+Rodada 28
+[Qua, 21/Out]
+  Grêmio RS                -  EC Bahia
+  Botafogo RJ              -  Atlético PR
+  Atlético GO              -  CR Vasco da Gama
+  Atlético MG              -  Santos SP
+  Coritiba PR              -  Goiás EC
+  Flamengo RJ              -  Fluminense RJ
+  Sport Recife             -  Fortaleza EC
+  Palmeiras SP             -  Corinthians SP
+  Ceára SC                 -  Internacional Porto Alegre
+  RB Bragantino            -  São Paulo FC
+
+
+Rodada 29
+[Sáb, 24/Out]
+  Sport Recife             -  Palmeiras SP
+  Fortaleza EC             -  Grêmio RS
+  RB Bragantino            -  Atlético MG
+  São Paulo FC             -  Santos SP
+  Internacional Porto Alegre  -  Goiás EC
+  Atlético GO              -  EC Bahia
+  Coritiba PR              -  Atlético PR
+  Flamengo RJ              -  Ceára SC
+  CR Vasco da Gama         -  Botafogo RJ
+  Corinthians SP           -  Fluminense RJ
+
+
+Rodada 30
+[Qua, 28/Out]
+  Internacional Porto Alegre  -  Fortaleza EC
+  Santos SP                -  Botafogo RJ
+  EC Bahia                 -  Corinthians SP
+  Atlético MG              -  Atlético GO
+  CR Vasco da Gama         -  Coritiba PR
+  Fluminense RJ            -  Sport Recife
+  Palmeiras SP             -  Grêmio RS
+  Atlético PR              -  São Paulo FC
+  Ceára SC                 -  RB Bragantino
+  Goiás EC                 -  Flamengo RJ
+
+
+Rodada 31
+[Dom, 1/Nov]
+  São Paulo FC             -  Internacional Porto Alegre
+  Grêmio RS                -  Atlético MG
+  Botafogo RJ              -  Atlético GO
+  EC Bahia                 -  Atlético PR
+  Coritiba PR              -  Fluminense RJ
+  Flamengo RJ              -  Palmeiras SP
+  Corinthians SP           -  Sport Recife
+  Goiás EC                 -  Ceára SC
+  Fortaleza EC             -  Santos SP
+  RB Bragantino            -  CR Vasco da Gama
+
+
+Rodada 32
+[Qua, 4/Nov]
+  São Paulo FC             -  Coritiba PR
+  Internacional Porto Alegre  -  Grêmio RS
+  Santos SP                -  Goiás EC
+  Atlético GO              -  Fortaleza EC
+  CR Vasco da Gama         -  Atlético MG
+  Fluminense RJ            -  Botafogo RJ
+  Corinthians SP           -  RB Bragantino
+  Sport Recife             -  EC Bahia
+  Atlético PR              -  Flamengo RJ
+  Ceára SC                 -  Palmeiras SP
+
+
+Rodada 33
+[Dom, 8/Nov]
+  Internacional Porto Alegre  -  RB Bragantino
+  Santos SP                -  Corinthians SP
+  Atlético GO              -  São Paulo FC
+  Atlético MG              -  Fortaleza EC
+  Coritiba PR              -  Grêmio RS
+  CR Vasco da Gama         -  EC Bahia
+  Fluminense RJ            -  Goiás EC
+  Sport Recife             -  Flamengo RJ
+  Palmeiras SP             -  Botafogo RJ
+  Ceára SC                 -  Atlético PR
+
+
+Rodada 34
+[Qua, 18/Nov]
+  São Paulo FC             -  Palmeiras SP
+  Grêmio RS                -  Santos SP
+  Botafogo RJ              -  Sport Recife
+  EC Bahia                 -  Fluminense RJ
+  Flamengo RJ              -  CR Vasco da Gama
+  Corinthians SP           -  Ceára SC
+  Atlético PR              -  Internacional Porto Alegre
+  Goiás EC                 -  Atlético MG
+  Fortaleza EC             -  Coritiba PR
+  RB Bragantino            -  Atlético GO
+
+
+Rodada 35
+[Dom, 22/Nov]
+  São Paulo FC             -  Ceára SC
+  Internacional Porto Alegre  -  Sport Recife
+  Botafogo RJ              -  Grêmio RS
+  Atlético GO              -  Santos SP
+  EC Bahia                 -  Goiás EC
+  Coritiba PR              -  Palmeiras SP
+  Fluminense RJ            -  Atlético MG
+  Corinthians SP           -  Atlético PR
+  Fortaleza EC             -  CR Vasco da Gama
+  RB Bragantino            -  Flamengo RJ
+
+
+Rodada 36
+[Dom, 29/Nov]
+  Grêmio RS                -  São Paulo FC
+  Santos SP                -  Coritiba PR
+  Atlético MG              -  EC Bahia
+  Flamengo RJ              -  Corinthians SP
+  CR Vasco da Gama         -  Internacional Porto Alegre
+  Sport Recife             -  RB Bragantino
+  Palmeiras SP             -  Fortaleza EC
+  Atlético PR              -  Atlético GO
+  Ceára SC                 -  Fluminense RJ
+  Goiás EC                 -  Botafogo RJ
+
+
+Rodada 37
+[Qua, 2/Dez]
+  Grêmio RS                -  Atlético PR
+  Santos SP                -  Fluminense RJ
+  Botafogo RJ              -  São Paulo FC
+  Coritiba PR              -  Ceára SC
+  Flamengo RJ              -  Internacional Porto Alegre
+  Corinthians SP           -  CR Vasco da Gama
+  Sport Recife             -  Atlético MG
+  Palmeiras SP             -  Atlético GO
+  Goiás EC                 -  RB Bragantino
+  Fortaleza EC             -  EC Bahia
+
+
+Rodada 38
+[Dom, 6/Dez]
+  São Paulo FC             -  Flamengo RJ
+  Internacional Porto Alegre  -  Corinthians SP
+  Atlético GO              -  Coritiba PR
+  EC Bahia                 -  Santos SP
+  Atlético MG              -  Palmeiras SP
+  CR Vasco da Gama         -  Goiás EC
+  Fluminense RJ            -  Fortaleza EC
+  Atlético PR              -  Sport Recife
+  Ceára SC                 -  Botafogo RJ
+  RB Bragantino            -  Grêmio RS
