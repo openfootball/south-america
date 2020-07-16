@@ -31,7 +31,10 @@ vitoria,      EC Vitória,                  VIT
 
 criciuma,      Criciúma EC,                CRI
 avai,          Avaí FC,                    AVA
-joinvile,      Joinvile EC,                JOI
+
+# todo/fix: no club match for (canonical) name >Joinvile EC< in props row:
+# joinvile,      Joinvile EC,                JOI
+
 goias,         Goiás EC,                   GOI
 atleticogo,    Atlético GO,                ACG
 vilanovago,    Vila Nova GO,               VIL
