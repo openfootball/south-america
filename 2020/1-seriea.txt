@@ -86,27 +86,27 @@ Rodada 5
 
 Rodada 6
 [Sáb, 29/Agosto]
-  19.00  Fluminense RJ            -  CR Vasco da Gama
+  19.00  Fluminense RJ            2-1 (1-0)  CR Vasco da Gama
   Atlético MG              -  Atlético PR
-  17.00  Botafogo RJ              -  Internacional Porto Alegre
-  19.00  EC Bahia                 -  Palmeiras SP
-  21.00  Fortaleza EC             -  RB Bragantino
+  17.00  Botafogo RJ              0-2 (0-2)  Internacional Porto Alegre
+  19.00  EC Bahia                 1-1 (0-0)  Palmeiras SP
+  21.00  Fortaleza EC             3-0 (1-0)  RB Bragantino
 [Dom, 30/Agosto]
-  11.00  São Paulo FC             -  Corinthians SP
-  16.00  Coritiba PR              -  Sport Recife
-         Santos SP                -  Flamengo RJ
-  18.00  Atlético GO              -  Ceára SC
+  11.00  São Paulo FC             2-1 (1-1)  Corinthians SP
+  16.00  Coritiba PR              1-0 (0-0)  Sport Recife
+         Santos SP                0-1 (0-1)  Flamengo RJ
+  18.00  Atlético GO              0-2 (0-0)  Ceára SC
 [Seg, 31/Agosto]
   Grêmio RS                -  Goiás EC
 
 
 Rodada 7
 [Qua, 2/Set]
-  19.15  Ceára SC                 -  Fortaleza EC
+  19.00  Ceára SC                 -  Fortaleza EC
+  19.15  Fluminense RJ            -  Atlético GO
          Goiás EC                 -  Corinthians SP
-         Fluminense RJ            -  Atlético GO
-  20.30  EC Bahia                 -  Flamengo RJ
-         Botafogo RJ              -  Coritiba PR
+  20.30  Botafogo RJ              -  Coritiba PR
+         EC Bahia                 -  Flamengo RJ
          Atlético PR              -  RB Bragantino
   21.30  Santos SP                -  CR Vasco da Gama
          Palmeiras SP             -  Internacional Porto Alegre
@@ -119,7 +119,7 @@ Rodada 8
 [Sáb, 5/Set]
   17.00  Flamengo RJ              -  Fortaleza EC
   19.00  Corinthians SP           -  Botafogo RJ
-  21.30  Ceára SC                 -  Santos SP
+  21.00  Ceára SC                 -  Santos SP
 [Dom, 6/Set]
   11.00  RB Bragantino            -  Palmeiras SP
   16.00  Internacional Porto Alegre  -  EC Bahia
