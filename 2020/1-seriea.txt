@@ -162,21 +162,21 @@ Rodada 10
 
 Rodada 11
 [Qua, 16/Set]
-  21.30  Corinthians SP           -  EC Bahia
+  21.30  Corinthians SP           3-2 (2-1)  EC Bahia
 [Sáb, 19/Set]
-  19.00  Fortaleza EC             -  Internacional Porto Alegre
-         RB Bragantino            -  Ceára SC
-  21.00  Atlético GO              -  Atlético MG
+  19.00  Fortaleza EC             1-0 (0-0)  Internacional Porto Alegre
+         RB Bragantino            4-2 (3-1)  Ceára SC
+  21.00  Atlético GO              3-4 (1-0)  Atlético MG
 [Dom, 20/Set]
-  16.00  Grêmio RS                -  Palmeiras SP
-         Coritiba PR              -  CR Vasco da Gama
-  18.15  Botafogo RJ              -  Santos SP
-  20.30  Sport Recife             -  Fluminense RJ
+  16.00  Grêmio RS                1-1 (0-0)  Palmeiras SP
+         Coritiba PR              1-0 (0-0)  CR Vasco da Gama
+  18.15  Botafogo RJ              0-0  Santos SP
+  20.30  Sport Recife             1-0 (1-0)  Fluminense RJ
 
 
 Rodada 12
 [Qua, 23/Set]
-  21.30  Sport Recife             -  Corinthians SP
+  21.30  Sport Recife             1-0 (1-0)  Corinthians SP
 [Sáb, 26/Set]
   19.00  Atlético PR              -  EC Bahia
          Internacional Porto Alegre  -  São Paulo FC
@@ -214,7 +214,7 @@ Rodada 13
 
 Rodada 14
 [Qua, 7/Out]
-  19.00  Atlético PR              -  Ceára SC
+  19.00  Corinthians SP           -  Santos SP
   19.15  Grêmio RS                -  Coritiba PR
          Flamengo RJ              -  Sport Recife
          EC Bahia                 -  CR Vasco da Gama
@@ -223,7 +223,7 @@ Rodada 14
   21.30  Fortaleza EC             -  Atlético MG
          Botafogo RJ              -  Palmeiras SP
 [Qui, 8/Out]
-  19.00  Corinthians SP           -  Santos SP
+  19.00  Atlético PR              -  Ceára SC
   21.00  RB Bragantino            -  Internacional Porto Alegre
 
 
