@@ -1,0 +1,556 @@
+= Argentina Primera Division 2018/19
+
+
+Jornada 1
+[Vie. 10.8.]
+  Vélez Sarsfield           2-0  Newell's Old Boys
+  CA Tigre                  2-2  San Lorenzo
+[Sáb. 11.8.]
+  Gimnasia y Esgrima LP     1-0  Argentinos Juniors
+  Unión Santa Fe            1-0  Club Atlético Aldosivi
+  Patronato                 0-0  Colón Santa Fe
+  Club Atlético Belgrano    0-0  San Martín San Juan
+[Dom. 12.8.]
+  Boca Juniors              1-0  Talleres de Córdoba
+  Godoy Cruz                1-0  Estudiantes LP
+  CA Lanús                  2-2  Defensa y Justicia
+  Rosario Central           1-0  Club Atlético Banfield
+  Huracán                   0-0  River Plate
+[Lun. 13.8.]
+  Atlético Tucumán          2-2  Racing Club
+
+
+Jornada 2
+[Vie. 17.8.]
+  Talleres de Córdoba       0-1  Rosario Central
+  Newell's Old Boys         2-2  CA Independiente de Avellaneda
+[Sáb. 18.8.]
+  Defensa y Justicia        1-1  Atlético Tucumán
+  Club Atlético Banfield    1-0  Gimnasia y Esgrima LP
+  Argentinos Juniors        0-0  Godoy Cruz
+  River Plate               0-0  Club Atlético Belgrano
+[Dom. 19.8.]
+  San Martín San Juan       1-0  Patronato
+  Colón Santa Fe            2-2  CA Tigre
+  Club Atlético Aldosivi    2-1  Huracán
+  Racing Club               2-0  Vélez Sarsfield
+  San Lorenzo               2-2  CA Lanús
+[Lun. 20.8.]
+  Estudiantes LP            2-0  Boca Juniors
+  San Martín de Tucumán     1-1  Unión Santa Fe
+
+
+Jornada 3
+[Vie. 24.8.]
+  Patronato                 0-3  Racing Club
+  Club Atlético Belgrano    2-1  Estudiantes LP
+  CA Independiente de Avellaneda   0-1  Defensa y Justicia
+  Atlético Tucumán          2-1  Colón Santa Fe
+[Sáb. 25.8.]
+  River Plate               0-0  Argentinos Juniors
+  CA Tigre                  2-2  San Martín San Juan
+  Gimnasia y Esgrima LP     0-2  Talleres de Córdoba
+[Dom. 26.8.]
+  Vélez Sarsfield           1-1  Club Atlético Banfield
+  Huracán                   0-0  Boca Juniors
+  Rosario Central           2-0  San Martín de Tucumán
+  CA Lanús                  0-1  Club Atlético Aldosivi
+[Lun. 27.8.]
+  Godoy Cruz                2-1  Newell's Old Boys
+  Unión Santa Fe            1-1  San Lorenzo
+
+
+Jornada 4
+[Vie. 31.8.]
+  Argentinos Juniors        2-0  CA Lanús
+  San Martín San Juan       1-2  Huracán
+[Sáb. 1.9.]
+  Defensa y Justicia        1-1  Club Atlético Belgrano
+  San Lorenzo               1-1  River Plate
+  Talleres de Córdoba       1-0  Godoy Cruz
+  Club Atlético Banfield    1-0  Patronato
+[Dom. 2.9.]
+  Racing Club               2-0  Rosario Central
+  Estudiantes LP            2-2  CA Independiente de Avellaneda
+  Club Atlético Aldosivi    0-2  CA Tigre
+  Boca Juniors              3-0  Vélez Sarsfield
+  Colón Santa Fe            0-0  Unión Santa Fe
+[Lun. 3.9.]
+  Newell's Old Boys         1-2  Atlético Tucumán
+  San Martín de Tucumán     1-1  Gimnasia y Esgrima LP
+
+
+Jornada 5
+[Vie. 14.9.]
+  Estudiantes LP            0-2  Club Atlético Aldosivi
+  Atlético Tucumán          3-0  CA Tigre
+[Sáb. 15.9.]
+  Argentinos Juniors        0-1  Boca Juniors
+  River Plate               4-1  San Martín San Juan
+  Club Atlético Belgrano    0-0  Newell's Old Boys
+  CA Independiente de Avellaneda   3-0  Colón Santa Fe
+[Dom. 16.9.]
+  Patronato                 0-2  Gimnasia y Esgrima LP
+  Vélez Sarsfield           1-0  San Martín de Tucumán
+  Unión Santa Fe            2-1  Talleres de Córdoba
+  Godoy Cruz                1-0  San Lorenzo
+  CA Lanús                  0-1  Racing Club
+[Lun. 17.9.]
+  Huracán                   3-0  Club Atlético Banfield
+  Rosario Central           0-1  Defensa y Justicia
+
+
+Jornada 6
+[Vie. 21.9.]
+  San Lorenzo               3-2  Patronato
+  Colón Santa Fe            3-1  Godoy Cruz
+[Sáb. 22.9.]
+  Newell's Old Boys         2-0  CA Lanús
+  Talleres de Córdoba       1-1  Vélez Sarsfield
+  Club Atlético Banfield    1-1  CA Independiente de Avellaneda
+[Dom. 23.9.]
+  CA Tigre                  0-2  Huracán
+  San Martín de Tucumán     0-0  Argentinos Juniors
+  Gimnasia y Esgrima LP     1-1  Rosario Central
+  San Martín San Juan       1-3  Atlético Tucumán
+  Boca Juniors              0-2  River Plate
+[Lun. 24.9.]
+  Club Atlético Aldosivi    2-0  Club Atlético Belgrano
+  Racing Club               1-0  Unión Santa Fe
+
+
+Jornada 7
+[Vie. 28.9.]
+  CA Independiente de Avellaneda   0-0  CA Tigre
+  CA Lanús                  1-5  River Plate
+[Sáb. 29.9.]
+  Argentinos Juniors        0-2  Racing Club
+[Dom. 30.9.]
+  Patronato                 2-1  Talleres de Córdoba
+  Unión Santa Fe            1-0  Gimnasia y Esgrima LP
+  Boca Juniors              3-1  Colón Santa Fe
+  Club Atlético Belgrano    0-1  Huracán
+[Lun. 1.10.]
+  Godoy Cruz                0-1  Defensa y Justicia
+  San Martín de Tucumán     1-1  Club Atlético Banfield
+  Vélez Sarsfield           2-0  Club Atlético Aldosivi
+
+
+Jornada 8
+[Sáb. 6.10.]
+  Club Atlético Aldosivi    2-0  San Martín de Tucumán
+  Gimnasia y Esgrima LP     1-0  Godoy Cruz
+  Patronato                 1-2  CA Independiente de Avellaneda
+  San Martín San Juan       3-1  Vélez Sarsfield
+[Dom. 7.10.]
+  Club Atlético Banfield    2-0  San Lorenzo
+  Atlético Tucumán          0-0  CA Lanús
+  Rosario Central           0-4  Unión Santa Fe
+  Racing Club               2-2  Boca Juniors
+  Talleres de Córdoba       3-0  Club Atlético Belgrano
+[Lun. 8.10.]
+  CA Tigre                  1-0  Estudiantes LP
+  Colón Santa Fe            1-0  Newell's Old Boys
+
+
+Jornada 9
+[Vie. 19.10.]
+  Defensa y Justicia        2-0  Talleres de Córdoba
+  Vélez Sarsfield           1-0  Gimnasia y Esgrima LP
+  Colón Santa Fe            1-0  River Plate
+[Sáb. 20.10.]
+  Godoy Cruz                2-0  Club Atlético Aldosivi
+  CA Lanús                  3-1  Patronato
+  Boca Juniors              0-0  Rosario Central
+  Newell's Old Boys         2-0  CA Tigre
+[Dom. 21.10.]
+  Estudiantes LP            1-1  Atlético Tucumán
+  Argentinos Juniors        0-1  Unión Santa Fe
+  CA Independiente de Avellaneda   3-1  Huracán
+  San Martín de Tucumán     2-1  Racing Club
+[Lun. 22.10.]
+  Club Atlético Belgrano    1-1  Club Atlético Banfield
+  San Lorenzo               2-1  San Martín San Juan
+
+
+Jornada 7
+[Mié. 24.10.]
+  Estudiantes LP            1-0  Newell's Old Boys
+
+
+Jornada 10
+[Vie. 26.10.]
+  CA Tigre                  1-1  CA Lanús
+  Huracán                   3-2  Colón Santa Fe
+[Sáb. 27.10.]
+  Unión Santa Fe            0-3  Godoy Cruz
+  Gimnasia y Esgrima LP     2-1  Boca Juniors
+  Talleres de Córdoba       0-0  San Martín de Tucumán
+  River Plate               1-0  Club Atlético Aldosivi
+[Dom. 28.10.]
+  Racing Club               2-1  San Lorenzo
+  Patronato                 2-1  Rosario Central
+  Vélez Sarsfield           1-0  Club Atlético Belgrano
+  Atlético Tucumán          4-2  CA Independiente de Avellaneda
+  Club Atlético Banfield    0-2  Estudiantes LP
+[Lun. 29.10.]
+  San Martín San Juan       0-1  Defensa y Justicia
+  Newell's Old Boys         2-0  Argentinos Juniors
+
+
+Jornada 11
+[Vie. 2.11.]
+  Club Atlético Belgrano    2-0  Gimnasia y Esgrima LP
+  Unión Santa Fe            2-2  Patronato
+[Sáb. 3.11.]
+  Club Atlético Aldosivi    1-4  Club Atlético Banfield
+  Godoy Cruz                1-0  Atlético Tucumán
+  Estudiantes LP            1-0  River Plate
+  Boca Juniors              4-1  CA Tigre
+[Dom. 4.11.]
+  Argentinos Juniors        0-2  CA Independiente de Avellaneda
+  Rosario Central           1-1  Colón Santa Fe
+  San Lorenzo               0-1  Talleres de Córdoba
+  San Martín de Tucumán     2-0  San Martín San Juan
+  Racing Club               1-0  Newell's Old Boys
+[Lun. 5.11.]
+  Defensa y Justicia        3-2  Vélez Sarsfield
+  CA Lanús                  0-1  Huracán
+
+
+Jornada 1
+[Mié. 7.11.]
+  CA Independiente de Avellaneda   4-0  San Martín de Tucumán
+
+
+Jornada 12
+[Vie. 9.11.]
+  Talleres de Córdoba       0-0  Club Atlético Aldosivi
+  Atlético Tucumán          2-1  Rosario Central
+[Sáb. 10.11.]
+  Colón Santa Fe            1-1  Estudiantes LP
+[Dom. 11.11.]
+  CA Independiente de Avellaneda   2-1  Club Atlético Belgrano
+  Gimnasia y Esgrima LP     0-3  Racing Club
+  Club Atlético Banfield    0-0  CA Lanús
+[Lun. 12.11.]
+  CA Tigre                  2-1  Argentinos Juniors
+  Newell's Old Boys         0-0  Defensa y Justicia
+  Huracán                   2-1  Godoy Cruz
+  Patronato                 3-3  San Martín de Tucumán
+  Vélez Sarsfield           0-0  San Lorenzo
+
+
+Jornada 13
+[Sáb. 17.11.]
+  Boca Juniors              1-0  Patronato
+
+
+Jornada 6
+[Dom. 18.11.]
+  Defensa y Justicia        1-1  Estudiantes LP
+
+
+Jornada 7
+[Dom. 18.11.]
+  San Lorenzo               0-2  Atlético Tucumán
+
+
+Jornada 13
+[Mié. 21.11.]
+  Gimnasia y Esgrima LP     0-2  San Martín San Juan
+[Vie. 23.11.]
+  Argentinos Juniors        0-2  Talleres de Córdoba
+  Rosario Central           2-1  Estudiantes LP
+  Club Atlético Belgrano    1-3  Atlético Tucumán
+[Dom. 25.11.]
+  Unión Santa Fe            0-2  Vélez Sarsfield
+  Club Atlético Aldosivi    1-0  Newell's Old Boys
+  San Martín de Tucumán     0-0  Colón Santa Fe
+  Racing Club               0-0  Club Atlético Banfield
+[Lun. 26.11.]
+  Defensa y Justicia        2-1  CA Tigre
+  CA Lanús                  1-0  CA Independiente de Avellaneda
+
+
+Jornada 7
+[Mar. 27.11.]
+  Rosario Central           1-0  San Martín San Juan
+
+
+Jornada 14
+[Vie. 30.11.]
+  Colón Santa Fe            1-1  Club Atlético Belgrano
+  Newell's Old Boys         1-0  Patronato
+[Sáb. 1.12.]
+  Estudiantes LP            1-1  CA Lanús
+  Club Atlético Banfield    0-1  Argentinos Juniors
+  Atlético Tucumán          2-3  San Martín de Tucumán
+[Dom. 2.12.]
+  Club Atlético Aldosivi    2-2  San Lorenzo
+  River Plate               3-1  Gimnasia y Esgrima LP
+  CA Independiente de Avellaneda   0-1  Boca Juniors
+[Lun. 3.12.]
+  CA Tigre                  1-3  Godoy Cruz
+  Vélez Sarsfield           2-0  Rosario Central
+  Huracán                   1-1  Defensa y Justicia
+  Talleres de Córdoba       1-3  Racing Club
+  San Martín San Juan       2-0  Unión Santa Fe
+
+
+Jornada 15
+[Vie. 7.12.]
+  San Martín de Tucumán     0-3  Newell's Old Boys
+[Sáb. 8.12.]
+  San Lorenzo               1-1  Estudiantes LP
+  Unión Santa Fe            0-1  Club Atlético Banfield
+  CA Lanús                  2-1  Talleres de Córdoba
+  Godoy Cruz                1-1  CA Independiente de Avellaneda
+  Defensa y Justicia        3-0  Colón Santa Fe
+[Dom. 9.12.]
+  Argentinos Juniors        1-2  Club Atlético Aldosivi
+  Racing Club               1-0  San Martín San Juan
+  Gimnasia y Esgrima LP     2-2  Huracán
+[Lun. 10.12.]
+  Patronato                 3-3  Vélez Sarsfield
+  Club Atlético Belgrano    1-2  CA Tigre
+
+
+Jornada 8
+[Jue. 13.12.]
+  Huracán                   0-0  Argentinos Juniors
+[Sáb. 19.1.]
+  River Plate               0-1  Defensa y Justicia
+
+
+Jornada 13
+[Dom. 20.1.]
+  San Lorenzo               0-0  Huracán
+
+
+Jornada 12
+[Mié. 23.1.]
+  River Plate               1-2  Unión Santa Fe
+
+
+Jornada 16
+[Vie. 25.1.]
+  Defensa y Justicia        1-0  San Lorenzo
+  Godoy Cruz                0-2  CA Lanús
+  Club Atlético Banfield    1-1  San Martín San Juan
+[Sáb. 26.1.]
+  Club Atlético Aldosivi    1-3  Racing Club
+  CA Tigre                  2-2  San Martín de Tucumán
+  Atlético Tucumán          4-1  Gimnasia y Esgrima LP
+  Huracán                   2-1  Rosario Central
+[Dom. 27.1.]
+  CA Independiente de Avellaneda   1-1  Talleres de Córdoba
+  Club Atlético Belgrano    0-0  Unión Santa Fe
+  Newell's Old Boys         1-1  Boca Juniors
+  River Plate               1-3  Patronato
+[Lun. 28.1.]
+  Colón Santa Fe            2-0  Argentinos Juniors
+  Estudiantes LP            1-2  Vélez Sarsfield
+
+
+Jornada 13
+[Mié. 30.1.]
+  Godoy Cruz                0-4  River Plate
+
+
+Jornada 12
+[Jue. 31.1.]
+  San Martín San Juan       0-4  Boca Juniors
+
+
+Jornada 17
+[Vie. 1.2.]
+  Gimnasia y Esgrima LP     3-1  CA Tigre
+  Talleres de Córdoba       3-1  Club Atlético Banfield
+  San Martín de Tucumán     1-2  Defensa y Justicia
+[Sáb. 2.2.]
+  San Lorenzo               0-0  CA Independiente de Avellaneda
+  Rosario Central           0-0  Club Atlético Aldosivi
+  Argentinos Juniors        0-0  Club Atlético Belgrano
+  CA Lanús                  1-0  Colón Santa Fe
+[Dom. 3.2.]
+  Boca Juniors              2-0  Godoy Cruz
+  Vélez Sarsfield           1-2  River Plate
+  Racing Club               3-1  Huracán
+  Unión Santa Fe            0-0  Newell's Old Boys
+[Lun. 4.2.]
+  Patronato                 3-0  Atlético Tucumán
+  San Martín San Juan       3-0  Estudiantes LP
+
+
+Jornada 18
+[Vie. 8.2.]
+  CA Tigre                  4-4  Club Atlético Banfield
+  CA Lanús                  2-0  Gimnasia y Esgrima LP
+  Huracán                   1-1  Vélez Sarsfield
+[Sáb. 9.2.]
+  Estudiantes LP            1-0  Patronato
+  CA Independiente de Avellaneda   2-1  Unión Santa Fe
+  Atlético Tucumán          0-0  Talleres de Córdoba
+[Dom. 10.2.]
+  Godoy Cruz                3-2  San Martín de Tucumán
+  Newell's Old Boys         0-0  Rosario Central
+  Club Atlético Belgrano    1-1  Boca Juniors
+  River Plate               2-0  Racing Club
+[Lun. 11.2.]
+  Club Atlético Aldosivi    1-0  San Martín San Juan
+  Defensa y Justicia        2-1  Argentinos Juniors
+
+
+Jornada 15
+[Jue. 14.2.]
+  Rosario Central           1-1  River Plate
+
+
+Jornada 19
+[Vie. 15.2.]
+  Unión Santa Fe            3-0  Atlético Tucumán
+  Vélez Sarsfield           1-1  Colón Santa Fe
+  San Martín de Tucumán     0-0  Club Atlético Belgrano
+[Sáb. 16.2.]
+  San Lorenzo               1-1  Newell's Old Boys
+  Gimnasia y Esgrima LP     0-1  Defensa y Justicia
+  Patronato                 0-0  Club Atlético Aldosivi
+  San Martín San Juan       1-1  CA Independiente de Avellaneda
+[Dom. 17.2.]
+  Club Atlético Banfield    1-1  River Plate
+  Talleres de Córdoba       0-0  Huracán
+  Boca Juniors              2-1  CA Lanús
+  Rosario Central           0-2  CA Tigre
+[Lun. 18.2.]
+  Argentinos Juniors        2-1  Estudiantes LP
+  Racing Club               3-0  Godoy Cruz
+
+
+Jornada 15
+[Mié. 20.2.]
+  Boca Juniors              1-2  Atlético Tucumán
+
+
+Jornada 20
+[Vie. 22.2.]
+  CA Tigre                  2-1  Patronato
+  CA Lanús                  2-0  Rosario Central
+  Colón Santa Fe            0-1  Club Atlético Banfield
+[Sáb. 23.2.]
+  Godoy Cruz                0-2  Vélez Sarsfield
+  CA Independiente de Avellaneda   1-3  Racing Club
+  Club Atlético Belgrano    0-0  San Lorenzo
+  Huracán                   1-3  Unión Santa Fe
+[Dom. 24.2.]
+  River Plate               2-1  San Martín de Tucumán
+  Atlético Tucumán          0-0  Argentinos Juniors
+  Estudiantes LP            0-1  Talleres de Córdoba
+  Defensa y Justicia        0-1  Boca Juniors
+[Lun. 25.2.]
+  Club Atlético Aldosivi    0-0  Gimnasia y Esgrima LP
+  Newell's Old Boys         3-0  San Martín San Juan
+
+
+Jornada 21
+[Vie. 1.3.]
+  San Lorenzo               2-3  Argentinos Juniors
+  Unión Santa Fe            1-3  Boca Juniors
+[Sáb. 2.3.]
+  Rosario Central           0-0  Club Atlético Belgrano
+  River Plate               4-2  Newell's Old Boys
+  San Martín de Tucumán     1-2  CA Lanús
+  San Martín San Juan       0-0  Godoy Cruz
+[Dom. 3.3.]
+  Gimnasia y Esgrima LP     1-0  CA Independiente de Avellaneda
+  Talleres de Córdoba       2-0  Colón Santa Fe
+  Racing Club               1-0  Estudiantes LP
+  Patronato                 1-0  Huracán
+[Lun. 4.3.]
+  Club Atlético Banfield    1-2  Atlético Tucumán
+  Vélez Sarsfield           1-2  CA Tigre
+  Club Atlético Aldosivi    0-1  Defensa y Justicia
+
+
+Jornada 22
+[Vie. 8.3.]
+  CA Lanús                  1-1  San Martín San Juan
+  Club Atlético Belgrano    3-0  Patronato
+[Sáb. 9.3.]
+  Newell's Old Boys         1-2  Talleres de Córdoba
+  Godoy Cruz                0-0  Rosario Central
+  Colón Santa Fe            1-1  Racing Club
+  Boca Juniors              3-0  San Lorenzo
+[Dom. 10.3.]
+  Estudiantes LP            1-0  Gimnasia y Esgrima LP
+  CA Independiente de Avellaneda   2-0  Club Atlético Aldosivi
+  Huracán                   1-3  San Martín de Tucumán
+  Atlético Tucumán          0-1  River Plate
+[Lun. 11.3.]
+  Argentinos Juniors        0-0  Vélez Sarsfield
+  Defensa y Justicia        3-2  Club Atlético Banfield
+  CA Tigre                  2-2  Unión Santa Fe
+
+
+Jornada 23
+[Vie. 15.3.]
+  Club Atlético Aldosivi    3-0  Colón Santa Fe
+  Gimnasia y Esgrima LP     1-0  Newell's Old Boys
+[Sáb. 16.3.]
+  Vélez Sarsfield           2-0  Atlético Tucumán
+  Unión Santa Fe            3-0  CA Lanús
+  San Martín San Juan       2-3  Argentinos Juniors
+  Racing Club               1-0  Club Atlético Belgrano
+[Dom. 17.3.]
+  Patronato                 2-0  Defensa y Justicia
+  San Martín de Tucumán     1-4  Boca Juniors
+  Rosario Central           0-1  San Lorenzo
+  River Plate               3-0  CA Independiente de Avellaneda
+  Talleres de Córdoba       1-3  CA Tigre
+[Lun. 18.3.]
+  Club Atlético Banfield    2-2  Godoy Cruz
+  Huracán                   0-1  Estudiantes LP
+
+
+Jornada 18
+[Sáb. 23.3.]
+  Colón Santa Fe            1-1  San Lorenzo
+
+
+Jornada 24
+[Vie. 29.3.]
+  Newell's Old Boys         3-1  Huracán
+  Boca Juniors              2-0  Club Atlético Banfield
+[Sáb. 30.3.]
+  San Lorenzo               1-1  Gimnasia y Esgrima LP
+  Godoy Cruz                2-1  Patronato
+  CA Independiente de Avellaneda   2-1  Vélez Sarsfield
+  Talleres de Córdoba       0-2  River Plate
+[Dom. 31.3.]
+  Atlético Tucumán          1-0  Club Atlético Aldosivi
+  Defensa y Justicia        1-1  Unión Santa Fe
+  Argentinos Juniors        0-2  Rosario Central
+  CA Tigre                  1-1  Racing Club
+  CA Lanús                  3-1  Club Atlético Belgrano
+[Lun. 1.4.]
+  Estudiantes LP            1-1  San Martín de Tucumán
+  Colón Santa Fe            0-0  San Martín San Juan
+
+
+Jornada 25
+[Vie. 5.4.]
+  San Martín de Tucumán     0-0  San Lorenzo
+[Sáb. 6.4.]
+  Gimnasia y Esgrima LP     3-2  Colón Santa Fe
+  Club Atlético Banfield    1-1  Newell's Old Boys
+  Unión Santa Fe            0-0  Estudiantes LP
+  Vélez Sarsfield           4-0  CA Lanús
+  Club Atlético Aldosivi    1-1  Boca Juniors
+[Dom. 7.4.]
+  Huracán                   2-0  Atlético Tucumán
+  Rosario Central           1-2  CA Independiente de Avellaneda
+  San Martín San Juan       2-1  Talleres de Córdoba
+  River Plate               2-3  CA Tigre
+  Club Atlético Belgrano    1-0  Godoy Cruz
+  Patronato                 2-1  Argentinos Juniors
+  Racing Club               1-1  Defensa y Justicia
