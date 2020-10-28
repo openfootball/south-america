@@ -289,22 +289,22 @@ Rodada 18
 [Dom, 25/Out]
   EC Bahia                 -  Fortaleza EC
   São Paulo FC             -  Botafogo RJ
-  15.00  Atlético GO              -  Palmeiras SP
-         Fluminense RJ            -  Santos SP
-  17.15  Atlético PR              -  Grêmio RS
-         Internacional Porto Alegre  -  Flamengo RJ
+  15.00  Atlético GO              0-3 (0-1)  Palmeiras SP
+         Fluminense RJ            3-1 (1-1)  Santos SP
+  17.15  Atlético PR              1-2 (1-0)  Grêmio RS
+         Internacional Porto Alegre  2-2 (2-1)  Flamengo RJ
 
 
 Rodada 19
 [Sáb, 31/Out]
   16.00  Botafogo RJ              -  Ceára SC
-  18.00  Corinthians SP           -  Internacional Porto Alegre
-         Santos SP                -  EC Bahia
+  18.00  Coritiba PR              -  Atlético GO
+         Corinthians SP           -  Internacional Porto Alegre
   20.00  Fortaleza EC             -  Fluminense RJ
 [Dom, 1/Nov]
   15.00  Sport Recife             -  Atlético PR
          Flamengo RJ              -  São Paulo FC
-  17.15  Coritiba PR              -  Atlético GO
+  17.15  Santos SP                -  EC Bahia
   19.30  Goiás EC                 -  CR Vasco da Gama
 [Seg, 2/Nov]
   16.00  Palmeiras SP             -  Atlético MG
