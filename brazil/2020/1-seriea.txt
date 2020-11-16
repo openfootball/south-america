@@ -7,9 +7,8 @@ Rodada 1
   19.30  Coritiba PR              0-1 (0-0)  Internacional Porto Alegre
   21.00  Sport Recife             3-2 (3-1)  Ceára SC
 [Dom, 9/Agosto]
-  Goiás EC                 -  São Paulo FC
-  16.00  Flamengo RJ              0-1 (0-1)  Atlético MG
-         Santos SP                1-1 (0-0)  RB Bragantino
+  16.00  Santos SP                1-1 (0-0)  RB Bragantino
+         Flamengo RJ              0-1 (0-1)  Atlético MG
   19.00  Grêmio RS                1-0 (1-0)  Fluminense RJ
 [Seg, 10/Agosto]
   Palmeiras SP             -  CR Vasco da Gama
@@ -17,9 +16,9 @@ Rodada 1
 
 Rodada 2
 [Qua, 12/Agosto]
-  19.15  RB Bragantino            1-1 (1-0)  Botafogo RJ
+  19.15  Atlético PR              2-1 (1-1)  Goiás EC
          Atlético MG              3-2 (0-2)  Corinthians SP
-         Atlético PR              2-1 (1-1)  Goiás EC
+         RB Bragantino            1-1 (1-0)  Botafogo RJ
   20.30  Atlético GO              3-0 (2-0)  Flamengo RJ
          EC Bahia                 1-0 (1-0)  Coritiba PR
   21.30  Ceára SC                 1-1 (1-0)  Grêmio RS
@@ -47,17 +46,17 @@ Rodada 3
 
 Rodada 4
 [Qua, 19/Agosto]
-  19.15  Flamengo RJ              1-1 (0-1)  Grêmio RS
-         RB Bragantino            2-1 (1-1)  Fluminense RJ
+  19.15  RB Bragantino            2-1 (1-1)  Fluminense RJ
+         Flamengo RJ              1-1 (0-1)  Grêmio RS
   19.30  Atlético PR              0-1 (0-0)  Palmeiras SP
-  20.30  Goiás EC                 1-3 (0-1)  Fortaleza EC
-         Internacional Porto Alegre  3-0 (0-0)  Atlético GO
+  20.30  Internacional Porto Alegre  3-0 (0-0)  Atlético GO
+         Goiás EC                 1-3 (0-1)  Fortaleza EC
   21.30  Corinthians SP           3-1 (1-1)  Coritiba PR
          Botafogo RJ              2-1 (1-0)  Atlético MG
 [Qui, 20/Agosto]
   19.15  Sport Recife             0-1 (0-0)  Santos SP
-  20.00  São Paulo FC             1-1 (0-1)  EC Bahia
-         Ceára SC                 0-3 (0-0)  CR Vasco da Gama
+  20.00  Ceára SC                 0-3 (0-0)  CR Vasco da Gama
+         São Paulo FC             1-1 (0-1)  EC Bahia
 
 
 Rodada 5
@@ -87,17 +86,14 @@ Rodada 5
 Rodada 6
 [Sáb, 29/Agosto]
   17.00  Botafogo RJ              0-2 (0-2)  Internacional Porto Alegre
-  19.00  EC Bahia                 1-1 (0-0)  Palmeiras SP
-         Fluminense RJ            2-1 (1-0)  CR Vasco da Gama
+  19.00  Fluminense RJ            2-1 (1-0)  CR Vasco da Gama
+         EC Bahia                 1-1 (0-0)  Palmeiras SP
   21.00  Fortaleza EC             3-0 (1-0)  RB Bragantino
-  Atlético MG              -  Atlético PR
 [Dom, 30/Agosto]
   11.00  São Paulo FC             2-1 (1-1)  Corinthians SP
   16.00  Coritiba PR              1-0 (0-0)  Sport Recife
          Santos SP                0-1 (0-1)  Flamengo RJ
   18.00  Atlético GO              0-2 (0-0)  Ceára SC
-[Seg, 31/Agosto]
-  Grêmio RS                -  Goiás EC
 
 
 Rodada 7
@@ -105,9 +101,9 @@ Rodada 7
   19.00  Ceára SC                 1-0 (1-0)  Fortaleza EC
   19.15  Goiás EC                 1-2 (0-1)  Corinthians SP
          Fluminense RJ            1-1 (1-0)  Atlético GO
-  20.30  Atlético PR              1-1 (1-1)  RB Bragantino
+  20.30  EC Bahia                 3-5 (2-3)  Flamengo RJ
+         Atlético PR              1-1 (1-1)  RB Bragantino
          Botafogo RJ              0-0  Coritiba PR
-         EC Bahia                 3-5 (2-3)  Flamengo RJ
   21.30  Santos SP                2-2 (1-1)  CR Vasco da Gama
          Palmeiras SP             1-1 (0-0)  Internacional Porto Alegre
 [Qui, 3/Set]
@@ -122,8 +118,8 @@ Rodada 8
   21.00  Ceára SC                 0-1 (0-1)  Santos SP
 [Dom, 6/Set]
   11.00  RB Bragantino            1-2 (0-0)  Palmeiras SP
-  16.00  Internacional Porto Alegre  2-2 (1-1)  EC Bahia
-         São Paulo FC             3-1 (0-1)  Fluminense RJ
+  16.00  São Paulo FC             3-1 (0-1)  Fluminense RJ
+         Internacional Porto Alegre  2-2 (1-1)  EC Bahia
   18.00  CR Vasco da Gama         1-0 (1-0)  Atlético PR
   19.00  Atlético GO              1-1 (1-1)  Grêmio RS
   20.30  Sport Recife             2-1 (0-0)  Goiás EC
@@ -139,8 +135,8 @@ Rodada 9
   21.30  Santos SP                3-1 (2-1)  Atlético MG
          Fluminense RJ            1-2 (0-2)  Flamengo RJ
 [Qui, 10/Set]
-  19.15  EC Bahia                 0-2 (0-1)  Grêmio RS
-         Internacional Porto Alegre  2-0 (1-0)  Ceára SC
+  19.15  Internacional Porto Alegre  2-0 (1-0)  Ceára SC
+         EC Bahia                 0-2 (0-1)  Grêmio RS
          Corinthians SP           0-2 (0-1)  Palmeiras SP
   21.00  CR Vasco da Gama         1-2 (0-0)  Atlético GO
 
@@ -152,10 +148,10 @@ Rodada 10
 [Dom, 13/Set]
   16.00  Grêmio RS                1-1 (0-1)  Fortaleza EC
          Fluminense RJ            2-1 (1-0)  Corinthians SP
-  18.00  EC Bahia                 0-1 (0-1)  Atlético GO
-         Ceára SC                 2-0 (0-0)  Flamengo RJ
-         Goiás EC                 1-0 (1-0)  Internacional Porto Alegre
+  18.00  Goiás EC                 1-0 (1-0)  Internacional Porto Alegre
          Atlético MG              2-1 (1-0)  RB Bragantino
+         EC Bahia                 0-1 (0-1)  Atlético GO
+         Ceára SC                 2-0 (0-0)  Flamengo RJ
   19.45  Palmeiras SP             2-2 (2-1)  Sport Recife
   20.30  Botafogo RJ              2-3 (0-1)  CR Vasco da Gama
 
@@ -168,8 +164,8 @@ Rodada 11
          RB Bragantino            4-2 (3-1)  Ceára SC
   21.00  Atlético GO              3-4 (1-0)  Atlético MG
 [Dom, 20/Set]
-  16.00  Coritiba PR              1-0 (0-0)  CR Vasco da Gama
-         Grêmio RS                1-1 (0-0)  Palmeiras SP
+  16.00  Grêmio RS                1-1 (0-0)  Palmeiras SP
+         Coritiba PR              1-0 (0-0)  CR Vasco da Gama
   18.15  Botafogo RJ              0-0  Santos SP
   20.30  Sport Recife             1-0 (1-0)  Fluminense RJ
 
@@ -184,8 +180,8 @@ Rodada 12
 [Dom, 27/Set]
   11.00  CR Vasco da Gama         1-1 (0-0)  RB Bragantino
   16.00  Palmeiras SP             1-1 (0-0)  Flamengo RJ
-  18.15  Ceára SC                 2-2 (0-1)  Goiás EC
-         Atlético GO              1-1 (0-1)  Botafogo RJ
+  18.15  Atlético GO              1-1 (0-1)  Botafogo RJ
+         Ceára SC                 2-2 (0-1)  Goiás EC
   20.30  Santos SP                1-1 (1-0)  Fortaleza EC
 [Seg, 28/Set]
   20.00  Fluminense RJ            4-0 (1-0)  Coritiba PR
@@ -204,24 +200,24 @@ Rodada 13
   21.00  RB Bragantino            0-0  Corinthians SP
 [Dom, 4/Out]
   11.00  Botafogo RJ              1-1 (0-1)  Fluminense RJ
-  16.00  Flamengo RJ              3-1 (0-0)  Atlético PR
-         Coritiba PR              1-1 (1-0)  São Paulo FC
-  18.15  Goiás EC                 2-3 (1-1)  Santos SP
+  16.00  Coritiba PR              1-1 (1-0)  São Paulo FC
+         Flamengo RJ              3-1 (0-0)  Atlético PR
+  18.15  EC Bahia                 1-2 (0-1)  Sport Recife
          Fortaleza EC             0-0  Atlético GO
-         EC Bahia                 1-2 (0-1)  Sport Recife
+         Goiás EC                 2-3 (1-1)  Santos SP
   20.30  Atlético MG              4-1 (4-1)  CR Vasco da Gama
 
 
 Rodada 14
 [Qua, 7/Out]
   19.00  Corinthians SP           1-1 (1-1)  Santos SP
-  19.15  Grêmio RS                2-1 (2-0)  Coritiba PR
-         Flamengo RJ              3-0 (0-0)  Sport Recife
+  19.15  Flamengo RJ              3-0 (0-0)  Sport Recife
          EC Bahia                 3-0 (3-0)  CR Vasco da Gama
-  20.30  Goiás EC                 2-4 (1-1)  Fluminense RJ
-         São Paulo FC             3-0 (1-0)  Atlético GO
-  21.30  Botafogo RJ              2-1 (0-0)  Palmeiras SP
-         Fortaleza EC             2-1 (1-1)  Atlético MG
+         Grêmio RS                2-1 (2-0)  Coritiba PR
+  20.30  São Paulo FC             3-0 (1-0)  Atlético GO
+         Goiás EC                 2-4 (1-1)  Fluminense RJ
+  21.30  Fortaleza EC             2-1 (1-1)  Atlético MG
+         Botafogo RJ              2-1 (0-0)  Palmeiras SP
 [Qui, 8/Out]
   19.00  Atlético PR              0-0  Ceára SC
   21.00  RB Bragantino            0-2 (0-2)  Internacional Porto Alegre
@@ -234,10 +230,10 @@ Rodada 15
          Coritiba PR              0-0  Fortaleza EC
   21.00  Atlético MG              3-0 (2-0)  Goiás EC
 [Dom, 11/Out]
-  16.00  Santos SP                2-1 (1-0)  Grêmio RS
-         Fluminense RJ            1-0 (0-0)  EC Bahia
-  18.15  Atlético GO              2-1 (1-1)  RB Bragantino
-         Sport Recife             1-2 (0-2)  Botafogo RJ
+  16.00  Fluminense RJ            1-0 (0-0)  EC Bahia
+         Santos SP                2-1 (1-0)  Grêmio RS
+  18.15  Sport Recife             1-2 (0-2)  Botafogo RJ
+         Atlético GO              2-1 (1-1)  RB Bragantino
   20.30  Internacional Porto Alegre  2-1 (2-1)  Atlético PR
          Ceára SC                 2-1 (1-1)  Corinthians SP
 
@@ -252,11 +248,10 @@ Rodada 16
   18.00  Palmeiras SP             1-3 (1-2)  Coritiba PR
   19.15  Grêmio RS                3-1 (1-1)  Botafogo RJ
   20.30  Santos SP                0-1 (0-0)  Atlético GO
-  21.30  Atlético PR              0-1 (0-0)  Corinthians SP
+  21.30  Sport Recife             3-5 (1-2)  Internacional Porto Alegre
+         Atlético PR              0-1 (0-0)  Corinthians SP
          Atlético MG              1-1 (0-1)  Fluminense RJ
-         Sport Recife             3-5 (1-2)  Internacional Porto Alegre
 [Qui, 15/Out]
-  Ceára SC                 -  São Paulo FC
   20.00  Flamengo RJ              1-1 (0-0)  RB Bragantino
 [Sex, 16/Out]
   20.00  Goiás EC                 1-1 (0-0)  EC Bahia
@@ -264,9 +259,9 @@ Rodada 16
 
 Rodada 17
 [Sáb, 17/Out]
-  19.00  Atlético GO              1-1 (1-0)  Atlético PR
+  19.00  Fluminense RJ            2-2 (1-1)  Ceára SC
+         Atlético GO              1-1 (1-0)  Atlético PR
          Coritiba PR              1-2 (0-2)  Santos SP
-         Fluminense RJ            2-2 (1-1)  Ceára SC
   21.00  São Paulo FC             0-0  Grêmio RS
 [Dom, 18/Out]
   16.00  Corinthians SP           1-5 (0-1)  Flamengo RJ
@@ -287,8 +282,7 @@ Rodada 18
   21.00  Atlético MG              0-0  Sport Recife
 [Dom, 25/Out]
   15.00  Fluminense RJ            3-1 (1-1)  Santos SP
-  São Paulo FC             -  Botafogo RJ
-  15.00  Atlético GO              0-3 (0-1)  Palmeiras SP
+         Atlético GO              0-3 (0-1)  Palmeiras SP
   17.15  Atlético PR              1-2 (1-0)  Grêmio RS
          Internacional Porto Alegre  2-2 (2-1)  Flamengo RJ
 
@@ -315,33 +309,38 @@ Rodada 20
   18.00  São Paulo FC             2-1 (1-1)  Goiás EC
   20.00  Atlético GO              1-1 (1-0)  Corinthians SP
 [Dom, 8/Nov]
-  15.00  CR Vasco da Gama         0-1 (0-0)  Palmeiras SP
-         Internacional Porto Alegre  2-2 (1-0)  Coritiba PR
-  17.15  Atlético MG              4-0 (2-0)  Flamengo RJ
-         EC Bahia                 1-0 (0-0)  Botafogo RJ
+  15.00  Internacional Porto Alegre  2-2 (1-0)  Coritiba PR
+         CR Vasco da Gama         0-1 (0-0)  Palmeiras SP
+  17.15  EC Bahia                 1-0 (0-0)  Botafogo RJ
          RB Bragantino            1-1 (0-0)  Santos SP
-  19.30  Ceára SC                 0-0  Sport Recife
-         Fluminense RJ            0-1 (0-1)  Grêmio RS
+         Atlético MG              4-0 (2-0)  Flamengo RJ
+  19.30  Fluminense RJ            0-1 (0-1)  Grêmio RS
+         Ceára SC                 0-0  Sport Recife
 
 
 Rodada 18
 [Qua, 11/Nov]
-  17.45  EC Bahia                 -  Fortaleza EC
+  17.45  EC Bahia                 2-1 (1-0)  Fortaleza EC
 
 
 Rodada 21
 [Sáb, 14/Nov]
-  15.30  Sport Recife             -  CR Vasco da Gama
-         Santos SP                -  Internacional Porto Alegre
-  16.00  Goiás EC                 -  Atlético PR
-  18.00  Grêmio RS                -  Ceára SC
-         Corinthians SP           -  Atlético MG
-         Fortaleza EC             -  São Paulo FC
-  20.30  Flamengo RJ              -  Atlético GO
-         Palmeiras SP             -  Fluminense RJ
+  15.30  Sport Recife             0-2 (0-1)  CR Vasco da Gama
+         Santos SP                2-0 (0-0)  Internacional Porto Alegre
+  16.00  Goiás EC                 0-1 (0-1)  Atlético PR
+  18.00  Grêmio RS                4-2 (3-1)  Ceára SC
+         Fortaleza EC             2-3 (1-1)  São Paulo FC
+         Corinthians SP           1-2 (1-0)  Atlético MG
+  20.30  Flamengo RJ              1-1 (1-0)  Atlético GO
+         Palmeiras SP             2-0 (0-0)  Fluminense RJ
 [Seg, 16/Nov]
   17.00  Coritiba PR              -  EC Bahia
   19.00  Botafogo RJ              -  RB Bragantino
+
+
+Rodada 6
+[Qua, 18/Nov]
+  18.00  Atlético MG              -  Atlético PR
 
 
 Rodada 16
@@ -350,61 +349,96 @@ Rodada 16
 
 
 Rodada 22
+[Sex, 20/Nov]
+  19.00  RB Bragantino            -  EC Bahia
 [Sáb, 21/Nov]
-  18.00  Atlético PR              -  Santos SP
-         Flamengo RJ              -  Coritiba PR
+  18.00  Flamengo RJ              -  Coritiba PR
+         Atlético PR              -  Santos SP
   20.00  Goiás EC                 -  Palmeiras SP
 [Dom, 22/Nov]
-  15.00  São Paulo FC             -  CR Vasco da Gama
-         Ceára SC                 -  Atlético MG
-  17.15  Internacional Porto Alegre  -  Fluminense RJ
-         RB Bragantino            -  EC Bahia
-         Botafogo RJ              -  Fortaleza EC
+  15.00  Ceára SC                 -  Atlético MG
+         São Paulo FC             -  CR Vasco da Gama
+  17.15  Botafogo RJ              -  Fortaleza EC
+         Internacional Porto Alegre  -  Fluminense RJ
   19.30  Corinthians SP           -  Grêmio RS
 [Seg, 23/Nov]
   19.00  Sport Recife             -  Atlético GO
 
 
+Rodada 16
+[Ter, 24/Nov]
+  19.00  Ceára SC                 -  São Paulo FC
+
+
 Rodada 23
+[Qua, 25/Nov]
+  20.30  Coritiba PR              -  Corinthians SP
+         Atlético MG              -  Botafogo RJ
+[Qui, 26/Nov]
+  19.00  Fortaleza EC             -  Goiás EC
 [Sáb, 28/Nov]
-  EC Bahia                 -  São Paulo FC
-  Fortaleza EC             -  Goiás EC
-  Atlético MG              -  Botafogo RJ
-  Fluminense RJ            -  RB Bragantino
-  Coritiba PR              -  Corinthians SP
-  Atlético GO              -  Internacional Porto Alegre
-  Santos SP                -  Sport Recife
-  Grêmio RS                -  Flamengo RJ
-  CR Vasco da Gama         -  Ceára SC
-  Palmeiras SP             -  Atlético PR
+  16.00  Palmeiras SP             -  Atlético PR
+         Santos SP                -  Sport Recife
+  17.00  Grêmio RS                -  Flamengo RJ
+  18.00  EC Bahia                 -  São Paulo FC
+  20.00  Atlético GO              -  Internacional Porto Alegre
+
+
+Rodada 6
+[Dom, 29/Nov]
+  19.00  Grêmio RS                -  Goiás EC
+
+
+Rodada 23
+[Seg, 30/Nov]
+  19.00  CR Vasco da Gama         -  Ceára SC
+         Fluminense RJ            -  RB Bragantino
 
 
 Rodada 24
+[Qua, 2/Dez]
+  20.30  Fortaleza EC             -  Corinthians SP
+
+
+Rodada 1
+[Qui, 3/Dez]
+  20.00  Goiás EC                 -  São Paulo FC
+
+
+Rodada 24
+[Sáb, 5/Dez]
+  16.00  Botafogo RJ              -  Flamengo RJ
+  18.00  Atlético MG              -  Internacional Porto Alegre
+         Fluminense RJ            -  Atlético PR
+         EC Bahia                 -  Ceára SC
+  20.00  Coritiba PR              -  RB Bragantino
 [Dom, 6/Dez]
-  Botafogo RJ              -  Flamengo RJ
-  Grêmio RS                -  CR Vasco da Gama
-  Santos SP                -  Palmeiras SP
-  Coritiba PR              -  RB Bragantino
-  Fortaleza EC             -  Corinthians SP
-  Atlético MG              -  Internacional Porto Alegre
-  São Paulo FC             -  Sport Recife
-  Fluminense RJ            -  Atlético PR
-  EC Bahia                 -  Ceára SC
-  Atlético GO              -  Goiás EC
+  15.00  Grêmio RS                -  CR Vasco da Gama
+         Santos SP                -  Palmeiras SP
+  19.30  São Paulo FC             -  Sport Recife
+[Seg, 7/Dez]
+  19.00  Atlético GO              -  Goiás EC
+
+
+Rodada 18
+[Qua, 9/Dez]
+  18.00  São Paulo FC             -  Botafogo RJ
 
 
 Rodada 25
+[Sáb, 12/Dez]
+  16.00  RB Bragantino            -  Fortaleza EC
+         Atlético PR              -  Atlético MG
+  18.00  Internacional Porto Alegre  -  Botafogo RJ
+         Palmeiras SP             -  EC Bahia
+  20.00  Ceára SC                 -  Atlético GO
 [Dom, 13/Dez]
-  Ceára SC                 -  Atlético GO
-  Internacional Porto Alegre  -  Botafogo RJ
-  Corinthians SP           -  São Paulo FC
-  Flamengo RJ              -  Santos SP
-  Atlético PR              -  Atlético MG
-  Goiás EC                 -  Grêmio RS
-  Palmeiras SP             -  EC Bahia
-  Sport Recife             -  Coritiba PR
-  RB Bragantino            -  Fortaleza EC
-  CR Vasco da Gama         -  Fluminense RJ
+  15.00  Flamengo RJ              -  Santos SP
+  17.15  Sport Recife             -  Coritiba PR
+         Corinthians SP           -  São Paulo FC
+  19.30  Goiás EC                 -  Grêmio RS
+[Seg, 14/Dez]
+  19.00  CR Vasco da Gama         -  Fluminense RJ
 
 
 Rodada 26
@@ -414,11 +448,11 @@ Rodada 26
   Internacional Porto Alegre  -  Palmeiras SP
   CR Vasco da Gama         -  Santos SP
   Corinthians SP           -  Goiás EC
-  Sport Recife             -  Grêmio RS
+  São Paulo FC             -  Atlético MG
   Flamengo RJ              -  EC Bahia
   RB Bragantino            -  Atlético PR
   Fortaleza EC             -  Ceára SC
-  São Paulo FC             -  Atlético MG
+  Sport Recife             -  Grêmio RS
 
 
 Rodada 27
@@ -428,11 +462,11 @@ Rodada 27
   Fluminense RJ            -  São Paulo FC
   Palmeiras SP             -  RB Bragantino
   Grêmio RS                -  Atlético GO
-  EC Bahia                 -  Internacional Porto Alegre
+  Botafogo RJ              -  Corinthians SP
   Goiás EC                 -  Sport Recife
   Atlético MG              -  Coritiba PR
   Santos SP                -  Ceára SC
-  Botafogo RJ              -  Corinthians SP
+  EC Bahia                 -  Internacional Porto Alegre
 
 
 Rodada 28
@@ -454,13 +488,13 @@ Rodada 29
   Corinthians SP           -  Fluminense RJ
   CR Vasco da Gama         -  Botafogo RJ
   Sport Recife             -  Palmeiras SP
-  São Paulo FC             -  Santos SP
-  Fortaleza EC             -  Grêmio RS
   Internacional Porto Alegre  -  Goiás EC
+  RB Bragantino            -  Atlético MG
+  São Paulo FC             -  Santos SP
   Atlético GO              -  EC Bahia
   Coritiba PR              -  Atlético PR
   Flamengo RJ              -  Ceára SC
-  RB Bragantino            -  Atlético MG
+  Fortaleza EC             -  Grêmio RS
 
 
 Rodada 30
