@@ -350,60 +350,60 @@ Rodada 21
 
 Rodada 6
 [Qua, 18/Nov]
-  23.00  Atlético MG              -  Atlético PR
+  23.00  Atlético MG              0-2 (0-2)  Atlético PR
 
 
 Rodada 16
 [Qui, 19/Nov]
-  23.00  CR Vasco da Gama         -  Fortaleza EC
+  23.00  CR Vasco da Gama         0-0  Fortaleza EC
 
 
 Rodada 22
 [Sáb, 21/Nov]
-  00.00  RB Bragantino            -  EC Bahia
-  23.00  Atlético PR              -  Santos SP
-         Flamengo RJ              -  Coritiba PR
+  00.00  RB Bragantino            4-0 (3-0)  EC Bahia
+  23.00  Atlético PR              1-0 (0-0)  Santos SP
+         Flamengo RJ              3-1 (2-0)  Coritiba PR
 [Dom, 22/Nov]
-  01.00  Goiás EC                 -  Palmeiras SP
-  20.00  São Paulo FC             -  CR Vasco da Gama
-         Ceára SC                 -  Atlético MG
-  22.15  Internacional Porto Alegre  -  Fluminense RJ
-         Botafogo RJ              -  Fortaleza EC
+  01.00  Goiás EC                 1-0 (0-0)  Palmeiras SP
+  20.00  São Paulo FC             1-1 (1-1)  CR Vasco da Gama
+         Ceára SC                 2-2 (0-1)  Atlético MG
+  22.15  Internacional Porto Alegre  1-2 (1-0)  Fluminense RJ
+         Botafogo RJ              1-2 (0-0)  Fortaleza EC
 [Seg, 23/Nov]
-  00.30  Corinthians SP           -  Grêmio RS
+  00.30  Corinthians SP           0-0  Grêmio RS
 [Ter, 24/Nov]
-  00.00  Sport Recife             -  Atlético GO
+  00.00  Sport Recife             0-1 (0-1)  Atlético GO
 
 
 Rodada 16
 [Qua, 25/Nov]
-  00.00  Ceára SC                 -  São Paulo FC
+  00.00  Ceára SC                 1-1 (0-1)  São Paulo FC
 
 
 Rodada 23
 [Qui, 26/Nov]
-  01.30  Atlético MG              -  Botafogo RJ
-         Coritiba PR              -  Corinthians SP
+  01.30  Atlético MG              2-1 (1-0)  Botafogo RJ
+         Coritiba PR              0-1 (0-1)  Corinthians SP
 [Sex, 27/Nov]
-  00.00  Fortaleza EC             -  Goiás EC
+  00.00  Fortaleza EC             1-1 (0-1)  Goiás EC
 [Sáb, 28/Nov]
-  21.00  Santos SP                -  Sport Recife
-         Palmeiras SP             -  Atlético PR
-  22.00  Grêmio RS                -  Flamengo RJ
-  23.00  EC Bahia                 -  São Paulo FC
+  21.00  Santos SP                4-2 (2-2)  Sport Recife
+         Palmeiras SP             3-0 (2-0)  Atlético PR
+  22.00  
+  23.00  EC Bahia                 1-3 (0-0)  São Paulo FC
 [Dom, 29/Nov]
-  01.00  Atlético GO              -  Internacional Porto Alegre
+  01.00  Atlético GO              0-0  Internacional Porto Alegre
 
 
 Rodada 6
 [Seg, 30/Nov]
-  00.00  Grêmio RS                -  Goiás EC
+  00.00  Grêmio RS                2-1 (1-0)  Goiás EC
 
 
 Rodada 23
 [Ter, 1/Dez]
-  00.00  Fluminense RJ            -  RB Bragantino
-         CR Vasco da Gama         -  Ceára SC
+  00.00  Fluminense RJ            0-0  RB Bragantino
+         CR Vasco da Gama         1-4 (0-2)  Ceára SC
 
 
 Rodada 24
@@ -495,6 +495,9 @@ Rodada 28
   Sport Recife             -  Fortaleza EC
   Coritiba PR              -  Goiás EC
 
+Rodada 23
+[Qua, 5/Jan]
+  22.00  Grêmio RS         -  Flamengo RJ
 
 Rodada 29
 [Dom, 10/Jan]
