@@ -1,0 +1,683 @@
+= Brasileiro Série A 2021
+
+
+Rodada 1
+[Sáb, 29/Maio]
+  19.00  Cuiabá                   2-2 (1-2)  Esporte Clube Juventude
+  20.00  EC Bahia                 3-0 (0-0)  Santos SP
+  21.00  São Paulo FC             0-0  Fluminense RJ
+[Dom, 30/Maio]
+  11.00  Atlético MG              1-2 (1-0)  Fortaleza EC
+  16.00  Ceára SC                 3-2 (2-1)  Grêmio RS
+         Flamengo RJ              1-0 (0-0)  Palmeiras SP
+  18.15  Atlético PR              1-0 (0-0)  América MG
+         Chapecoense              0-3 (0-2)  RB Bragantino
+         Corinthians SP           0-1 (0-1)  Atlético GO
+  20.30  Internacional Porto Alegre  2-2 (2-0)  Sport Recife
+
+
+Rodada 2
+[Sáb, 5/Junho]
+  19.00  Atlético GO              2-0 (1-0)  São Paulo FC
+  21.00  RB Bragantino            3-3 (1-2)  EC Bahia
+         Santos SP                3-1 (1-1)  Ceára SC
+[Dom, 6/Junho]
+  11.00  Fluminense RJ            1-0 (1-0)  Cuiabá
+  16.00  Fortaleza EC             5-1 (2-0)  Internacional Porto Alegre
+         América MG               0-1 (0-1)  Corinthians SP
+  18.15  Esporte Clube Juventude  0-3 (0-0)  Atlético PR
+         Palmeiras SP             3-1 (3-0)  Chapecoense
+  20.30  Sport Recife             0-1 (0-1)  Atlético MG
+
+
+Rodada 3
+[Sáb, 12/Junho]
+  19.00  Palmeiras SP             1-1 (1-0)  Corinthians SP
+         Santos SP                0-0  Esporte Clube Juventude
+[Dom, 13/Junho]
+  16.00  Atlético MG              1-0 (1-0)  São Paulo FC
+         Grêmio RS                0-1 (0-1)  Atlético PR
+         Flamengo RJ              2-0 (1-0)  América MG
+  20.30  EC Bahia                 0-1 (0-1)  Internacional Porto Alegre
+         RB Bragantino            2-2 (2-0)  Fluminense RJ
+         Chapecoense              0-0  Ceára SC
+         Fortaleza EC             1-0 (0-0)  Sport Recife
+
+
+Rodada 4
+[Qua, 16/Junho]
+  19.00  Internacional Porto Alegre  0-1 (0-1)  Atlético MG
+         São Paulo FC             1-1 (1-0)  Chapecoense
+  20.30  Corinthians SP           1-2 (1-0)  RB Bragantino
+  21.30  Esporte Clube Juventude  0-3 (0-0)  Palmeiras SP
+[Qui, 17/Junho]
+  16.00  América MG               0-0  Cuiabá
+         Ceára SC                 1-2 (1-2)  EC Bahia
+  19.00  Fluminense RJ            1-0 (0-0)  Santos SP
+         Atlético GO              0-0  Fortaleza EC
+         Sport Recife             1-0 (1-0)  Grêmio RS
+
+
+Rodada 5
+[Sáb, 19/Junho]
+  21.00  Flamengo RJ              2-3 (1-1)  RB Bragantino
+[Dom, 20/Junho]
+  11.00  Palmeiras SP             2-1 (1-1)  América MG
+  16.00  Internacional Porto Alegre  1-1 (1-1)  Ceára SC
+         EC Bahia                 0-0  Corinthians SP
+  18.15  Santos SP                2-0 (2-0)  São Paulo FC
+         Fortaleza EC             1-1 (0-0)  Fluminense RJ
+         Atlético PR              2-1 (1-1)  Atlético GO
+  20.30  Esporte Clube Juventude  1-0 (0-0)  Sport Recife
+[Seg, 21/Junho]
+  20.00  Atlético MG              1-1 (1-0)  Chapecoense
+
+
+Rodada 6
+[Qua, 23/Junho]
+  19.00  RB Bragantino            3-1 (2-0)  Palmeiras SP
+         Atlético GO              1-0 (0-0)  Fluminense RJ
+         Flamengo RJ              2-1 (2-0)  Fortaleza EC
+         São Paulo FC             2-2 (2-2)  Cuiabá
+[Qui, 24/Junho]
+  16.00  América MG               1-1 (0-1)  Esporte Clube Juventude
+  19.00  Ceára SC                 2-1 (1-0)  Atlético MG
+         Corinthians SP           2-1 (1-0)  Sport Recife
+         Chapecoense              1-2 (0-2)  Internacional Porto Alegre
+  21.30  EC Bahia                 2-1 (1-1)  Atlético PR
+         Grêmio RS                2-2 (2-1)  Santos SP
+
+
+Rodada 7
+[Dom, 27/Junho]
+  11.00  Esporte Clube Juventude  1-0 (1-0)  Flamengo RJ
+  16.00  Fluminense RJ            1-1 (0-1)  Corinthians SP
+  20.00  Atlético PR              2-2 (1-1)  Chapecoense
+         Palmeiras SP             3-2 (1-1)  EC Bahia
+         Grêmio RS                0-0  Fortaleza EC
+  20.30  Ceára SC                 1-1 (1-0)  São Paulo FC
+         Santos SP                2-0 (0-0)  Atlético MG
+         América MG               1-1 (1-0)  Internacional Porto Alegre
+         Sport Recife             0-0  Cuiabá
+[Seg, 28/Junho]
+  20.00  Atlético GO              0-1 (0-0)  RB Bragantino
+
+
+Rodada 8
+[Qua, 30/Junho]
+  16.00  Fluminense RJ            1-4 (1-1)  Atlético PR
+         Fortaleza EC             3-2 (0-1)  Chapecoense
+  19.00  Internacional Porto Alegre  1-2 (0-1)  Palmeiras SP
+         EC Bahia                 3-4 (1-2)  América MG
+  20.30  Santos SP                0-0  Sport Recife
+  21.30  Esporte Clube Juventude  2-0 (1-0)  Grêmio RS
+         Corinthians SP           0-0  São Paulo FC
+[Qui, 1/Julho]
+  16.00  RB Bragantino            0-0  Ceára SC
+  19.00  Atlético MG              4-1 (3-1)  Atlético GO
+  20.00  Cuiabá                   0-2 (0-1)  Flamengo RJ
+
+
+Rodada 9
+[Sáb, 3/Julho]
+  19.00  Atlético PR              2-1 (2-0)  Fortaleza EC
+         América MG               2-0 (0-0)  Santos SP
+  21.00  Corinthians SP           1-1 (0-1)  Internacional Porto Alegre
+[Dom, 4/Julho]
+  11.00  Chapecoense              0-2 (0-0)  EC Bahia
+  16.00  Sport Recife             0-1 (0-1)  Palmeiras SP
+         Flamengo RJ              0-1 (0-0)  Fluminense RJ
+  18.15  Cuiabá                   0-1 (0-1)  Atlético MG
+         São Paulo FC             1-2 (1-0)  RB Bragantino
+         Ceára SC                 2-0 (0-0)  Esporte Clube Juventude
+  20.30  Grêmio RS                0-1 (0-0)  Atlético GO
+
+
+Rodada 10
+[Ter, 6/Julho]
+  19.30  Santos SP                2-1 (1-1)  Atlético PR
+[Qua, 7/Julho]
+  18.00  EC Bahia                 1-0 (0-0)  Esporte Clube Juventude
+         Fortaleza EC             4-0 (1-0)  América MG
+         RB Bragantino            1-1 (1-0)  Cuiabá
+  19.00  Atlético MG              2-1 (0-0)  Flamengo RJ
+         Palmeiras SP             2-0 (2-0)  Grêmio RS
+  19.15  Atlético GO              1-1 (0-0)  Sport Recife
+  21.30  Fluminense RJ            0-0  Ceára SC
+         Internacional Porto Alegre  0-2 (0-1)  São Paulo FC
+[Qui, 8/Julho]
+  21.00  Chapecoense              0-1 (0-0)  Corinthians SP
+
+
+Rodada 11
+[Sáb, 10/Julho]
+  16.30  Palmeiras SP             3-2 (2-0)  Santos SP
+         Grêmio RS                0-0  Internacional Porto Alegre
+  17.30  Atlético PR              2-2 (1-1)  RB Bragantino
+  19.00  São Paulo FC             1-0 (0-0)  EC Bahia
+         América MG               0-1 (0-0)  Atlético MG
+         Sport Recife             1-2 (1-0)  Fluminense RJ
+[Dom, 11/Julho]
+  11.00  Esporte Clube Juventude  1-1 (0-0)  Atlético GO
+  18.15  Flamengo RJ              2-1 (0-0)  Chapecoense
+         Cuiabá                   2-2 (1-0)  Ceára SC
+  20.30  Fortaleza EC             1-0 (1-0)  Corinthians SP
+
+
+Rodada 12
+[Sáb, 17/Julho]
+  17.00  Ceára SC                 1-0 (0-0)  Atlético PR
+         São Paulo FC             0-1 (0-0)  Fortaleza EC
+  19.00  Corinthians SP           1-2 (1-0)  Atlético MG
+  21.00  Fluminense RJ            0-1 (0-0)  Grêmio RS
+[Dom, 18/Julho]
+  11.00  Chapecoense              2-3 (2-2)  Cuiabá
+  16.00  Atlético GO              0-3 (0-0)  Palmeiras SP
+  18.15  EC Bahia                 0-5 (0-2)  Flamengo RJ
+  20.30  RB Bragantino            2-2 (1-0)  Santos SP
+         Internacional Porto Alegre  1-0 (0-0)  Esporte Clube Juventude
+[Seg, 19/Julho]
+  20.00  América MG               0-1 (0-0)  Sport Recife
+
+
+Rodada 3
+[Qua, 21/Julho]
+  19.00  Cuiabá                   2-1 (1-0)  Atlético GO
+
+
+Rodada 13
+[Sáb, 24/Julho]
+  17.00  Grêmio RS                1-1 (1-1)  América MG
+  19.00  Palmeiras SP             1-0 (0-0)  Fluminense RJ
+[Dom, 25/Julho]
+  11.00  Atlético MG              3-0 (0-0)  EC Bahia
+  16.00  Flamengo RJ              5-1 (0-0)  São Paulo FC
+         Fortaleza EC             1-0 (1-0)  RB Bragantino
+  18.15  Atlético PR              2-1 (2-0)  Internacional Porto Alegre
+         Santos SP                0-1 (0-1)  Atlético GO
+  20.30  Sport Recife             0-0  Ceára SC
+[Seg, 26/Julho]
+  18.00  Esporte Clube Juventude  1-0 (1-0)  Chapecoense
+  20.00  Cuiabá                   1-2 (0-2)  Corinthians SP
+
+
+Rodada 14
+[Sáb, 31/Julho]
+  19.00  São Paulo FC             0-0  Palmeiras SP
+  20.00  Internacional Porto Alegre  0-0  Cuiabá
+  21.00  RB Bragantino            1-0 (0-0)  Grêmio RS
+[Dom, 1/Agosto]
+  16.00  Atlético MG              2-0 (0-0)  Atlético PR
+         Corinthians SP           1-3 (0-3)  Flamengo RJ
+  18.15  EC Bahia                 0-1 (0-0)  Sport Recife
+         Chapecoense              0-1 (0-1)  Santos SP
+  20.30  Ceára SC                 3-1 (1-1)  Fortaleza EC
+         Atlético GO              1-1 (1-1)  América MG
+
+
+Rodada 15
+[Sex, 6/Agosto]
+  19.00  Sport Recife             0-0  RB Bragantino
+[Sáb, 7/Agosto]
+  18.00  Atlético PR              1-2 (1-2)  São Paulo FC
+  21.00  Palmeiras SP             2-3 (2-2)  Fortaleza EC
+         Cuiabá                   1-1 (1-1)  EC Bahia
+[Dom, 8/Agosto]
+  16.00  América MG               1-0 (0-0)  Fluminense RJ
+         Santos SP                0-0  Corinthians SP
+         Esporte Clube Juventude  1-2 (1-0)  Atlético MG
+  18.15  Ceára SC                 0-0  Atlético GO
+         Flamengo RJ              0-4 (0-2)  Internacional Porto Alegre
+[Seg, 9/Agosto]
+  20.00  Grêmio RS                2-1 (2-1)  Chapecoense
+
+
+Rodada 16
+[Sáb, 14/Agosto]
+  17.00  RB Bragantino            1-2 (1-0)  Esporte Clube Juventude
+  19.00  Atlético MG              2-0 (1-0)  Palmeiras SP
+  21.00  São Paulo FC             2-1 (1-1)  Grêmio RS
+[Dom, 15/Agosto]
+  16.00  Flamengo RJ              2-0 (1-0)  Sport Recife
+         Corinthians SP           3-1 (2-0)  Ceára SC
+  18.15  EC Bahia                 1-2 (1-0)  Atlético GO
+         Cuiabá                   1-0 (0-0)  Atlético PR
+         Fortaleza EC             1-1 (1-1)  Santos SP
+  20.30  Internacional Porto Alegre  4-2 (1-1)  Fluminense RJ
+[Seg, 16/Agosto]
+  20.00  Chapecoense              1-1 (0-0)  América MG
+
+
+Rodada 5
+[Qua, 18/Agosto]
+  19.00  Cuiabá                   0-1 (0-1)  Grêmio RS
+
+
+Rodada 17
+[Sáb, 21/Agosto]
+  17.00  Atlético GO              1-1 (0-1)  Chapecoense
+  19.00  Grêmio RS                2-0 (0-0)  EC Bahia
+  21.00  Esporte Clube Juventude  1-1 (0-1)  Fortaleza EC
+[Dom, 22/Agosto]
+  11.00  Palmeiras SP             0-2 (0-1)  Cuiabá
+  16.00  Atlético PR              0-1 (0-0)  Corinthians SP
+         Ceára SC                 1-1 (1-0)  Flamengo RJ
+  18.15  Santos SP                2-2 (2-1)  Internacional Porto Alegre
+  20.30  Sport Recife             0-1 (0-1)  São Paulo FC
+[Seg, 23/Agosto]
+  20.00  América MG               0-2 (0-1)  RB Bragantino
+         Fluminense RJ            1-1 (1-0)  Atlético MG
+
+
+Rodada 18
+[Sáb, 28/Agosto]
+  17.00  Sport Recife             0-0  Chapecoense
+  19.00  Santos SP                0-4 (0-0)  Flamengo RJ
+  21.00  Grêmio RS                0-1 (0-0)  Corinthians SP
+         Palmeiras SP             2-1 (1-0)  Atlético PR
+[Dom, 29/Agosto]
+  11.00  América MG               2-0 (1-0)  Ceára SC
+  16.00  Esporte Clube Juventude  1-1 (0-0)  São Paulo FC
+  18.15  Atlético GO              0-0  Internacional Porto Alegre
+  20.30  RB Bragantino            1-1 (1-0)  Atlético MG
+[Seg, 30/Agosto]
+  19.00  Fluminense RJ            2-0 (1-0)  EC Bahia
+  21.30  Fortaleza EC             0-0  Cuiabá
+
+
+Rodada 14
+[Qui, 2/Set]
+  19.00  Fluminense RJ            1-1 (0-0)  Esporte Clube Juventude
+
+
+Rodada 19
+[Sáb, 4/Set]
+  21.00  Cuiabá                   2-1 (1-0)  Santos SP
+         EC Bahia                 4-2 (1-0)  Fortaleza EC
+[Dom, 5/Set]
+  18.15  Atlético PR              0-0  Sport Recife
+[Ter, 7/Set]
+  21.30  Corinthians SP           1-1 (0-1)  Esporte Clube Juventude
+         Chapecoense              1-2 (0-2)  Fluminense RJ
+
+
+Rodada 20
+[Sáb, 11/Set]
+  16.00  América MG               2-0 (0-0)  Atlético PR
+  17.00  Esporte Clube Juventude  1-2 (0-1)  Cuiabá
+  19.00  RB Bragantino            1-2 (1-0)  Chapecoense
+  21.00  Santos SP                0-0  EC Bahia
+[Dom, 12/Set]
+  11.00  Grêmio RS                2-0 (2-0)  Ceára SC
+  16.00  Palmeiras SP             1-3 (1-1)  Flamengo RJ
+         Fortaleza EC             0-2 (0-0)  Atlético MG
+  18.15  Atlético GO              1-1 (0-0)  Corinthians SP
+  20.30  Fluminense RJ            2-1 (0-0)  São Paulo FC
+[Seg, 13/Set]
+  20.00  Sport Recife             0-1 (0-1)  Internacional Porto Alegre
+
+
+Rodada 21
+[Sáb, 18/Set]
+  17.00  Chapecoense              0-2 (0-2)  Palmeiras SP
+  18.45  Atlético PR              2-1 (0-0)  Esporte Clube Juventude
+  19.00  Atlético MG              3-0 (2-0)  Sport Recife
+  21.00  Ceára SC                 0-0  Santos SP
+         EC Bahia                 1-1 (0-0)  RB Bragantino
+[Dom, 19/Set]
+  11.00  Internacional Porto Alegre  1-0 (0-0)  Fortaleza EC
+  16.00  São Paulo FC             2-1 (1-0)  Atlético GO
+  18.15  Corinthians SP           1-1 (1-1)  América MG
+  20.30  Flamengo RJ              0-1 (0-1)  Grêmio RS
+[Seg, 20/Set]
+  20.00  Cuiabá                   2-2 (1-2)  Fluminense RJ
+
+
+Rodada 19
+[Qua, 22/Set]
+  20.30  São Paulo FC             0-0  América MG
+
+
+Rodada 22
+[Sáb, 25/Set]
+  17.00  Ceára SC                 1-0 (0-0)  Chapecoense
+  19.00  Corinthians SP           2-1 (1-1)  Palmeiras SP
+  21.00  São Paulo FC             0-0  Atlético MG
+[Dom, 26/Set]
+  11.00  América MG               1-1 (0-0)  Flamengo RJ
+  16.00  Fluminense RJ            2-1 (2-0)  RB Bragantino
+         Internacional Porto Alegre  2-0 (1-0)  EC Bahia
+         Esporte Clube Juventude  3-0 (1-0)  Santos SP
+  18.15  Atlético PR              4-2 (2-0)  Grêmio RS
+         Sport Recife             0-1 (0-1)  Fortaleza EC
+  20.30  Atlético GO              0-0  Cuiabá
+
+
+Rodada 23
+[Sáb, 2/Out]
+  17.00  Fortaleza EC             0-3 (0-1)  Atlético GO
+         Cuiabá                   0-2 (0-1)  América MG
+  19.00  RB Bragantino            2-2 (0-0)  Corinthians SP
+  21.00  Atlético MG              1-0 (0-0)  Internacional Porto Alegre
+[Dom, 3/Out]
+  16.00  Flamengo RJ              3-0 (3-0)  Atlético PR
+         Chapecoense              1-1 (0-1)  São Paulo FC
+  18.15  Palmeiras SP             1-1 (1-1)  Esporte Clube Juventude
+  20.30  Grêmio RS                1-2 (0-0)  Sport Recife
+
+
+Rodada 24
+[Ter, 5/Out]
+  21.30  Corinthians SP           3-1 (1-1)  EC Bahia
+[Qua, 6/Out]
+  19.00  Ceára SC                 0-0  Internacional Porto Alegre
+         Sport Recife             3-1 (1-0)  Esporte Clube Juventude
+         Chapecoense              2-2 (1-1)  Atlético MG
+         Atlético GO              0-2 (0-1)  Atlético PR
+  20.30  RB Bragantino            1-1 (0-1)  Flamengo RJ
+  21.30  América MG               2-1 (0-1)  Palmeiras SP
+         Grêmio RS                2-2 (0-1)  Cuiabá
+         Fluminense RJ            0-2 (0-0)  Fortaleza EC
+[Qui, 7/Out]
+  18.30  São Paulo FC             1-1 (1-1)  Santos SP
+
+
+Rodada 25
+[Sáb, 9/Out]
+  16.30  Sport Recife             1-0 (0-0)  Corinthians SP
+         Atlético MG              3-1 (2-0)  Ceára SC
+         Fluminense RJ            0-0  Atlético GO
+  19.00  Fortaleza EC             0-3 (0-0)  Flamengo RJ
+         Atlético PR              0-2 (0-1)  EC Bahia
+  21.00  Esporte Clube Juventude  1-1 (1-1)  América MG
+         Palmeiras SP             2-4 (1-3)  RB Bragantino
+[Dom, 10/Out]
+  11.00  Internacional Porto Alegre  5-2 (4-0)  Chapecoense
+  16.00  Santos SP                1-0 (0-0)  Grêmio RS
+[Seg, 11/Out]
+  20.00  Cuiabá                   0-0  São Paulo FC
+
+
+Rodada 26
+[Ter, 12/Out]
+  19.00  RB Bragantino            1-0 (0-0)  Atlético GO
+  21.30  EC Bahia                 0-0  Palmeiras SP
+[Qua, 13/Out]
+  19.00  Chapecoense              1-1 (0-0)  Atlético PR
+         Atlético MG              3-1 (0-0)  Santos SP
+         Flamengo RJ              3-1 (3-0)  Esporte Clube Juventude
+  20.30  Fortaleza EC             1-0 (0-0)  Grêmio RS
+  21.00  Corinthians SP           1-0 (0-0)  Fluminense RJ
+  21.30  Internacional Porto Alegre  3-1 (1-1)  América MG
+[Qui, 14/Out]
+  19.00  Cuiabá                   1-0 (0-0)  Sport Recife
+         São Paulo FC             1-1 (0-1)  Ceára SC
+
+
+Rodada 27
+[Sáb, 16/Out]
+  19.00  Chapecoense              1-2 (1-1)  Fortaleza EC
+  21.00  América MG               0-0  EC Bahia
+[Dom, 17/Out]
+  16.00  Palmeiras SP             1-0 (0-0)  Internacional Porto Alegre
+         Atlético PR              0-1 (0-1)  Fluminense RJ
+  18.15  Ceára SC                 2-2 (0-1)  RB Bragantino
+         Atlético GO              2-1 (0-0)  Atlético MG
+         Grêmio RS                3-2 (2-0)  Esporte Clube Juventude
+  20.30  Flamengo RJ              0-0  Cuiabá
+         Sport Recife             0-0  Santos SP
+[Seg, 18/Out]
+  20.00  São Paulo FC             1-0 (1-0)  Corinthians SP
+
+
+Rodada 19
+[Qua, 20/Out]
+  19.00  Ceára SC                 1-2 (0-1)  Palmeiras SP
+[Qui, 21/Out]
+  20.00  Internacional Porto Alegre  1-1 (1-0)  RB Bragantino
+
+
+Rodada 28
+[Sáb, 23/Out]
+  17.00  Santos SP                0-2 (0-1)  América MG
+         Esporte Clube Juventude  0-0  Ceára SC
+  19.00  Fluminense RJ            3-1 (1-0)  Flamengo RJ
+  19.15  Fortaleza EC             3-0 (2-0)  Atlético PR
+[Dom, 24/Out]
+  16.00  Internacional Porto Alegre  2-2 (1-0)  Corinthians SP
+         Atlético MG              2-1 (2-1)  Cuiabá
+  18.15  RB Bragantino            1-0 (0-0)  São Paulo FC
+  20.30  EC Bahia                 3-0 (2-0)  Chapecoense
+[Seg, 25/Out]
+  20.00  Atlético GO              2-0 (1-0)  Grêmio RS
+  21.30  Palmeiras SP             2-1 (0-1)  Sport Recife
+
+
+Rodada 23
+[Qua, 27/Out]
+  19.00  EC Bahia                 1-1 (0-0)  Ceára SC
+         Santos SP                2-0 (1-0)  Fluminense RJ
+
+
+Rodada 34
+[Qui, 28/Out]
+  19.00  RB Bragantino            3-0 (1-0)  Sport Recife
+
+
+Rodada 29
+[Sáb, 30/Out]
+  17.00  Atlético PR              0-1 (0-0)  Santos SP
+  19.00  Flamengo RJ              1-0 (1-0)  Atlético MG
+  19.15  Esporte Clube Juventude  0-0  EC Bahia
+  22.00  América MG               2-1 (1-0)  Fortaleza EC
+[Dom, 31/Out]
+  16.00  Grêmio RS                1-3 (1-2)  Palmeiras SP
+         Ceára SC                 1-0 (1-0)  Fluminense RJ
+  18.15  São Paulo FC             1-0 (1-0)  Internacional Porto Alegre
+  20.30  Sport Recife             2-0 (0-0)  Atlético GO
+[Seg, 1/Nov]
+  20.00  Cuiabá                   1-0 (0-0)  RB Bragantino
+  21.30  Corinthians SP           1-0 (0-0)  Chapecoense
+
+
+Rodada 4
+[Ter, 2/Nov]
+  16.00  Atlético PR              2-2 (0-2)  Flamengo RJ
+
+
+Rodada 19
+[Qua, 3/Nov]
+  21.00  Atlético MG              2-1 (1-0)  Grêmio RS
+
+
+Rodada 31
+[Qui, 4/Nov]
+  21.00  Cuiabá                   0-0  Chapecoense
+
+
+Rodada 19
+[Sex, 5/Nov]
+  21.30  Flamengo RJ              2-0 (1-0)  Atlético GO
+
+
+Rodada 30
+[Sáb, 6/Nov]
+  17.00  Corinthians SP           1-0 (0-0)  Fortaleza EC
+  19.00  Internacional Porto Alegre  1-0 (1-0)  Grêmio RS
+  21.00  Fluminense RJ            1-0 (0-0)  Sport Recife
+[Dom, 7/Nov]
+  16.00  Santos SP                0-2 (0-1)  Palmeiras SP
+         Atlético MG              1-0 (0-0)  América MG
+         RB Bragantino            0-2 (0-0)  Atlético PR
+  18.15  EC Bahia                 1-0 (0-0)  São Paulo FC
+  20.30  Ceára SC                 1-0 (0-0)  Cuiabá
+[Seg, 8/Nov]
+  20.00  Chapecoense              2-2 (2-2)  Flamengo RJ
+
+
+Rodada 31
+[Ter, 9/Nov]
+  21.30  Grêmio RS                1-0 (0-0)  Fluminense RJ
+[Qua, 10/Nov]
+  18.30  Atlético PR              2-1 (1-0)  Ceára SC
+  19.00  Santos SP                2-0 (1-0)  RB Bragantino
+         Atlético MG              3-0 (1-0)  Corinthians SP
+  20.30  Palmeiras SP             4-0 (2-0)  Atlético GO
+  21.30  Fortaleza EC             1-1 (0-0)  São Paulo FC
+         Sport Recife             2-3 (0-1)  América MG
+         Esporte Clube Juventude  2-1 (0-0)  Internacional Porto Alegre
+[Qui, 11/Nov]
+  19.00  Flamengo RJ              3-0 (1-0)  EC Bahia
+
+
+Rodada 32
+[Sáb, 13/Nov]
+  17.00  Atlético GO              0-0  Santos SP
+  18.30  América MG               3-1 (2-0)  Grêmio RS
+  19.00  RB Bragantino            3-0 (2-0)  Fortaleza EC
+         Internacional Porto Alegre  2-1 (1-1)  Atlético PR
+  21.00  Corinthians SP           3-2 (1-1)  Cuiabá
+[Dom, 14/Nov]
+  16.00  São Paulo FC             0-4 (0-3)  Flamengo RJ
+  18.15  Fluminense RJ            2-1 (0-1)  Palmeiras SP
+  19.00  Ceára SC                 2-1 (1-0)  Sport Recife
+         Chapecoense              0-2 (0-2)  Esporte Clube Juventude
+
+
+Rodada 33
+[Ter, 16/Nov]
+  16.00  Atlético PR              0-1 (0-1)  Atlético MG
+  18.00  Grêmio RS                3-0 (3-0)  RB Bragantino
+[Qua, 17/Nov]
+  19.00  Cuiabá                   1-0 (0-0)  Internacional Porto Alegre
+         Santos SP                2-0 (1-0)  Chapecoense
+         América MG               0-0  Atlético GO
+  20.00  Fortaleza EC             0-4 (0-2)  Ceára SC
+  20.30  Esporte Clube Juventude  1-0 (1-0)  Fluminense RJ
+         Palmeiras SP             0-2 (0-1)  São Paulo FC
+  21.30  Flamengo RJ              1-0 (0-0)  Corinthians SP
+[Qui, 18/Nov]
+  21.00  Sport Recife             1-0 (0-0)  EC Bahia
+
+
+Rodada 34
+[Sáb, 20/Nov]
+  19.00  Chapecoense              1-3 (0-1)  Grêmio RS
+         Atlético MG              2-0 (0-0)  Esporte Clube Juventude
+         Fortaleza EC             1-0 (1-0)  Palmeiras SP
+  21.00  Atlético GO              1-1 (0-0)  Ceára SC
+  21.30  Internacional Porto Alegre  1-2 (1-2)  Flamengo RJ
+[Dom, 21/Nov]
+  16.00  Corinthians SP           2-0 (0-0)  Santos SP
+  17.00  Fluminense RJ            2-0 (1-0)  América MG
+  19.00  EC Bahia                 0-0  Cuiabá
+
+
+Rodada 30
+[Ter, 23/Nov]
+  19.00  Atlético GO              1-1 (0-0)  Esporte Clube Juventude
+
+
+Rodada 2
+[Ter, 23/Nov]
+  21.00  Grêmio RS                2-2 (0-0)  Flamengo RJ
+
+
+Rodada 35
+[Ter, 23/Nov]
+  21.30  Palmeiras SP             2-2 (1-1)  Atlético MG
+
+
+Rodada 34
+[Qua, 24/Nov]
+  21.30  São Paulo FC             0-0  Atlético PR
+
+
+Rodada 35
+[Qua, 24/Nov]
+  21.30  Fluminense RJ            1-0 (1-0)  Internacional Porto Alegre
+[Qui, 25/Nov]
+  19.00  Santos SP                2-0 (0-0)  Fortaleza EC
+  20.00  Ceára SC                 2-1 (1-0)  Corinthians SP
+
+
+Rodada 36
+[Sex, 26/Nov]
+  19.00  EC Bahia                 3-1 (2-0)  Grêmio RS
+[Sáb, 27/Nov]
+  19.30  RB Bragantino            1-1 (0-0)  América MG
+  21.30  São Paulo FC             2-0 (0-0)  Sport Recife
+[Dom, 28/Nov]
+  16.00  Atlético MG              2-1 (1-1)  Fluminense RJ
+         Corinthians SP           1-0 (0-0)  Atlético PR
+  19.00  Internacional Porto Alegre  1-1 (1-0)  Santos SP
+
+
+Rodada 35
+[Seg, 29/Nov]
+  19.00  Atlético GO              2-1 (0-0)  EC Bahia
+[Ter, 30/Nov]
+  19.00  Esporte Clube Juventude  1-0 (1-0)  RB Bragantino
+
+
+Rodada 36
+[Ter, 30/Nov]
+  20.00  Flamengo RJ              2-1 (1-0)  Ceára SC
+
+
+Rodada 35
+[Ter, 30/Nov]
+  21.00  América MG               3-0 (1-0)  Chapecoense
+
+
+Rodada 36
+[Ter, 30/Nov]
+  22.00  Cuiabá                   1-3 (1-2)  Palmeiras SP
+
+
+Rodada 32
+[Qui, 2/Dez]
+  18.00  EC Bahia                 2-3 (0-0)  Atlético MG
+
+
+Rodada 35
+[Qui, 2/Dez]
+  20.00  Grêmio RS                3-0 (1-0)  São Paulo FC
+[Sex, 3/Dez]
+  19.00  Atlético PR              1-0 (0-0)  Cuiabá
+  20.00  Sport Recife             1-1 (0-1)  Flamengo RJ
+
+
+Rodada 36
+[Sex, 3/Dez]
+  20.00  Chapecoense              0-1 (0-0)  Atlético GO
+  21.00  Fortaleza EC             1-0 (0-0)  Esporte Clube Juventude
+
+
+Rodada 37
+[Dom, 5/Dez]
+  16.00  Atlético MG              4-3 (1-1)  RB Bragantino
+         Corinthians SP           1-1 (0-1)  Grêmio RS
+         EC Bahia                 2-0 (2-0)  Fluminense RJ
+  19.00  Ceára SC                 0-0  América MG
+[Seg, 6/Dez]
+  19.00  Atlético PR              0-0  Palmeiras SP
+         São Paulo FC             3-1 (2-0)  Esporte Clube Juventude
+  20.00  Internacional Porto Alegre  1-2 (1-2)  Atlético GO
+         Cuiabá                   1-0 (1-0)  Fortaleza EC
+         Flamengo RJ              0-1 (0-0)  Santos SP
+  21.00  Chapecoense              0-1 (0-0)  Sport Recife
+
+
+Rodada 38
+[Qui, 9/Dez]
+  21.30  Fortaleza EC             2-1 (1-1)  EC Bahia
+         Sport Recife             1-1 (1-1)  Atlético PR
+         RB Bragantino            1-0 (0-0)  Internacional Porto Alegre
+         Esporte Clube Juventude  1-0 (0-0)  Corinthians SP
+         Atlético GO              2-0 (0-0)  Flamengo RJ
+         Grêmio RS                4-3 (3-2)  Atlético MG
+         América MG               2-0 (0-0)  São Paulo FC
+         Fluminense RJ            3-0 (0-0)  Chapecoense
+         Palmeiras SP             1-0 (1-0)  Ceára SC
+         Santos SP                1-1 (0-1)  Cuiabá
