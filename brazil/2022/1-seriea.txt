@@ -1,29 +1,29 @@
 = Brasileiro Série A 2022
 
 
-Rodada 1
-[Sáb, 9/Abril]
+Matchday 1
+[Sat Apr/9]
   16.30  Fluminense RJ            0-0  Santos SP
   19.00  Atlético GO              1-1 (0-0)  Flamengo RJ
   21.00  Palmeiras SP             2-3 (1-2)  Ceára SC
-[Dom, 10/Abril]
+[Sun Apr/10]
   11.00  Coritiba PR              3-0 (1-0)  Goiás EC
   16.00  Atlético MG              2-0 (1-0)  Internacional Porto Alegre
          Botafogo RJ              1-3 (0-3)  Corinthians SP
   18.00  Fortaleza EC             0-1 (0-1)  Cuiabá
   19.00  Avaí FC                  1-0 (0-0)  América MG
          São Paulo FC             4-0 (1-0)  Atlético PR
-[Seg, 11/Abril]
+[Mon Apr/11]
   20.00  Esporte Clube Juventude  2-2 (1-1)  RB Bragantino
 
 
-Rodada 2
-[Sáb, 16/Abril]
+Matchday 2
+[Sat Apr/16]
   16.30  Goiás EC                 1-1 (0-0)  Palmeiras SP
   19.00  América MG               4-1 (2-0)  Esporte Clube Juventude
          Corinthians SP           3-0 (2-0)  Avaí FC
   21.00  Cuiabá                   0-1 (0-0)  Fluminense RJ
-[Dom, 17/Abril]
+[Sun Apr/17]
   11.00  Santos SP                2-1 (2-1)  Coritiba PR
   16.00  Flamengo RJ              3-1 (1-1)  São Paulo FC
   18.00  Internacional Porto Alegre  2-1 (1-1)  Fortaleza EC
@@ -32,46 +32,46 @@ Rodada 2
   19.00  Ceára SC                 1-3 (1-1)  Botafogo RJ
 
 
-Rodada 4
-[Qua, 20/Abril]
+Matchday 4
+[Wed Apr/20]
   19.30  Flamengo RJ              0-0  Palmeiras SP
 
 
-Rodada 3
-[Sáb, 23/Abril]
+Matchday 3
+[Sat Apr/23]
   16.30  RB Bragantino            1-1 (1-0)  São Paulo FC
          Atlético PR              1-0 (1-0)  Flamengo RJ
   19.00  Palmeiras SP             3-0 (2-0)  Corinthians SP
          Fluminense RJ            0-1 (0-0)  Internacional Porto Alegre
   21.00  Atlético MG              2-2 (2-0)  Coritiba PR
-[Dom, 24/Abril]
+[Sun Apr/24]
   16.00  Santos SP                3-0 (1-0)  América MG
   18.00  Esporte Clube Juventude  0-1 (0-0)  Cuiabá
   18.30  Atlético GO              1-1 (0-0)  Botafogo RJ
-[Seg, 25/Abril]
+[Mon Apr/25]
   20.00  Avaí FC                  3-2 (1-0)  Goiás EC
 
 
-Rodada 4
-[Sáb, 30/Abril]
+Matchday 4
+[Sat Apr/30]
   16.30  América MG               1-0 (0-0)  Atlético PR
          Ceára SC                 0-1 (0-1)  RB Bragantino
   18.30  Goiás EC                 2-2 (0-1)  Atlético MG
   19.00  Cuiabá                   1-1 (0-1)  Atlético GO
-[Dom, 1/Maio]
+[Sun May/1]
   11.00  Botafogo RJ              1-1 (0-0)  Esporte Clube Juventude
   16.00  Corinthians SP           1-0 (0-0)  Fortaleza EC
          Coritiba PR              3-2 (0-2)  Fluminense RJ
   19.00  Internacional Porto Alegre  0-0  Avaí FC
-[Seg, 2/Maio]
+[Mon May/2]
   20.00  São Paulo FC             2-1 (1-1)  Santos SP
 
 
-Rodada 5
-[Sáb, 7/Maio]
+Matchday 5
+[Sat May/7]
   16.30  Atlético MG              1-2 (0-1)  América MG
   20.30  Atlético PR              1-0 (0-0)  Ceára SC
-[Dom, 8/Maio]
+[Sun May/8]
   11.00  Flamengo RJ              0-1 (0-0)  Botafogo RJ
   16.00  Palmeiras SP             1-1 (0-0)  Fluminense RJ
          Atlético GO              0-1 (0-1)  Goiás EC
@@ -79,23 +79,23 @@ Rodada 5
          Santos SP                4-1 (2-1)  Cuiabá
   19.00  Esporte Clube Juventude  1-1 (0-0)  Internacional Porto Alegre
          Fortaleza EC             1-1 (0-0)  São Paulo FC
-[Seg, 9/Maio]
+[Mon May/9]
   20.00  Avaí FC                  2-1 (0-0)  Coritiba PR
 
 
-Rodada 7
-[Qua, 11/Maio]
+Matchday 7
+[Wed May/11]
   20.30  RB Bragantino            1-1 (1-0)  Atlético MG
 
 
-Rodada 6
-[Sáb, 14/Maio]
+Matchday 6
+[Sat May/14]
   16.30  Palmeiras SP             2-0 (1-0)  RB Bragantino
          Ceára SC                 2-2 (1-2)  Flamengo RJ
   19.00  Internacional Porto Alegre  2-2 (2-1)  Corinthians SP
          Atlético MG              2-0 (1-0)  Atlético GO
   21.00  Fluminense RJ            2-1 (1-0)  Atlético PR
-[Dom, 15/Maio]
+[Sun May/15]
   16.00  São Paulo FC             2-1 (0-1)  Cuiabá
   17.30  Coritiba PR              1-0 (1-0)  América MG
   18.00  Botafogo RJ              3-1 (1-1)  Fortaleza EC
@@ -103,110 +103,110 @@ Rodada 6
   19.00  Goiás EC                 1-0 (1-0)  Santos SP
 
 
-Rodada 7
-[Sáb, 21/Maio]
+Matchday 7
+[Sat May/21]
   16.30  Flamengo RJ              1-0 (1-0)  Goiás EC
          Atlético GO              2-0 (1-0)  Coritiba PR
   18.30  Santos SP                0-0  Ceára SC
   19.00  Esporte Clube Juventude  0-3 (0-2)  Palmeiras SP
   21.00  Cuiabá                   1-1 (0-0)  Internacional Porto Alegre
          América MG               1-1 (1-0)  Botafogo RJ
-[Dom, 22/Maio]
+[Sun May/22]
   16.00  Corinthians SP           1-1 (0-1)  São Paulo FC
          Fortaleza EC             0-1 (0-1)  Fluminense RJ
   19.00  Atlético PR              2-1 (2-0)  Avaí FC
 
 
-Rodada 8
-[Sáb, 28/Maio]
+Matchday 8
+[Sat May/28]
   16.30  Goiás EC                 1-1 (0-1)  RB Bragantino
   19.00  São Paulo FC             2-2 (2-1)  Ceára SC
   20.30  Fortaleza EC             1-1 (0-0)  Esporte Clube Juventude
-[Dom, 29/Maio]
+[Sun May/29]
   16.00  Santos SP                0-1 (0-0)  Palmeiras SP
          Coritiba PR              1-0 (1-0)  Botafogo RJ
   18.00  Fluminense RJ            1-2 (1-1)  Flamengo RJ
          Cuiabá                   0-1 (0-0)  Atlético PR
          Corinthians SP           1-1 (0-0)  América MG
   19.00  Atlético MG              2-1 (0-1)  Avaí FC
-[Seg, 30/Maio]
+[Mon May/30]
   20.00  Internacional Porto Alegre  1-1 (1-0)  Atlético GO
 
 
-Rodada 3
-[Qua, 1/Junho]
+Matchday 3
+[Wed Jun/1]
   20.30  Fortaleza EC             0-1 (0-1)  Ceára SC
 
 
-Rodada 9
-[Sáb, 4/Junho]
+Matchday 9
+[Sat Jun/4]
   16.30  América MG               2-1 (1-1)  Cuiabá
   19.00  Atlético PR              2-2 (1-1)  Santos SP
          Avaí FC                  1-1 (0-1)  São Paulo FC
          Ceára SC                 1-1 (1-0)  Coritiba PR
   20.30  Atlético GO              0-1 (0-1)  Corinthians SP
-[Dom, 5/Junho]
+[Sun Jun/5]
   11.00  Esporte Clube Juventude  1-0 (1-0)  Fluminense RJ
   16.00  Flamengo RJ              1-2 (1-1)  Fortaleza EC
          Palmeiras SP             0-0  Atlético MG
   19.00  RB Bragantino            0-2 (0-0)  Internacional Porto Alegre
-[Seg, 6/Junho]
+[Mon Jun/6]
   20.00  Botafogo RJ              1-2 (1-0)  Goiás EC
 
 
-Rodada 10
-[Ter, 7/Junho]
+Matchday 10
+[Tue Jun/7]
   21.30  Cuiabá                   1-0 (1-0)  Corinthians SP
-[Qua, 8/Junho]
+[Wed Jun/8]
   19.00  América MG               0-2 (0-1)  Ceára SC
          Esporte Clube Juventude  1-3 (1-1)  Atlético PR
   20.30  Atlético GO              2-1 (1-1)  Avaí FC
          RB Bragantino            1-0 (1-0)  Flamengo RJ
   21.30  Fluminense RJ            5-3 (3-2)  Atlético MG
          Santos SP                1-1 (0-0)  Internacional Porto Alegre
-[Qui, 9/Junho]
+[Thu Jun/9]
   19.00  Palmeiras SP             4-0 (3-0)  Botafogo RJ
   20.00  Coritiba PR              1-1 (0-1)  São Paulo FC
          Fortaleza EC             1-1 (1-0)  Goiás EC
 
 
-Rodada 11
-[Sáb, 11/Junho]
+Matchday 11
+[Sat Jun/11]
   16.30  Corinthians SP           2-0 (1-0)  Esporte Clube Juventude
   19.00  Cuiabá                   1-1 (1-1)  RB Bragantino
          Atlético MG              1-1 (1-0)  Santos SP
          Fluminense RJ            0-2 (0-2)  Atlético GO
   21.00  Internacional Porto Alegre  3-1 (2-0)  Flamengo RJ
-[Dom, 12/Junho]
+[Sun Jun/12]
   16.00  São Paulo FC             1-0 (1-0)  América MG
          Goiás EC                 1-1 (0-1)  Ceára SC
   18.00  Coritiba PR              0-2 (0-1)  Palmeiras SP
   19.00  Fortaleza EC             0-0  Atlético PR
-[Seg, 13/Junho]
+[Mon Jun/13]
   19.00  Botafogo RJ              0-1 (0-1)  Avaí FC
 
 
-Rodada 12
-[Ter, 14/Junho]
+Matchday 12
+[Tue Jun/14]
   21.30  Esporte Clube Juventude  1-2 (1-0)  Santos SP
-[Qua, 15/Junho]
+[Wed Jun/15]
   19.00  RB Bragantino            4-2 (3-0)  Coritiba PR
          Ceára SC                 0-0  Atlético MG
   20.30  Flamengo RJ              2-0 (1-0)  Cuiabá
          Goiás EC                 1-2 (1-1)  Internacional Porto Alegre
   21.30  Atlético PR              1-1 (0-1)  Corinthians SP
          América MG               0-0  Fluminense RJ
-[Qui, 16/Junho]
+[Thu Jun/16]
   16.00  Botafogo RJ              1-0 (0-0)  São Paulo FC
   18.00  Palmeiras SP             4-2 (4-1)  Atlético GO
   19.00  Avaí FC                  3-2 (2-1)  Fortaleza EC
 
 
-Rodada 13
-[Sáb, 18/Junho]
+Matchday 13
+[Sat Jun/18]
   19.00  Cuiabá                   0-0  Ceára SC
   21.00  Santos SP                2-2 (2-1)  RB Bragantino
-[Dom, 19/Junho]
+[Sun Jun/19]
   16.00  Corinthians SP           1-0 (1-0)  Goiás EC
          Atlético MG              2-0 (1-0)  Flamengo RJ
          Coritiba PR              0-1 (0-0)  Atlético PR
@@ -214,19 +214,19 @@ Rodada 13
          Fortaleza EC             1-0 (1-0)  América MG
          Internacional Porto Alegre  2-3 (2-1)  Botafogo RJ
   19.00  Fluminense RJ            2-0 (1-0)  Avaí FC
-[Seg, 20/Junho]
+[Mon Jun/20]
   20.00  São Paulo FC             1-2 (1-0)  Palmeiras SP
 
 
-Rodada 14
-[Sex, 24/Junho]
+Matchday 14
+[Fri Jun/24]
   21.30  Internacional Porto Alegre  3-0 (2-0)  Coritiba PR
-[Sáb, 25/Junho]
+[Sat Jun/25]
   16.30  Atlético PR              4-2 (3-0)  RB Bragantino
   19.00  Flamengo RJ              3-0 (1-0)  América MG
          Corinthians SP           0-0  Santos SP
   21.00  Atlético MG              3-2 (0-2)  Fortaleza EC
-[Dom, 26/Junho]
+[Sun Jun/26]
   16.00  Botafogo RJ              0-1 (0-0)  Fluminense RJ
          Avaí FC                  2-2 (1-0)  Palmeiras SP
   18.00  Goiás EC                 1-0 (0-0)  Cuiabá
@@ -234,58 +234,58 @@ Rodada 14
          São Paulo FC             0-0  Esporte Clube Juventude
 
 
-Rodada 15
-[Sáb, 2/Julho]
+Matchday 15
+[Sat Jul/2]
   16.30  Esporte Clube Juventude  1-2 (0-1)  Atlético MG
          Fluminense RJ            4-0 (2-0)  Corinthians SP
   19.00  Santos SP                1-2 (0-1)  Flamengo RJ
          Ceára SC                 1-1 (1-1)  Internacional Porto Alegre
   21.00  Palmeiras SP             0-2 (0-1)  Atlético PR
-[Dom, 3/Julho]
+[Sun Jul/3]
   11.00  Avaí FC                  1-2 (1-0)  Cuiabá
   16.00  Atlético GO              1-2 (1-1)  São Paulo FC
   18.00  Coritiba PR              2-1 (1-0)  Fortaleza EC
          América MG               1-0 (0-0)  Goiás EC
-[Seg, 4/Julho]
+[Mon Jul/4]
   20.00  RB Bragantino            0-1 (0-0)  Botafogo RJ
 
 
-Rodada 16
-[Sáb, 9/Julho]
+Matchday 16
+[Sat Jul/9]
   16.30  RB Bragantino            4-0 (0-0)  Avaí FC
   19.00  Fluminense RJ            2-1 (1-0)  Ceára SC
   20.30  Goiás EC                 2-1 (2-0)  Atlético PR
-[Dom, 10/Julho]
+[Sun Jul/10]
   11.00  Coritiba PR              2-2 (0-2)  Esporte Clube Juventude
   16.00  Corinthians SP           1-0 (0-0)  Flamengo RJ
   18.00  Fortaleza EC             0-0  Palmeiras SP
          Santos SP                1-0 (0-0)  Atlético GO
          Atlético MG              0-0  São Paulo FC
   19.00  Cuiabá                   2-0 (1-0)  Botafogo RJ
-[Seg, 11/Julho]
+[Mon Jul/11]
   20.00  Internacional Porto Alegre  1-0 (0-0)  América MG
 
 
-Rodada 17
-[Sáb, 16/Julho]
+Matchday 17
+[Sat Jul/16]
   16.30  Atlético PR              0-0  Internacional Porto Alegre
   19.00  Flamengo RJ              2-0 (2-0)  Coritiba PR
          Avaí FC                  1-0 (1-0)  Santos SP
   21.00  Ceára SC                 3-1 (2-1)  Corinthians SP
-[Dom, 17/Julho]
+[Sun Jul/17]
   11.00  Esporte Clube Juventude  0-0  Goiás EC
   16.00  São Paulo FC             2-2 (2-1)  Fluminense RJ
   18.00  Atlético GO              0-1 (0-0)  Fortaleza EC
          Botafogo RJ              0-1 (0-0)  Atlético MG
   19.00  América MG               0-3 (0-3)  RB Bragantino
-[Seg, 18/Julho]
+[Mon Jul/18]
   20.00  Palmeiras SP             1-0 (0-0)  Cuiabá
 
 
-Rodada 18
-[Ter, 19/Julho]
+Matchday 18
+[Tue Jul/19]
   21.30  Ceára SC                 1-0 (1-0)  Avaí FC
-[Qua, 20/Julho]
+[Wed Jul/20]
   19.00  RB Bragantino            2-1 (1-0)  Fortaleza EC
          Goiás EC                 2-3 (1-1)  Fluminense RJ
   19.30  Atlético PR              4-1 (2-0)  Atlético GO
@@ -293,16 +293,16 @@ Rodada 18
          Flamengo RJ              4-0 (3-0)  Esporte Clube Juventude
   21.30  Santos SP                2-0 (1-0)  Botafogo RJ
          Corinthians SP           3-1 (1-0)  Coritiba PR
-[Qui, 21/Julho]
+[Thu Jul/21]
   19.00  Cuiabá                   1-1 (0-0)  Atlético MG
   20.00  América MG               0-1 (0-0)  Palmeiras SP
 
 
-Rodada 19
-[Sáb, 23/Julho]
+Matchday 19
+[Sat Jul/23]
   19.00  São Paulo FC             3-3 (2-2)  Goiás EC
   21.00  Botafogo RJ              2-0 (1-0)  Atlético PR
-[Dom, 24/Julho]
+[Sun Jul/24]
   11.00  Avaí FC                  1-2 (0-0)  Flamengo RJ
   16.00  Fluminense RJ            2-1 (0-0)  RB Bragantino
          Palmeiras SP             2-1 (1-0)  Internacional Porto Alegre
@@ -310,49 +310,49 @@ Rodada 19
   18.00  Atlético GO              0-1 (0-1)  América MG
          Atlético MG              1-2 (1-0)  Corinthians SP
   19.00  Fortaleza EC             0-0  Santos SP
-[Seg, 25/Julho]
+[Mon Jul/25]
   20.00  Coritiba PR              1-0 (1-0)  Cuiabá
 
 
-Rodada 20
-[Sáb, 30/Julho]
+Matchday 20
+[Sat Jul/30]
   16.30  Ceára SC                 1-2 (0-2)  Palmeiras SP
          Goiás EC                 1-0 (0-0)  Coritiba PR
   19.00  Corinthians SP           1-0 (1-0)  Botafogo RJ
   20.30  Flamengo RJ              4-1 (4-0)  Atlético GO
-[Dom, 31/Julho]
+[Sun Jul/31]
   16.00  Atlético PR              1-0 (0-0)  São Paulo FC
          Internacional Porto Alegre  3-0 (3-0)  Atlético MG
   18.00  América MG               3-1 (1-1)  Avaí FC
          Cuiabá                   0-1 (0-1)  Fortaleza EC
   19.00  RB Bragantino            1-0 (1-0)  Esporte Clube Juventude
-[Seg, 1/Agosto]
+[Mon Aug/1]
   20.00  Santos SP                2-2 (1-0)  Fluminense RJ
 
 
-Rodada 21
-[Sáb, 6/Agosto]
+Matchday 21
+[Sat Aug/6]
   16.30  Esporte Clube Juventude  0-1 (0-1)  América MG
          Botafogo RJ              1-1 (1-0)  Ceára SC
   19.00  Atlético GO              2-1 (0-0)  RB Bragantino
          Avaí FC                  1-1 (1-0)  Corinthians SP
   20.30  São Paulo FC             0-2 (0-1)  Flamengo RJ
-[Dom, 7/Agosto]
+[Sun Aug/7]
   16.00  Fluminense RJ            1-0 (1-0)  Cuiabá
          Palmeiras SP             3-0 (2-0)  Goiás EC
   18.00  Fortaleza EC             3-0 (1-0)  Internacional Porto Alegre
   19.00  Atlético MG              2-3 (1-0)  Atlético PR
-[Seg, 8/Agosto]
+[Mon Aug/8]
   20.00  Coritiba PR              1-2 (0-0)  Santos SP
 
 
-Rodada 22
-[Sáb, 13/Agosto]
+Matchday 22
+[Sat Aug/13]
   16.30  Goiás EC                 1-1 (0-1)  Avaí FC
   19.00  Corinthians SP           0-1 (0-0)  Palmeiras SP
   20.30  Cuiabá                   1-0 (1-0)  Esporte Clube Juventude
   21.00  Botafogo RJ              0-0  Atlético GO
-[Dom, 14/Agosto]
+[Sun Aug/14]
   11.00  Coritiba PR              0-1 (0-0)  Atlético MG
   16.00  Flamengo RJ              5-0 (0-0)  Atlético PR
          São Paulo FC             3-0 (1-0)  RB Bragantino
@@ -361,11 +361,11 @@ Rodada 22
   19.00  Internacional Porto Alegre  3-0 (1-0)  Fluminense RJ
 
 
-Rodada 23
-[Sáb, 20/Agosto]
+Matchday 23
+[Sat Aug/20]
   16.30  Atlético MG              0-1 (0-0)  Goiás EC
   19.00  Fluminense RJ            5-2 (2-0)  Coritiba PR
-[Dom, 21/Agosto]
+[Sun Aug/21]
   11.00  Esporte Clube Juventude  2-2 (1-0)  Botafogo RJ
   16.00  Palmeiras SP             1-1 (0-1)  Flamengo RJ
   18.00  Atlético PR              1-1 (1-0)  América MG
@@ -373,51 +373,51 @@ Rodada 23
          Fortaleza EC             1-0 (0-0)  Corinthians SP
          RB Bragantino            1-1 (0-0)  Ceára SC
   19.00  Santos SP                1-0 (1-0)  São Paulo FC
-[Seg, 22/Agosto]
+[Mon Aug/22]
   20.00  Avaí FC                  0-1 (0-0)  Internacional Porto Alegre
 
 
-Rodada 24
-[Sáb, 27/Agosto]
+Matchday 24
+[Sat Aug/27]
   16.30  Goiás EC                 2-1 (1-0)  Atlético GO
          Coritiba PR              1-0 (0-0)  Avaí FC
   19.00  Fluminense RJ            1-1 (1-1)  Palmeiras SP
   21.00  Ceára SC                 0-0  Atlético PR
-[Dom, 28/Agosto]
+[Sun Aug/28]
   16.00  América MG               1-1 (1-1)  Atlético MG
          São Paulo FC             0-1 (0-1)  Fortaleza EC
   18.00  Botafogo RJ              0-1 (0-0)  Flamengo RJ
          Cuiabá                   0-0  Santos SP
-[Seg, 29/Agosto]
+[Mon Aug/29]
   20.00  Internacional Porto Alegre  4-0 (2-0)  Esporte Clube Juventude
   21.30  Corinthians SP           1-0 (1-0)  RB Bragantino
 
 
-Rodada 25
-[Sáb, 3/Set]
+Matchday 25
+[Sat Sep/3]
   16.30  Esporte Clube Juventude  1-1 (0-0)  Avaí FC
   19.00  RB Bragantino            2-2 (2-1)  Palmeiras SP
          Atlético PR              1-0 (1-0)  Fluminense RJ
   20.30  América MG               2-0 (1-0)  Coritiba PR
-[Dom, 4/Set]
+[Sun Sep/4]
   11.00  Flamengo RJ              1-1 (0-1)  Ceára SC
   16.00  Corinthians SP           2-2 (2-1)  Internacional Porto Alegre
          Fortaleza EC             1-3 (0-2)  Botafogo RJ
   18.00  Atlético GO              0-2 (0-1)  Atlético MG
   19.00  Cuiabá                   1-1 (1-0)  São Paulo FC
-[Seg, 5/Set]
+[Mon Sep/5]
   20.00  Santos SP                1-2 (0-1)  Goiás EC
 
 
-Rodada 26
-[Qua, 7/Set]
+Matchday 26
+[Wed Sep/7]
   17.00  Atlético MG              1-1 (1-1)  RB Bragantino
-[Sáb, 10/Set]
+[Sat Sep/10]
   16.30  Ceára SC                 2-1 (2-0)  Santos SP
          Internacional Porto Alegre  1-0 (0-0)  Cuiabá
   19.00  Fluminense RJ            2-1 (1-0)  Fortaleza EC
   21.00  Palmeiras SP             2-1 (0-0)  Esporte Clube Juventude
-[Dom, 11/Set]
+[Sun Sep/11]
   11.00  Avaí FC                  1-1 (1-0)  Atlético PR
          Botafogo RJ              0-0  América MG
   16.00  São Paulo FC             1-1 (1-1)  Corinthians SP
@@ -425,11 +425,11 @@ Rodada 26
   19.00  Goiás EC                 1-1 (0-0)  Flamengo RJ
 
 
-Rodada 27
-[Sáb, 17/Set]
+Matchday 27
+[Sat Sep/17]
   16.30  Avaí FC                  1-0 (0-0)  Atlético MG
   19.00  Botafogo RJ              2-0 (0-0)  Coritiba PR
-[Dom, 18/Set]
+[Sun Sep/18]
   11.00  RB Bragantino            1-1 (1-0)  Goiás EC
   16.00  Ceára SC                 0-2 (0-1)  São Paulo FC
          Flamengo RJ              1-2 (0-1)  Fluminense RJ
@@ -437,16 +437,16 @@ Rodada 27
          Esporte Clube Juventude  1-1 (0-1)  Fortaleza EC
   18.30  Palmeiras SP             1-0 (0-0)  Santos SP
   19.00  Atlético PR              2-2 (2-1)  Cuiabá
-[Seg, 19/Set]
+[Mon Sep/19]
   20.00  Atlético GO              1-2 (0-2)  Internacional Porto Alegre
 
 
-Rodada 28
-[Dom, 25/Set]
+Matchday 28
+[Sun Sep/25]
   20.00  São Paulo FC             4-0 (3-0)  Avaí FC
-[Ter, 27/Set]
+[Tue Sep/27]
   21.00  Santos SP                2-0 (1-0)  Atlético PR
-[Qua, 28/Set]
+[Wed Sep/28]
   19.00  Fortaleza EC             3-2 (1-2)  Flamengo RJ
          Corinthians SP           2-1 (1-1)  Atlético GO
          Fluminense RJ            4-0 (2-0)  Esporte Clube Juventude
@@ -457,8 +457,8 @@ Rodada 28
          Goiás EC                 0-1 (0-0)  Botafogo RJ
 
 
-Rodada 29
-[Sáb, 1/Out]
+Matchday 29
+[Sat Oct/1]
   15.00  Ceára SC                 1-2 (0-1)  América MG
          Internacional Porto Alegre  1-0 (1-0)  Santos SP
          Atlético MG              2-0 (1-0)  Fluminense RJ
@@ -467,106 +467,106 @@ Rodada 29
          Avaí FC                  1-2 (0-1)  Atlético GO
          Goiás EC                 0-1 (0-1)  Fortaleza EC
   21.00  Corinthians SP           2-0 (2-0)  Cuiabá
-[Seg, 3/Out]
+[Mon Oct/3]
   20.00  Botafogo RJ              1-3 (1-2)  Palmeiras SP
 
 
-Rodada 30
-[Ter, 4/Out]
+Matchday 30
+[Tue Oct/4]
   21.30  Esporte Clube Juventude  2-2 (0-1)  Corinthians SP
-[Qua, 5/Out]
+[Wed Oct/5]
   19.00  RB Bragantino            2-1 (1-1)  Cuiabá
          Ceára SC                 1-1 (0-0)  Goiás EC
          Atlético GO              3-2 (1-2)  Fluminense RJ
   19.30  Atlético PR              1-1 (0-1)  Fortaleza EC
   21.30  Santos SP                1-2 (0-0)  Atlético MG
          Flamengo RJ              0-0  Internacional Porto Alegre
-[Qui, 6/Out]
+[Thu Oct/6]
   19.00  Palmeiras SP             4-0 (2-0)  Coritiba PR
   20.00  Avaí FC                  1-2 (1-0)  Botafogo RJ
          América MG               1-2 (1-1)  São Paulo FC
 
 
-Rodada 31
-[Sáb, 8/Out]
+Matchday 31
+[Sat Oct/8]
   19.00  Cuiabá                   1-2 (0-0)  Flamengo RJ
   21.00  Corinthians SP           2-1 (2-0)  Atlético PR
-[Dom, 9/Out]
+[Sun Oct/9]
   11.00  Internacional Porto Alegre  4-2 (2-2)  Goiás EC
   16.00  Fortaleza EC             2-0 (0-0)  Avaí FC
          São Paulo FC             0-1 (0-0)  Botafogo RJ
   18.00  Coritiba PR              2-1 (1-1)  RB Bragantino
          Atlético MG              0-0  Ceára SC
          Fluminense RJ            0-2 (0-2)  América MG
-[Seg, 10/Out]
+[Mon Oct/10]
   18.30  Atlético GO              1-1 (0-0)  Palmeiras SP
   20.00  Santos SP                4-1 (1-0)  Esporte Clube Juventude
 
 
-Rodada 32
-[Sáb, 15/Out]
+Matchday 32
+[Sat Oct/15]
   20.30  Flamengo RJ              1-0 (1-0)  Atlético MG
          América MG               1-2 (0-1)  Fortaleza EC
-[Dom, 16/Out]
+[Sun Oct/16]
   16.00  Ceára SC                 1-1 (0-0)  Cuiabá
          Palmeiras SP             0-0  São Paulo FC
   18.00  Esporte Clube Juventude  1-1 (0-0)  Atlético GO
          Botafogo RJ              0-1 (0-0)  Internacional Porto Alegre
   19.00  Avaí FC                  0-3 (0-2)  Fluminense RJ
          Atlético PR              1-0 (0-0)  Coritiba PR
-[Seg, 17/Out]
+[Mon Oct/17]
   20.00  RB Bragantino            0-2 (0-0)  Santos SP
 
 
-Rodada 29
-[Qui, 20/Out]
+Matchday 29
+[Thu Oct/20]
   20.00  São Paulo FC             3-1 (1-0)  Coritiba PR
 
 
-Rodada 33
-[Sáb, 22/Out]
+Matchday 33
+[Sat Oct/22]
   16.30  RB Bragantino            4-2 (3-0)  Atlético PR
   19.00  Santos SP                0-1 (0-0)  Corinthians SP
          América MG               1-2 (1-2)  Flamengo RJ
   21.00  Palmeiras SP             3-0 (1-0)  Avaí FC
-[Dom, 23/Out]
+[Sun Oct/23]
   16.00  Fluminense RJ            2-2 (0-1)  Botafogo RJ
          Esporte Clube Juventude  1-2 (1-1)  São Paulo FC
   18.00  Atlético GO              1-0 (1-0)  Ceára SC
          Cuiabá                   1-2 (0-2)  Goiás EC
          Coritiba PR              1-1 (1-0)  Internacional Porto Alegre
-[Seg, 24/Out]
+[Mon Oct/24]
   20.00  Fortaleza EC             0-0  Atlético MG
 
 
-Rodada 34
-[Ter, 25/Out]
+Matchday 34
+[Tue Oct/25]
   21.45  Atlético PR              1-3 (1-0)  Palmeiras SP
          Flamengo RJ              3-2 (1-0)  Santos SP
-[Qua, 26/Out]
+[Wed Oct/26]
   19.30  Botafogo RJ              2-1 (1-0)  RB Bragantino
   21.45  Corinthians SP           0-2 (0-1)  Fluminense RJ
          Internacional Porto Alegre  2-1 (0-1)  Ceára SC
          Goiás EC                 2-2 (0-0)  América MG
-[Qui, 27/Out]
+[Thu Oct/27]
   19.00  Fortaleza EC             3-1 (1-0)  Coritiba PR
          São Paulo FC             2-1 (1-0)  Atlético GO
   19.30  Atlético MG              1-0 (1-0)  Esporte Clube Juventude
   20.00  Cuiabá                   1-0 (0-0)  Avaí FC
 
 
-Rodada 32
-[Sáb, 29/Out]
+Matchday 32
+[Sat Oct/29]
   19.30  Goiás EC                 0-0  Corinthians SP
 
 
-Rodada 35
-[Seg, 31/Out]
+Matchday 35
+[Mon Oct/31]
   20.00  Ceára SC                 0-1 (0-0)  Fluminense RJ
-[Ter, 1/Nov]
+[Tue Nov/1]
   19.00  Botafogo RJ              0-2 (0-1)  Cuiabá
   21.30  São Paulo FC             2-2 (2-1)  Atlético MG
-[Qua, 2/Nov]
+[Wed Nov/2]
   16.00  América MG               1-0 (0-0)  Internacional Porto Alegre
          Atlético PR              3-2 (3-1)  Goiás EC
   19.00  Esporte Clube Juventude  0-1 (0-0)  Coritiba PR
@@ -576,26 +576,26 @@ Rodada 35
          Palmeiras SP             4-0 (2-0)  Fortaleza EC
 
 
-Rodada 36
-[Sáb, 5/Nov]
+Matchday 36
+[Sat Nov/5]
   16.30  Santos SP                1-1 (1-0)  Avaí FC
          Fluminense RJ            3-1 (0-1)  São Paulo FC
   19.00  Goiás EC                 1-0 (0-0)  Esporte Clube Juventude
          RB Bragantino            1-4 (1-3)  América MG
   20.30  Corinthians SP           1-0 (0-0)  Ceára SC
   21.00  Internacional Porto Alegre  2-0 (0-0)  Atlético PR
-[Dom, 6/Nov]
+[Sun Nov/6]
   16.00  Fortaleza EC             1-1 (0-1)  Atlético GO
          Coritiba PR              1-0 (0-0)  Flamengo RJ
   18.30  Cuiabá                   1-1 (1-0)  Palmeiras SP
-[Seg, 7/Nov]
+[Mon Nov/7]
   20.00  Atlético MG              0-2 (0-0)  Botafogo RJ
 
 
-Rodada 37
-[Ter, 8/Nov]
+Matchday 37
+[Tue Nov/8]
   21.30  São Paulo FC             0-1 (0-1)  Internacional Porto Alegre
-[Qua, 9/Nov]
+[Wed Nov/9]
   19.00  Avaí FC                  2-0 (0-0)  Ceára SC
          Coritiba PR              2-2 (2-1)  Corinthians SP
          Fluminense RJ            3-0 (0-0)  Goiás EC
@@ -603,15 +603,15 @@ Rodada 37
   21.30  Esporte Clube Juventude  2-2 (2-1)  Flamengo RJ
          Palmeiras SP             2-1 (1-1)  América MG
          Atlético GO              1-1 (0-0)  Atlético PR
-[Qui, 10/Nov]
+[Thu Nov/10]
   20.00  Botafogo RJ              3-0 (1-0)  Santos SP
          Atlético MG              3-0 (2-0)  Cuiabá
 
 
-Rodada 38
-[Sáb, 12/Nov]
+Matchday 38
+[Sat Nov/12]
   16.00  Flamengo RJ              1-2 (1-1)  Avaí FC
-[Dom, 13/Nov]
+[Sun Nov/13]
   16.00  Atlético PR              3-0 (0-0)  Botafogo RJ
          Cuiabá                   2-1 (2-0)  Coritiba PR
          Goiás EC                 0-4 (0-1)  São Paulo FC

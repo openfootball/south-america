@@ -1,8 +1,8 @@
 = Brasileiro Série A 2023
 
 
-Rodada 1
-[Sáb, 15/Abril]
+Matchday 1
+[Sat Apr/15]
   16.00  América MG               0-3 (0-0)  Fluminense RJ
          Palmeiras SP             2-1 (1-1)  Cuiabá
   18.30  Fortaleza EC             1-1 (0-0)  Internacional Porto Alegre
@@ -10,49 +10,49 @@ Rodada 1
          RB Bragantino            2-1 (0-1)  EC Bahia
          Botafogo RJ              2-1 (1-1)  São Paulo FC
   21.00  Atlético MG              1-2 (1-2)  CR Vasco da Gama
-[Dom, 16/Abril]
+[Sun Apr/16]
   16.00  Flamengo RJ              3-0 (1-0)  Coritiba PR
          Corinthians SP           2-1 (0-0)  Cruzeiro MG
   18.30  Grêmio RS                1-0 (1-0)  Santos SP
 
 
-Rodada 2
-[Sáb, 22/Abril]
+Matchday 2
+[Sat Apr/22]
   16.00  Fluminense RJ            2-0 (1-0)  Atlético PR
   18.30  Cuiabá                   1-1 (0-0)  RB Bragantino
          São Paulo FC             3-0 (1-0)  América MG
   21.00  Cruzeiro MG              1-0 (0-0)  Grêmio RS
-[Dom, 23/Abril]
+[Sun Apr/23]
   11.00  Internacional Porto Alegre  2-1 (0-0)  Flamengo RJ
   16.00  CR Vasco da Gama         2-2 (2-1)  Palmeiras SP
          Santos SP                0-0  Atlético MG
   18.30  Coritiba PR              0-3 (0-0)  Fortaleza EC
   19.00  Goiás EC                 3-1 (1-1)  Corinthians SP
-[Seg, 24/Abril]
+[Mon Apr/24]
   20.00  EC Bahia                 1-2 (1-1)  Botafogo RJ
 
 
-Rodada 3
-[Sáb, 29/Abril]
+Matchday 3
+[Sat Apr/29]
   16.30  Fortaleza EC             4-2 (2-1)  Fluminense RJ
          Coritiba PR              1-1 (1-0)  São Paulo FC
   18.30  RB Bragantino            0-3 (0-1)  Cruzeiro MG
          Santos SP                3-2 (2-1)  América MG
          Palmeiras SP             2-1 (2-0)  Corinthians SP
   21.00  Atlético MG              2-1 (1-0)  Atlético PR
-[Dom, 30/Abril]
+[Sun Apr/30]
   16.00  Flamengo RJ              2-3 (0-2)  Botafogo RJ
   18.30  Cuiabá                   1-2 (1-1)  Grêmio RS
          Internacional Porto Alegre  1-0 (0-0)  Goiás EC
-[Seg, 1/Maio]
+[Mon May/1]
   20.00  CR Vasco da Gama         0-1 (0-1)  EC Bahia
 
 
-Rodada 4
-[Sáb, 6/Maio]
+Matchday 4
+[Sat May/6]
   16.00  Cruzeiro MG              2-1 (1-0)  Santos SP
   21.00  Fluminense RJ            1-1 (0-1)  CR Vasco da Gama
-[Dom, 7/Maio]
+[Sun May/7]
   11.00  América MG               1-2 (1-0)  Cuiabá
   16.00  EC Bahia                 3-1 (1-0)  Coritiba PR
          São Paulo FC             2-0 (1-0)  Internacional Porto Alegre
@@ -60,12 +60,12 @@ Rodada 4
   18.30  Grêmio RS                3-3 (1-1)  RB Bragantino
          Goiás EC                 0-5 (0-1)  Palmeiras SP
          Botafogo RJ              2-0 (1-0)  Atlético MG
-[Seg, 8/Maio]
+[Mon May/8]
   20.00  Corinthians SP           1-1 (0-0)  Fortaleza EC
 
 
-Rodada 5
-[Qua, 10/Maio]
+Matchday 5
+[Wed May/10]
   19.00  RB Bragantino            2-2 (2-1)  América MG
          Internacional Porto Alegre  0-2 (0-0)  Atlético PR
          Santos SP                3-0 (2-0)  EC Bahia
@@ -73,19 +73,19 @@ Rodada 5
          Flamengo RJ              2-0 (1-0)  Goiás EC
   21.30  Cruzeiro MG              0-2 (0-1)  Fluminense RJ
          Palmeiras SP             4-1 (1-1)  Grêmio RS
-[Qui, 11/Maio]
+[Thu May/11]
   19.00  Coritiba PR              1-1 (1-0)  CR Vasco da Gama
   19.30  Botafogo RJ              3-0 (1-0)  Corinthians SP
   20.00  Fortaleza EC             0-0  São Paulo FC
 
 
-Rodada 6
-[Sáb, 13/Maio]
+Matchday 6
+[Sat May/13]
   16.00  EC Bahia                 2-3 (1-3)  Flamengo RJ
   18.30  Fluminense RJ            2-0 (1-0)  Cuiabá
          Palmeiras SP             1-1 (0-0)  RB Bragantino
   21.00  Atlético MG              2-0 (1-0)  Internacional Porto Alegre
-[Dom, 14/Maio]
+[Sun May/14]
   16.00  CR Vasco da Gama         0-1 (0-1)  Santos SP
          Corinthians SP           1-1 (1-1)  São Paulo FC
          Grêmio RS                0-0  Fortaleza EC
@@ -94,8 +94,8 @@ Rodada 6
          Goiás EC                 2-1 (1-1)  Botafogo RJ
 
 
-Rodada 7
-[Sáb, 20/Maio]
+Matchday 7
+[Sat May/20]
   16.00  EC Bahia                 1-1 (1-1)  Goiás EC
   18.30  RB Bragantino            2-0 (1-0)  Atlético PR
          América MG               2-1 (2-1)  Fortaleza EC
@@ -103,21 +103,21 @@ Rodada 7
          Botafogo RJ              1-0 (0-0)  Fluminense RJ
          São Paulo FC             4-2 (2-1)  CR Vasco da Gama
   21.00  Santos SP                0-0  Palmeiras SP
-[Dom, 21/Maio]
+[Sun May/21]
   16.00  Flamengo RJ              1-0 (0-0)  Corinthians SP
   18.30  Grêmio RS                3-1 (2-0)  Internacional Porto Alegre
-[Seg, 22/Maio]
+[Mon May/22]
   20.00  Cruzeiro MG              0-1 (0-1)  Cuiabá
 
 
-Rodada 8
-[Sáb, 27/Maio]
+Matchday 8
+[Sat May/27]
   16.00  Fortaleza EC             2-0 (0-0)  CR Vasco da Gama
          Atlético PR              1-2 (1-1)  Grêmio RS
   18.30  Flamengo RJ              1-1 (1-1)  Cruzeiro MG
          Cuiabá                   1-1 (1-0)  Coritiba PR
   21.00  São Paulo FC             2-1 (0-1)  Goiás EC
-[Dom, 28/Maio]
+[Sun May/28]
   16.00  Internacional Porto Alegre  2-0 (0-0)  EC Bahia
          Corinthians SP           2-0 (0-0)  Fluminense RJ
   18.30  RB Bragantino            2-0 (1-0)  Santos SP
@@ -125,30 +125,30 @@ Rodada 8
   19.00  Botafogo RJ              2-0 (1-0)  América MG
 
 
-Rodada 9
-[Sáb, 3/Junho]
+Matchday 9
+[Sat Jun/3]
   16.00  Fortaleza EC             0-0  EC Bahia
   18.30  Cruzeiro MG              0-1 (0-1)  Atlético MG
          América MG               2-0 (0-0)  Corinthians SP
          Atlético PR              1-0 (1-0)  Botafogo RJ
   21.00  Santos SP                1-1 (1-1)  Internacional Porto Alegre
-[Dom, 4/Junho]
+[Sun Jun/4]
   16.00  Grêmio RS                2-1 (2-1)  São Paulo FC
          Fluminense RJ            2-1 (2-0)  RB Bragantino
   18.30  Goiás EC                 0-1 (0-0)  Cuiabá
          Palmeiras SP             3-1 (2-0)  Coritiba PR
-[Seg, 5/Junho]
+[Mon Jun/5]
   20.00  CR Vasco da Gama         1-4 (0-4)  Flamengo RJ
 
 
-Rodada 10
-[Sáb, 10/Junho]
+Matchday 10
+[Sat Jun/10]
   16.00  Coritiba PR              0-0  Santos SP
   18.30  Atlético MG              1-1 (1-1)  RB Bragantino
          Corinthians SP           1-1 (0-0)  Cuiabá
          EC Bahia                 2-2 (1-2)  Cruzeiro MG
   21.00  Botafogo RJ              2-0 (1-0)  Fortaleza EC
-[Dom, 11/Junho]
+[Sun Jun/11]
   11.00  América MG               2-2 (0-1)  Atlético PR
   16.00  São Paulo FC             0-2 (0-1)  Palmeiras SP
          Internacional Porto Alegre  2-1 (2-1)  CR Vasco da Gama
@@ -156,14 +156,14 @@ Rodada 10
          Goiás EC                 2-2 (1-1)  Fluminense RJ
 
 
-Rodada 11
-[Qua, 21/Junho]
+Matchday 11
+[Wed Jun/21]
   19.00  Cruzeiro MG              0-1 (0-0)  Fortaleza EC
          São Paulo FC             2-1 (1-1)  Atlético PR
   20.00  Santos SP                0-2 (0-2)  Corinthians SP
   21.30  Fluminense RJ            1-1 (1-1)  Atlético MG
          EC Bahia                 1-0 (0-0)  Palmeiras SP
-[Qui, 22/Junho]
+[Thu Jun/22]
   19.00  Grêmio RS                3-1 (1-1)  América MG
   20.00  Cuiabá                   0-1 (0-0)  Botafogo RJ
          Coritiba PR              0-1 (0-0)  Internacional Porto Alegre
@@ -171,46 +171,46 @@ Rodada 11
   21.30  RB Bragantino            4-0 (1-0)  Flamengo RJ
 
 
-Rodada 12
-[Sáb, 24/Junho]
+Matchday 12
+[Sat Jun/24]
   16.00  Atlético PR              1-0 (1-0)  Corinthians SP
   18.30  Fluminense RJ            2-1 (0-1)  EC Bahia
          Fortaleza EC             2-1 (0-0)  Atlético MG
   21.00  Cruzeiro MG              1-0 (1-0)  São Paulo FC
-[Dom, 25/Junho]
+[Sun Jun/25]
   16.00  Grêmio RS                5-1 (1-1)  Coritiba PR
          Palmeiras SP             0-1 (0-1)  Botafogo RJ
   18.30  RB Bragantino            2-0 (2-0)  Goiás EC
          Santos SP                2-3 (1-1)  Flamengo RJ
          América MG               1-2 (1-0)  Internacional Porto Alegre
-[Seg, 26/Junho]
+[Mon Jun/26]
   21.00  CR Vasco da Gama         1-0 (0-0)  Cuiabá
 
 
-Rodada 13
-[Sáb, 1/Julho]
+Matchday 13
+[Sat Jul/1]
   16.00  São Paulo FC             1-0 (0-0)  Fluminense RJ
   18.30  EC Bahia                 1-2 (1-1)  Grêmio RS
          Flamengo RJ              2-0 (1-0)  Fortaleza EC
   21.00  Internacional Porto Alegre  0-0  Cruzeiro MG
-[Dom, 2/Julho]
+[Sun Jul/2]
   11.00  Corinthians SP           0-1 (0-1)  RB Bragantino
   16.00  Botafogo RJ              2-0 (0-0)  CR Vasco da Gama
          Atlético PR              2-2 (0-1)  Palmeiras SP
          Atlético MG              2-2 (2-0)  América MG
   18.30  Cuiabá                   3-0 (0-0)  Santos SP
-[Seg, 3/Julho]
+[Mon Jul/3]
   20.00  Goiás EC                 1-2 (0-2)  Coritiba PR
 
 
-Rodada 14
-[Sáb, 8/Julho]
+Matchday 14
+[Sat Jul/8]
   16.00  Cuiabá                   1-1 (1-0)  EC Bahia
          CR Vasco da Gama         0-1 (0-1)  Cruzeiro MG
   18.30  Coritiba PR              3-1 (2-1)  América MG
          Atlético MG              0-1 (0-1)  Corinthians SP
   21.00  Palmeiras SP             1-1 (1-0)  Flamengo RJ
-[Dom, 9/Julho]
+[Sun Jul/9]
   11.00  Santos SP                4-3 (3-1)  Goiás EC
   16.00  RB Bragantino            0-0  São Paulo FC
          Fluminense RJ            2-0 (2-0)  Internacional Porto Alegre
@@ -218,58 +218,58 @@ Rodada 14
          Grêmio RS                0-2 (0-0)  Botafogo RJ
 
 
-Rodada 15
-[Sáb, 15/Julho]
+Matchday 15
+[Sat Jul/15]
   21.00  Botafogo RJ              2-0 (0-0)  RB Bragantino
-[Dom, 16/Julho]
+[Sun Jul/16]
   11.00  Cruzeiro MG              0-0  Coritiba PR
   16.00  Fortaleza EC             0-1 (0-1)  Cuiabá
          São Paulo FC             4-1 (2-0)  Santos SP
          Fluminense RJ            0-0  Flamengo RJ
   18.30  Internacional Porto Alegre  0-0  Palmeiras SP
          Atlético PR              2-0 (2-0)  EC Bahia
-[Seg, 17/Julho]
+[Mon Jul/17]
   20.00  Goiás EC                 0-0  Atlético MG
 
 
-Rodada 16
-[Sáb, 22/Julho]
+Matchday 16
+[Sat Jul/22]
   16.00  Flamengo RJ              1-1 (0-0)  América MG
          Palmeiras SP             3-1 (1-1)  Fortaleza EC
   18.30  EC Bahia                 0-0  Corinthians SP
          Cuiabá                   2-1 (0-0)  São Paulo FC
   21.00  Grêmio RS                1-0 (1-0)  Atlético MG
-[Dom, 23/Julho]
+[Sun Jul/23]
   16.00  Santos SP                2-2 (1-0)  Botafogo RJ
          RB Bragantino            0-0  Internacional Porto Alegre
          Cruzeiro MG              0-1 (0-1)  Goiás EC
   18.30  CR Vasco da Gama         0-2 (0-0)  Atlético PR
-[Seg, 24/Julho]
+[Mon Jul/24]
   19.00  Coritiba PR              2-0 (2-0)  Fluminense RJ
 
 
-Rodada 17
-[Sáb, 29/Julho]
+Matchday 17
+[Sat Jul/29]
   16.00  Internacional Porto Alegre  1-2 (1-1)  Cuiabá
          Fluminense RJ            1-0 (0-0)  Santos SP
          Atlético PR              3-3 (1-2)  Cruzeiro MG
   18.30  Fortaleza EC             0-3 (0-1)  RB Bragantino
          Corinthians SP           3-1 (1-0)  CR Vasco da Gama
   21.00  Atlético MG              1-2 (1-0)  Flamengo RJ
-[Dom, 30/Julho]
+[Sun Jul/30]
   11.00  São Paulo FC             0-0  EC Bahia
   16.00  Botafogo RJ              4-1 (3-1)  Coritiba PR
          América MG               1-4 (1-2)  Palmeiras SP
   18.30  Goiás EC                 1-1 (0-0)  Grêmio RS
 
 
-Rodada 18
-[Sáb, 5/Agosto]
+Matchday 18
+[Sat Aug/5]
   16.00  Santos SP                1-1 (0-1)  Atlético PR
   18.30  Goiás EC                 1-0 (0-0)  Fortaleza EC
          Internacional Porto Alegre  2-2 (1-1)  Corinthians SP
   21.00  Fluminense RJ            2-1 (1-0)  Palmeiras SP
-[Dom, 6/Agosto]
+[Sun Aug/6]
   16.00  São Paulo FC             0-2 (0-1)  Atlético MG
          CR Vasco da Gama         1-0 (0-0)  Grêmio RS
   18.30  Coritiba PR              0-1 (0-1)  RB Bragantino
@@ -278,44 +278,44 @@ Rodada 18
   20.00  Cuiabá                   3-0 (0-0)  Flamengo RJ
 
 
-Rodada 19
-[Sáb, 12/Agosto]
+Matchday 19
+[Sat Aug/12]
   21.00  Botafogo RJ              3-1 (0-1)  Internacional Porto Alegre
-[Dom, 13/Agosto]
+[Sun Aug/13]
   11.00  Atlético MG              1-0 (0-0)  EC Bahia
   16.00  Grêmio RS                2-1 (2-1)  Fluminense RJ
          América MG               0-1 (0-1)  Goiás EC
          Corinthians SP           3-1 (0-1)  Coritiba PR
   18.30  Fortaleza EC             4-0 (0-0)  Santos SP
          Flamengo RJ              1-1 (0-1)  São Paulo FC
-[Seg, 14/Agosto]
+[Mon Aug/14]
   19.00  Palmeiras SP             1-0 (0-0)  Cruzeiro MG
   21.00  RB Bragantino            1-1 (1-1)  CR Vasco da Gama
-[Ter, 15/Agosto]
+[Tue Aug/15]
   20.00  Atlético PR              2-0 (1-0)  Cuiabá
 
 
-Rodada 20
-[Sáb, 19/Agosto]
+Matchday 20
+[Sat Aug/19]
   16.00  São Paulo FC             0-0  Botafogo RJ
          Internacional Porto Alegre  0-1 (0-1)  Fortaleza EC
   18.30  Cuiabá                   0-2 (0-1)  Palmeiras SP
          Fluminense RJ            3-1 (0-0)  América MG
   21.00  Cruzeiro MG              1-1 (1-0)  Corinthians SP
-[Dom, 20/Agosto]
+[Sun Aug/20]
   11.00  CR Vasco da Gama         1-0 (1-0)  Atlético MG
   16.00  EC Bahia                 4-0 (2-0)  RB Bragantino
          Coritiba PR              2-3 (1-2)  Flamengo RJ
          Santos SP                2-1 (0-0)  Grêmio RS
-[Seg, 21/Agosto]
+[Mon Aug/21]
   20.00  Goiás EC                 1-1 (0-1)  Atlético PR
 
 
-Rodada 21
-[Sáb, 26/Agosto]
+Matchday 21
+[Sat Aug/26]
   18.30  Flamengo RJ              0-0  Internacional Porto Alegre
   21.00  Corinthians SP           1-1 (0-0)  Goiás EC
-[Dom, 27/Agosto]
+[Sun Aug/27]
   11.00  RB Bragantino            2-0 (0-0)  Cuiabá
   16.00  América MG               2-1 (0-0)  São Paulo FC
          Atlético MG              2-0 (1-0)  Santos SP
@@ -326,12 +326,12 @@ Rodada 21
   19.00  Grêmio RS                3-0 (1-0)  Cruzeiro MG
 
 
-Rodada 22
-[Sáb, 2/Set]
+Matchday 22
+[Sat Sep/2]
   16.00  Goiás EC                 0-0  Internacional Porto Alegre
          Atlético PR              1-1 (0-1)  Atlético MG
   21.00  Botafogo RJ              1-2 (1-1)  Flamengo RJ
-[Dom, 3/Set]
+[Sun Sep/3]
   11.00  Grêmio RS                2-0 (1-0)  Cuiabá
   16.00  Corinthians SP           0-0  Palmeiras SP
          Fluminense RJ            1-0 (0-0)  Fortaleza EC
@@ -340,114 +340,114 @@ Rodada 22
          América MG               2-0 (1-0)  Santos SP
 
 
-Rodada 23
-[Qua, 13/Set]
+Matchday 23
+[Wed Sep/13]
   21.30  Flamengo RJ              0-3 (0-1)  Atlético PR
          Internacional Porto Alegre  2-1 (0-1)  São Paulo FC
-[Qui, 14/Set]
+[Thu Sep/14]
   19.00  Santos SP                0-3 (0-1)  Cruzeiro MG
          Fortaleza EC             2-1 (1-1)  Corinthians SP
   20.00  Coritiba PR              2-4 (1-3)  EC Bahia
   21.30  RB Bragantino            2-0 (2-0)  Grêmio RS
-[Sex, 15/Set]
+[Fri Sep/15]
   20.00  Cuiabá                   2-2 (2-2)  América MG
   21.30  Palmeiras SP             1-0 (0-0)  Goiás EC
-[Sáb, 16/Set]
+[Sat Sep/16]
   16.00  CR Vasco da Gama         4-2 (1-0)  Fluminense RJ
   21.00  Atlético MG              1-0 (0-0)  Botafogo RJ
 
 
-Rodada 24
-[Seg, 18/Set]
+Matchday 24
+[Mon Sep/18]
   20.00  EC Bahia                 1-2 (0-0)  Santos SP
 
 
-Rodada 15
-[Seg, 18/Set]
+Matchday 15
+[Mon Sep/18]
   21.00  Corinthians SP           4-4 (3-2)  Grêmio RS
 
 
-Rodada 24
-[Ter, 19/Set]
+Matchday 24
+[Tue Sep/19]
   21.30  América MG               0-2 (0-1)  RB Bragantino
-[Qua, 20/Set]
+[Wed Sep/20]
   19.00  Goiás EC                 0-0  Flamengo RJ
   21.30  Fluminense RJ            1-0 (0-0)  Cruzeiro MG
          São Paulo FC             1-2 (0-1)  Fortaleza EC
-[Qui, 21/Set]
+[Thu Sep/21]
   19.00  CR Vasco da Gama         5-1 (2-0)  Coritiba PR
   19.30  Atlético PR              2-1 (1-1)  Internacional Porto Alegre
   21.30  Grêmio RS                1-0 (1-0)  Palmeiras SP
-[Sex, 22/Set]
+[Fri Sep/22]
   20.00  Corinthians SP           1-0 (0-0)  Botafogo RJ
-[Sáb, 23/Set]
+[Sat Sep/23]
   21.00  Atlético MG              1-0 (1-0)  Cuiabá
 
 
-Rodada 15
-[Seg, 25/Set]
+Matchday 15
+[Mon Sep/25]
   20.00  América MG               0-1 (0-0)  CR Vasco da Gama
 
 
-Rodada 22
-[Qua, 27/Set]
+Matchday 22
+[Wed Sep/27]
   19.00  São Paulo FC             2-1 (2-1)  Coritiba PR
 
 
-Rodada 25
-[Sáb, 30/Set]
+Matchday 25
+[Sat Sep/30]
   16.00  Flamengo RJ              1-0 (0-0)  EC Bahia
          Fortaleza EC             1-1 (1-0)  Grêmio RS
   18.30  São Paulo FC             2-1 (2-1)  Corinthians SP
          Cuiabá                   3-0 (0-0)  Fluminense RJ
   21.00  Internacional Porto Alegre  0-2 (0-0)  Atlético MG
-[Dom, 1/Out]
+[Sun Oct/1]
   16.00  Cruzeiro MG              1-1 (1-1)  América MG
          Santos SP                4-1 (3-1)  CR Vasco da Gama
          Coritiba PR              2-0 (2-0)  Atlético PR
   18.30  RB Bragantino            2-1 (0-1)  Palmeiras SP
-[Seg, 2/Out]
+[Mon Oct/2]
   20.00  Botafogo RJ              1-1 (0-1)  Goiás EC
 
 
-Rodada 26
-[Sáb, 7/Out]
+Matchday 26
+[Sat Oct/7]
   16.00  Goiás EC                 4-6 (3-3)  EC Bahia
   18.30  CR Vasco da Gama         0-0  São Paulo FC
   21.00  Corinthians SP           1-1 (0-0)  Flamengo RJ
-[Dom, 8/Out]
+[Sun Oct/8]
   16.00  Fluminense RJ            0-2 (0-2)  Botafogo RJ
          Internacional Porto Alegre  3-2 (1-0)  Grêmio RS
          Palmeiras SP             1-2 (1-1)  Santos SP
   18.30  Atlético MG              1-2 (0-0)  Coritiba PR
          Fortaleza EC             3-2 (1-2)  América MG
          Atlético PR              1-1 (1-1)  RB Bragantino
-[Sáb, 14/Out]
+[Sat Oct/14]
   21.00  Cuiabá                   0-0  Cruzeiro MG
 
 
-Rodada 27
-[Qua, 18/Out]
+Matchday 27
+[Wed Oct/18]
   19.00  Grêmio RS                1-2 (1-1)  Atlético PR
   20.00  América MG               1-2 (1-1)  Botafogo RJ
          Coritiba PR              0-3 (0-1)  Cuiabá
   21.30  Goiás EC                 2-0 (2-0)  São Paulo FC
          CR Vasco da Gama         1-0 (0-0)  Fortaleza EC
          EC Bahia                 1-0 (1-0)  Internacional Porto Alegre
-[Qui, 19/Out]
+[Thu Oct/19]
   19.00  Palmeiras SP             0-2 (0-1)  Atlético MG
          Cruzeiro MG              0-2 (0-2)  Flamengo RJ
   20.00  Santos SP                1-3 (0-2)  RB Bragantino
   21.30  Fluminense RJ            3-3 (1-3)  Corinthians SP
 
 
-Rodada 28
-[Sáb, 21/Out]
+Matchday 28
+[Sat Oct/21]
   18.30  Cuiabá                   1-1 (0-1)  Goiás EC
          EC Bahia                 2-0 (1-0)  Fortaleza EC
          São Paulo FC             3-0 (1-0)  Grêmio RS
   21.00  Botafogo RJ              1-1 (1-1)  Atlético PR
-[Dom, 22/Out]
+[Sun Oct/22]
   16.00  Flamengo RJ              1-0 (0-0)  CR Vasco da Gama
          Atlético MG              0-1 (0-0)  Cruzeiro MG
          Internacional Porto Alegre  7-1 (4-0)  Santos SP
@@ -456,8 +456,8 @@ Rodada 28
          RB Bragantino            1-0 (1-0)  Fluminense RJ
 
 
-Rodada 29
-[Qua, 25/Out]
+Matchday 29
+[Wed Oct/25]
   19.00  RB Bragantino            1-2 (0-1)  Atlético MG
          Fluminense RJ            5-3 (2-2)  Goiás EC
          Atlético PR              3-2 (3-1)  América MG
@@ -465,17 +465,17 @@ Rodada 29
          Cruzeiro MG              3-0 (1-0)  EC Bahia
   21.30  Cuiabá                   0-1 (0-0)  Corinthians SP
          Grêmio RS                3-2 (0-1)  Flamengo RJ
-[Qui, 26/Out]
+[Thu Oct/26]
   19.00  CR Vasco da Gama         1-2 (0-1)  Internacional Porto Alegre
   21.30  Santos SP                2-1 (1-1)  Coritiba PR
 
 
-Rodada 30
-[Sáb, 28/Out]
+Matchday 30
+[Sat Oct/28]
   19.00  América MG               3-4 (2-2)  Grêmio RS
          Palmeiras SP             1-0 (1-0)  EC Bahia
   22.00  Atlético MG              2-0 (0-0)  Fluminense RJ
-[Dom, 29/Out]
+[Sun Oct/29]
   16.00  Goiás EC                 1-1 (0-0)  CR Vasco da Gama
          Atlético PR              1-1 (1-1)  São Paulo FC
   18.30  Internacional Porto Alegre  3-4 (1-2)  Coritiba PR
@@ -483,57 +483,57 @@ Rodada 30
   20.00  Botafogo RJ              0-1 (0-0)  Cuiabá
 
 
-Rodada 31
-[Ter, 31/Out]
+Matchday 31
+[Tue Oct/31]
   19.00  EC Bahia                 1-0 (1-0)  Fluminense RJ
-[Qua, 1/Nov]
+[Wed Nov/1]
   19.00  Internacional Porto Alegre  1-1 (1-0)  América MG
          Corinthians SP           1-0 (0-0)  Atlético PR
   20.00  Flamengo RJ              1-2 (1-1)  Santos SP
          Coritiba PR              1-2 (0-1)  Grêmio RS
   21.30  Atlético MG              3-1 (1-1)  Fortaleza EC
          Botafogo RJ              3-4 (3-0)  Palmeiras SP
-[Qui, 2/Nov]
+[Thu Nov/2]
   17.00  Cuiabá                   0-2 (0-0)  CR Vasco da Gama
   18.00  Goiás EC                 0-2 (0-1)  RB Bragantino
   20.00  São Paulo FC             1-0 (0-0)  Cruzeiro MG
 
 
-Rodada 32
-[Sáb, 4/Nov]
+Matchday 32
+[Sat Nov/4]
   19.30  Grêmio RS                1-0 (0-0)  EC Bahia
          América MG               1-1 (0-0)  Atlético MG
   21.30  Palmeiras SP             1-0 (1-0)  Atlético PR
-[Dom, 5/Nov]
+[Sun Nov/5]
   16.00  Cruzeiro MG              1-2 (0-1)  Internacional Porto Alegre
          Fortaleza EC             0-2 (0-1)  Flamengo RJ
          RB Bragantino            1-0 (1-0)  Corinthians SP
   18.30  Coritiba PR              0-1 (0-0)  Goiás EC
-[Seg, 6/Nov]
+[Mon Nov/6]
   19.00  CR Vasco da Gama         1-0 (1-0)  Botafogo RJ
   21.00  Santos SP                0-0  Cuiabá
 
 
-Rodada 33
-[Qua, 8/Nov]
+Matchday 33
+[Wed Nov/8]
   19.00  América MG               0-3 (0-2)  Coritiba PR
          Internacional Porto Alegre  0-0  Fluminense RJ
   20.00  São Paulo FC             1-0 (0-0)  RB Bragantino
          Atlético PR              1-1 (0-0)  Fortaleza EC
   21.30  Flamengo RJ              3-0 (2-0)  Palmeiras SP
-[Qui, 9/Nov]
+[Thu Nov/9]
   19.00  Goiás EC                 0-1 (0-0)  Santos SP
          Corinthians SP           1-1 (1-0)  Atlético MG
   20.00  Botafogo RJ              3-4 (2-1)  Grêmio RS
          EC Bahia                 0-3 (0-1)  Cuiabá
 
 
-Rodada 34
-[Sáb, 11/Nov]
+Matchday 34
+[Sat Nov/11]
   16.00  Coritiba PR              1-0 (0-0)  Cruzeiro MG
   18.30  Flamengo RJ              1-1 (1-0)  Fluminense RJ
   21.00  Palmeiras SP             3-0 (1-0)  Internacional Porto Alegre
-[Dom, 12/Nov]
+[Sun Nov/12]
   16.00  RB Bragantino            2-2 (1-2)  Botafogo RJ
          Grêmio RS                0-1 (0-1)  Corinthians SP
   18.30  Cuiabá                   2-1 (1-0)  Fortaleza EC
@@ -543,69 +543,69 @@ Rodada 34
          CR Vasco da Gama         2-1 (1-1)  América MG
 
 
-Rodada 30
-[Sáb, 18/Nov]
+Matchday 30
+[Sat Nov/18]
   18.30  Fortaleza EC             0-1 (0-0)  Cruzeiro MG
 
 
-Rodada 33
-[Qua, 22/Nov]
+Matchday 33
+[Wed Nov/22]
   19.00  Cruzeiro MG              2-2 (2-1)  CR Vasco da Gama
 
 
-Rodada 32
-[Qua, 22/Nov]
+Matchday 32
+[Wed Nov/22]
   21.30  Fluminense RJ            1-0 (0-0)  São Paulo FC
 
 
-Rodada 29
-[Qui, 23/Nov]
+Matchday 29
+[Thu Nov/23]
   19.00  Fortaleza EC             2-2 (2-1)  Botafogo RJ
 
 
-Rodada 30
-[Qui, 23/Nov]
+Matchday 30
+[Thu Nov/23]
   21.30  Flamengo RJ              1-0 (0-0)  RB Bragantino
 
 
-Rodada 35
-[Sex, 24/Nov]
+Matchday 35
+[Fri Nov/24]
   21.00  Corinthians SP           1-5 (0-3)  EC Bahia
-[Sáb, 25/Nov]
+[Sat Nov/25]
   19.30  Atlético PR              0-0  CR Vasco da Gama
   21.00  Fluminense RJ            2-1 (1-0)  Coritiba PR
-[Dom, 26/Nov]
+[Sun Nov/26]
   16.00  Atlético MG              3-0 (1-0)  Grêmio RS
          Botafogo RJ              1-1 (1-0)  Santos SP
   18.30  São Paulo FC             0-0  Cuiabá
          América MG               0-3 (0-1)  Flamengo RJ
          Fortaleza EC             2-2 (1-0)  Palmeiras SP
          Internacional Porto Alegre  1-0 (1-0)  RB Bragantino
-[Seg, 27/Nov]
+[Mon Nov/27]
   21.00  Goiás EC                 0-1 (0-0)  Cruzeiro MG
 
 
-Rodada 36
-[Ter, 28/Nov]
+Matchday 36
+[Tue Nov/28]
   21.30  CR Vasco da Gama         2-4 (2-2)  Corinthians SP
-[Qua, 29/Nov]
+[Wed Nov/29]
   19.00  Santos SP                0-3 (0-2)  Fluminense RJ
   19.30  Flamengo RJ              0-3 (0-1)  Atlético MG
   20.00  Cuiabá                   0-2 (0-0)  Internacional Porto Alegre
          EC Bahia                 0-1 (0-0)  São Paulo FC
   21.30  Palmeiras SP             4-0 (2-0)  América MG
          Coritiba PR              1-1 (0-0)  Botafogo RJ
-[Qui, 30/Nov]
+[Thu Nov/30]
   19.00  Grêmio RS                2-1 (0-1)  Goiás EC
   20.00  Cruzeiro MG              1-1 (0-0)  Atlético PR
   20.30  RB Bragantino            1-2 (1-2)  Fortaleza EC
 
 
-Rodada 37
-[Sáb, 2/Dez]
+Matchday 37
+[Sat Dec/2]
   18.00  Corinthians SP           1-2 (0-1)  Internacional Porto Alegre
   21.00  Atlético MG              2-1 (0-0)  São Paulo FC
-[Dom, 3/Dez]
+[Sun Dec/3]
   16.00  Palmeiras SP             1-0 (1-0)  Fluminense RJ
          Flamengo RJ              2-1 (2-0)  Cuiabá
   18.30  Botafogo RJ              0-0  Cruzeiro MG
@@ -616,8 +616,8 @@ Rodada 37
          América MG               3-2 (2-1)  EC Bahia
 
 
-Rodada 38
-[Qua, 6/Dez]
+Matchday 38
+[Wed Dec/6]
   19.00  Goiás EC                 1-0 (1-0)  América MG
   21.30  Cuiabá                   3-0 (2-0)  Atlético PR
          EC Bahia                 4-1 (2-1)  Atlético MG

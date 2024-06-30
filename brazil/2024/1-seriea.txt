@@ -1,13 +1,13 @@
 = Brasileiro Série A 2024
 
 
-Rodada 1
-[Sáb, 13/Abril]
+Matchday 1
+[Sat Apr/13]
   18.30  Criciúma EC              1-1 (1-0)  Esporte Clube Juventude
          Internacional Porto Alegre  2-1 (0-0)  EC Bahia
   21.00  São Paulo FC             1-2 (0-0)  Fortaleza EC
          Fluminense RJ            2-2 (1-0)  RB Bragantino
-[Dom, 14/Abril]
+[Sun Apr/14]
   16.00  CR Vasco da Gama         2-1 (2-0)  Grêmio RS
          Corinthians SP           0-0  Atlético MG
          Atlético PR              4-0 (3-0)  Cuiabá
@@ -16,234 +16,243 @@ Rodada 1
   18.30  EC Vitória               0-1 (0-1)  Palmeiras SP
 
 
-Rodada 2
-[Ter, 16/Abril]
-  Cuiabá                   -  EC Vitória
+Matchday 2
+[Tue Apr/16]
   21.30  EC Bahia                 2-1 (1-1)  Fluminense RJ
-[Qua, 17/Abril]
-  19.00  Grêmio RS                2-0 (1-0)  Atlético PR
-         RB Bragantino            2-1 (1-0)  CR Vasco da Gama
-  20.00  Atlético MG              1-1 (1-0)  Criciúma EC
-         Fortaleza EC             1-1 (1-0)  Cruzeiro MG
+[Wed Apr/17]
+  19.00  RB Bragantino            2-1 (1-0)  CR Vasco da Gama
+         Grêmio RS                2-0 (1-0)  Atlético PR
+  20.00  Fortaleza EC             1-1 (1-0)  Cruzeiro MG
          Esporte Clube Juventude  2-0 (0-0)  Corinthians SP
          Palmeiras SP             0-1 (0-1)  Internacional Porto Alegre
+         Atlético MG              1-1 (1-0)  Criciúma EC
   21.30  Flamengo RJ              2-1 (1-0)  São Paulo FC
-[Qui, 18/Abril]
+[Thu Apr/18]
   21.30  Botafogo RJ              1-0 (1-0)  Atlético GO
 
 
-Rodada 3
-[Sex, 19/Abril]
+Matchday 3
+[Fri Apr/19]
   Criciúma EC              -  Fortaleza EC
-[Sáb, 20/Abril]
+[Sat Apr/20]
   16.00  Fluminense RJ            2-1 (1-0)  CR Vasco da Gama
-  18.30  RB Bragantino            1-0 (1-0)  Corinthians SP
-         Grêmio RS                1-0 (1-0)  Cuiabá
+  18.30  Grêmio RS                1-0 (1-0)  Cuiabá
+         RB Bragantino            1-0 (1-0)  Corinthians SP
   21.00  Atlético MG              3-0 (3-0)  Cruzeiro MG
-[Dom, 21/Abril]
+[Sun Apr/21]
   16.00  Palmeiras SP             0-0  Flamengo RJ
          EC Vitória               2-2 (1-0)  EC Bahia
          Atlético PR              1-0 (0-0)  Internacional Porto Alegre
-  18.30  Atlético GO              0-3 (0-1)  São Paulo FC
-         Botafogo RJ              5-1 (2-0)  Esporte Clube Juventude
+  18.30  Botafogo RJ              5-1 (2-0)  Esporte Clube Juventude
+         Atlético GO              0-3 (0-1)  São Paulo FC
 
 
-Rodada 4
-[Sáb, 27/Abril]
+Matchday 4
+[Sat Apr/27]
   16.00  CR Vasco da Gama         0-4 (0-1)  Criciúma EC
   18.30  Cuiabá                   0-3 (0-1)  Atlético MG
   21.00  EC Bahia                 1-0 (1-0)  Grêmio RS
-[Dom, 28/Abril]
+[Sun Apr/28]
   11.00  Flamengo RJ              0-2 (0-0)  Botafogo RJ
-  16.00  Corinthians SP           3-0 (2-0)  Fluminense RJ
-         Cruzeiro MG              3-1 (0-0)  EC Vitória
-  18.30  Esporte Clube Juventude  1-1 (1-0)  Atlético PR
-         Fortaleza EC             1-1 (1-1)  RB Bragantino
+  16.00  Cruzeiro MG              3-1 (0-0)  EC Vitória
+         Corinthians SP           3-0 (2-0)  Fluminense RJ
+  18.30  Fortaleza EC             1-1 (1-1)  RB Bragantino
+         Esporte Clube Juventude  1-1 (1-0)  Atlético PR
   20.00  Internacional Porto Alegre  1-1 (0-0)  Atlético GO
-[Seg, 29/Abril]
+[Mon Apr/29]
   20.00  São Paulo FC             0-0  Palmeiras SP
 
 
-Rodada 5
-[Sáb, 4/Maio]
+Matchday 5
+[Sat May/4]
   Cruzeiro MG              -  Internacional Porto Alegre
   Grêmio RS                -  Criciúma EC
   16.00  Fluminense RJ            2-2 (1-0)  Atlético MG
   18.30  RB Bragantino            1-1 (1-0)  Flamengo RJ
   21.00  Corinthians SP           0-0  Fortaleza EC
-[Dom, 5/Maio]
+[Sun May/5]
   16.00  EC Vitória               1-3 (0-1)  São Paulo FC
          Atlético PR              1-0 (1-0)  CR Vasco da Gama
   18.30  Botafogo RJ              1-2 (0-1)  EC Bahia
          Cuiabá                   0-2 (0-1)  Palmeiras SP
-[Seg, 6/Maio]
-  Esporte Clube Juventude  -  Atlético GO
 
 
-Rodada 6
-[Sex, 10/Maio]
-  Criciúma EC              -  Cuiabá
-[Sáb, 11/Maio]
+Matchday 6
+[Sat May/11]
   Atlético MG              -  Grêmio RS
   16.00  Flamengo RJ              2-0 (1-0)  Corinthians SP
-[Dom, 12/Maio]
-  16.00  Atlético GO              0-1 (0-0)  Cruzeiro MG
-         Fortaleza EC             1-1 (1-1)  Botafogo RJ
+[Sun May/12]
+  16.00  Fortaleza EC             1-1 (1-1)  Botafogo RJ
          Palmeiras SP             0-2 (0-1)  Atlético PR
-  18.30  CR Vasco da Gama         2-1 (0-0)  EC Vitória
-         EC Bahia                 1-0 (1-0)  RB Bragantino
-[Seg, 13/Maio]
+         Atlético GO              0-1 (0-0)  Cruzeiro MG
+  18.30  EC Bahia                 1-0 (1-0)  RB Bragantino
+         CR Vasco da Gama         2-1 (0-0)  EC Vitória
+[Mon May/13]
   Internacional Porto Alegre  -  Esporte Clube Juventude
   20.00  São Paulo FC             2-1 (1-1)  Fluminense RJ
 
 
-Rodada 7
-[Sáb, 1/Junho]
-  16.00  Grêmio RS                -  RB Bragantino
-         EC Vitória               -  Atlético GO
-  18.30  Fluminense RJ            -  Esporte Clube Juventude
-         Cuiabá                   -  Internacional Porto Alegre
-  21.00  Corinthians SP           -  Botafogo RJ
-[Dom, 2/Junho]
-  16.00  Atlético MG              -  EC Bahia
-         Criciúma EC              -  Palmeiras SP
-         CR Vasco da Gama         -  Flamengo RJ
-  18.30  São Paulo FC             -  Cruzeiro MG
-         Fortaleza EC             -  Atlético PR
+Matchday 7
+[Sat Jun/1]
+  16.00  EC Vitória               0-2 (0-1)  Atlético GO
+         Grêmio RS                0-2 (0-1)  RB Bragantino
+  18.30  Cuiabá                   0-1 (0-0)  Internacional Porto Alegre
+         Fluminense RJ            1-1 (1-0)  Esporte Clube Juventude
+  21.00  Corinthians SP           0-1 (0-0)  Botafogo RJ
+[Sun Jun/2]
+  16.00  Criciúma EC              1-2 (0-0)  Palmeiras SP
+         CR Vasco da Gama         1-6 (1-3)  Flamengo RJ
+         Atlético MG              1-1 (0-0)  EC Bahia
+  18.30  Fortaleza EC             1-0 (1-0)  Atlético PR
+         São Paulo FC             2-0 (1-0)  Cruzeiro MG
 
 
-Rodada 8
-[Ter, 11/Junho]
-  19.00  Atlético GO              -  Corinthians SP
-  20.00  Botafogo RJ              -  Fluminense RJ
-  21.30  RB Bragantino            -  Atlético MG
-[Qua, 12/Junho]
-  17.00  Esporte Clube Juventude  -  EC Vitória
-[Qui, 13/Junho]
-  19.00  Cruzeiro MG              -  Cuiabá
-  20.00  Internacional Porto Alegre  -  São Paulo FC
-         Atlético PR              -  Criciúma EC
-         Flamengo RJ              -  Grêmio RS
-  21.30  Palmeiras SP             -  CR Vasco da Gama
-         EC Bahia                 -  Fortaleza EC
+Matchday 5
+[Wed Jun/5]
+  19.00  Esporte Clube Juventude  1-0 (1-0)  Atlético GO
 
 
-Rodada 11
-[Sáb, 15/Junho]
-  CR Vasco da Gama         -  São Paulo FC
-  Palmeiras SP             -  Esporte Clube Juventude
-  Atlético PR              -  Corinthians SP
-  Atlético MG              -  Fortaleza EC
-  EC Bahia                 -  Cruzeiro MG
-  RB Bragantino            -  EC Vitória
-  Criciúma EC              -  Botafogo RJ
-  Cuiabá                   -  Atlético GO
-  Fluminense RJ            -  Flamengo RJ
-  Grêmio RS                -  Internacional Porto Alegre
+Matchday 2
+[Wed Jun/5]
+  20.00  Cuiabá                   0-0  EC Vitória
 
 
-Rodada 9
-[Sáb, 15/Junho]
-  18.30  RB Bragantino            -  Esporte Clube Juventude
-  21.00  Fluminense RJ            -  Atlético GO
-[Dom, 16/Junho]
-  16.00  Corinthians SP           -  São Paulo FC
-         EC Vitória               -  Internacional Porto Alegre
-         Atlético PR              -  Flamengo RJ
-  18.30  Criciúma EC              -  EC Bahia
-         Cuiabá                   -  Fortaleza EC
-         Grêmio RS                -  Botafogo RJ
-         CR Vasco da Gama         -  Cruzeiro MG
-[Seg, 17/Junho]
-  21.30  Atlético MG              -  Palmeiras SP
+Matchday 6
+[Sun Jun/9]
+  16.00  Criciúma EC              2-5 (0-3)  Cuiabá
 
 
-Rodada 10
-[Ter, 18/Junho]
-  Atlético GO              -  Criciúma EC
-  Botafogo RJ              -  Atlético PR
-  Cruzeiro MG              -  Fluminense RJ
-  Flamengo RJ              -  EC Bahia
-  Fortaleza EC             -  Grêmio RS
-  Internacional Porto Alegre  -  Corinthians SP
-  Esporte Clube Juventude  -  CR Vasco da Gama
-  Palmeiras SP             -  RB Bragantino
-  São Paulo FC             -  Cuiabá
-  EC Vitória               -  Atlético MG
+Matchday 8
+[Tue Jun/11]
+  19.00  Atlético GO              2-2 (0-1)  Corinthians SP
+         Esporte Clube Juventude  1-1 (1-1)  EC Vitória
+  20.00  Botafogo RJ              1-0 (0-0)  Fluminense RJ
+  21.30  RB Bragantino            1-2 (1-2)  Atlético MG
+[Thu Jun/13]
+  19.00  Cruzeiro MG              2-1 (1-0)  Cuiabá
+  20.00  Flamengo RJ              2-1 (1-0)  Grêmio RS
+         Internacional Porto Alegre  0-0  São Paulo FC
+         Atlético PR              3-1 (1-1)  Criciúma EC
+  21.30  Palmeiras SP             2-0 (1-0)  CR Vasco da Gama
+         EC Bahia                 1-0 (0-0)  Fortaleza EC
 
 
-Rodada 12
-[Ter, 18/Junho]
-  Atlético GO              -  Grêmio RS
-  EC Bahia                 -  CR Vasco da Gama
-  Botafogo RJ              -  RB Bragantino
-  Corinthians SP           -  Cuiabá
-  Cruzeiro MG              -  Atlético PR
-  Fluminense RJ            -  EC Vitória
-  Fortaleza EC             -  Palmeiras SP
-  Internacional Porto Alegre  -  Atlético MG
-  Esporte Clube Juventude  -  Flamengo RJ
-  São Paulo FC             -  Criciúma EC
+Matchday 9
+[Sat Jun/15]
+  18.30  RB Bragantino            2-1 (1-1)  Esporte Clube Juventude
+  21.00  Fluminense RJ            1-2 (1-0)  Atlético GO
+[Sun Jun/16]
+  16.00  Atlético PR              1-1 (0-0)  Flamengo RJ
+         Corinthians SP           2-2 (2-2)  São Paulo FC
+         EC Vitória               2-1 (1-0)  Internacional Porto Alegre
+  18.30  Cuiabá                   5-0 (4-0)  Fortaleza EC
+         Grêmio RS                1-2 (1-1)  Botafogo RJ
+         CR Vasco da Gama         0-0  Cruzeiro MG
+         Criciúma EC              2-2 (1-0)  EC Bahia
+[Mon Jun/17]
+  20.30  Atlético MG              0-4 (0-1)  Palmeiras SP
 
 
-Rodada 13
-[Sex, 21/Junho]
-  Atlético MG              -  Atlético GO
-  Criciúma EC              -  Internacional Porto Alegre
-  Cuiabá                   -  RB Bragantino
-  Flamengo RJ              -  Cruzeiro MG
-  Fortaleza EC             -  Esporte Clube Juventude
-  Grêmio RS                -  Fluminense RJ
-  Palmeiras SP             -  Corinthians SP
-  São Paulo FC             -  EC Bahia
-  CR Vasco da Gama         -  Botafogo RJ
-  EC Vitória               -  Atlético PR
+Matchday 10
+[Wed Jun/19]
+  19.00  Botafogo RJ              1-1 (0-0)  Atlético PR
+         Atlético GO              1-2 (1-0)  Criciúma EC
+  20.00  Fortaleza EC             1-0 (1-0)  Grêmio RS
+         Esporte Clube Juventude  2-0 (0-0)  CR Vasco da Gama
+         São Paulo FC             0-1 (0-0)  Cuiabá
+  21.30  Internacional Porto Alegre  1-0 (1-0)  Corinthians SP
+         Cruzeiro MG              2-0 (1-0)  Fluminense RJ
+[Thu Jun/20]
+  18.30  EC Vitória               4-2 (2-1)  Atlético MG
+  20.00  Flamengo RJ              2-1 (1-1)  EC Bahia
+  21.30  Palmeiras SP             2-1 (1-0)  RB Bragantino
 
 
-Rodada 14
-[Ter, 25/Junho]
-  Atlético PR              -  São Paulo FC
-  Atlético MG              -  Flamengo RJ
-  EC Bahia                 -  Esporte Clube Juventude
-  RB Bragantino            -  Atlético GO
-  Corinthians SP           -  EC Vitória
-  Criciúma EC              -  Cruzeiro MG
-  Cuiabá                   -  Botafogo RJ
-  Fluminense RJ            -  Internacional Porto Alegre
-  Grêmio RS                -  Palmeiras SP
-  CR Vasco da Gama         -  Fortaleza EC
+Matchday 11
+[Sat Jun/22]
+  16.00  Criciúma EC              2-1 (1-0)  Botafogo RJ
+  17.30  Grêmio RS                0-1 (0-0)  Internacional Porto Alegre
+  18.30  Cuiabá                   0-0  Atlético GO
+  21.30  CR Vasco da Gama         4-1 (2-1)  São Paulo FC
+[Sun Jun/23]
+  16.00  Atlético PR              1-1 (1-0)  Corinthians SP
+         EC Bahia                 4-1 (1-1)  Cruzeiro MG
+         Fluminense RJ            0-1 (0-0)  Flamengo RJ
+  18.30  RB Bragantino            2-1 (1-1)  EC Vitória
+         Palmeiras SP             3-1 (0-0)  Esporte Clube Juventude
+         Atlético MG              1-1 (0-1)  Fortaleza EC
 
 
-Rodada 15
-[Sex, 28/Junho]
-  Atlético GO              -  Atlético PR
-  Botafogo RJ              -  Atlético MG
-  Cruzeiro MG              -  Corinthians SP
-  Flamengo RJ              -  Cuiabá
-  Fortaleza EC             -  Fluminense RJ
-  Internacional Porto Alegre  -  CR Vasco da Gama
-  Esporte Clube Juventude  -  Grêmio RS
-  Palmeiras SP             -  EC Bahia
-  São Paulo FC             -  RB Bragantino
-  EC Vitória               -  Criciúma EC
+Matchday 12
+[Wed Jun/26]
+  19.00  Cruzeiro MG              2-0 (1-0)  Atlético PR
+         Botafogo RJ              2-1 (1-1)  RB Bragantino
+  20.00  Atlético GO              1-1 (0-0)  Grêmio RS
+         Corinthians SP           1-1 (0-1)  Cuiabá
+         Esporte Clube Juventude  2-1 (1-1)  Flamengo RJ
+  21.30  Fortaleza EC             3-0 (1-0)  Palmeiras SP
+         Internacional Porto Alegre  1-2 (0-0)  Atlético MG
+         EC Bahia                 2-1 (1-1)  CR Vasco da Gama
+[Thu Jun/27]
+  19.00  Fluminense RJ            0-1 (0-0)  EC Vitória
+  20.00  São Paulo FC             2-1 (2-0)  Criciúma EC
 
 
-Rodada 16
-[Ter, 2/Julho]
-  Atlético PR              -  EC Bahia
-  Atlético MG              -  São Paulo FC
-  RB Bragantino            -  Internacional Porto Alegre
-  Criciúma EC              -  Fluminense RJ
-  Cuiabá                   -  Esporte Clube Juventude
-  Flamengo RJ              -  Fortaleza EC
-  Grêmio RS                -  Cruzeiro MG
-  Palmeiras SP             -  Atlético GO
-  CR Vasco da Gama         -  Corinthians SP
-  EC Vitória               -  Botafogo RJ
+Matchday 13
+[Sat Jun/29]
+  18.30  CR Vasco da Gama         -  Botafogo RJ
+         Cuiabá                   -  RB Bragantino
+[Sun Jun/30]
+  11.00  Atlético MG              -  Atlético GO
+  16.00  Fortaleza EC             -  Esporte Clube Juventude
+         Grêmio RS                -  Fluminense RJ
+         São Paulo FC             -  EC Bahia
+  18.30  Flamengo RJ              -  Cruzeiro MG
+         EC Vitória               -  Atlético PR
+         Criciúma EC              -  Internacional Porto Alegre
+[Mon Jul/1]
+  20.00  Palmeiras SP             -  Corinthians SP
 
 
-Rodada 17
-[Sex, 5/Julho]
+Matchday 16
+[Wed Jul/3]
+  15.00  Atlético MG              -  São Paulo FC
+
+
+Matchday 14
+[Wed Jul/3]
+  19.00  Cuiabá                   -  Botafogo RJ
+
+
+Matchday 16
+[Wed Jul/3]
+  19.00  Cuiabá                   -  Esporte Clube Juventude
+
+
+Matchday 14
+[Wed Jul/3]
+  20.00  CR Vasco da Gama         -  Fortaleza EC
+         Criciúma EC              -  Cruzeiro MG
+  21.30  Atlético PR              -  São Paulo FC
+         Atlético MG              -  Flamengo RJ
+         RB Bragantino            -  Atlético GO
+
+
+Matchday 16
+[Wed Jul/3]
+  21.30  RB Bragantino            -  Internacional Porto Alegre
+
+
+Matchday 14
+[Thu Jul/4]
+  19.00  Grêmio RS                -  Palmeiras SP
+         EC Bahia                 -  Esporte Clube Juventude
+  20.00  Corinthians SP           -  EC Vitória
+         Fluminense RJ            -  Internacional Porto Alegre
+
+
+Matchday 17
+[Fri Jul/5]
   Atlético GO              -  CR Vasco da Gama
   EC Bahia                 -  Cuiabá
   Botafogo RJ              -  Palmeiras SP
@@ -256,22 +265,34 @@ Rodada 17
   São Paulo FC             -  Grêmio RS
 
 
-Rodada 18
-[Ter, 9/Julho]
-  Atlético MG              -  CR Vasco da Gama
-  EC Bahia                 -  Corinthians SP
-  Botafogo RJ              -  Internacional Porto Alegre
-  RB Bragantino            -  Atlético PR
-  Cuiabá                   -  Fluminense RJ
-  Flamengo RJ              -  Criciúma EC
-  Fortaleza EC             -  Atlético GO
-  Grêmio RS                -  EC Vitória
-  Esporte Clube Juventude  -  São Paulo FC
-  Palmeiras SP             -  Cruzeiro MG
+Matchday 15
+[Sat Jul/6]
+  21.00  Flamengo RJ              -  Cuiabá
+         São Paulo FC             -  RB Bragantino
+[Sun Jul/7]
+  16.00  Fortaleza EC             -  Fluminense RJ
+         Esporte Clube Juventude  -  Grêmio RS
+         Cruzeiro MG              -  Corinthians SP
+  18.00  Botafogo RJ              -  Atlético MG
+  18.30  Palmeiras SP             -  EC Bahia
+         EC Vitória               -  Criciúma EC
+         Atlético GO              -  Atlético PR
+  20.30  Internacional Porto Alegre  -  CR Vasco da Gama
 
 
-Rodada 19
-[Ter, 16/Julho]
+Matchday 16
+[Tue Jul/9]
+  Atlético PR              -  EC Bahia
+  Criciúma EC              -  Fluminense RJ
+  Flamengo RJ              -  Fortaleza EC
+  Grêmio RS                -  Cruzeiro MG
+  Palmeiras SP             -  Atlético GO
+  CR Vasco da Gama         -  Corinthians SP
+  EC Vitória               -  Botafogo RJ
+
+
+Matchday 19
+[Tue Jul/16]
   Atlético PR              -  Atlético MG
   Atlético GO              -  EC Bahia
   Corinthians SP           -  Grêmio RS
@@ -284,8 +305,21 @@ Rodada 19
   EC Vitória               -  Flamengo RJ
 
 
-Rodada 20
-[Sex, 19/Julho]
+Matchday 18
+[Fri Jul/19]
+  Atlético MG              -  CR Vasco da Gama
+  EC Bahia                 -  Corinthians SP
+  Botafogo RJ              -  Internacional Porto Alegre
+  RB Bragantino            -  Atlético PR
+  Flamengo RJ              -  Criciúma EC
+  Fortaleza EC             -  Atlético GO
+  Grêmio RS                -  EC Vitória
+  Esporte Clube Juventude  -  São Paulo FC
+  Palmeiras SP             -  Cruzeiro MG
+
+
+Matchday 20
+[Fri Jul/19]
   Atlético MG              -  Corinthians SP
   EC Bahia                 -  Internacional Porto Alegre
   Botafogo RJ              -  Cruzeiro MG
@@ -298,8 +332,13 @@ Rodada 20
   Palmeiras SP             -  EC Vitória
 
 
-Rodada 21
-[Sex, 26/Julho]
+Matchday 18
+[Sun Jul/21]
+  20.00  Cuiabá                   -  Fluminense RJ
+
+
+Matchday 21
+[Fri Jul/26]
   Atlético PR              -  Grêmio RS
   Atlético GO              -  Botafogo RJ
   Corinthians SP           -  Esporte Clube Juventude
@@ -312,8 +351,8 @@ Rodada 21
   EC Vitória               -  Cuiabá
 
 
-Rodada 22
-[Sex, 2/Agosto]
+Matchday 22
+[Fri Aug/2]
   EC Bahia                 -  EC Vitória
   Corinthians SP           -  RB Bragantino
   Cruzeiro MG              -  Atlético MG
@@ -326,8 +365,8 @@ Rodada 22
   CR Vasco da Gama         -  Fluminense RJ
 
 
-Rodada 23
-[Sex, 9/Agosto]
+Matchday 23
+[Fri Aug/9]
   Atlético PR              -  Esporte Clube Juventude
   Atlético GO              -  Internacional Porto Alegre
   Atlético MG              -  Cuiabá
@@ -340,8 +379,8 @@ Rodada 23
   EC Vitória               -  Cruzeiro MG
 
 
-Rodada 24
-[Sex, 16/Agosto]
+Matchday 24
+[Fri Aug/16]
   Atlético GO              -  Esporte Clube Juventude
   Atlético MG              -  Fluminense RJ
   EC Bahia                 -  Botafogo RJ
@@ -354,8 +393,8 @@ Rodada 24
   CR Vasco da Gama         -  Atlético PR
 
 
-Rodada 25
-[Sex, 23/Agosto]
+Matchday 25
+[Fri Aug/23]
   Atlético PR              -  Palmeiras SP
   Botafogo RJ              -  Fortaleza EC
   RB Bragantino            -  EC Bahia
@@ -368,8 +407,8 @@ Rodada 25
   EC Vitória               -  CR Vasco da Gama
 
 
-Rodada 26
-[Sex, 30/Agosto]
+Matchday 26
+[Fri Aug/30]
   Atlético PR              -  Fortaleza EC
   Atlético GO              -  EC Vitória
   EC Bahia                 -  Atlético MG
@@ -382,8 +421,8 @@ Rodada 26
   Palmeiras SP             -  Criciúma EC
 
 
-Rodada 27
-[Sex, 13/Set]
+Matchday 27
+[Fri Sep/13]
   Atlético MG              -  RB Bragantino
   Corinthians SP           -  Atlético GO
   Criciúma EC              -  Atlético PR
@@ -396,8 +435,8 @@ Rodada 27
   EC Vitória               -  Esporte Clube Juventude
 
 
-Rodada 28
-[Sex, 20/Set]
+Matchday 28
+[Fri Sep/20]
   Atlético GO              -  Fluminense RJ
   EC Bahia                 -  Criciúma EC
   Botafogo RJ              -  Grêmio RS
@@ -410,8 +449,8 @@ Rodada 28
   São Paulo FC             -  Corinthians SP
 
 
-Rodada 29
-[Sex, 27/Set]
+Matchday 29
+[Fri Sep/27]
   Atlético PR              -  Botafogo RJ
   Atlético MG              -  EC Vitória
   EC Bahia                 -  Flamengo RJ
@@ -424,8 +463,8 @@ Rodada 29
   CR Vasco da Gama         -  Esporte Clube Juventude
 
 
-Rodada 30
-[Qui, 3/Out]
+Matchday 30
+[Thu Oct/3]
   Atlético GO              -  Cuiabá
   Botafogo RJ              -  Criciúma EC
   Corinthians SP           -  Atlético PR
@@ -438,8 +477,8 @@ Rodada 30
   EC Vitória               -  RB Bragantino
 
 
-Rodada 31
-[Sex, 18/Out]
+Matchday 31
+[Fri Oct/18]
   Atlético PR              -  Cruzeiro MG
   Atlético MG              -  Internacional Porto Alegre
   RB Bragantino            -  Botafogo RJ
@@ -452,8 +491,8 @@ Rodada 31
   EC Vitória               -  Fluminense RJ
 
 
-Rodada 32
-[Qui, 24/Out]
+Matchday 32
+[Thu Oct/24]
   Atlético PR              -  EC Vitória
   Atlético GO              -  Atlético MG
   EC Bahia                 -  São Paulo FC
@@ -466,8 +505,8 @@ Rodada 32
   Esporte Clube Juventude  -  Fortaleza EC
 
 
-Rodada 33
-[Ter, 5/Nov]
+Matchday 33
+[Tue Nov/5]
   Palmeiras SP             -  Grêmio RS
   São Paulo FC             -  Atlético PR
   EC Vitória               -  Corinthians SP
@@ -480,8 +519,8 @@ Rodada 33
   Esporte Clube Juventude  -  EC Bahia
 
 
-Rodada 34
-[Ter, 19/Nov]
+Matchday 34
+[Tue Nov/19]
   Atlético PR              -  Atlético GO
   Atlético MG              -  Botafogo RJ
   EC Bahia                 -  Palmeiras SP
@@ -494,8 +533,8 @@ Rodada 34
   CR Vasco da Gama         -  Internacional Porto Alegre
 
 
-Rodada 35
-[Sex, 22/Nov]
+Matchday 35
+[Fri Nov/22]
   Atlético GO              -  Palmeiras SP
   EC Bahia                 -  Atlético PR
   Botafogo RJ              -  EC Vitória
@@ -508,8 +547,8 @@ Rodada 35
   São Paulo FC             -  Atlético MG
 
 
-Rodada 36
-[Sex, 29/Nov]
+Matchday 36
+[Fri Nov/29]
   Atlético PR              -  Fluminense RJ
   Atlético MG              -  Esporte Clube Juventude
   RB Bragantino            -  Cruzeiro MG
@@ -522,8 +561,8 @@ Rodada 36
   EC Vitória               -  Fortaleza EC
 
 
-Rodada 37
-[Ter, 3/Dez]
+Matchday 37
+[Tue Dec/3]
   Atlético PR              -  RB Bragantino
   Atlético GO              -  Fortaleza EC
   Corinthians SP           -  EC Bahia
@@ -536,8 +575,8 @@ Rodada 37
   EC Vitória               -  Grêmio RS
 
 
-Rodada 38
-[Sáb, 7/Dez]
+Matchday 38
+[Sat Dec/7]
   Atlético MG              -  Atlético PR
   EC Bahia                 -  Atlético GO
   Botafogo RJ              -  São Paulo FC

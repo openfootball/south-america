@@ -1,19 +1,19 @@
 = Brasileiro Série A 2020
 
 
-Rodada 1
-[Sáb, 8/Agosto]
+Matchday 1
+[Sat Aug/8]
   19.00  Fortaleza EC             0-2 (0-2)  Atlético PR
   19.30  Coritiba PR              0-1 (0-0)  Internacional Porto Alegre
   21.00  Sport Recife             3-2 (3-1)  Ceára SC
-[Dom, 9/Agosto]
+[Sun Aug/9]
   16.00  Flamengo RJ              0-1 (0-1)  Atlético MG
          Santos SP                1-1 (0-0)  RB Bragantino
   19.00  Grêmio RS                1-0 (1-0)  Fluminense RJ
 
 
-Rodada 2
-[Qua, 12/Agosto]
+Matchday 2
+[Wed Aug/12]
   19.15  Atlético PR              2-1 (1-1)  Goiás EC
          RB Bragantino            1-1 (1-0)  Botafogo RJ
          Atlético MG              3-2 (0-2)  Corinthians SP
@@ -21,18 +21,18 @@ Rodada 2
          Atlético GO              3-0 (2-0)  Flamengo RJ
   21.30  Fluminense RJ            1-1 (1-1)  Palmeiras SP
          Ceára SC                 1-1 (1-0)  Grêmio RS
-[Qui, 13/Agosto]
+[Thu Aug/13]
   19.15  São Paulo FC             1-0 (1-0)  Fortaleza EC
   19.30  Internacional Porto Alegre  2-0 (0-0)  Santos SP
   20.00  CR Vasco da Gama         2-0 (2-0)  Sport Recife
 
 
-Rodada 3
-[Sáb, 15/Agosto]
+Matchday 3
+[Sat Aug/15]
   19.00  Grêmio RS                0-0  Corinthians SP
   19.30  Coritiba PR              0-1 (0-1)  Flamengo RJ
   21.30  Palmeiras SP             1-1 (1-1)  Goiás EC
-[Dom, 16/Agosto]
+[Sun Aug/16]
   11.00  Atlético MG              2-0 (0-0)  Ceára SC
   16.00  CR Vasco da Gama         2-1 (0-0)  São Paulo FC
          EC Bahia                 2-1 (1-0)  RB Bragantino
@@ -42,8 +42,8 @@ Rodada 3
   19.45  Santos SP                3-1 (2-0)  Atlético PR
 
 
-Rodada 4
-[Qua, 19/Agosto]
+Matchday 4
+[Wed Aug/19]
   19.15  RB Bragantino            2-1 (1-1)  Fluminense RJ
          Flamengo RJ              1-1 (0-1)  Grêmio RS
   19.30  Atlético PR              0-1 (0-0)  Palmeiras SP
@@ -51,18 +51,18 @@ Rodada 4
          Goiás EC                 1-3 (0-1)  Fortaleza EC
   21.30  Corinthians SP           3-1 (1-1)  Coritiba PR
          Botafogo RJ              2-1 (1-0)  Atlético MG
-[Qui, 20/Agosto]
+[Thu Aug/20]
   19.15  Sport Recife             0-1 (0-0)  Santos SP
   20.00  São Paulo FC             1-1 (0-1)  EC Bahia
          Ceára SC                 0-3 (0-0)  CR Vasco da Gama
 
 
-Rodada 5
-[Sáb, 22/Agosto]
+Matchday 5
+[Sat Aug/22]
   16.00  Atlético PR              0-1 (0-1)  Fluminense RJ
   19.00  Internacional Porto Alegre  1-0 (1-0)  Atlético MG
   21.00  Goiás EC                 2-0 (1-0)  Atlético GO
-[Dom, 23/Agosto]
+[Sun Aug/23]
   11.00  Flamengo RJ              1-1 (0-0)  Botafogo RJ
   16.00  CR Vasco da Gama         0-0  Grêmio RS
          Palmeiras SP             2-1 (1-0)  Santos SP
@@ -71,31 +71,31 @@ Rodada 5
   20.00  Ceára SC                 2-0 (1-0)  EC Bahia
 
 
-Rodada 11
-[Qua, 26/Agosto]
+Matchday 11
+[Wed Aug/26]
   19.00  São Paulo FC             1-0 (0-0)  Atlético PR
 
 
-Rodada 5
-[Qua, 26/Agosto]
+Matchday 5
+[Wed Aug/26]
   21.30  Corinthians SP           1-1 (0-0)  Fortaleza EC
 
 
-Rodada 6
-[Sáb, 29/Agosto]
+Matchday 6
+[Sat Aug/29]
   17.00  Botafogo RJ              0-2 (0-2)  Internacional Porto Alegre
   19.00  Fluminense RJ            2-1 (1-0)  CR Vasco da Gama
          EC Bahia                 1-1 (0-0)  Palmeiras SP
   21.00  Fortaleza EC             3-0 (1-0)  RB Bragantino
-[Dom, 30/Agosto]
+[Sun Aug/30]
   11.00  São Paulo FC             2-1 (1-1)  Corinthians SP
   16.00  Santos SP                0-1 (0-1)  Flamengo RJ
          Coritiba PR              1-0 (0-0)  Sport Recife
   18.00  Atlético GO              0-2 (0-0)  Ceára SC
 
 
-Rodada 7
-[Qua, 2/Set]
+Matchday 7
+[Wed Sep/2]
   19.00  Ceára SC                 1-0 (1-0)  Fortaleza EC
   19.15  Goiás EC                 1-2 (0-1)  Corinthians SP
   19.30  Fluminense RJ            1-1 (1-0)  Atlético GO
@@ -104,17 +104,17 @@ Rodada 7
          Atlético PR              1-1 (1-1)  RB Bragantino
   21.30  Palmeiras SP             1-1 (0-0)  Internacional Porto Alegre
          Santos SP                2-2 (1-1)  CR Vasco da Gama
-[Qui, 3/Set]
+[Thu Sep/3]
   19.00  Grêmio RS                1-2 (0-1)  Sport Recife
   20.00  Atlético MG              3-0 (2-0)  São Paulo FC
 
 
-Rodada 8
-[Sáb, 5/Set]
+Matchday 8
+[Sat Sep/5]
   17.00  Flamengo RJ              2-1 (1-1)  Fortaleza EC
   19.00  Corinthians SP           2-2 (1-1)  Botafogo RJ
   21.00  Ceára SC                 0-1 (0-1)  Santos SP
-[Dom, 6/Set]
+[Sun Sep/6]
   11.00  RB Bragantino            1-2 (0-0)  Palmeiras SP
   16.00  Internacional Porto Alegre  2-2 (1-1)  EC Bahia
          São Paulo FC             3-1 (0-1)  Fluminense RJ
@@ -124,26 +124,26 @@ Rodada 8
          Coritiba PR              0-1 (0-1)  Atlético MG
 
 
-Rodada 9
-[Qua, 9/Set]
+Matchday 9
+[Wed Sep/9]
   17.30  Atlético PR              1-1 (0-0)  Botafogo RJ
   18.00  Goiás EC                 3-3 (1-2)  Coritiba PR
          Fortaleza EC             1-0 (0-0)  Sport Recife
   19.15  São Paulo FC             1-1 (0-0)  RB Bragantino
   21.30  Fluminense RJ            1-2 (0-2)  Flamengo RJ
          Santos SP                3-1 (2-1)  Atlético MG
-[Qui, 10/Set]
+[Thu Sep/10]
   19.15  Internacional Porto Alegre  2-0 (1-0)  Ceára SC
          EC Bahia                 0-2 (0-1)  Grêmio RS
          Corinthians SP           0-2 (0-1)  Palmeiras SP
   21.00  CR Vasco da Gama         1-2 (0-0)  Atlético GO
 
 
-Rodada 10
-[Sáb, 12/Set]
+Matchday 10
+[Sat Sep/12]
   16.30  Atlético PR              1-0 (1-0)  Coritiba PR
   19.00  Santos SP                2-2 (1-2)  São Paulo FC
-[Dom, 13/Set]
+[Sun Sep/13]
   16.00  Fluminense RJ            2-1 (1-0)  Corinthians SP
          Grêmio RS                1-1 (0-1)  Fortaleza EC
   18.00  EC Bahia                 0-1 (0-1)  Atlético GO
@@ -154,49 +154,49 @@ Rodada 10
   20.30  Botafogo RJ              2-3 (0-1)  CR Vasco da Gama
 
 
-Rodada 11
-[Qua, 16/Set]
+Matchday 11
+[Wed Sep/16]
   21.30  Corinthians SP           3-2 (2-1)  EC Bahia
-[Sáb, 19/Set]
+[Sat Sep/19]
   19.00  RB Bragantino            4-2 (3-1)  Ceára SC
          Fortaleza EC             1-0 (0-0)  Internacional Porto Alegre
   21.00  Atlético GO              3-4 (1-0)  Atlético MG
-[Dom, 20/Set]
+[Sun Sep/20]
   16.00  Coritiba PR              1-0 (0-0)  CR Vasco da Gama
          Grêmio RS                1-1 (0-0)  Palmeiras SP
   18.15  Botafogo RJ              0-0  Santos SP
   20.30  Sport Recife             1-0 (1-0)  Fluminense RJ
 
 
-Rodada 12
-[Qua, 23/Set]
+Matchday 12
+[Wed Sep/23]
   21.30  Sport Recife             1-0 (1-0)  Corinthians SP
-[Sáb, 26/Set]
+[Sat Sep/26]
   19.00  Atlético PR              1-0 (0-0)  EC Bahia
          Internacional Porto Alegre  1-1 (1-1)  São Paulo FC
   21.00  Atlético MG              3-1 (1-0)  Grêmio RS
-[Dom, 27/Set]
+[Sun Sep/27]
   11.00  CR Vasco da Gama         1-1 (0-0)  RB Bragantino
   16.00  Palmeiras SP             1-1 (0-0)  Flamengo RJ
   18.15  Ceára SC                 2-2 (0-1)  Goiás EC
          Atlético GO              1-1 (0-1)  Botafogo RJ
   20.30  Santos SP                1-1 (1-0)  Fortaleza EC
-[Seg, 28/Set]
+[Mon Sep/28]
   20.00  Fluminense RJ            4-0 (1-0)  Coritiba PR
 
 
-Rodada 1
-[Qua, 30/Set]
+Matchday 1
+[Wed Sep/30]
   21.30  Botafogo RJ              1-2 (0-1)  EC Bahia
          Corinthians SP           0-0  Atlético GO
 
 
-Rodada 13
-[Sáb, 3/Out]
+Matchday 13
+[Sat Oct/3]
   17.00  Grêmio RS                1-1 (0-0)  Internacional Porto Alegre
   19.00  Palmeiras SP             2-1 (1-1)  Ceára SC
   21.00  RB Bragantino            0-0  Corinthians SP
-[Dom, 4/Out]
+[Sun Oct/4]
   11.00  Botafogo RJ              1-1 (0-1)  Fluminense RJ
   16.00  Coritiba PR              1-1 (1-0)  São Paulo FC
          Flamengo RJ              3-1 (0-0)  Atlético PR
@@ -206,8 +206,8 @@ Rodada 13
   20.30  Atlético MG              4-1 (4-1)  CR Vasco da Gama
 
 
-Rodada 14
-[Qua, 7/Out]
+Matchday 14
+[Wed Oct/7]
   19.00  Corinthians SP           1-1 (1-1)  Santos SP
   19.15  Grêmio RS                2-1 (2-0)  Coritiba PR
          EC Bahia                 3-0 (3-0)  CR Vasco da Gama
@@ -216,18 +216,18 @@ Rodada 14
          São Paulo FC             3-0 (1-0)  Atlético GO
   21.30  Botafogo RJ              2-1 (0-0)  Palmeiras SP
          Fortaleza EC             2-1 (1-1)  Atlético MG
-[Qui, 8/Out]
+[Thu Oct/8]
   19.00  Atlético PR              0-0  Ceára SC
   21.00  RB Bragantino            0-2 (0-2)  Internacional Porto Alegre
 
 
-Rodada 15
-[Sáb, 10/Out]
+Matchday 15
+[Sat Oct/10]
   17.00  CR Vasco da Gama         1-2 (1-0)  Flamengo RJ
   19.00  Palmeiras SP             0-2 (0-0)  São Paulo FC
          Coritiba PR              0-0  Fortaleza EC
   21.00  Atlético MG              3-0 (2-0)  Goiás EC
-[Dom, 11/Out]
+[Sun Oct/11]
   16.00  Fluminense RJ            1-0 (0-0)  EC Bahia
          Santos SP                2-1 (1-0)  Grêmio RS
   18.15  Sport Recife             1-2 (0-2)  Botafogo RJ
@@ -236,77 +236,77 @@ Rodada 15
          Ceára SC                 2-1 (1-1)  Corinthians SP
 
 
-Rodada 11
-[Ter, 13/Out]
+Matchday 11
+[Tue Oct/13]
   18.00  Flamengo RJ              2-1 (1-1)  Goiás EC
 
 
-Rodada 16
-[Qua, 14/Out]
+Matchday 16
+[Wed Oct/14]
   18.00  Palmeiras SP             1-3 (1-2)  Coritiba PR
   19.15  Grêmio RS                3-1 (1-1)  Botafogo RJ
   20.30  Santos SP                0-1 (0-0)  Atlético GO
   21.30  Atlético MG              1-1 (0-1)  Fluminense RJ
          Sport Recife             3-5 (1-2)  Internacional Porto Alegre
          Atlético PR              0-1 (0-0)  Corinthians SP
-[Qui, 15/Out]
+[Thu Oct/15]
   20.00  Flamengo RJ              1-1 (0-0)  RB Bragantino
-[Sex, 16/Out]
+[Fri Oct/16]
   20.00  Goiás EC                 1-1 (0-0)  EC Bahia
 
 
-Rodada 17
-[Sáb, 17/Out]
+Matchday 17
+[Sat Oct/17]
   19.00  Atlético GO              1-1 (1-0)  Atlético PR
          Coritiba PR              1-2 (0-2)  Santos SP
          Fluminense RJ            2-2 (1-1)  Ceára SC
   21.00  São Paulo FC             0-0  Grêmio RS
-[Dom, 18/Out]
+[Sun Oct/18]
   16.00  Corinthians SP           1-5 (0-1)  Flamengo RJ
   18.15  Internacional Porto Alegre  2-0 (2-0)  CR Vasco da Gama
   20.30  RB Bragantino            2-0 (0-0)  Sport Recife
          Fortaleza EC             2-0 (2-0)  Palmeiras SP
-[Seg, 19/Out]
+[Mon Oct/19]
   20.00  Botafogo RJ              0-0  Goiás EC
          EC Bahia                 3-1 (0-1)  Atlético MG
 
 
-Rodada 18
-[Qua, 21/Out]
+Matchday 18
+[Wed Oct/21]
   21.30  CR Vasco da Gama         1-2 (0-1)  Corinthians SP
-[Sáb, 24/Out]
+[Sat Oct/24]
   17.00  RB Bragantino            2-0 (1-0)  Goiás EC
   19.00  Ceára SC                 2-1 (1-1)  Coritiba PR
   22.00  Atlético MG              0-0  Sport Recife
-[Dom, 25/Out]
+[Sun Oct/25]
   16.00  Fluminense RJ            3-1 (1-1)  Santos SP
          Atlético GO              0-3 (0-1)  Palmeiras SP
   18.15  Atlético PR              1-2 (1-0)  Grêmio RS
          Internacional Porto Alegre  2-2 (2-1)  Flamengo RJ
 
 
-Rodada 19
-[Sáb, 31/Out]
+Matchday 19
+[Sat Oct/31]
   17.00  Botafogo RJ              2-2 (2-1)  Ceára SC
   19.00  Coritiba PR              1-0 (1-0)  Atlético GO
          Corinthians SP           1-0 (1-0)  Internacional Porto Alegre
   21.00  Fortaleza EC             0-1 (0-0)  Fluminense RJ
-[Dom, 1/Nov]
+[Sun Nov/1]
   16.00  Sport Recife             1-0 (0-0)  Atlético PR
          Flamengo RJ              1-4 (1-2)  São Paulo FC
   18.15  Santos SP                3-1 (3-1)  EC Bahia
   20.30  Goiás EC                 1-1 (0-1)  CR Vasco da Gama
-[Seg, 2/Nov]
+[Mon Nov/2]
   17.00  Palmeiras SP             3-0 (1-0)  Atlético MG
   20.00  Grêmio RS                2-1 (0-0)  RB Bragantino
 
 
-Rodada 20
-[Sáb, 7/Nov]
+Matchday 20
+[Sat Nov/7]
   18.00  Atlético PR              2-1 (0-1)  Fortaleza EC
   19.00  São Paulo FC             2-1 (1-1)  Goiás EC
   21.00  Atlético GO              1-1 (1-0)  Corinthians SP
-[Dom, 8/Nov]
+[Sun Nov/8]
   16.00  Internacional Porto Alegre  2-2 (1-0)  Coritiba PR
          CR Vasco da Gama         0-1 (0-0)  Palmeiras SP
   18.15  Atlético MG              4-0 (2-0)  Flamengo RJ
@@ -316,13 +316,13 @@ Rodada 20
          Ceára SC                 0-0  Sport Recife
 
 
-Rodada 18
-[Qua, 11/Nov]
+Matchday 18
+[Wed Nov/11]
   18.45  EC Bahia                 2-1 (1-0)  Fortaleza EC
 
 
-Rodada 21
-[Sáb, 14/Nov]
+Matchday 21
+[Sat Nov/14]
   16.30  Sport Recife             0-2 (0-1)  CR Vasco da Gama
          Santos SP                2-0 (0-0)  Internacional Porto Alegre
   17.00  Goiás EC                 0-1 (0-1)  Atlético PR
@@ -331,137 +331,137 @@ Rodada 21
          Fortaleza EC             2-3 (1-1)  São Paulo FC
   21.30  Palmeiras SP             2-0 (0-0)  Fluminense RJ
          Flamengo RJ              1-1 (1-0)  Atlético GO
-[Seg, 16/Nov]
+[Mon Nov/16]
   18.00  Coritiba PR              1-2 (1-1)  EC Bahia
   20.00  Botafogo RJ              1-2 (1-1)  RB Bragantino
 
 
-Rodada 6
-[Qua, 18/Nov]
+Matchday 6
+[Wed Nov/18]
   19.00  Atlético MG              0-2 (0-2)  Atlético PR
 
 
-Rodada 16
-[Qui, 19/Nov]
+Matchday 16
+[Thu Nov/19]
   19.00  CR Vasco da Gama         0-0  Fortaleza EC
 
 
-Rodada 22
-[Sex, 20/Nov]
+Matchday 22
+[Fri Nov/20]
   20.00  RB Bragantino            4-0 (3-0)  EC Bahia
-[Sáb, 21/Nov]
+[Sat Nov/21]
   19.00  Atlético PR              1-0 (0-0)  Santos SP
          Flamengo RJ              3-1 (2-0)  Coritiba PR
   21.00  Goiás EC                 1-0 (0-0)  Palmeiras SP
-[Dom, 22/Nov]
+[Sun Nov/22]
   16.00  São Paulo FC             1-1 (1-1)  CR Vasco da Gama
          Ceára SC                 2-2 (0-1)  Atlético MG
   18.15  Botafogo RJ              1-2 (0-0)  Fortaleza EC
          Internacional Porto Alegre  1-2 (1-0)  Fluminense RJ
   20.30  Corinthians SP           0-0  Grêmio RS
-[Seg, 23/Nov]
+[Mon Nov/23]
   20.00  Sport Recife             0-1 (0-0)  Atlético GO
 
 
-Rodada 16
-[Qua, 25/Nov]
+Matchday 16
+[Wed Nov/25]
   19.15  Ceára SC                 1-1 (0-1)  São Paulo FC
 
 
-Rodada 23
-[Qua, 25/Nov]
+Matchday 23
+[Wed Nov/25]
   21.30  Coritiba PR              0-1 (0-1)  Corinthians SP
          Atlético MG              2-1 (1-0)  Botafogo RJ
-[Qui, 26/Nov]
+[Thu Nov/26]
   20.00  Fortaleza EC             1-1 (0-1)  Goiás EC
-[Sáb, 28/Nov]
+[Sat Nov/28]
   17.00  Palmeiras SP             3-0 (2-0)  Atlético PR
          Santos SP                4-2 (2-2)  Sport Recife
   19.00  EC Bahia                 1-3 (0-0)  São Paulo FC
   21.00  Atlético GO              0-0  Internacional Porto Alegre
-[Seg, 30/Nov]
+[Mon Nov/30]
   18.00  CR Vasco da Gama         1-4 (0-2)  Ceára SC
 
 
-Rodada 6
-[Seg, 30/Nov]
+Matchday 6
+[Mon Nov/30]
   18.00  Grêmio RS                2-1 (1-0)  Goiás EC
 
 
-Rodada 23
-[Seg, 30/Nov]
+Matchday 23
+[Mon Nov/30]
   20.00  Fluminense RJ            0-0  RB Bragantino
 
 
-Rodada 24
-[Qua, 2/Dez]
+Matchday 24
+[Wed Dec/2]
   21.30  Fortaleza EC             0-0  Corinthians SP
 
 
-Rodada 1
-[Qui, 3/Dez]
+Matchday 1
+[Thu Dec/3]
   19.00  Goiás EC                 0-3 (0-1)  São Paulo FC
 
 
-Rodada 24
-[Sáb, 5/Dez]
+Matchday 24
+[Sat Dec/5]
   17.00  Botafogo RJ              0-1 (0-0)  Flamengo RJ
          Santos SP                2-2 (1-0)  Palmeiras SP
   19.00  Fluminense RJ            3-1 (1-1)  Atlético PR
          EC Bahia                 0-2 (0-0)  Ceára SC
   21.00  Coritiba PR              0-0  RB Bragantino
-[Dom, 6/Dez]
+[Sun Dec/6]
   16.00  São Paulo FC             1-0 (1-0)  Sport Recife
          Grêmio RS                4-0 (1-0)  CR Vasco da Gama
   18.15  Atlético MG              2-2 (1-1)  Internacional Porto Alegre
-[Seg, 7/Dez]
+[Mon Dec/7]
   20.00  Atlético GO              0-1 (0-1)  Goiás EC
 
 
-Rodada 18
-[Qua, 9/Dez]
+Matchday 18
+[Wed Dec/9]
   21.30  São Paulo FC             4-0 (3-0)  Botafogo RJ
 
 
-Rodada 25
-[Sáb, 12/Dez]
+Matchday 25
+[Sat Dec/12]
   17.00  Atlético PR              0-1 (0-1)  Atlético MG
          RB Bragantino            2-1 (1-1)  Fortaleza EC
   19.00  Palmeiras SP             3-0 (3-0)  EC Bahia
          Internacional Porto Alegre  2-1 (1-1)  Botafogo RJ
   21.00  Goiás EC                 0-0  Grêmio RS
          Ceára SC                 1-2 (0-0)  Atlético GO
-[Dom, 13/Dez]
+[Sun Dec/13]
   16.00  Flamengo RJ              4-1 (1-0)  Santos SP
   18.15  Corinthians SP           1-0 (1-0)  São Paulo FC
          Sport Recife             1-0 (1-0)  Coritiba PR
   20.30  CR Vasco da Gama         1-1 (0-1)  Fluminense RJ
 
 
-Rodada 26
-[Qua, 16/Dez]
+Matchday 26
+[Wed Dec/16]
   21.30  Atlético GO              2-1 (1-0)  Fluminense RJ
          São Paulo FC             3-0 (1-0)  Atlético MG
-[Sáb, 19/Dez]
+[Sat Dec/19]
   19.00  Sport Recife             1-1 (1-0)  Grêmio RS
   21.00  Internacional Porto Alegre  2-0 (1-0)  Palmeiras SP
          Coritiba PR              1-2 (1-0)  Botafogo RJ
-[Dom, 20/Dez]
+[Sun Dec/20]
   16.00  RB Bragantino            0-1 (0-1)  Atlético PR
          CR Vasco da Gama         1-0 (1-0)  Santos SP
   18.15  Flamengo RJ              4-3 (2-0)  EC Bahia
   20.30  Fortaleza EC             0-2 (0-0)  Ceára SC
-[Seg, 21/Dez]
+[Mon Dec/21]
   20.00  Corinthians SP           2-1 (1-1)  Goiás EC
 
 
-Rodada 27
-[Sáb, 26/Dez]
+Matchday 27
+[Sat Dec/26]
   17.00  Atlético MG              2-0 (0-0)  Coritiba PR
   19.00  Fortaleza EC             0-0  Flamengo RJ
          Goiás EC                 1-0 (1-0)  Sport Recife
   21.00  Fluminense RJ            1-2 (0-1)  São Paulo FC
-[Dom, 27/Dez]
+[Sun Dec/27]
   16.00  Botafogo RJ              0-2 (0-1)  Corinthians SP
          EC Bahia                 1-2 (0-1)  Internacional Porto Alegre
   18.15  Palmeiras SP             1-0 (1-0)  RB Bragantino
@@ -470,43 +470,43 @@ Rodada 27
   20.30  Grêmio RS                2-1 (1-0)  Atlético GO
 
 
-Rodada 28
-[Qua, 6/Jan]
+Matchday 28
+[Wed Jan/6]
   19.15  Grêmio RS                2-1 (1-0)  EC Bahia
          Botafogo RJ              0-2 (0-1)  Atlético PR
   20.30  Sport Recife             1-0 (1-0)  Fortaleza EC
          Coritiba PR              1-2 (0-2)  Goiás EC
   21.30  RB Bragantino            4-2 (4-1)  São Paulo FC
          Flamengo RJ              1-2 (1-0)  Fluminense RJ
-[Qui, 7/Jan]
+[Thu Jan/7]
   19.00  Ceára SC                 0-2 (0-0)  Internacional Porto Alegre
   21.00  Atlético GO              0-0  CR Vasco da Gama
 
 
-Rodada 29
-[Sáb, 9/Jan]
+Matchday 29
+[Sat Jan/9]
   19.00  Sport Recife             0-1 (0-1)  Palmeiras SP
          Coritiba PR              0-0  Atlético PR
   21.00  Fortaleza EC             0-0  Grêmio RS
-[Dom, 10/Jan]
+[Sun Jan/10]
   16.00  Flamengo RJ              0-2 (0-1)  Ceára SC
          São Paulo FC             0-1 (0-0)  Santos SP
   18.15  Internacional Porto Alegre  1-0 (1-0)  Goiás EC
          Atlético GO              1-1 (1-0)  EC Bahia
   20.30  CR Vasco da Gama         3-0 (1-0)  Botafogo RJ
-[Seg, 11/Jan]
+[Mon Jan/11]
   20.00  RB Bragantino            2-2 (1-0)  Atlético MG
-[Qua, 13/Jan]
+[Wed Jan/13]
   21.30  Corinthians SP           5-0 (1-0)  Fluminense RJ
 
 
-Rodada 30
-[Sex, 15/Jan]
+Matchday 30
+[Fri Jan/15]
   21.30  Palmeiras SP             1-1 (1-0)  Grêmio RS
-[Sáb, 16/Jan]
+[Sat Jan/16]
   19.00  Fluminense RJ            1-0 (0-0)  Sport Recife
   21.00  CR Vasco da Gama         0-1 (0-1)  Coritiba PR
-[Dom, 17/Jan]
+[Sun Jan/17]
   16.00  Atlético PR              1-1 (1-0)  São Paulo FC
          Santos SP                2-1 (1-1)  Botafogo RJ
   18.15  Atlético MG              3-1 (2-0)  Atlético GO
@@ -514,36 +514,36 @@ Rodada 30
          Ceára SC                 1-2 (0-0)  RB Bragantino
 
 
-Rodada 28
-[Seg, 18/Jan]
+Matchday 28
+[Mon Jan/18]
   19.00  Palmeiras SP             4-0 (2-0)  Corinthians SP
 
 
-Rodada 30
-[Seg, 18/Jan]
+Matchday 30
+[Mon Jan/18]
   20.00  Goiás EC                 0-3 (0-1)  Flamengo RJ
 
 
-Rodada 31
-[Qua, 20/Jan]
+Matchday 31
+[Wed Jan/20]
   17.00  Botafogo RJ              1-3 (0-0)  Atlético GO
   18.00  EC Bahia                 1-0 (0-0)  Atlético PR
   19.15  Grêmio RS                1-1 (0-1)  Atlético MG
   20.30  Coritiba PR              3-3 (2-0)  Fluminense RJ
   21.30  RB Bragantino            4-1 (1-0)  CR Vasco da Gama
          São Paulo FC             1-5 (1-2)  Internacional Porto Alegre
-[Qui, 21/Jan]
+[Thu Jan/21]
   19.00  Flamengo RJ              2-0 (1-0)  Palmeiras SP
          Goiás EC                 0-4 (0-2)  Ceára SC
          Fortaleza EC             2-0 (0-0)  Santos SP
   21.00  Corinthians SP           3-0 (1-0)  Sport Recife
 
 
-Rodada 32
-[Sáb, 23/Jan]
+Matchday 32
+[Sat Jan/23]
   19.00  São Paulo FC             1-1 (0-0)  Coritiba PR
   21.00  CR Vasco da Gama         3-2 (2-0)  Atlético MG
-[Dom, 24/Jan]
+[Sun Jan/24]
   16.00  Internacional Porto Alegre  2-1 (0-0)  Grêmio RS
          Atlético PR              2-1 (1-1)  Flamengo RJ
          Ceára SC                 2-1 (2-1)  Palmeiras SP
@@ -551,32 +551,32 @@ Rodada 32
          Sport Recife             2-0 (0-0)  EC Bahia
          Santos SP                3-4 (2-0)  Goiás EC
   20.30  Fluminense RJ            2-0 (0-0)  Botafogo RJ
-[Seg, 25/Jan]
+[Mon Jan/25]
   20.00  Corinthians SP           0-2 (0-2)  RB Bragantino
 
 
-Rodada 1
-[Ter, 26/Jan]
+Matchday 1
+[Tue Jan/26]
   20.00  Palmeiras SP             1-1 (1-1)  CR Vasco da Gama
 
 
-Rodada 28
-[Ter, 26/Jan]
+Matchday 28
+[Tue Jan/26]
   20.00  Atlético MG              2-0 (2-0)  Santos SP
 
 
-Rodada 30
-[Qui, 28/Jan]
+Matchday 30
+[Thu Jan/28]
   19.00  EC Bahia                 2-1 (2-0)  Corinthians SP
 
 
-Rodada 23
-[Qui, 28/Jan]
+Matchday 23
+[Thu Jan/28]
   20.00  Grêmio RS                2-4 (1-0)  Flamengo RJ
 
 
-Rodada 33
-[Dom, 31/Jan]
+Matchday 33
+[Sun Jan/31]
   16.00  Atlético GO              2-1 (1-1)  São Paulo FC
          Coritiba PR              1-1 (0-1)  Grêmio RS
          CR Vasco da Gama         0-0  EC Bahia
@@ -584,36 +584,36 @@ Rodada 33
   17.00  Atlético MG              2-0 (0-0)  Fortaleza EC
   18.15  Internacional Porto Alegre  2-1 (1-1)  RB Bragantino
   20.30  Fluminense RJ            3-0 (3-0)  Goiás EC
-[Seg, 1/Fev]
+[Mon Feb/1]
   20.00  Sport Recife             0-3 (0-2)  Flamengo RJ
-[Ter, 2/Fev]
+[Tue Feb/2]
   16.00  Palmeiras SP             1-1 (1-0)  Botafogo RJ
 
 
-Rodada 34
-[Qua, 3/Fev]
+Matchday 34
+[Wed Feb/3]
   16.00  Grêmio RS                3-3 (1-1)  Santos SP
   19.15  RB Bragantino            2-0 (0-0)  Atlético GO
   21.30  EC Bahia                 0-1 (0-1)  Fluminense RJ
          Corinthians SP           2-1 (2-1)  Ceára SC
          Goiás EC                 1-0 (1-0)  Atlético MG
-[Qui, 4/Fev]
+[Thu Feb/4]
   18.30  Fortaleza EC             3-1 (2-1)  Coritiba PR
   21.00  Atlético PR              0-0  Internacional Porto Alegre
          Flamengo RJ              2-0 (1-0)  CR Vasco da Gama
-[Sex, 5/Fev]
+[Fri Feb/5]
   20.00  Botafogo RJ              0-1 (0-1)  Sport Recife
 
 
-Rodada 35
-[Sáb, 6/Fev]
+Matchday 35
+[Sat Feb/6]
   19.00  EC Bahia                 3-3 (2-1)  Goiás EC
   21.00  Atlético GO              1-1 (1-0)  Santos SP
-[Dom, 7/Fev]
+[Sun Feb/7]
   20.30  RB Bragantino            1-1 (0-1)  Flamengo RJ
-[Seg, 8/Fev]
+[Mon Feb/8]
   20.00  Botafogo RJ              2-5 (0-2)  Grêmio RS
-[Qua, 10/Fev]
+[Wed Feb/10]
   19.00  Internacional Porto Alegre  1-2 (1-2)  Sport Recife
   19.15  Fortaleza EC             3-0 (2-0)  CR Vasco da Gama
   21.00  São Paulo FC             1-1 (0-0)  Ceára SC
@@ -621,55 +621,55 @@ Rodada 35
          Corinthians SP           3-3 (2-2)  Atlético PR
 
 
-Rodada 36
-[Sáb, 13/Fev]
+Matchday 36
+[Sat Feb/13]
   17.00  Goiás EC                 2-0 (1-0)  Botafogo RJ
   19.00  Atlético MG              1-1 (1-0)  EC Bahia
          Santos SP                2-0 (1-0)  Coritiba PR
-[Dom, 14/Fev]
+[Sun Feb/14]
   16.00  CR Vasco da Gama         0-2 (0-1)  Internacional Porto Alegre
          Flamengo RJ              2-1 (1-1)  Corinthians SP
   18.15  Palmeiras SP             3-0 (3-0)  Fortaleza EC
          Atlético PR              2-1 (0-0)  Atlético GO
   20.30  Grêmio RS                1-2 (1-0)  São Paulo FC
-[Seg, 15/Fev]
+[Mon Feb/15]
   18.00  Ceára SC                 1-3 (0-1)  Fluminense RJ
   20.00  Sport Recife             0-0  RB Bragantino
 
 
-Rodada 33
-[Qua, 17/Fev]
+Matchday 33
+[Wed Feb/17]
   19.00  Santos SP                1-0 (0-0)  Corinthians SP
 
 
-Rodada 35
-[Qua, 17/Fev]
+Matchday 35
+[Wed Feb/17]
   19.30  Coritiba PR              1-0 (0-0)  Palmeiras SP
 
 
-Rodada 34
-[Sex, 19/Fev]
+Matchday 34
+[Fri Feb/19]
   21.30  São Paulo FC             1-1 (0-0)  Palmeiras SP
 
 
-Rodada 37
-[Sáb, 20/Fev]
+Matchday 37
+[Sat Feb/20]
   18.30  Coritiba PR              0-2 (0-0)  Ceára SC
   21.00  Fortaleza EC             0-4 (0-1)  EC Bahia
-[Dom, 21/Fev]
+[Sun Feb/21]
   16.00  Flamengo RJ              2-1 (1-1)  Internacional Porto Alegre
          Corinthians SP           0-0  CR Vasco da Gama
          Sport Recife             2-3 (1-1)  Atlético MG
   18.15  Santos SP                1-1 (0-1)  Fluminense RJ
          Grêmio RS                1-0 (0-0)  Atlético PR
   20.30  Goiás EC                 0-0  RB Bragantino
-[Seg, 22/Fev]
+[Mon Feb/22]
   18.00  Palmeiras SP             1-1 (1-1)  Atlético GO
   20.00  Botafogo RJ              1-0 (0-0)  São Paulo FC
 
 
-Rodada 38
-[Qui, 25/Fev]
+Matchday 38
+[Thu Feb/25]
   21.30  São Paulo FC             2-1 (1-0)  Flamengo RJ
          Internacional Porto Alegre  0-0  Corinthians SP
          Atlético GO              3-1 (3-0)  Coritiba PR
