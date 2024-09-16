@@ -1,0 +1,257 @@
+= Copa Libertadores 2022
+
+# Date       Tue Feb/8 - Sat Oct/29 2022 (263d)
+# Teams      47
+# Matches    155
+# Stages     Qualifying (30)  Group (96)  Finals (29)
+
+
+== Qualifying
+
+Round 1
+[Tue Feb/8]
+  21.30  Montevideo City Torque   1-1 (0-1)  Barcelona SC
+[Wed Feb/9]
+  19.15  Deportivo Lara           2-3 (2-3)  Club Bolívar
+  21.30  CD Universidad César Vallejo  0-1 (0-1)  Olimpia Asuncion
+[Tue Feb/15]
+  21.30  Barcelona SC             8-7 pen. (0-0)  Montevideo City Torque
+[Wed Feb/16]
+  19.15  Club Bolívar             4-0 (1-0)  Deportivo Lara
+  21.30  Olimpia Asuncion         2-0 (1-0)  CD Universidad César Vallejo
+
+
+Round 2
+[Tue Feb/22]
+  19.15  CD Everton               3-0 (2-0)  Monagas SC
+  21.30  Millonarios FC           1-2 (1-1)  Fluminense FC
+         Club Plaza Colonia       2-0 (2-0)  Club The Strongest
+[Wed Feb/23]
+  19.15  América FC               0-1 (0-0)  Club Guaraní
+         Club Bolívar             1-1 (1-1)  Universidad Catolica
+  21.30  Audax CS Italiano        1-0 (1-0)  Estudiantes de La Plata
+         Barcelona SC             2-0 (0-0)  Club Universitario de Deportes
+[Thu Feb/24]
+  21.30  Olimpia Asuncion         3-1 (1-0)  CDC Atlético Nacional
+[Tue Mar/1]
+  19.15  Monagas SC               1-0 (0-0)  CD Everton
+  21.30  Fluminense FC            2-0 (0-0)  Millonarios FC
+         Club The Strongest       3-0 (2-0)  Club Plaza Colonia
+[Wed Mar/2]
+  19.15  Club Guaraní             4-5 pen. (0-0)  América FC
+         Universidad Catolica     2-0 (2-0)  Club Bolívar
+  21.30  Club Universitario de Deportes  0-1 (0-0)  Barcelona SC
+         Estudiantes de La Plata  2-0 (1-0)  Audax CS Italiano
+[Thu Mar/3]
+  21.30  CDC Atlético Nacional    1-1 (0-0)  Olimpia Asuncion
+
+
+Round 3
+[Tue Mar/8]
+  21.30  América FC               0-0  Barcelona SC
+[Wed Mar/9]
+  19.15  CD Everton               0-1 (0-0)  Estudiantes de La Plata
+  21.30  Fluminense FC            3-1 (1-1)  Olimpia Asuncion
+[Thu Mar/10]
+  21.30  Universidad Catolica     0-0  Club The Strongest
+[Tue Mar/15]
+  21.30  Barcelona SC             4-5 pen. (0-0)  América FC
+[Wed Mar/16]
+  19.15  Estudiantes de La Plata  1-0 (1-0)  CD Everton
+  21.30  Olimpia Asuncion         4-1 pen. 2-0 a.e.t. (2-0, 1-0)  Fluminense FC
+[Thu Mar/17]
+  21.30  Club The Strongest       2-1 (1-1)  Universidad Catolica
+
+
+== Group
+
+Matchday 1
+[Tue Apr/5]
+  19.15  Caracas FC               0-0  CA Paranaense
+         CA Colón                 2-1 (1-0)  CA Peñarol
+         Olimpia Asuncion         0-0  Club Cerro Porteño
+  21.30  Club Always Ready        2-0 (1-0)  SC Corinthians Paulista
+         AD Cali                  2-0 (0-0)  CA Boca Juniors
+  22.00  CS Cristal               0-2 (0-1)  CR Flamengo
+[Wed Apr/6]
+  19.00  RB Bragantino            2-0 (1-0)  Club Nacional de Football
+         América FC               0-2 (0-1)  CAR Independiente del Valle
+         CA Talleres              1-0 (1-0)  CD Universidad Católica
+  21.00  Deportivo Táchira FC     0-4 (0-2)  SE Palmeiras
+         CD Tolima                0-2 (0-1)  CA Mineiro
+         Club Alianza Lima        0-1 (0-0)  CA River Plate
+  23.00  Club Independiente Petrolero  1-1 (0-0)  CS Emelec
+[Thu Apr/7]
+  19.00  Fortaleza EC             1-2 (0-1)  CSD Colo-Colo
+  21.00  Estudiantes de La Plata  4-1 (2-1)  CA Vélez Sarsfield
+  23.00  Club The Strongest       1-1 (1-1)  Club Libertad Asuncion
+
+
+Matchday 2
+[Tue Apr/12]
+  19.15  CA Boca Juniors          2-0 (1-0)  Club Always Ready
+         Club Cerro Porteño       3-1 (1-1)  CA Colón
+         CD Universidad Católica  2-1 (1-0)  CS Cristal
+  21.30  SE Palmeiras             8-1 (1-1)  Club Independiente Petrolero
+         CA Peñarol               2-1 (1-0)  Olimpia Asuncion
+         CR Flamengo              3-1 (2-1)  CA Talleres
+[Wed Apr/13]
+  19.00  Club Libertad Asuncion   2-1 (2-1)  Caracas FC
+         CSD Colo-Colo            2-1 (1-0)  Club Alianza Lima
+  21.00  Club Nacional de Football  0-0  Estudiantes de La Plata
+         CA Mineiro               1-1 (0-0)  América FC
+         SC Corinthians Paulista  1-0 (0-0)  AD Cali
+         CA River Plate           2-0 (2-0)  Fortaleza EC
+  23.00  CAR Independiente del Valle  2-2 (0-2)  CD Tolima
+[Thu Apr/14]
+  19.00  CA Paranaense            1-0 (0-0)  Club The Strongest
+  21.00  CA Vélez Sarsfield       2-2 (1-1)  RB Bragantino
+  23.00  CS Emelec                1-1 (1-1)  Deportivo Táchira FC
+
+
+Matchday 3
+[Tue Apr/26]
+  19.15  Club Independiente Petrolero  1-2 (1-1)  Deportivo Táchira FC
+         Club Libertad Asuncion   1-0 (0-0)  CA Paranaense
+         Estudiantes de La Plata  2-0 (0-0)  RB Bragantino
+         CA Vélez Sarsfield       1-2 (1-1)  Club Nacional de Football
+  21.30  CAR Independiente del Valle  1-1 (0-1)  CA Mineiro
+         SC Corinthians Paulista  2-0 (1-0)  CA Boca Juniors
+         CA Talleres              1-0 (0-0)  CS Cristal
+[Wed Apr/27]
+  19.00  América FC               2-3 (0-0)  CD Tolima
+         Fortaleza EC             2-1 (0-0)  Club Alianza Lima
+  21.00  CS Emelec                1-3 (0-2)  SE Palmeiras
+         CSD Colo-Colo            1-2 (0-0)  CA River Plate
+         Club Cerro Porteño       1-0 (1-0)  CA Peñarol
+  23.00  Club The Strongest       1-1 (1-0)  Caracas FC
+[Thu Apr/28]
+  19.00  CD Universidad Católica  2-3 (1-2)  CR Flamengo
+  21.00  Olimpia Asuncion         0-0  CA Colón
+  23.00  Club Always Ready        2-2 (2-1)  AD Cali
+
+
+Matchday 4
+[Tue May/3]
+  19.15  Deportivo Táchira FC     1-4 (1-2)  CS Emelec
+         Caracas FC               1-0 (0-0)  Club Libertad Asuncion
+         Club The Strongest       5-0 (1-0)  CA Paranaense
+  21.30  Club Independiente Petrolero  0-5 (0-2)  SE Palmeiras
+         Estudiantes de La Plata  1-0 (1-0)  Club Nacional de Football
+         América FC               1-2 (1-2)  CA Mineiro
+[Wed May/4]
+  19.00  CA Colón                 2-1 (1-0)  Club Cerro Porteño
+         CA Talleres              2-2 (1-0)  CR Flamengo
+  21.00  Club Always Ready        0-1 (0-1)  CA Boca Juniors
+         AD Cali                  0-0  SC Corinthians Paulista
+         Olimpia Asuncion         1-0 (1-0)  CA Peñarol
+  23.00  CD Tolima                1-0 (0-0)  CAR Independiente del Valle
+         CS Cristal               1-1 (1-0)  CD Universidad Católica
+[Thu May/5]
+  19.00  Fortaleza EC             1-1 (1-1)  CA River Plate
+  21.00  RB Bragantino            1-1 (0-1)  CA Vélez Sarsfield
+  23.00  Club Alianza Lima        1-1 (0-1)  CSD Colo-Colo
+
+
+Matchday 5
+[Tue May/17]
+  19.15  Caracas FC               0-0  Club The Strongest
+         RB Bragantino            0-1 (0-0)  Estudiantes de La Plata
+         CA Peñarol               0-0  Club Cerro Porteño
+  21.30  CA Boca Juniors          1-1 (1-1)  SC Corinthians Paulista
+         CS Cristal               0-0  CA Talleres
+         CR Flamengo              3-0 (2-0)  CD Universidad Católica
+[Wed May/18]
+  19.00  SE Palmeiras             1-0 (0-0)  CS Emelec
+         CA Paranaense            2-0 (0-0)  Club Libertad Asuncion
+         Club Nacional de Football  2-3 (1-1)  CA Vélez Sarsfield
+  21.00  Deportivo Táchira FC     3-0 (2-0)  Club Independiente Petrolero
+         CD Tolima                2-2 (2-2)  América FC
+         CA Colón                 2-1 (1-1)  Olimpia Asuncion
+  23.00  Club Alianza Lima        0-2 (0-1)  Fortaleza EC
+[Thu May/19]
+  19.00  CA Mineiro               3-1 (1-0)  CAR Independiente del Valle
+  21.00  CA River Plate           4-0 (1-0)  CSD Colo-Colo
+  23.00  AD Cali                  3-0 (1-0)  Club Always Ready
+
+
+Matchday 6
+[Tue May/24]
+  19.15  Club Nacional de Football  3-0 (2-0)  RB Bragantino
+         CA Vélez Sarsfield       4-0 (2-0)  Estudiantes de La Plata
+  21.30  CS Emelec                7-0 (4-0)  Club Independiente Petrolero
+         SE Palmeiras             4-1 (2-0)  Deportivo Táchira FC
+         CD Universidad Católica  0-1 (0-0)  CA Talleres
+         CR Flamengo              2-1 (1-0)  CS Cristal
+[Wed May/25]
+  19.00  CSD Colo-Colo            3-4 (1-2)  Fortaleza EC
+         CA River Plate           8-1 (3-0)  Club Alianza Lima
+  21.00  CAR Independiente del Valle  3-0 (2-0)  América FC
+         CA Mineiro               1-2 (0-0)  CD Tolima
+         Club Cerro Porteño       0-1 (0-1)  Olimpia Asuncion
+         CA Peñarol               2-1 (0-1)  CA Colón
+[Thu May/26]
+  19.00  Club Libertad Asuncion   4-1 (1-1)  Club The Strongest
+         CA Paranaense            5-1 (3-0)  Caracas FC
+  21.00  CA Boca Juniors          1-0 (0-0)  AD Cali
+         SC Corinthians Paulista  1-1 (1-1)  Club Always Ready
+
+
+== Finals
+
+Round of 16
+[Tue Jun/28]
+  19.15  CS Emelec                1-1 (0-1)  CA Mineiro
+  21.30  SC Corinthians Paulista  0-0  CA Boca Juniors
+         CA Paranaense            2-1 (2-1)  Club Libertad Asuncion
+[Wed Jun/29]
+  19.15  Club Cerro Porteño       0-3 (0-0)  SE Palmeiras
+         CA Talleres              1-1 (0-0)  CA Colón
+  21.30  CD Tolima                0-1 (0-1)  CR Flamengo
+         CA Vélez Sarsfield       1-0 (1-0)  CA River Plate
+[Thu Jun/30]
+  21.30  Fortaleza EC             1-1 (0-0)  Estudiantes de La Plata
+[Tue Jul/5]
+  19.15  CA Mineiro               1-0 (0-0)  CS Emelec
+  21.30  Club Libertad Asuncion   1-1 (1-0)  CA Paranaense
+         CA Boca Juniors          5-6 pen. (0-0)  SC Corinthians Paulista
+[Wed Jul/6]
+  19.15  SE Palmeiras             5-0 (1-0)  Club Cerro Porteño
+         CA Colón                 0-2 (0-0)  CA Talleres
+  21.30  CR Flamengo              7-1 (2-0)  CD Tolima
+         CA River Plate           0-0  CA Vélez Sarsfield
+[Thu Jul/7]
+  21.30  Estudiantes de La Plata  3-0 (1-0)  Fortaleza EC
+
+
+Quarterfinals
+[Tue Aug/2]
+  21.30  SC Corinthians Paulista  0-2 (0-1)  CR Flamengo
+[Wed Aug/3]
+  21.30  CA Vélez Sarsfield       3-2 (1-0)  CA Talleres
+         CA Mineiro               2-2 (1-0)  SE Palmeiras
+[Thu Aug/4]
+  21.30  CA Paranaense            0-0  Estudiantes de La Plata
+[Tue Aug/9]
+  21.30  CR Flamengo              1-0 (0-0)  SC Corinthians Paulista
+[Wed Aug/10]
+  21.30  CA Talleres              0-1 (0-0)  CA Vélez Sarsfield
+         SE Palmeiras             6-5 pen. (0-0)  CA Mineiro
+[Thu Aug/11]
+  21.30  Estudiantes de La Plata  0-1 (0-0)  CA Paranaense
+
+
+Semifinals
+[Tue Aug/30]
+  21.30  CA Paranaense            1-0 (1-0)  SE Palmeiras
+[Wed Aug/31]
+  21.30  CA Vélez Sarsfield       0-4 (0-2)  CR Flamengo
+[Tue Sep/6]
+  21.30  SE Palmeiras             2-2 (1-0)  CA Paranaense
+[Wed Sep/7]
+  21.30  CR Flamengo              2-1 (1-1)  CA Vélez Sarsfield
+
+
+Final
+[Sat Oct/29]
+  17.00  CR Flamengo              1-0 (1-0)  CA Paranaense

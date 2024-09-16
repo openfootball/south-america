@@ -1,0 +1,257 @@
+= Copa Libertadores 2023
+
+# Date       Tue Feb/7 - Sat Nov/4 2023 (270d)
+# Teams      47
+# Matches    155
+# Stages     Qualifying (30)  Group (96)  Finals (29)
+
+
+== Qualifying
+
+Round 1
+[Tue Feb/7]
+  21.00  CSD Sport Huancayo       2-1 (0-0)  Club Nacional
+[Wed Feb/8]
+  21.00  Club Nacional Potosí     1-6 (1-5)  CSCyD El Nacional
+[Thu Feb/9]
+  21.00  CA Boston River          3-1 (1-0)  Zamora FC
+[Tue Feb/14]
+  21.00  Club Nacional            3-1 (0-1)  CSD Sport Huancayo
+[Wed Feb/15]
+  21.00  CSCyD El Nacional        3-1 (2-0)  Club Nacional Potosí
+[Thu Feb/16]
+  21.00  Zamora FC                0-1 (0-1)  CA Boston River
+
+
+Round 2
+[Tue Feb/21]
+  19.00  Club Nacional            2-0 (0-0)  CS Cristal
+  21.00  CDP Curicó Unido         0-1 (0-0)  Club Cerro Porteño
+[Wed Feb/22]
+  19.00  CSCyD El Nacional        2-2 (0-1)  CD Independiente Medellín
+  21.00  CA Boston River          0-0  CA Huracán
+  21.30  Carabobo FC              0-0  CA Mineiro
+[Thu Feb/23]
+  19.00  Magallanes               3-0 (1-0)  Club Always Ready
+  21.00  Universidad Catolica     0-0  Millonarios FC
+         CD Maldonado             0-0  Fortaleza EC
+[Tue Feb/28]
+  19.00  Club Cerro Porteño       1-0 (0-0)  CDP Curicó Unido
+  21.00  CS Cristal               5-1 (0-0)  Club Nacional
+[Wed Mar/1]
+  19.00  CA Huracán               1-0 (1-0)  CA Boston River
+  21.00  CD Independiente Medellín  2-1 (0-0)  CSCyD El Nacional
+  21.30  CA Mineiro               3-1 (2-1)  Carabobo FC
+[Thu Mar/2]
+  19.00  Club Always Ready        1-3 (0-1)  Magallanes
+  21.00  Millonarios FC           2-1 (0-1)  Universidad Catolica
+         Fortaleza EC             4-0 (1-0)  CD Maldonado
+
+
+Round 3
+[Wed Mar/8]
+  19.00  Magallanes               1-1 (0-0)  CD Independiente Medellín
+  21.30  Millonarios FC           1-1 (1-0)  CA Mineiro
+[Thu Mar/9]
+  19.00  Fortaleza EC             0-1 (0-1)  Club Cerro Porteño
+  21.00  CA Huracán               0-0  CS Cristal
+[Wed Mar/15]
+  21.00  CD Independiente Medellín  2-0 (2-0)  Magallanes
+  21.30  CA Mineiro               3-1 (0-0)  Millonarios FC
+[Thu Mar/16]
+  19.00  Club Cerro Porteño       2-1 (1-0)  Fortaleza EC
+  21.00  CS Cristal               1-0 (0-0)  CA Huracán
+
+
+== Group
+
+Matchday 1
+[Tue Apr/4]
+  19.00  Club The Strongest       3-1 (2-0)  CA River Plate
+         AA Argentinos Juniors    1-0 (0-0)  CAR Independiente del Valle
+         Club Alianza Lima        0-0  CA Paranaense
+  21.00  CD Independiente Medellín  1-1 (0-0)  SC Internacional
+  23.00  Metropolitanos FC        1-2 (0-1)  Club Nacional de Football
+[Wed Apr/5]
+  19.00  CA Patronato             1-2 (1-0)  CDC Atlético Nacional
+         SD Aucas                 2-1 (0-1)  CR Flamengo
+  21.00  Club Cerro Porteño       2-1 (1-0)  Barcelona SC
+         CD Nublense              0-2 (0-1)  Racing Club
+  21.30  Club Bolívar             3-1 (2-1)  SE Palmeiras
+         CS Cristal               1-3 (1-1)  Fluminense FC
+  23.00  Deportivo Pereira        1-1 (0-1)  CSD Colo-Colo
+[Thu Apr/6]
+  19.00  Liverpool FC             0-3 (0-1)  SC Corinthians Paulista
+         CA Mineiro               0-1 (0-1)  Club Libertad Asuncion
+  21.00  Monagas SC               0-0  CA Boca Juniors
+         FBC Melgar               1-1 (1-1)  Olimpia Asuncion
+
+
+Matchday 2
+[Tue Apr/18]
+  19.00  SC Internacional         1-0 (0-0)  Metropolitanos FC
+         Fluminense FC            1-0 (1-0)  Club The Strongest
+  21.00  CA Boca Juniors          2-1 (0-0)  Deportivo Pereira
+         CA Paranaense            2-1 (2-0)  CA Mineiro
+         Olimpia Asuncion         1-0 (1-0)  CA Patronato
+  23.00  CAR Independiente del Valle  2-0 (1-0)  Liverpool FC
+[Wed Apr/19]
+  19.00  Club Nacional de Football  2-1 (1-0)  CD Independiente Medellín
+  21.00  CA River Plate           4-2 (2-2)  CS Cristal
+  21.30  SC Corinthians Paulista  0-1 (0-1)  AA Argentinos Juniors
+         CR Flamengo              2-0 (2-0)  CD Nublense
+  22.00  CSD Colo-Colo            1-0 (1-0)  Monagas SC
+  23.00  Barcelona SC             2-1 (1-0)  Club Bolívar
+[Thu Apr/20]
+  19.00  Racing Club              3-2 (2-0)  SD Aucas
+  21.00  SE Palmeiras             2-1 (0-1)  Club Cerro Porteño
+         CDC Atlético Nacional    3-1 (2-0)  FBC Melgar
+  23.00  Club Libertad Asuncion   1-2 (0-0)  Club Alianza Lima
+
+
+Matchday 3
+[Tue May/2]
+  19.00  Liverpool FC             2-2 (0-1)  AA Argentinos Juniors
+         CD Nublense              2-1 (0-1)  SD Aucas
+  21.00  Fluminense FC            5-1 (1-1)  CA River Plate
+         SC Corinthians Paulista  1-2 (1-1)  CAR Independiente del Valle
+         CDC Atlético Nacional    2-2 (1-0)  Olimpia Asuncion
+  23.00  CS Cristal               1-0 (0-0)  Club The Strongest
+[Wed May/3]
+  19.00  Club Cerro Porteño       0-4 (0-3)  Club Bolívar
+         SC Internacional         2-2 (1-1)  Club Nacional de Football
+  21.00  CSD Colo-Colo            0-2 (0-1)  CA Boca Juniors
+  21.30  Barcelona SC             0-2 (0-1)  SE Palmeiras
+         CA Mineiro               2-0 (0-0)  Club Alianza Lima
+  23.00  CD Independiente Medellín  4-2 (4-1)  Metropolitanos FC
+[Thu May/4]
+  19.00  CA Patronato             4-1 (1-0)  FBC Melgar
+         Racing Club              1-1 (0-1)  CR Flamengo
+  21.00  Club Libertad Asuncion   1-2 (1-0)  CA Paranaense
+  23.00  Deportivo Pereira        2-1 (2-0)  Monagas SC
+
+
+Matchday 4
+[Tue May/23]
+  19.00  Monagas SC               1-1 (0-0)  CSD Colo-Colo
+         CA Mineiro               2-1 (0-0)  CA Paranaense
+  21.00  Club Bolívar             1-0 (0-0)  Barcelona SC
+         SD Aucas                 1-2 (0-1)  Racing Club
+         CD Independiente Medellín  2-1 (1-1)  Club Nacional de Football
+  23.00  Club Alianza Lima        1-2 (0-1)  Club Libertad Asuncion
+[Wed May/24]
+  19.00  Club Cerro Porteño       0-3 (0-1)  SE Palmeiras
+         Liverpool FC             1-0 (0-0)  CAR Independiente del Valle
+  21.00  Deportivo Pereira        1-0 (0-0)  CA Boca Juniors
+  21.30  AA Argentinos Juniors    0-0  SC Corinthians Paulista
+         CD Nublense              1-1 (0-1)  CR Flamengo
+  23.00  FBC Melgar               0-1 (0-0)  CDC Atlético Nacional
+[Thu May/25]
+  19.00  Club The Strongest       1-0 (1-0)  Fluminense FC
+         CA Patronato             0-2 (0-1)  Olimpia Asuncion
+  21.00  CS Cristal               1-1 (0-0)  CA River Plate
+         Metropolitanos FC        1-2 (0-2)  SC Internacional
+
+
+Matchday 5
+[Tue Jun/6]
+  19.00  Monagas SC               1-0 (1-0)  Deportivo Pereira
+         CA Paranaense            1-0 (0-0)  Club Libertad Asuncion
+  21.00  CA Boca Juniors          1-0 (0-0)  CSD Colo-Colo
+         Club Alianza Lima        0-1 (0-0)  CA Mineiro
+         FBC Melgar               5-0 (4-0)  CA Patronato
+  23.00  Club Bolívar             2-0 (1-0)  Club Cerro Porteño
+[Wed Jun/7]
+  19.00  CAR Independiente del Valle  3-0 (2-0)  SC Corinthians Paulista
+         AA Argentinos Juniors    2-1 (0-0)  Liverpool FC
+         Club Nacional de Football  1-1 (0-0)  SC Internacional
+  21.00  SD Aucas                 0-0  CD Nublense
+  21.30  SE Palmeiras             4-2 (0-2)  Barcelona SC
+         CA River Plate           2-0 (1-0)  Fluminense FC
+  23.00  Club The Strongest       1-2 (1-1)  CS Cristal
+[Thu Jun/8]
+  19.00  Metropolitanos FC        0-1 (0-0)  CD Independiente Medellín
+  21.00  Olimpia Asuncion         3-0 (1-0)  CDC Atlético Nacional
+         CR Flamengo              2-1 (1-0)  Racing Club
+
+
+Matchday 6
+[Tue Jun/27]
+  19.00  Club Libertad Asuncion   1-1 (0-0)  CA Mineiro
+         CA Paranaense            3-0 (1-0)  Club Alianza Lima
+  21.00  Fluminense FC            1-1 (1-1)  CS Cristal
+         CA River Plate           2-0 (1-0)  Club The Strongest
+         CDC Atlético Nacional    0-1 (0-0)  CA Patronato
+         Olimpia Asuncion         4-1 (4-0)  FBC Melgar
+[Wed Jun/28]
+  19.00  SC Internacional         3-1 (3-0)  CD Independiente Medellín
+         Club Nacional de Football  1-0 (1-0)  Metropolitanos FC
+  21.30  CAR Independiente del Valle  3-2 (1-1)  AA Argentinos Juniors
+         SC Corinthians Paulista  3-0 (1-0)  Liverpool FC
+         CR Flamengo              4-0 (3-0)  SD Aucas
+         Racing Club              4-0 (0-0)  CD Nublense
+[Thu Jun/29]
+  19.00  CSD Colo-Colo            0-0  Deportivo Pereira
+         CA Boca Juniors          4-0 (1-0)  Monagas SC
+  21.00  Barcelona SC             2-2 (0-2)  Club Cerro Porteño
+         SE Palmeiras             4-0 (2-0)  Club Bolívar
+
+
+== Finals
+
+Round of 16
+[Tue Aug/1]
+  19.00  AA Argentinos Juniors    1-1 (1-0)  Fluminense FC
+  21.00  Club Bolívar             3-1 (2-1)  CA Paranaense
+         CA River Plate           2-1 (0-1)  SC Internacional
+[Wed Aug/2]
+  21.00  Deportivo Pereira        1-0 (0-0)  CAR Independiente del Valle
+         Club Nacional de Football  0-0  CA Boca Juniors
+  21.30  CA Mineiro               0-1 (0-1)  SE Palmeiras
+[Thu Aug/3]
+  21.00  CDC Atlético Nacional    4-2 (1-0)  Racing Club
+         CR Flamengo              1-0 (0-0)  Olimpia Asuncion
+[Tue Aug/8]
+  19.00  Fluminense FC            2-0 (0-0)  AA Argentinos Juniors
+  21.00  CA Paranaense            4-5 pen. (2-0, 1-0)  Club Bolívar
+         SC Internacional         9-8 pen. (2-1, 0-0)  CA River Plate
+[Wed Aug/9]
+  21.00  CAR Independiente del Valle  1-1 (1-0)  Deportivo Pereira
+         CA Boca Juniors          4-2 pen. (2-2, 1-1)  Club Nacional de Football
+  21.30  SE Palmeiras             0-0  CA Mineiro
+[Thu Aug/10]
+  21.00  Racing Club              3-0 (1-0)  CDC Atlético Nacional
+         Olimpia Asuncion         3-1 (1-1)  CR Flamengo
+
+
+Quarterfinals
+[Tue Aug/22]
+  19.00  Club Bolívar             0-1 (0-1)  SC Internacional
+[Wed Aug/23]
+  21.30  Deportivo Pereira        0-4 (0-3)  SE Palmeiras
+         CA Boca Juniors          0-0  Racing Club
+[Thu Aug/24]
+  21.30  Fluminense FC            2-0 (1-0)  Olimpia Asuncion
+[Tue Aug/29]
+  19.00  SC Internacional         2-0 (1-0)  Club Bolívar
+[Wed Aug/30]
+  21.30  SE Palmeiras             0-0  Deportivo Pereira
+         Racing Club              1-4 pen. (0-0)  CA Boca Juniors
+[Thu Aug/31]
+  21.30  Olimpia Asuncion         1-3 (1-1)  Fluminense FC
+
+
+Semifinals
+[Wed Sep/27]
+  21.30  Fluminense FC            2-2 (1-1)  SC Internacional
+[Thu Sep/28]
+  21.30  CA Boca Juniors          0-0  SE Palmeiras
+[Wed Oct/4]
+  21.30  SC Internacional         1-2 (1-0)  Fluminense FC
+[Thu Oct/5]
+  21.30  SE Palmeiras             2-4 pen. (1-1, 0-1)  CA Boca Juniors
+
+
+Final
+[Sat Nov/4]
+  17.00  CA Boca Juniors          1-2 a.e.t. (1-1, 0-1)  Fluminense FC

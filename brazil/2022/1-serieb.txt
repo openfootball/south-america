@@ -1,0 +1,673 @@
+= Brasileiro Série B 2022
+
+# Date       Fri Apr/8 - Sun Nov/6 2022 (212d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Apr/8]
+  19.00  Vasco da Gama RJ         1-1 (1-1)  Vila Nova GO
+  21.30  Bahia BA                 2-0 (0-0)  Cruzeiro
+  19.00  Brusque SC               1-0 (0-0)  Guarani SP
+[Sat Apr/9]
+  16.30  Ponte Preta              0-0  Grêmio Porto Alegre
+  18.30  Sport Recife PE          1-0 (0-0)  Sampaio Corrêa MA
+  21.00  Tombense MG              1-1 (0-0)  Operário Ferroviário PR
+  16.00  Chapecoense              1-1 (0-0)  Ituano SP
+[Sun Apr/10]
+  11.00  Londrina PR              2-0 (2-0)  Náutico PE
+
+
+Matchday 2
+[Tue Apr/12]
+  21.30  Cruzeiro                 1-0 (0-0)  Brusque SC
+  19.00  Vila Nova GO             0-0  Grêmio Novorizontino SP
+[Thu Apr/14]
+  20.00  Criciúma SC              1-0 (1-0)  Londrina PR
+[Fri Apr/15]
+  19.00  Grêmio Porto Alegre      0-1 (0-0)  Chapecoense
+  21.30  Náutico PE               0-1 (0-1)  Bahia BA
+[Sat Apr/16]
+  18.30  Guarani SP               0-0  Sport Recife PE
+  16.00  Ituano SP                0-0  CSA AL
+  11.00  Operário Ferroviário PR  2-0 (1-0)  Ponte Preta
+  16.30  Sampaio Corrêa MA        1-1 (1-1)  Tombense MG
+  19.00  CR Brasil AL             1-1 (1-1)  Vasco da Gama RJ
+
+
+Matchday 3
+[Thu Apr/21]
+  16.30  Grêmio Porto Alegre      3-1 (2-1)  Guarani SP
+  19.00  Londrina PR              1-1 (1-1)  Grêmio Novorizontino SP
+[Fri Apr/22]
+  19.00  CSA AL                   1-1 (1-1)  Bahia BA
+  21.30  Chapecoense              0-0  Vasco da Gama RJ
+[Sat Apr/23]
+  19.00  Tombense MG              1-1 (0-0)  Cruzeiro
+  11.00  Criciúma SC              1-1 (1-0)  Sport Recife PE
+  16.00  Ponte Preta              1-0 (1-0)  CR Brasil AL
+  18.30  Sampaio Corrêa MA        3-1 (1-0)  Brusque SC
+  19.00  Ituano SP                3-1 (2-0)  Vila Nova GO
+[Sun Apr/24]
+  16.00  Náutico PE               2-0 (1-0)  Operário Ferroviário PR
+
+
+Matchday 4
+[Tue Apr/26]
+  21.30  Cruzeiro                 1-0 (0-0)  Londrina PR
+         Bahia BA                 1-0 (1-0)  Sampaio Corrêa MA
+  19.00  Grêmio Novorizontino SP  0-3 (0-2)  Chapecoense
+         Sport Recife PE          1-0 (0-0)  Ituano SP
+  20.30  Brusque SC               2-0 (0-0)  CSA AL
+         Vila Nova GO             1-1 (1-0)  Tombense MG
+[Wed Apr/27]
+  21.00  Guarani SP               1-0 (0-0)  Criciúma SC
+  19.00  CR Brasil AL             1-2 (0-0)  Náutico PE
+         Operário Ferroviário PR  0-1 (0-0)  Grêmio Porto Alegre
+  21.30  Vasco da Gama RJ         1-0 (1-0)  Ponte Preta
+
+
+Matchday 5
+[Fri Apr/29]
+  19.00  Londrina PR              2-2 (1-0)  Vila Nova GO
+  21.30  Ituano SP                1-0 (1-0)  Bahia BA
+[Sat Apr/30]
+  19.00  Chapecoense              0-2 (0-0)  Cruzeiro
+  20.30  Ponte Preta              2-0 (1-0)  Brusque SC
+  16.00  CSA AL                   1-0 (0-0)  Sport Recife PE
+  16.30  Grêmio Porto Alegre      2-0 (2-0)  CR Brasil AL
+         Sampaio Corrêa MA        1-1 (0-1)  Operário Ferroviário PR
+[Sun May/1]
+  11.00  Criciúma SC              1-1 (0-0)  Grêmio Novorizontino SP
+  18.00  Tombense MG              1-1 (1-0)  Vasco da Gama RJ
+[Tue May/3]
+  21.30  Náutico PE               1-1 (0-1)  Guarani SP
+
+
+Matchday 6
+[Tue May/3]
+  19.00  Bahia BA                 4-0 (3-0)  Londrina PR
+
+
+Matchday 1
+[Wed May/4]
+  19.00  Grêmio Novorizontino SP  3-1 (1-1)  CR Brasil AL
+  21.00  CSA AL                   1-1 (0-0)  Criciúma SC
+
+
+Matchday 6
+[Thu May/5]
+  21.30  Brusque SC               0-0  Chapecoense
+[Fri May/6]
+  19.00  Vila Nova GO             2-0 (2-0)  Náutico PE
+  21.30  Sport Recife PE          2-0 (0-0)  Tombense MG
+[Sat May/7]
+  19.00  Grêmio Novorizontino SP  2-1 (1-1)  Ituano SP
+         Vasco da Gama RJ         1-0 (0-0)  CSA AL
+  16.30  Operário Ferroviário PR  2-0 (2-0)  Criciúma SC
+[Sun May/8]
+  16.00  Guarani SP               0-0  Ponte Preta
+         Cruzeiro                 1-0 (1-0)  Grêmio Porto Alegre
+[Mon May/9]
+  20.00  CR Brasil AL             2-1 (2-0)  Sampaio Corrêa MA
+
+
+Matchday 7
+[Fri May/13]
+  21.30  Chapecoense              0-1 (0-1)  Sport Recife PE
+  19.00  Ponte Preta              0-1 (0-0)  Grêmio Novorizontino SP
+[Sat May/14]
+  11.00  Criciúma SC              3-0 (1-0)  CR Brasil AL
+         Londrina PR              2-1 (1-0)  Brusque SC
+  16.00  Tombense MG              1-1 (1-1)  Guarani SP
+  18.30  Sampaio Corrêa MA        2-0 (1-0)  Vila Nova GO
+  20.30  CSA AL                   0-0  Operário Ferroviário PR
+[Sun May/15]
+  16.00  Vasco da Gama RJ         1-0 (1-0)  Bahia BA
+         Náutico PE               0-1 (0-1)  Cruzeiro
+[Mon May/16]
+  20.00  Ituano SP                1-1 (0-0)  Grêmio Porto Alegre
+
+
+Matchday 8
+[Tue May/17]
+  21.30  Grêmio Novorizontino SP  0-0  Sport Recife PE
+[Wed May/18]
+  21.30  CR Brasil AL             1-0 (1-0)  Londrina PR
+[Thu May/19]
+  19.00  Vila Nova GO             0-0  Chapecoense
+  21.30  Guarani SP               0-0  Vasco da Gama RJ
+         Náutico PE               1-1 (0-1)  CSA AL
+  19.00  Grêmio Porto Alegre      0-0  Criciúma SC
+[Fri May/20]
+  19.00  Brusque SC               1-0 (0-0)  Tombense MG
+  21.30  Bahia BA                 2-1 (1-0)  Ponte Preta
+[Sat May/21]
+  11.00  Operário Ferroviário PR  3-2 (0-1)  Ituano SP
+[Sun May/22]
+  11.00  Cruzeiro                 2-0 (0-0)  Sampaio Corrêa MA
+
+
+Matchday 9
+[Tue May/24]
+  21.30  Ponte Preta              0-0  Chapecoense
+  19.00  Sport Recife PE          0-1 (0-1)  CR Brasil AL
+[Wed May/25]
+  19.00  Londrina PR              2-1 (1-0)  Operário Ferroviário PR
+[Thu May/26]
+  19.00  Vasco da Gama RJ         2-0 (1-0)  Brusque SC
+  21.30  Ituano SP                0-0  Náutico PE
+[Fri May/27]
+  21.30  Criciúma SC              0-1 (0-0)  Cruzeiro
+  19.00  Tombense MG              1-0 (0-0)  Bahia BA
+[Sat May/28]
+  19.00  Sampaio Corrêa MA        2-1 (1-0)  Guarani SP
+  16.30  CSA AL                   2-1 (2-0)  Grêmio Novorizontino SP
+[Sun May/29]
+  16.00  Vila Nova GO             0-0  Grêmio Porto Alegre
+
+
+Matchday 10
+[Wed Jun/1]
+  21.30  CR Brasil AL             0-0  CSA AL
+[Thu Jun/2]
+  21.30  Guarani SP               1-1 (1-0)  Vila Nova GO
+         Sport Recife PE          2-1 (0-1)  Ponte Preta
+  20.00  Vasco da Gama RJ         0-0  Grêmio Porto Alegre
+[Fri Jun/3]
+  21.30  Operário Ferroviário PR  1-2 (0-0)  Cruzeiro
+[Sat Jun/4]
+  16.30  Bahia BA                 2-1 (0-1)  Criciúma SC
+         Grêmio Novorizontino SP  0-0  Sampaio Corrêa MA
+  19.00  Brusque SC               1-2 (1-0)  Náutico PE
+         Tombense MG              2-1 (1-1)  Ituano SP
+
+
+Matchday 11
+[Mon Jun/6]
+  20.00  Guarani SP               0-3 (0-1)  Operário Ferroviário PR
+[Tue Jun/7]
+  20.30  Ituano SP                1-2 (1-2)  Ponte Preta
+  19.00  Londrina PR              1-1 (0-1)  Tombense MG
+         Náutico PE               2-3 (0-2)  Vasco da Gama RJ
+         Vila Nova GO             0-2 (0-0)  Brusque SC
+  20.30  Criciúma SC              3-1 (2-1)  Sampaio Corrêa MA
+  21.30  CSA AL                   1-1 (1-0)  Chapecoense
+         Grêmio Porto Alegre      2-0 (1-0)  Grêmio Novorizontino SP
+[Wed Jun/8]
+  21.30  Bahia BA                 1-0 (0-0)  Sport Recife PE
+  19.00  Cruzeiro                 2-0 (2-0)  CR Brasil AL
+
+
+Matchday 12
+[Fri Jun/10]
+  19.00  Sampaio Corrêa MA        2-0 (2-0)  Náutico PE
+  21.30  Chapecoense              2-3 (2-1)  Criciúma SC
+[Sat Jun/11]
+  16.30  Ponte Preta              1-2 (0-0)  Londrina PR
+  11.00  Brusque SC               0-1 (0-1)  Ituano SP
+  16.30  CR Brasil AL             1-0 (0-0)  Vila Nova GO
+  18.30  Operário Ferroviário PR  0-1 (0-0)  Bahia BA
+[Sun Jun/12]
+  11.00  Grêmio Novorizontino SP  1-2 (0-1)  Guarani SP
+  16.00  Vasco da Gama RJ         1-0 (1-0)  Cruzeiro
+  19.00  Tombense MG              2-1 (0-0)  CSA AL
+[Mon Jun/13]
+  20.00  Sport Recife PE          0-0  Grêmio Porto Alegre
+
+
+Matchday 13
+[Tue Jun/14]
+  19.00  Bahia BA                 0-1 (0-1)  Chapecoense
+[Thu Jun/16]
+  16.00  Cruzeiro                 2-0 (1-0)  Ponte Preta
+  20.00  Vila Nova GO             0-0  Operário Ferroviário PR
+[Fri Jun/17]
+  19.00  Criciúma SC              0-1 (0-0)  Brusque SC
+  21.30  CR Brasil AL             1-1 (0-0)  Ituano SP
+[Sat Jun/18]
+  18.30  Náutico PE               1-1 (0-1)  Sport Recife PE
+  11.00  Grêmio Porto Alegre      2-0 (1-0)  Sampaio Corrêa MA
+  16.00  Londrina PR              0-1 (0-0)  Vasco da Gama RJ
+         Grêmio Novorizontino SP  1-3 (1-1)  Tombense MG
+[Sun Jun/19]
+  11.00  Guarani SP               0-0  CSA AL
+
+
+Matchday 14
+[Tue Jun/21]
+  19.00  Chapecoense              1-2 (1-1)  CR Brasil AL
+[Thu Jun/23]
+  21.30  CSA AL                   1-1 (1-0)  Grêmio Porto Alegre
+         Ponte Preta              0-0  Sampaio Corrêa MA
+[Fri Jun/24]
+  19.00  Londrina PR              3-1 (1-1)  Guarani SP
+         Vasco da Gama RJ         3-0 (0-0)  Operário Ferroviário PR
+[Sat Jun/25]
+  11.00  Criciúma SC              1-0 (1-0)  Vila Nova GO
+  18.30  Sport Recife PE          0-0  Brusque SC
+  16.00  Bahia BA                 0-1 (0-0)  Grêmio Novorizontino SP
+[Sun Jun/26]
+  11.00  Tombense MG              1-1 (0-1)  Náutico PE
+
+
+Matchday 15
+[Mon Jun/27]
+  20.00  Sampaio Corrêa MA        2-0 (0-0)  CSA AL
+         Operário Ferroviário PR  2-1 (2-0)  Chapecoense
+[Tue Jun/28]
+  21.30  Cruzeiro                 2-1 (2-1)  Sport Recife PE
+         Vila Nova GO             1-1 (1-1)  Ponte Preta
+  19.00  Brusque SC               0-2 (0-2)  Bahia BA
+         Grêmio Porto Alegre      1-0 (1-0)  Londrina PR
+  21.30  Guarani SP               0-2 (0-1)  Ituano SP
+[Wed Jun/29]
+  21.30  CR Brasil AL             0-0  Tombense MG
+  19.00  Náutico PE               1-1 (1-1)  Criciúma SC
+  21.30  Grêmio Novorizontino SP  2-0 (1-0)  Vasco da Gama RJ
+
+
+Matchday 16
+[Fri Jul/1]
+  21.30  Brusque SC               2-0 (1-0)  Operário Ferroviário PR
+         Cruzeiro                 2-0 (1-0)  Vila Nova GO
+  19.00  Chapecoense              3-1 (0-0)  Sampaio Corrêa MA
+[Sat Jul/2]
+  18.30  Náutico PE               3-1 (3-0)  Grêmio Novorizontino SP
+  11.00  Londrina PR              0-0  CSA AL
+  16.00  Ituano SP                1-2 (0-0)  Criciúma SC
+  20.30  CR Brasil AL             1-1 (1-0)  Guarani SP
+[Sun Jul/3]
+  16.00  Vasco da Gama RJ         0-0  Sport Recife PE
+         Bahia BA                 0-0  Grêmio Porto Alegre
+  11.00  Ponte Preta              0-0  Tombense MG
+
+
+Matchday 10
+[Tue Jul/5]
+  19.00  Chapecoense              0-3 (0-3)  Londrina PR
+
+
+Matchday 14
+[Tue Jul/5]
+  19.00  Ituano SP                1-1 (1-1)  Cruzeiro
+
+
+Matchday 17
+[Tue Jul/5]
+  21.30  Operário Ferroviário PR  2-3 (2-3)  CR Brasil AL
+[Wed Jul/6]
+  21.30  Grêmio Novorizontino SP  1-0 (0-0)  Brusque SC
+[Thu Jul/7]
+  19.00  CSA AL                   0-1 (0-0)  Ponte Preta
+[Fri Jul/8]
+  21.30  Grêmio Porto Alegre      2-0 (1-0)  Náutico PE
+  19.00  Vila Nova GO             1-1 (0-0)  Bahia BA
+[Sat Jul/9]
+  11.00  Guarani SP               1-0 (1-0)  Cruzeiro
+  16.00  Sport Recife PE          2-0 (1-0)  Londrina PR
+  16.30  Criciúma SC              0-1 (0-1)  Vasco da Gama RJ
+         Tombense MG              2-1 (1-1)  Chapecoense
+  18.30  Sampaio Corrêa MA        2-0 (1-0)  Ituano SP
+
+
+Matchday 18
+[Thu Jul/14]
+  18.30  Operário Ferroviário PR  0-0  Sport Recife PE
+[Fri Jul/15]
+  21.30  Vila Nova GO             1-2 (0-1)  CSA AL
+  19.00  Criciúma SC              1-1 (0-1)  Ponte Preta
+[Sat Jul/16]
+  11.00  Ituano SP                0-0  Londrina PR
+  16.00  CR Brasil AL             1-1 (0-0)  Brusque SC
+  16.30  Grêmio Porto Alegre      3-0 (3-0)  Tombense MG
+         Sampaio Corrêa MA        3-1 (1-0)  Vasco da Gama RJ
+  18.30  Guarani SP               0-2 (0-1)  Bahia BA
+[Sun Jul/17]
+  16.00  Náutico PE               1-2 (0-0)  Chapecoense
+         Cruzeiro                 2-1 (1-0)  Grêmio Novorizontino SP
+
+
+Matchday 19
+[Mon Jul/18]
+  20.00  Sport Recife PE          0-0  Vila Nova GO
+[Tue Jul/19]
+  19.00  Bahia BA                 1-1 (1-0)  CR Brasil AL
+         Brusque SC               1-1 (0-0)  Grêmio Porto Alegre
+         Londrina PR              1-0 (1-0)  Sampaio Corrêa MA
+         Tombense MG              1-0 (1-0)  Criciúma SC
+  21.30  Vasco da Gama RJ         1-1 (0-1)  Ituano SP
+[Wed Jul/20]
+  19.00  CSA AL                   1-1 (0-1)  Cruzeiro
+         Ponte Preta              1-0 (0-0)  Náutico PE
+  21.30  Grêmio Novorizontino SP  2-1 (2-0)  Operário Ferroviário PR
+  19.00  Chapecoense              0-0  Guarani SP
+
+
+Matchday 20
+[Fri Jul/22]
+  21.30  Sampaio Corrêa MA        4-1 (2-0)  Sport Recife PE
+[Sat Jul/23]
+  16.00  Cruzeiro                 1-0 (0-0)  Bahia BA
+  16.30  Grêmio Porto Alegre      2-1 (2-0)  Ponte Preta
+         Vila Nova GO             1-0 (0-0)  Vasco da Gama RJ
+  18.30  Náutico PE               1-2 (1-0)  Londrina PR
+  19.00  Ituano SP                1-0 (1-0)  Chapecoense
+  20.30  CR Brasil AL             2-1 (2-0)  Grêmio Novorizontino SP
+[Sun Jul/24]
+  11.00  Guarani SP               1-1 (0-0)  Brusque SC
+[Mon Jul/25]
+  19.00  Operário Ferroviário PR  0-0  Tombense MG
+         Criciúma SC              2-1 (0-1)  CSA AL
+
+
+Matchday 21
+[Tue Jul/26]
+  18.30  Chapecoense              0-0  Grêmio Porto Alegre
+[Thu Jul/28]
+  19.00  Vasco da Gama RJ         4-0 (2-0)  CR Brasil AL
+  21.30  Sport Recife PE          2-1 (1-0)  Guarani SP
+[Fri Jul/29]
+  21.30  Tombense MG              3-0 (0-0)  Sampaio Corrêa MA
+  19.00  Bahia BA                 3-0 (0-0)  Náutico PE
+[Sat Jul/30]
+  11.00  Brusque SC               0-0  Cruzeiro
+  16.00  Londrina PR              1-1 (1-1)  Criciúma SC
+  18.30  Grêmio Novorizontino SP  1-1 (0-1)  Vila Nova GO
+  19.00  Ponte Preta              3-0 (2-0)  Operário Ferroviário PR
+  20.30  CSA AL                   1-3 (0-2)  Ituano SP
+
+
+Matchday 22
+[Sun Jul/31]
+  16.00  Vasco da Gama RJ         0-0  Chapecoense
+[Tue Aug/2]
+  21.30  Sport Recife PE          1-1 (0-1)  Criciúma SC
+[Thu Aug/4]
+  19.00  Brusque SC               1-1 (1-0)  Sampaio Corrêa MA
+  21.30  CR Brasil AL             1-1 (1-1)  Ponte Preta
+[Fri Aug/5]
+  19.00  Vila Nova GO             1-1 (0-0)  Ituano SP
+  21.30  Guarani SP               1-2 (0-1)  Grêmio Porto Alegre
+  19.00  Operário Ferroviário PR  1-0 (0-0)  Náutico PE
+[Sat Aug/6]
+  19.00  Cruzeiro                 2-0 (0-0)  Tombense MG
+         Grêmio Novorizontino SP  0-1 (0-0)  Londrina PR
+  16.30  Bahia BA                 1-0 (1-0)  CSA AL
+
+
+Matchday 23
+[Tue Aug/9]
+  19.00  Grêmio Porto Alegre      5-1 (1-0)  Operário Ferroviário PR
+         Ituano SP                4-1 (2-1)  Sport Recife PE
+  20.30  CSA AL                   1-0 (0-0)  Brusque SC
+         Ponte Preta              3-1 (1-1)  Vasco da Gama RJ
+  21.00  Londrina PR              1-2 (0-0)  Cruzeiro
+  21.30  Sampaio Corrêa MA        2-0 (1-0)  Bahia BA
+         Tombense MG              0-0  Vila Nova GO
+[Wed Aug/10]
+  19.00  Náutico PE               2-1 (2-0)  CR Brasil AL
+  21.30  Criciúma SC              0-0  Guarani SP
+  19.00  Chapecoense              2-2 (1-1)  Grêmio Novorizontino SP
+
+
+Matchday 24
+[Fri Aug/12]
+  21.30  Bahia BA                 2-0 (0-0)  Ituano SP
+         Brusque SC               2-1 (1-0)  Ponte Preta
+  19.00  Vila Nova GO             0-0  Londrina PR
+[Sat Aug/13]
+  11.00  Operário Ferroviário PR  1-1 (0-0)  Sampaio Corrêa MA
+         Vasco da Gama RJ         3-1 (2-0)  Tombense MG
+  16.00  Sport Recife PE          4-0 (3-0)  CSA AL
+  16.30  Cruzeiro                 1-1 (0-1)  Chapecoense
+  18.30  Guarani SP               1-0 (0-0)  Náutico PE
+  20.30  CR Brasil AL             2-0 (2-0)  Grêmio Porto Alegre
+[Sun Aug/14]
+  11.00  Grêmio Novorizontino SP  3-1 (1-1)  Criciúma SC
+
+
+Matchday 25
+[Tue Aug/16]
+  20.30  Londrina PR              1-1 (0-1)  Bahia BA
+[Wed Aug/17]
+  19.00  Criciúma SC              2-0 (1-0)  Operário Ferroviário PR
+[Thu Aug/18]
+  21.30  Tombense MG              1-0 (1-0)  Sport Recife PE
+  20.00  CSA AL                   2-0 (2-0)  Vasco da Gama RJ
+[Fri Aug/19]
+  19.00  Ituano SP                1-0 (1-0)  Grêmio Novorizontino SP
+  21.30  Náutico PE               1-2 (1-0)  Vila Nova GO
+[Sat Aug/20]
+  16.30  Chapecoense              1-0 (0-0)  Brusque SC
+  19.00  Sampaio Corrêa MA        1-2 (1-1)  CR Brasil AL
+  11.00  Ponte Preta              1-0 (0-0)  Guarani SP
+[Sun Aug/21]
+  16.00  Grêmio Porto Alegre      2-2 (1-1)  Cruzeiro
+
+
+Matchday 26
+[Tue Aug/23]
+  21.30  Sport Recife PE          1-0 (0-0)  Chapecoense
+[Thu Aug/25]
+  21.30  Grêmio Novorizontino SP  1-1 (1-0)  Ponte Preta
+  19.00  Vila Nova GO             0-0  Sampaio Corrêa MA
+[Fri Aug/26]
+  19.00  Grêmio Porto Alegre      0-1 (0-0)  Ituano SP
+  21.30  Cruzeiro                 4-0 (1-0)  Náutico PE
+  19.00  Brusque SC               0-1 (0-1)  Londrina PR
+[Sat Aug/27]
+  11.00  Guarani SP               2-1 (1-0)  Tombense MG
+  16.00  CR Brasil AL             0-0  Criciúma SC
+  18.30  Operário Ferroviário PR  0-0  CSA AL
+[Sun Aug/28]
+  16.00  Bahia BA                 2-1 (2-1)  Vasco da Gama RJ
+
+
+Matchday 27
+[Mon Aug/29]
+  20.00  Chapecoense              1-2 (1-1)  Vila Nova GO
+[Tue Aug/30]
+  19.00  Londrina PR              1-0 (0-0)  CR Brasil AL
+         Sampaio Corrêa MA        1-1 (1-1)  Cruzeiro
+  20.30  Ituano SP                0-0  Operário Ferroviário PR
+         Sport Recife PE          1-0 (0-0)  Grêmio Novorizontino SP
+  21.30  Criciúma SC              2-0 (1-0)  Grêmio Porto Alegre
+         CSA AL                   2-0 (0-0)  Náutico PE
+         Tombense MG              1-0 (1-0)  Brusque SC
+[Wed Aug/31]
+  21.30  Ponte Preta              2-0 (1-0)  Bahia BA
+  19.00  Vasco da Gama RJ         2-1 (1-0)  Guarani SP
+
+
+Matchday 28
+[Fri Sep/2]
+  21.30  Grêmio Porto Alegre      2-1 (1-0)  Vila Nova GO
+  19.00  Náutico PE               2-0 (0-0)  Ituano SP
+[Sat Sep/3]
+  11.00  Grêmio Novorizontino SP  1-1 (0-1)  CSA AL
+  16.30  Brusque SC               1-0 (1-0)  Vasco da Gama RJ
+         Guarani SP               3-0 (1-0)  Sampaio Corrêa MA
+  17.00  CR Brasil AL             2-0 (1-0)  Sport Recife PE
+  19.00  Bahia BA                 3-1 (0-1)  Tombense MG
+         Chapecoense              3-0 (1-0)  Ponte Preta
+  20.30  Operário Ferroviário PR  1-0 (0-0)  Londrina PR
+[Sun Sep/4]
+  16.00  Cruzeiro                 1-1 (0-1)  Criciúma SC
+
+
+Matchday 29
+[Tue Sep/6]
+  21.30  Vila Nova GO             2-1 (0-1)  Guarani SP
+[Wed Sep/7]
+  21.30  Sampaio Corrêa MA        2-1 (0-0)  Grêmio Novorizontino SP
+  19.00  Ponte Preta              1-0 (1-0)  Sport Recife PE
+[Thu Sep/8]
+  21.30  Cruzeiro                 1-0 (1-0)  Operário Ferroviário PR
+  19.00  Criciúma SC              0-0  Bahia BA
+[Fri Sep/9]
+  21.30  Náutico PE               1-0 (0-0)  Brusque SC
+[Sat Sep/10]
+  16.00  CSA AL                   1-1 (0-1)  CR Brasil AL
+  18.30  Londrina PR              2-1 (1-0)  Chapecoense
+  11.00  Ituano SP                3-0 (0-0)  Tombense MG
+[Sun Sep/11]
+  16.00  Grêmio Porto Alegre      2-1 (2-1)  Vasco da Gama RJ
+
+
+Matchday 30
+[Mon Sep/12]
+  20.00  Sport Recife PE          1-0 (0-0)  Bahia BA
+[Tue Sep/13]
+  19.00  Operário Ferroviário PR  0-1 (0-1)  Guarani SP
+  21.30  Ponte Preta              1-1 (1-1)  Ituano SP
+[Fri Sep/16]
+  21.30  Grêmio Novorizontino SP  2-0 (2-0)  Grêmio Porto Alegre
+         Tombense MG              1-1 (0-1)  Londrina PR
+  19.00  Vasco da Gama RJ         4-1 (2-0)  Náutico PE
+[Sat Sep/17]
+  11.00  Chapecoense              1-0 (0-0)  CSA AL
+  16.30  Brusque SC               0-1 (0-1)  Vila Nova GO
+  19.00  Sampaio Corrêa MA        1-1 (1-0)  Criciúma SC
+  20.30  CR Brasil AL             0-2 (0-0)  Cruzeiro
+
+
+Matchday 31
+[Tue Sep/20]
+  21.30  Guarani SP               2-0 (2-0)  Grêmio Novorizontino SP
+  19.00  Grêmio Porto Alegre      3-0 (0-0)  Sport Recife PE
+[Wed Sep/21]
+  21.00  Cruzeiro                 3-0 (1-0)  Vasco da Gama RJ
+[Thu Sep/22]
+  21.30  Vila Nova GO             1-0 (0-0)  CR Brasil AL
+[Fri Sep/23]
+  19.00  Náutico PE               1-3 (1-1)  Sampaio Corrêa MA
+  21.30  Londrina PR              0-2 (0-0)  Ponte Preta
+[Sat Sep/24]
+  18.15  Bahia BA                 2-2 (1-2)  Operário Ferroviário PR
+  11.00  Ituano SP                2-0 (1-0)  Brusque SC
+[Sun Sep/25]
+  18.30  Criciúma SC              2-0 (1-0)  Chapecoense
+[Mon Sep/26]
+  20.00  CSA AL                   2-0 (2-0)  Tombense MG
+
+
+Matchday 32
+[Wed Sep/28]
+  21.45  Sport Recife PE          2-1 (1-1)  Náutico PE
+  19.00  Ponte Preta              1-4 (1-1)  Cruzeiro
+[Thu Sep/29]
+  21.30  Vasco da Gama RJ         1-1 (1-1)  Londrina PR
+  19.00  Tombense MG              2-0 (1-0)  Grêmio Novorizontino SP
+[Fri Sep/30]
+  19.00  CSA AL                   1-2 (1-1)  Guarani SP
+         Operário Ferroviário PR  1-1 (1-1)  Vila Nova GO
+         Sampaio Corrêa MA        2-1 (1-0)  Grêmio Porto Alegre
+  21.30  Chapecoense              3-1 (0-1)  Bahia BA
+[Sat Oct/1]
+  18.30  Ituano SP                1-0 (0-0)  CR Brasil AL
+  11.00  Brusque SC               0-2 (0-0)  Criciúma SC
+
+
+Matchday 33
+[Mon Oct/3]
+  20.00  Guarani SP               1-0 (0-0)  Londrina PR
+         Sampaio Corrêa MA        2-1 (1-0)  Ponte Preta
+[Tue Oct/4]
+  19.00  Brusque SC               0-1 (0-0)  Sport Recife PE
+         CR Brasil AL             2-1 (1-0)  Chapecoense
+         Grêmio Porto Alegre      2-0 (2-0)  CSA AL
+         Operário Ferroviário PR  2-3 (1-0)  Vasco da Gama RJ
+         Vila Nova GO             1-0 (0-0)  Criciúma SC
+  21.30  Náutico PE               4-3 (3-1)  Tombense MG
+         Grêmio Novorizontino SP  1-1 (1-1)  Bahia BA
+[Wed Oct/5]
+  21.30  Cruzeiro                 1-1 (1-1)  Ituano SP
+
+
+Matchday 34
+[Fri Oct/7]
+  21.30  CSA AL                   0-0  Sampaio Corrêa MA
+  19.00  Criciúma SC              2-1 (1-1)  Náutico PE
+[Sat Oct/8]
+  11.00  Chapecoense              1-1 (1-1)  Operário Ferroviário PR
+  16.00  Bahia BA                 1-0 (1-0)  Brusque SC
+  16.30  Londrina PR              1-1 (0-1)  Grêmio Porto Alegre
+  18.30  Ituano SP                2-1 (1-0)  Guarani SP
+         Tombense MG              1-2 (0-0)  CR Brasil AL
+         Vasco da Gama RJ         3-0 (1-0)  Grêmio Novorizontino SP
+  19.00  Ponte Preta              1-1 (0-0)  Vila Nova GO
+[Sun Oct/9]
+  16.00  Sport Recife PE          3-1 (2-0)  Cruzeiro
+
+
+Matchday 35
+[Tue Oct/11]
+  21.30  Sampaio Corrêa MA        2-1 (1-1)  Chapecoense
+  19.00  Guarani SP               1-0 (0-0)  CR Brasil AL
+[Thu Oct/13]
+  21.30  Operário Ferroviário PR  0-0  Brusque SC
+[Fri Oct/14]
+  19.00  CSA AL                   0-1 (0-0)  Londrina PR
+  20.30  Vila Nova GO             1-0 (0-0)  Cruzeiro
+  21.30  Grêmio Novorizontino SP  6-0 (2-0)  Náutico PE
+[Sat Oct/15]
+  19.00  Criciúma SC              3-0 (1-0)  Ituano SP
+  16.30  Tombense MG              0-0  Ponte Preta
+[Sun Oct/16]
+  16.00  Grêmio Porto Alegre      1-1 (0-1)  Bahia BA
+         Sport Recife PE          1-1 (0-0)  Vasco da Gama RJ
+
+
+Matchday 36
+[Tue Oct/18]
+  21.30  Cruzeiro                 0-1 (0-0)  Guarani SP
+  19.00  Brusque SC               2-2 (1-1)  Grêmio Novorizontino SP
+[Thu Oct/20]
+  21.30  Ponte Preta              0-2 (0-2)  CSA AL
+[Fri Oct/21]
+  19.15  Chapecoense              3-2 (1-2)  Tombense MG
+  21.30  CR Brasil AL             2-1 (1-1)  Operário Ferroviário PR
+[Sat Oct/22]
+  16.30  Ituano SP                1-0 (0-0)  Sampaio Corrêa MA
+         Londrina PR              2-1 (0-1)  Sport Recife PE
+         Vasco da Gama RJ         2-1 (0-1)  Criciúma SC
+         Bahia BA                 1-1 (0-0)  Vila Nova GO
+[Sun Oct/23]
+  16.00  Náutico PE               0-3 (0-1)  Grêmio Porto Alegre
+
+
+Matchday 37
+[Tue Oct/25]
+  21.30  CSA AL                   1-0 (1-0)  Vila Nova GO
+  19.00  Brusque SC               0-0  CR Brasil AL
+[Thu Oct/27]
+  21.45  Vasco da Gama RJ         2-3 (1-1)  Sampaio Corrêa MA
+  19.00  Grêmio Novorizontino SP  1-4 (1-2)  Cruzeiro
+[Fri Oct/28]
+  19.00  Bahia BA                 1-1 (1-0)  Guarani SP
+         Londrina PR              0-2 (0-1)  Ituano SP
+         Sport Recife PE          5-1 (3-0)  Operário Ferroviário PR
+         Tombense MG              2-2 (1-2)  Grêmio Porto Alegre
+  21.30  Ponte Preta              1-1 (1-1)  Criciúma SC
+[Sat Oct/29]
+  19.00  Chapecoense              1-0 (1-0)  Náutico PE
+
+
+Matchday 38
+[Thu Nov/3]
+  20.00  Grêmio Porto Alegre      3-0 (2-0)  Brusque SC
+[Fri Nov/4]
+  21.30  Náutico PE               0-1 (0-0)  Ponte Preta
+[Sat Nov/5]
+  18.00  Sampaio Corrêa MA        2-1 (0-1)  Londrina PR
+  16.00  Criciúma SC              2-0 (1-0)  Tombense MG
+[Sun Nov/6]
+  16.00  Guarani SP               1-0 (0-0)  Chapecoense
+  18.30  CR Brasil AL             1-2 (0-1)  Bahia BA
+         Cruzeiro                 3-2 (1-1)  CSA AL
+         Ituano SP                0-1 (0-1)  Vasco da Gama RJ
+         Operário Ferroviário PR  0-3 (0-2)  Grêmio Novorizontino SP
+         Vila Nova GO             0-0  Sport Recife PE

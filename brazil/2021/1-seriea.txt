@@ -1,683 +1,696 @@
 = Brasileiro Série A 2021
 
+# Date       Sat May/29 - Thu Dec/9 2021 (194d)
+# Teams      20
+# Matches    380
+
+
 
 Matchday 1
 [Sat May/29]
-  19.00  Cuiabá                   2-2 (1-2)  Esporte Clube Juventude
-  20.00  EC Bahia                 3-0 (0-0)  Santos SP
-  21.00  São Paulo FC             0-0  Fluminense RJ
+  19.00  Cuiabá EC                2-2 (1-2)  EC Juventude
+  20.00  EC Bahia                 3-0 (0-0)  Santos FC
+  21.00  São Paulo FC             0-0  Fluminense FC
 [Sun May/30]
-  11.00  Atlético MG              1-2 (1-0)  Fortaleza EC
-  16.00  Ceára SC                 3-2 (2-1)  Grêmio RS
-         Flamengo RJ              1-0 (0-0)  Palmeiras SP
-  18.15  Atlético PR              1-0 (0-0)  América MG
-         Chapecoense              0-3 (0-2)  RB Bragantino
-         Corinthians SP           0-1 (0-1)  Atlético GO
-  20.30  Internacional Porto Alegre  2-2 (2-0)  Sport Recife
+  11.00  CA Mineiro               1-2 (1-0)  Fortaleza EC
+  16.00  Ceará SC                 3-2 (2-1)  Grêmio FBPA
+         CR Flamengo              1-0 (0-0)  SE Palmeiras
+  18.15  SC Corinthians Paulista  0-1 (0-1)  AC Goianiense
+         CA Paranaense            1-0 (0-0)  América Mineiro
+         Chapecoense AF           0-3 (0-2)  RB Bragantino
+  20.30  SC Internacional         2-2 (2-0)  SC Recife
 
 
 Matchday 2
 [Sat Jun/5]
-  19.00  Atlético GO              2-0 (1-0)  São Paulo FC
-  21.00  RB Bragantino            3-3 (1-2)  EC Bahia
-         Santos SP                3-1 (1-1)  Ceára SC
+  19.00  AC Goianiense            2-0 (1-0)  São Paulo FC
+  21.00  Santos FC                3-1 (1-1)  Ceará SC
+         RB Bragantino            3-3 (1-2)  EC Bahia
 [Sun Jun/6]
-  11.00  Fluminense RJ            1-0 (1-0)  Cuiabá
-  16.00  Fortaleza EC             5-1 (2-0)  Internacional Porto Alegre
-         América MG               0-1 (0-1)  Corinthians SP
-  18.15  Esporte Clube Juventude  0-3 (0-0)  Atlético PR
-         Palmeiras SP             3-1 (3-0)  Chapecoense
-  20.30  Sport Recife             0-1 (0-1)  Atlético MG
+  11.00  Fluminense FC            1-0 (1-0)  Cuiabá EC
+  16.00  América Mineiro          0-1 (0-1)  SC Corinthians Paulista
+         Fortaleza EC             5-1 (2-0)  SC Internacional
+  18.15  EC Juventude             0-3 (0-0)  CA Paranaense
+         SE Palmeiras             3-1 (3-0)  Chapecoense AF
+  20.30  SC Recife                0-1 (0-1)  CA Mineiro
 
 
 Matchday 3
 [Sat Jun/12]
-  19.00  Palmeiras SP             1-1 (1-0)  Corinthians SP
-         Santos SP                0-0  Esporte Clube Juventude
+  19.00  Santos FC                0-0  EC Juventude
+         SE Palmeiras             1-1 (1-0)  SC Corinthians Paulista
 [Sun Jun/13]
-  16.00  Atlético MG              1-0 (1-0)  São Paulo FC
-         Grêmio RS                0-1 (0-1)  Atlético PR
-         Flamengo RJ              2-0 (1-0)  América MG
-  20.30  EC Bahia                 0-1 (0-1)  Internacional Porto Alegre
-         RB Bragantino            2-2 (2-0)  Fluminense RJ
-         Chapecoense              0-0  Ceára SC
-         Fortaleza EC             1-0 (0-0)  Sport Recife
+  16.00  CA Mineiro               1-0 (1-0)  São Paulo FC
+         Grêmio FBPA              0-1 (0-1)  CA Paranaense
+         CR Flamengo              2-0 (1-0)  América Mineiro
+  20.30  Fortaleza EC             1-0 (0-0)  SC Recife
+         EC Bahia                 0-1 (0-1)  SC Internacional
+         RB Bragantino            2-2 (2-0)  Fluminense FC
+         Chapecoense AF           0-0  Ceará SC
 
 
 Matchday 4
 [Wed Jun/16]
-  19.00  Internacional Porto Alegre  0-1 (0-1)  Atlético MG
-         São Paulo FC             1-1 (1-0)  Chapecoense
-  20.30  Corinthians SP           1-2 (1-0)  RB Bragantino
-  21.30  Esporte Clube Juventude  0-3 (0-0)  Palmeiras SP
+  19.00  SC Internacional         0-1 (0-1)  CA Mineiro
+         São Paulo FC             1-1 (1-0)  Chapecoense AF
+  20.30  SC Corinthians Paulista  1-2 (1-0)  RB Bragantino
+  21.30  EC Juventude             0-3 (0-0)  SE Palmeiras
 [Thu Jun/17]
-  16.00  América MG               0-0  Cuiabá
-         Ceára SC                 1-2 (1-2)  EC Bahia
-  19.00  Fluminense RJ            1-0 (0-0)  Santos SP
-         Atlético GO              0-0  Fortaleza EC
-         Sport Recife             1-0 (1-0)  Grêmio RS
+  16.00  Ceará SC                 1-2 (1-2)  EC Bahia
+         América Mineiro          0-0  Cuiabá EC
+  19.00  Fluminense FC            1-0 (0-0)  Santos FC
+         AC Goianiense            0-0  Fortaleza EC
+         SC Recife                1-0 (1-0)  Grêmio FBPA
 
 
 Matchday 5
 [Sat Jun/19]
-  21.00  Flamengo RJ              2-3 (1-1)  RB Bragantino
+  21.00  CR Flamengo              2-3 (1-1)  RB Bragantino
 [Sun Jun/20]
-  11.00  Palmeiras SP             2-1 (1-1)  América MG
-  16.00  Internacional Porto Alegre  1-1 (1-1)  Ceára SC
-         EC Bahia                 0-0  Corinthians SP
-  18.15  Santos SP                2-0 (2-0)  São Paulo FC
-         Fortaleza EC             1-1 (0-0)  Fluminense RJ
-         Atlético PR              2-1 (1-1)  Atlético GO
-  20.30  Esporte Clube Juventude  1-0 (0-0)  Sport Recife
+  11.00  SE Palmeiras             2-1 (1-1)  América Mineiro
+  16.00  EC Bahia                 0-0  SC Corinthians Paulista
+         SC Internacional         1-1 (1-1)  Ceará SC
+  18.15  Santos FC                2-0 (2-0)  São Paulo FC
+         Fortaleza EC             1-1 (0-0)  Fluminense FC
+         CA Paranaense            2-1 (1-1)  AC Goianiense
+  20.30  EC Juventude             1-0 (0-0)  SC Recife
 [Mon Jun/21]
-  20.00  Atlético MG              1-1 (1-0)  Chapecoense
+  20.00  CA Mineiro               1-1 (1-0)  Chapecoense AF
 
 
 Matchday 6
 [Wed Jun/23]
-  19.00  RB Bragantino            3-1 (2-0)  Palmeiras SP
-         Atlético GO              1-0 (0-0)  Fluminense RJ
-         Flamengo RJ              2-1 (2-0)  Fortaleza EC
-         São Paulo FC             2-2 (2-2)  Cuiabá
+  19.00  RB Bragantino            3-1 (2-0)  SE Palmeiras
+         AC Goianiense            1-0 (0-0)  Fluminense FC
+         CR Flamengo              2-1 (2-0)  Fortaleza EC
+         São Paulo FC             2-2 (2-2)  Cuiabá EC
 [Thu Jun/24]
-  16.00  América MG               1-1 (0-1)  Esporte Clube Juventude
-  19.00  Ceára SC                 2-1 (1-0)  Atlético MG
-         Corinthians SP           2-1 (1-0)  Sport Recife
-         Chapecoense              1-2 (0-2)  Internacional Porto Alegre
-  21.30  EC Bahia                 2-1 (1-1)  Atlético PR
-         Grêmio RS                2-2 (2-1)  Santos SP
+  16.00  América Mineiro          1-1 (0-1)  EC Juventude
+  19.00  Chapecoense AF           1-2 (0-2)  SC Internacional
+         Ceará SC                 2-1 (1-0)  CA Mineiro
+         SC Corinthians Paulista  2-1 (1-0)  SC Recife
+  21.30  Grêmio FBPA              2-2 (2-1)  Santos FC
+         EC Bahia                 2-1 (1-1)  CA Paranaense
 
 
 Matchday 7
 [Sun Jun/27]
-  11.00  Esporte Clube Juventude  1-0 (1-0)  Flamengo RJ
-  16.00  Fluminense RJ            1-1 (0-1)  Corinthians SP
-  20.00  Atlético PR              2-2 (1-1)  Chapecoense
-         Palmeiras SP             3-2 (1-1)  EC Bahia
-         Grêmio RS                0-0  Fortaleza EC
-  20.30  Ceára SC                 1-1 (1-0)  São Paulo FC
-         Santos SP                2-0 (0-0)  Atlético MG
-         América MG               1-1 (1-0)  Internacional Porto Alegre
-         Sport Recife             0-0  Cuiabá
+  11.00  EC Juventude             1-0 (1-0)  CR Flamengo
+  16.00  Fluminense FC            1-1 (0-1)  SC Corinthians Paulista
+  20.00  CA Paranaense            2-2 (1-1)  Chapecoense AF
+         SE Palmeiras             3-2 (1-1)  EC Bahia
+         Grêmio FBPA              0-0  Fortaleza EC
+  20.30  SC Recife                0-0  Cuiabá EC
+         Ceará SC                 1-1 (1-0)  São Paulo FC
+         Santos FC                2-0 (0-0)  CA Mineiro
+         América Mineiro          1-1 (1-0)  SC Internacional
 [Mon Jun/28]
-  20.00  Atlético GO              0-1 (0-0)  RB Bragantino
+  20.00  AC Goianiense            0-1 (0-0)  RB Bragantino
 
 
 Matchday 8
 [Wed Jun/30]
-  16.00  Fluminense RJ            1-4 (1-1)  Atlético PR
-         Fortaleza EC             3-2 (0-1)  Chapecoense
-  19.00  Internacional Porto Alegre  1-2 (0-1)  Palmeiras SP
-         EC Bahia                 3-4 (1-2)  América MG
-  20.30  Santos SP                0-0  Sport Recife
-  21.30  Esporte Clube Juventude  2-0 (1-0)  Grêmio RS
-         Corinthians SP           0-0  São Paulo FC
+  16.00  Fluminense FC            1-4 (1-1)  CA Paranaense
+         Fortaleza EC             3-2 (0-1)  Chapecoense AF
+  19.00  EC Bahia                 3-4 (1-2)  América Mineiro
+         SC Internacional         1-2 (0-1)  SE Palmeiras
+  20.30  Santos FC                0-0  SC Recife
+  21.30  EC Juventude             2-0 (1-0)  Grêmio FBPA
+         SC Corinthians Paulista  0-0  São Paulo FC
 [Thu Jul/1]
-  16.00  RB Bragantino            0-0  Ceára SC
-  19.00  Atlético MG              4-1 (3-1)  Atlético GO
-  20.00  Cuiabá                   0-2 (0-1)  Flamengo RJ
+  16.00  RB Bragantino            0-0  Ceará SC
+  19.00  CA Mineiro               4-1 (3-1)  AC Goianiense
+  20.00  Cuiabá EC                0-2 (0-1)  CR Flamengo
 
 
 Matchday 9
 [Sat Jul/3]
-  19.00  Atlético PR              2-1 (2-0)  Fortaleza EC
-         América MG               2-0 (0-0)  Santos SP
-  21.00  Corinthians SP           1-1 (0-1)  Internacional Porto Alegre
+  19.00  CA Paranaense            2-1 (2-0)  Fortaleza EC
+         América Mineiro          2-0 (0-0)  Santos FC
+  21.00  SC Corinthians Paulista  1-1 (0-1)  SC Internacional
 [Sun Jul/4]
-  11.00  Chapecoense              0-2 (0-0)  EC Bahia
-  16.00  Sport Recife             0-1 (0-1)  Palmeiras SP
-         Flamengo RJ              0-1 (0-0)  Fluminense RJ
-  18.15  Cuiabá                   0-1 (0-1)  Atlético MG
+  11.00  Chapecoense AF           0-2 (0-0)  EC Bahia
+  16.00  CR Flamengo              0-1 (0-0)  Fluminense FC
+         SC Recife                0-1 (0-1)  SE Palmeiras
+  18.15  Cuiabá EC                0-1 (0-1)  CA Mineiro
          São Paulo FC             1-2 (1-0)  RB Bragantino
-         Ceára SC                 2-0 (0-0)  Esporte Clube Juventude
-  20.30  Grêmio RS                0-1 (0-0)  Atlético GO
+         Ceará SC                 2-0 (0-0)  EC Juventude
+  20.30  Grêmio FBPA              0-1 (0-0)  AC Goianiense
 
 
 Matchday 10
 [Tue Jul/6]
-  19.30  Santos SP                2-1 (1-1)  Atlético PR
+  19.30  Santos FC                2-1 (1-1)  CA Paranaense
 [Wed Jul/7]
-  18.00  EC Bahia                 1-0 (0-0)  Esporte Clube Juventude
-         Fortaleza EC             4-0 (1-0)  América MG
-         RB Bragantino            1-1 (1-0)  Cuiabá
-  19.00  Atlético MG              2-1 (0-0)  Flamengo RJ
-         Palmeiras SP             2-0 (2-0)  Grêmio RS
-  19.15  Atlético GO              1-1 (0-0)  Sport Recife
-  21.30  Fluminense RJ            0-0  Ceára SC
-         Internacional Porto Alegre  0-2 (0-1)  São Paulo FC
+  18.00  RB Bragantino            1-1 (1-0)  Cuiabá EC
+         EC Bahia                 1-0 (0-0)  EC Juventude
+         Fortaleza EC             4-0 (1-0)  América Mineiro
+  19.00  CA Mineiro               2-1 (0-0)  CR Flamengo
+         SE Palmeiras             2-0 (2-0)  Grêmio FBPA
+  19.15  AC Goianiense            1-1 (0-0)  SC Recife
+  21.30  SC Internacional         0-2 (0-1)  São Paulo FC
+         Fluminense FC            0-0  Ceará SC
 [Thu Jul/8]
-  21.00  Chapecoense              0-1 (0-0)  Corinthians SP
+  21.00  Chapecoense AF           0-1 (0-0)  SC Corinthians Paulista
 
 
 Matchday 11
 [Sat Jul/10]
-  16.30  Palmeiras SP             3-2 (2-0)  Santos SP
-         Grêmio RS                0-0  Internacional Porto Alegre
-  17.30  Atlético PR              2-2 (1-1)  RB Bragantino
+  16.30  Grêmio FBPA              0-0  SC Internacional
+         SE Palmeiras             3-2 (2-0)  Santos FC
+  17.30  CA Paranaense            2-2 (1-1)  RB Bragantino
   19.00  São Paulo FC             1-0 (0-0)  EC Bahia
-         América MG               0-1 (0-0)  Atlético MG
-         Sport Recife             1-2 (1-0)  Fluminense RJ
+         América Mineiro          0-1 (0-0)  CA Mineiro
+         SC Recife                1-2 (1-0)  Fluminense FC
 [Sun Jul/11]
-  11.00  Esporte Clube Juventude  1-1 (0-0)  Atlético GO
-  18.15  Flamengo RJ              2-1 (0-0)  Chapecoense
-         Cuiabá                   2-2 (1-0)  Ceára SC
-  20.30  Fortaleza EC             1-0 (1-0)  Corinthians SP
+  11.00  EC Juventude             1-1 (0-0)  AC Goianiense
+  18.15  Cuiabá EC                2-2 (1-0)  Ceará SC
+         CR Flamengo              2-1 (0-0)  Chapecoense AF
+  20.30  Fortaleza EC             1-0 (1-0)  SC Corinthians Paulista
 
 
 Matchday 12
 [Sat Jul/17]
-  17.00  Ceára SC                 1-0 (0-0)  Atlético PR
+  17.00  Ceará SC                 1-0 (0-0)  CA Paranaense
          São Paulo FC             0-1 (0-0)  Fortaleza EC
-  19.00  Corinthians SP           1-2 (1-0)  Atlético MG
-  21.00  Fluminense RJ            0-1 (0-0)  Grêmio RS
+  19.00  SC Corinthians Paulista  1-2 (1-0)  CA Mineiro
+  21.00  Fluminense FC            0-1 (0-0)  Grêmio FBPA
 [Sun Jul/18]
-  11.00  Chapecoense              2-3 (2-2)  Cuiabá
-  16.00  Atlético GO              0-3 (0-0)  Palmeiras SP
-  18.15  EC Bahia                 0-5 (0-2)  Flamengo RJ
-  20.30  RB Bragantino            2-2 (1-0)  Santos SP
-         Internacional Porto Alegre  1-0 (0-0)  Esporte Clube Juventude
+  11.00  Chapecoense AF           2-3 (2-2)  Cuiabá EC
+  16.00  AC Goianiense            0-3 (0-0)  SE Palmeiras
+  18.15  EC Bahia                 0-5 (0-2)  CR Flamengo
+  20.30  RB Bragantino            2-2 (1-0)  Santos FC
+         SC Internacional         1-0 (0-0)  EC Juventude
 [Mon Jul/19]
-  20.00  América MG               0-1 (0-0)  Sport Recife
+  20.00  América Mineiro          0-1 (0-0)  SC Recife
 
 
 Matchday 3
 [Wed Jul/21]
-  19.00  Cuiabá                   2-1 (1-0)  Atlético GO
+  19.00  Cuiabá EC                2-1 (1-0)  AC Goianiense
 
 
 Matchday 13
 [Sat Jul/24]
-  17.00  Grêmio RS                1-1 (1-1)  América MG
-  19.00  Palmeiras SP             1-0 (0-0)  Fluminense RJ
+  17.00  Grêmio FBPA              1-1 (1-1)  América Mineiro
+  19.00  SE Palmeiras             1-0 (0-0)  Fluminense FC
 [Sun Jul/25]
-  11.00  Atlético MG              3-0 (0-0)  EC Bahia
-  16.00  Flamengo RJ              5-1 (0-0)  São Paulo FC
-         Fortaleza EC             1-0 (1-0)  RB Bragantino
-  18.15  Atlético PR              2-1 (2-0)  Internacional Porto Alegre
-         Santos SP                0-1 (0-1)  Atlético GO
-  20.30  Sport Recife             0-0  Ceára SC
+  11.00  CA Mineiro               3-0 (0-0)  EC Bahia
+  16.00  Fortaleza EC             1-0 (1-0)  RB Bragantino
+         CR Flamengo              5-1 (0-0)  São Paulo FC
+  18.15  Santos FC                0-1 (0-1)  AC Goianiense
+         CA Paranaense            2-1 (2-0)  SC Internacional
+  20.30  SC Recife                0-0  Ceará SC
 [Mon Jul/26]
-  18.00  Esporte Clube Juventude  1-0 (1-0)  Chapecoense
-  20.00  Cuiabá                   1-2 (0-2)  Corinthians SP
+  18.00  EC Juventude             1-0 (1-0)  Chapecoense AF
+  20.00  Cuiabá EC                1-2 (0-2)  SC Corinthians Paulista
 
 
 Matchday 14
 [Sat Jul/31]
-  19.00  São Paulo FC             0-0  Palmeiras SP
-  20.00  Internacional Porto Alegre  0-0  Cuiabá
-  21.00  RB Bragantino            1-0 (0-0)  Grêmio RS
+  19.00  São Paulo FC             0-0  SE Palmeiras
+  20.00  SC Internacional         0-0  Cuiabá EC
+  21.00  RB Bragantino            1-0 (0-0)  Grêmio FBPA
 [Sun Aug/1]
-  16.00  Atlético MG              2-0 (0-0)  Atlético PR
-         Corinthians SP           1-3 (0-3)  Flamengo RJ
-  18.15  EC Bahia                 0-1 (0-0)  Sport Recife
-         Chapecoense              0-1 (0-1)  Santos SP
-  20.30  Ceára SC                 3-1 (1-1)  Fortaleza EC
-         Atlético GO              1-1 (1-1)  América MG
+  16.00  CA Mineiro               2-0 (0-0)  CA Paranaense
+         SC Corinthians Paulista  1-3 (0-3)  CR Flamengo
+  18.15  Chapecoense AF           0-1 (0-1)  Santos FC
+         EC Bahia                 0-1 (0-0)  SC Recife
+  20.30  AC Goianiense            1-1 (1-1)  América Mineiro
+         Ceará SC                 3-1 (1-1)  Fortaleza EC
 
 
 Matchday 15
 [Fri Aug/6]
-  19.00  Sport Recife             0-0  RB Bragantino
+  19.00  SC Recife                0-0  RB Bragantino
 [Sat Aug/7]
-  18.00  Atlético PR              1-2 (1-2)  São Paulo FC
-  21.00  Palmeiras SP             2-3 (2-2)  Fortaleza EC
-         Cuiabá                   1-1 (1-1)  EC Bahia
+  18.00  CA Paranaense            1-2 (1-2)  São Paulo FC
+  21.00  Cuiabá EC                1-1 (1-1)  EC Bahia
+         SE Palmeiras             2-3 (2-2)  Fortaleza EC
 [Sun Aug/8]
-  16.00  América MG               1-0 (0-0)  Fluminense RJ
-         Santos SP                0-0  Corinthians SP
-         Esporte Clube Juventude  1-2 (1-0)  Atlético MG
-  18.15  Ceára SC                 0-0  Atlético GO
-         Flamengo RJ              0-4 (0-2)  Internacional Porto Alegre
+  16.00  EC Juventude             1-2 (1-0)  CA Mineiro
+         América Mineiro          1-0 (0-0)  Fluminense FC
+         Santos FC                0-0  SC Corinthians Paulista
+  18.15  Ceará SC                 0-0  AC Goianiense
+         CR Flamengo              0-4 (0-2)  SC Internacional
 [Mon Aug/9]
-  20.00  Grêmio RS                2-1 (2-1)  Chapecoense
+  20.00  Grêmio FBPA              2-1 (2-1)  Chapecoense AF
 
 
 Matchday 16
 [Sat Aug/14]
-  17.00  RB Bragantino            1-2 (1-0)  Esporte Clube Juventude
-  19.00  Atlético MG              2-0 (1-0)  Palmeiras SP
-  21.00  São Paulo FC             2-1 (1-1)  Grêmio RS
+  17.00  RB Bragantino            1-2 (1-0)  EC Juventude
+  19.00  CA Mineiro               2-0 (1-0)  SE Palmeiras
+  21.00  São Paulo FC             2-1 (1-1)  Grêmio FBPA
 [Sun Aug/15]
-  16.00  Flamengo RJ              2-0 (1-0)  Sport Recife
-         Corinthians SP           3-1 (2-0)  Ceára SC
-  18.15  EC Bahia                 1-2 (1-0)  Atlético GO
-         Cuiabá                   1-0 (0-0)  Atlético PR
-         Fortaleza EC             1-1 (1-1)  Santos SP
-  20.30  Internacional Porto Alegre  4-2 (1-1)  Fluminense RJ
+  16.00  CR Flamengo              2-0 (1-0)  SC Recife
+         SC Corinthians Paulista  3-1 (2-0)  Ceará SC
+  18.15  Fortaleza EC             1-1 (1-1)  Santos FC
+         EC Bahia                 1-2 (1-0)  AC Goianiense
+         Cuiabá EC                1-0 (0-0)  CA Paranaense
+  20.30  SC Internacional         4-2 (1-1)  Fluminense FC
 [Mon Aug/16]
-  20.00  Chapecoense              1-1 (0-0)  América MG
+  20.00  Chapecoense AF           1-1 (0-0)  América Mineiro
 
 
 Matchday 5
 [Wed Aug/18]
-  19.00  Cuiabá                   0-1 (0-1)  Grêmio RS
+  19.00  Cuiabá EC                0-1 (0-1)  Grêmio FBPA
 
 
 Matchday 17
 [Sat Aug/21]
-  17.00  Atlético GO              1-1 (0-1)  Chapecoense
-  19.00  Grêmio RS                2-0 (0-0)  EC Bahia
-  21.00  Esporte Clube Juventude  1-1 (0-1)  Fortaleza EC
+  17.00  AC Goianiense            1-1 (0-1)  Chapecoense AF
+  19.00  Grêmio FBPA              2-0 (0-0)  EC Bahia
+  21.00  EC Juventude             1-1 (0-1)  Fortaleza EC
 [Sun Aug/22]
-  11.00  Palmeiras SP             0-2 (0-1)  Cuiabá
-  16.00  Atlético PR              0-1 (0-0)  Corinthians SP
-         Ceára SC                 1-1 (1-0)  Flamengo RJ
-  18.15  Santos SP                2-2 (2-1)  Internacional Porto Alegre
-  20.30  Sport Recife             0-1 (0-1)  São Paulo FC
+  11.00  SE Palmeiras             0-2 (0-1)  Cuiabá EC
+  16.00  CA Paranaense            0-1 (0-0)  SC Corinthians Paulista
+         Ceará SC                 1-1 (1-0)  CR Flamengo
+  18.15  Santos FC                2-2 (2-1)  SC Internacional
+  20.30  SC Recife                0-1 (0-1)  São Paulo FC
 [Mon Aug/23]
-  20.00  América MG               0-2 (0-1)  RB Bragantino
-         Fluminense RJ            1-1 (1-0)  Atlético MG
+  20.00  Fluminense FC            1-1 (1-0)  CA Mineiro
+         América Mineiro          0-2 (0-1)  RB Bragantino
 
 
 Matchday 18
 [Sat Aug/28]
-  17.00  Sport Recife             0-0  Chapecoense
-  19.00  Santos SP                0-4 (0-0)  Flamengo RJ
-  21.00  Grêmio RS                0-1 (0-0)  Corinthians SP
-         Palmeiras SP             2-1 (1-0)  Atlético PR
+  17.00  SC Recife                0-0  Chapecoense AF
+  19.00  Santos FC                0-4 (0-0)  CR Flamengo
+  21.00  SE Palmeiras             2-1 (1-0)  CA Paranaense
+         Grêmio FBPA              0-1 (0-0)  SC Corinthians Paulista
 [Sun Aug/29]
-  11.00  América MG               2-0 (1-0)  Ceára SC
-  16.00  Esporte Clube Juventude  1-1 (0-0)  São Paulo FC
-  18.15  Atlético GO              0-0  Internacional Porto Alegre
-  20.30  RB Bragantino            1-1 (1-0)  Atlético MG
+  11.00  América Mineiro          2-0 (1-0)  Ceará SC
+  16.00  EC Juventude             1-1 (0-0)  São Paulo FC
+  18.15  AC Goianiense            0-0  SC Internacional
+  20.30  RB Bragantino            1-1 (1-0)  CA Mineiro
 [Mon Aug/30]
-  19.00  Fluminense RJ            2-0 (1-0)  EC Bahia
-  21.30  Fortaleza EC             0-0  Cuiabá
+  19.00  Fluminense FC            2-0 (1-0)  EC Bahia
+  21.30  Fortaleza EC             0-0  Cuiabá EC
 
 
 Matchday 14
 [Thu Sep/2]
-  19.00  Fluminense RJ            1-1 (0-0)  Esporte Clube Juventude
+  19.00  Fluminense FC            1-1 (0-0)  EC Juventude
 
 
 Matchday 19
 [Sat Sep/4]
-  21.00  Cuiabá                   2-1 (1-0)  Santos SP
+  21.00  Cuiabá EC                2-1 (1-0)  Santos FC
          EC Bahia                 4-2 (1-0)  Fortaleza EC
 [Sun Sep/5]
-  18.15  Atlético PR              0-0  Sport Recife
+  18.15  CA Paranaense            0-0  SC Recife
 [Tue Sep/7]
-  21.30  Corinthians SP           1-1 (0-1)  Esporte Clube Juventude
-         Chapecoense              1-2 (0-2)  Fluminense RJ
+  21.30  Chapecoense AF           1-2 (0-2)  Fluminense FC
+         SC Corinthians Paulista  1-1 (0-1)  EC Juventude
 
 
 Matchday 20
 [Sat Sep/11]
-  16.00  América MG               2-0 (0-0)  Atlético PR
-  17.00  Esporte Clube Juventude  1-2 (0-1)  Cuiabá
-  19.00  RB Bragantino            1-2 (1-0)  Chapecoense
-  21.00  Santos SP                0-0  EC Bahia
+  16.00  América Mineiro          2-0 (0-0)  CA Paranaense
+  17.00  EC Juventude             1-2 (0-1)  Cuiabá EC
+  19.00  RB Bragantino            1-2 (1-0)  Chapecoense AF
+  21.00  Santos FC                0-0  EC Bahia
 [Sun Sep/12]
-  11.00  Grêmio RS                2-0 (2-0)  Ceára SC
-  16.00  Palmeiras SP             1-3 (1-1)  Flamengo RJ
-         Fortaleza EC             0-2 (0-0)  Atlético MG
-  18.15  Atlético GO              1-1 (0-0)  Corinthians SP
-  20.30  Fluminense RJ            2-1 (0-0)  São Paulo FC
+  11.00  Grêmio FBPA              2-0 (2-0)  Ceará SC
+  16.00  Fortaleza EC             0-2 (0-0)  CA Mineiro
+         SE Palmeiras             1-3 (1-1)  CR Flamengo
+  18.15  AC Goianiense            1-1 (0-0)  SC Corinthians Paulista
+  20.30  Fluminense FC            2-1 (0-0)  São Paulo FC
 [Mon Sep/13]
-  20.00  Sport Recife             0-1 (0-1)  Internacional Porto Alegre
+  20.00  SC Recife                0-1 (0-1)  SC Internacional
 
 
 Matchday 21
 [Sat Sep/18]
-  17.00  Chapecoense              0-2 (0-2)  Palmeiras SP
-  18.45  Atlético PR              2-1 (0-0)  Esporte Clube Juventude
-  19.00  Atlético MG              3-0 (2-0)  Sport Recife
-  21.00  Ceára SC                 0-0  Santos SP
+  17.00  Chapecoense AF           0-2 (0-2)  SE Palmeiras
+  18.45  CA Paranaense            2-1 (0-0)  EC Juventude
+  19.00  CA Mineiro               3-0 (2-0)  SC Recife
+  21.00  Ceará SC                 0-0  Santos FC
          EC Bahia                 1-1 (0-0)  RB Bragantino
 [Sun Sep/19]
-  11.00  Internacional Porto Alegre  1-0 (0-0)  Fortaleza EC
-  16.00  São Paulo FC             2-1 (1-0)  Atlético GO
-  18.15  Corinthians SP           1-1 (1-1)  América MG
-  20.30  Flamengo RJ              0-1 (0-1)  Grêmio RS
+  11.00  SC Internacional         1-0 (0-0)  Fortaleza EC
+  16.00  São Paulo FC             2-1 (1-0)  AC Goianiense
+  18.15  SC Corinthians Paulista  1-1 (1-1)  América Mineiro
+  20.30  CR Flamengo              0-1 (0-1)  Grêmio FBPA
 [Mon Sep/20]
-  20.00  Cuiabá                   2-2 (1-2)  Fluminense RJ
+  20.00  Cuiabá EC                2-2 (1-2)  Fluminense FC
 
 
 Matchday 19
 [Wed Sep/22]
-  20.30  São Paulo FC             0-0  América MG
+  20.30  São Paulo FC             0-0  América Mineiro
 
 
 Matchday 22
 [Sat Sep/25]
-  17.00  Ceára SC                 1-0 (0-0)  Chapecoense
-  19.00  Corinthians SP           2-1 (1-1)  Palmeiras SP
-  21.00  São Paulo FC             0-0  Atlético MG
+  17.00  Ceará SC                 1-0 (0-0)  Chapecoense AF
+  19.00  SC Corinthians Paulista  2-1 (1-1)  SE Palmeiras
+  21.00  São Paulo FC             0-0  CA Mineiro
 [Sun Sep/26]
-  11.00  América MG               1-1 (0-0)  Flamengo RJ
-  16.00  Fluminense RJ            2-1 (2-0)  RB Bragantino
-         Internacional Porto Alegre  2-0 (1-0)  EC Bahia
-         Esporte Clube Juventude  3-0 (1-0)  Santos SP
-  18.15  Atlético PR              4-2 (2-0)  Grêmio RS
-         Sport Recife             0-1 (0-1)  Fortaleza EC
-  20.30  Atlético GO              0-0  Cuiabá
+  11.00  América Mineiro          1-1 (0-0)  CR Flamengo
+  16.00  Fluminense FC            2-1 (2-0)  RB Bragantino
+         SC Internacional         2-0 (1-0)  EC Bahia
+         EC Juventude             3-0 (1-0)  Santos FC
+  18.15  SC Recife                0-1 (0-1)  Fortaleza EC
+         CA Paranaense            4-2 (2-0)  Grêmio FBPA
+  20.30  AC Goianiense            0-0  Cuiabá EC
 
 
 Matchday 23
 [Sat Oct/2]
-  17.00  Fortaleza EC             0-3 (0-1)  Atlético GO
-         Cuiabá                   0-2 (0-1)  América MG
-  19.00  RB Bragantino            2-2 (0-0)  Corinthians SP
-  21.00  Atlético MG              1-0 (0-0)  Internacional Porto Alegre
+  17.00  Fortaleza EC             0-3 (0-1)  AC Goianiense
+         Cuiabá EC                0-2 (0-1)  América Mineiro
+  19.00  RB Bragantino            2-2 (0-0)  SC Corinthians Paulista
+  21.00  CA Mineiro               1-0 (0-0)  SC Internacional
 [Sun Oct/3]
-  16.00  Flamengo RJ              3-0 (3-0)  Atlético PR
-         Chapecoense              1-1 (0-1)  São Paulo FC
-  18.15  Palmeiras SP             1-1 (1-1)  Esporte Clube Juventude
-  20.30  Grêmio RS                1-2 (0-0)  Sport Recife
+  16.00  Chapecoense AF           1-1 (0-1)  São Paulo FC
+         CR Flamengo              3-0 (3-0)  CA Paranaense
+  18.15  SE Palmeiras             1-1 (1-1)  EC Juventude
+  20.30  Grêmio FBPA              1-2 (0-0)  SC Recife
 
 
 Matchday 24
 [Tue Oct/5]
-  21.30  Corinthians SP           3-1 (1-1)  EC Bahia
+  21.30  SC Corinthians Paulista  3-1 (1-1)  EC Bahia
 [Wed Oct/6]
-  19.00  Ceára SC                 0-0  Internacional Porto Alegre
-         Sport Recife             3-1 (1-0)  Esporte Clube Juventude
-         Chapecoense              2-2 (1-1)  Atlético MG
-         Atlético GO              0-2 (0-1)  Atlético PR
-  20.30  RB Bragantino            1-1 (0-1)  Flamengo RJ
-  21.30  América MG               2-1 (0-1)  Palmeiras SP
-         Grêmio RS                2-2 (0-1)  Cuiabá
-         Fluminense RJ            0-2 (0-0)  Fortaleza EC
+  19.00  Ceará SC                 0-0  SC Internacional
+         SC Recife                3-1 (1-0)  EC Juventude
+         Chapecoense AF           2-2 (1-1)  CA Mineiro
+         AC Goianiense            0-2 (0-1)  CA Paranaense
+  20.30  RB Bragantino            1-1 (0-1)  CR Flamengo
+  21.30  Fluminense FC            0-2 (0-0)  Fortaleza EC
+         América Mineiro          2-1 (0-1)  SE Palmeiras
+         Grêmio FBPA              2-2 (0-1)  Cuiabá EC
 [Thu Oct/7]
-  18.30  São Paulo FC             1-1 (1-1)  Santos SP
+  18.30  São Paulo FC             1-1 (1-1)  Santos FC
 
 
 Matchday 25
 [Sat Oct/9]
-  16.30  Sport Recife             1-0 (0-0)  Corinthians SP
-         Atlético MG              3-1 (2-0)  Ceára SC
-         Fluminense RJ            0-0  Atlético GO
-  19.00  Fortaleza EC             0-3 (0-0)  Flamengo RJ
-         Atlético PR              0-2 (0-1)  EC Bahia
-  21.00  Esporte Clube Juventude  1-1 (1-1)  América MG
-         Palmeiras SP             2-4 (1-3)  RB Bragantino
+  16.30  SC Recife                1-0 (0-0)  SC Corinthians Paulista
+         CA Mineiro               3-1 (2-0)  Ceará SC
+         Fluminense FC            0-0  AC Goianiense
+  19.00  CA Paranaense            0-2 (0-1)  EC Bahia
+         Fortaleza EC             0-3 (0-0)  CR Flamengo
+  21.00  EC Juventude             1-1 (1-1)  América Mineiro
+         SE Palmeiras             2-4 (1-3)  RB Bragantino
 [Sun Oct/10]
-  11.00  Internacional Porto Alegre  5-2 (4-0)  Chapecoense
-  16.00  Santos SP                1-0 (0-0)  Grêmio RS
+  11.00  SC Internacional         5-2 (4-0)  Chapecoense AF
+  16.00  Santos FC                1-0 (0-0)  Grêmio FBPA
 [Mon Oct/11]
-  20.00  Cuiabá                   0-0  São Paulo FC
+  20.00  Cuiabá EC                0-0  São Paulo FC
 
 
 Matchday 26
 [Tue Oct/12]
-  19.00  RB Bragantino            1-0 (0-0)  Atlético GO
-  21.30  EC Bahia                 0-0  Palmeiras SP
+  19.00  RB Bragantino            1-0 (0-0)  AC Goianiense
+  21.30  EC Bahia                 0-0  SE Palmeiras
 [Wed Oct/13]
-  19.00  Chapecoense              1-1 (0-0)  Atlético PR
-         Atlético MG              3-1 (0-0)  Santos SP
-         Flamengo RJ              3-1 (3-0)  Esporte Clube Juventude
-  20.30  Fortaleza EC             1-0 (0-0)  Grêmio RS
-  21.00  Corinthians SP           1-0 (0-0)  Fluminense RJ
-  21.30  Internacional Porto Alegre  3-1 (1-1)  América MG
+  19.00  Chapecoense AF           1-1 (0-0)  CA Paranaense
+         CA Mineiro               3-1 (0-0)  Santos FC
+         CR Flamengo              3-1 (3-0)  EC Juventude
+  20.30  Fortaleza EC             1-0 (0-0)  Grêmio FBPA
+  21.00  SC Corinthians Paulista  1-0 (0-0)  Fluminense FC
+  21.30  SC Internacional         3-1 (1-1)  América Mineiro
 [Thu Oct/14]
-  19.00  Cuiabá                   1-0 (0-0)  Sport Recife
-         São Paulo FC             1-1 (0-1)  Ceára SC
+  19.00  Cuiabá EC                1-0 (0-0)  SC Recife
+         São Paulo FC             1-1 (0-1)  Ceará SC
 
 
 Matchday 27
 [Sat Oct/16]
-  19.00  Chapecoense              1-2 (1-1)  Fortaleza EC
-  21.00  América MG               0-0  EC Bahia
+  19.00  Chapecoense AF           1-2 (1-1)  Fortaleza EC
+  21.00  América Mineiro          0-0  EC Bahia
 [Sun Oct/17]
-  16.00  Palmeiras SP             1-0 (0-0)  Internacional Porto Alegre
-         Atlético PR              0-1 (0-1)  Fluminense RJ
-  18.15  Ceára SC                 2-2 (0-1)  RB Bragantino
-         Atlético GO              2-1 (0-0)  Atlético MG
-         Grêmio RS                3-2 (2-0)  Esporte Clube Juventude
-  20.30  Flamengo RJ              0-0  Cuiabá
-         Sport Recife             0-0  Santos SP
+  16.00  CA Paranaense            0-1 (0-1)  Fluminense FC
+         SE Palmeiras             1-0 (0-0)  SC Internacional
+  18.15  Ceará SC                 2-2 (0-1)  RB Bragantino
+         AC Goianiense            2-1 (0-0)  CA Mineiro
+         Grêmio FBPA              3-2 (2-0)  EC Juventude
+  20.30  SC Recife                0-0  Santos FC
+         CR Flamengo              0-0  Cuiabá EC
 [Mon Oct/18]
-  20.00  São Paulo FC             1-0 (1-0)  Corinthians SP
+  20.00  São Paulo FC             1-0 (1-0)  SC Corinthians Paulista
 
 
 Matchday 19
 [Wed Oct/20]
-  19.00  Ceára SC                 1-2 (0-1)  Palmeiras SP
+  19.00  Ceará SC                 1-2 (0-1)  SE Palmeiras
 [Thu Oct/21]
-  20.00  Internacional Porto Alegre  1-1 (1-0)  RB Bragantino
+  20.00  SC Internacional         1-1 (1-0)  RB Bragantino
 
 
 Matchday 28
 [Sat Oct/23]
-  17.00  Santos SP                0-2 (0-1)  América MG
-         Esporte Clube Juventude  0-0  Ceára SC
-  19.00  Fluminense RJ            3-1 (1-0)  Flamengo RJ
-  19.15  Fortaleza EC             3-0 (2-0)  Atlético PR
+  17.00  EC Juventude             0-0  Ceará SC
+         Santos FC                0-2 (0-1)  América Mineiro
+  19.00  Fluminense FC            3-1 (1-0)  CR Flamengo
+  19.15  Fortaleza EC             3-0 (2-0)  CA Paranaense
 [Sun Oct/24]
-  16.00  Internacional Porto Alegre  2-2 (1-0)  Corinthians SP
-         Atlético MG              2-1 (2-1)  Cuiabá
+  16.00  SC Internacional         2-2 (1-0)  SC Corinthians Paulista
+         CA Mineiro               2-1 (2-1)  Cuiabá EC
   18.15  RB Bragantino            1-0 (0-0)  São Paulo FC
-  20.30  EC Bahia                 3-0 (2-0)  Chapecoense
+  20.30  EC Bahia                 3-0 (2-0)  Chapecoense AF
 [Mon Oct/25]
-  20.00  Atlético GO              2-0 (1-0)  Grêmio RS
-  21.30  Palmeiras SP             2-1 (0-1)  Sport Recife
+  20.00  AC Goianiense            2-0 (1-0)  Grêmio FBPA
+  21.30  SE Palmeiras             2-1 (0-1)  SC Recife
 
 
 Matchday 23
 [Wed Oct/27]
-  19.00  EC Bahia                 1-1 (0-0)  Ceára SC
-         Santos SP                2-0 (1-0)  Fluminense RJ
+  19.00  EC Bahia                 1-1 (0-0)  Ceará SC
+         Santos FC                2-0 (1-0)  Fluminense FC
 
 
 Matchday 34
 [Thu Oct/28]
-  19.00  RB Bragantino            3-0 (1-0)  Sport Recife
+  19.00  RB Bragantino            3-0 (1-0)  SC Recife
 
 
 Matchday 29
 [Sat Oct/30]
-  17.00  Atlético PR              0-1 (0-0)  Santos SP
-  19.00  Flamengo RJ              1-0 (1-0)  Atlético MG
-  19.15  Esporte Clube Juventude  0-0  EC Bahia
-  22.00  América MG               2-1 (1-0)  Fortaleza EC
+  17.00  CA Paranaense            0-1 (0-0)  Santos FC
+  19.00  CR Flamengo              1-0 (1-0)  CA Mineiro
+  19.15  EC Juventude             0-0  EC Bahia
+  22.00  América Mineiro          2-1 (1-0)  Fortaleza EC
 [Sun Oct/31]
-  16.00  Grêmio RS                1-3 (1-2)  Palmeiras SP
-         Ceára SC                 1-0 (1-0)  Fluminense RJ
-  18.15  São Paulo FC             1-0 (1-0)  Internacional Porto Alegre
-  20.30  Sport Recife             2-0 (0-0)  Atlético GO
+  16.00  Ceará SC                 1-0 (1-0)  Fluminense FC
+         Grêmio FBPA              1-3 (1-2)  SE Palmeiras
+  18.15  São Paulo FC             1-0 (1-0)  SC Internacional
+  20.30  SC Recife                2-0 (0-0)  AC Goianiense
 [Mon Nov/1]
-  20.00  Cuiabá                   1-0 (0-0)  RB Bragantino
-  21.30  Corinthians SP           1-0 (0-0)  Chapecoense
+  20.00  Cuiabá EC                1-0 (0-0)  RB Bragantino
+  21.30  SC Corinthians Paulista  1-0 (0-0)  Chapecoense AF
 
 
 Matchday 4
 [Tue Nov/2]
-  16.00  Atlético PR              2-2 (0-2)  Flamengo RJ
+  16.00  CA Paranaense            2-2 (0-2)  CR Flamengo
 
 
 Matchday 19
 [Wed Nov/3]
-  21.00  Atlético MG              2-1 (1-0)  Grêmio RS
+  21.00  CA Mineiro               2-1 (1-0)  Grêmio FBPA
 
 
 Matchday 31
 [Thu Nov/4]
-  21.00  Cuiabá                   0-0  Chapecoense
+  21.00  Cuiabá EC                0-0  Chapecoense AF
 
 
 Matchday 19
 [Fri Nov/5]
-  21.30  Flamengo RJ              2-0 (1-0)  Atlético GO
+  21.30  CR Flamengo              2-0 (1-0)  AC Goianiense
 
 
 Matchday 30
 [Sat Nov/6]
-  17.00  Corinthians SP           1-0 (0-0)  Fortaleza EC
-  19.00  Internacional Porto Alegre  1-0 (1-0)  Grêmio RS
-  21.00  Fluminense RJ            1-0 (0-0)  Sport Recife
+  17.00  SC Corinthians Paulista  1-0 (0-0)  Fortaleza EC
+  19.00  SC Internacional         1-0 (1-0)  Grêmio FBPA
+  21.00  Fluminense FC            1-0 (0-0)  SC Recife
 [Sun Nov/7]
-  16.00  Santos SP                0-2 (0-1)  Palmeiras SP
-         Atlético MG              1-0 (0-0)  América MG
-         RB Bragantino            0-2 (0-0)  Atlético PR
+  16.00  RB Bragantino            0-2 (0-0)  CA Paranaense
+         Santos FC                0-2 (0-1)  SE Palmeiras
+         CA Mineiro               1-0 (0-0)  América Mineiro
   18.15  EC Bahia                 1-0 (0-0)  São Paulo FC
-  20.30  Ceára SC                 1-0 (0-0)  Cuiabá
+  20.30  Ceará SC                 1-0 (0-0)  Cuiabá EC
 [Mon Nov/8]
-  20.00  Chapecoense              2-2 (2-2)  Flamengo RJ
+  20.00  Chapecoense AF           2-2 (2-2)  CR Flamengo
 
 
 Matchday 31
 [Tue Nov/9]
-  21.30  Grêmio RS                1-0 (0-0)  Fluminense RJ
+  21.30  Grêmio FBPA              1-0 (0-0)  Fluminense FC
 [Wed Nov/10]
-  18.30  Atlético PR              2-1 (1-0)  Ceára SC
-  19.00  Santos SP                2-0 (1-0)  RB Bragantino
-         Atlético MG              3-0 (1-0)  Corinthians SP
-  20.30  Palmeiras SP             4-0 (2-0)  Atlético GO
-  21.30  Fortaleza EC             1-1 (0-0)  São Paulo FC
-         Sport Recife             2-3 (0-1)  América MG
-         Esporte Clube Juventude  2-1 (0-0)  Internacional Porto Alegre
+  18.30  CA Paranaense            2-1 (1-0)  Ceará SC
+  19.00  Santos FC                2-0 (1-0)  RB Bragantino
+         CA Mineiro               3-0 (1-0)  SC Corinthians Paulista
+  20.30  SE Palmeiras             4-0 (2-0)  AC Goianiense
+  21.30  EC Juventude             2-1 (0-0)  SC Internacional
+         Fortaleza EC             1-1 (0-0)  São Paulo FC
+         SC Recife                2-3 (0-1)  América Mineiro
 [Thu Nov/11]
-  19.00  Flamengo RJ              3-0 (1-0)  EC Bahia
+  19.00  CR Flamengo              3-0 (1-0)  EC Bahia
 
 
 Matchday 32
 [Sat Nov/13]
-  17.00  Atlético GO              0-0  Santos SP
-  18.30  América MG               3-1 (2-0)  Grêmio RS
-  19.00  RB Bragantino            3-0 (2-0)  Fortaleza EC
-         Internacional Porto Alegre  2-1 (1-1)  Atlético PR
-  21.00  Corinthians SP           3-2 (1-1)  Cuiabá
+  17.00  AC Goianiense            0-0  Santos FC
+  18.30  América Mineiro          3-1 (2-0)  Grêmio FBPA
+  19.00  SC Internacional         2-1 (1-1)  CA Paranaense
+         RB Bragantino            3-0 (2-0)  Fortaleza EC
+  21.00  SC Corinthians Paulista  3-2 (1-1)  Cuiabá EC
 [Sun Nov/14]
-  16.00  São Paulo FC             0-4 (0-3)  Flamengo RJ
-  18.15  Fluminense RJ            2-1 (0-1)  Palmeiras SP
-  19.00  Ceára SC                 2-1 (1-0)  Sport Recife
-         Chapecoense              0-2 (0-2)  Esporte Clube Juventude
+  16.00  São Paulo FC             0-4 (0-3)  CR Flamengo
+  18.15  Fluminense FC            2-1 (0-1)  SE Palmeiras
+  19.00  Chapecoense AF           0-2 (0-2)  EC Juventude
+         Ceará SC                 2-1 (1-0)  SC Recife
 
 
 Matchday 33
 [Tue Nov/16]
-  16.00  Atlético PR              0-1 (0-1)  Atlético MG
-  18.00  Grêmio RS                3-0 (3-0)  RB Bragantino
+  16.00  CA Paranaense            0-1 (0-1)  CA Mineiro
+  18.00  Grêmio FBPA              3-0 (3-0)  RB Bragantino
 [Wed Nov/17]
-  19.00  Cuiabá                   1-0 (0-0)  Internacional Porto Alegre
-         Santos SP                2-0 (1-0)  Chapecoense
-         América MG               0-0  Atlético GO
-  20.00  Fortaleza EC             0-4 (0-2)  Ceára SC
-  20.30  Esporte Clube Juventude  1-0 (1-0)  Fluminense RJ
-         Palmeiras SP             0-2 (0-1)  São Paulo FC
-  21.30  Flamengo RJ              1-0 (0-0)  Corinthians SP
+  19.00  Cuiabá EC                1-0 (0-0)  SC Internacional
+         Santos FC                2-0 (1-0)  Chapecoense AF
+         América Mineiro          0-0  AC Goianiense
+  20.00  Fortaleza EC             0-4 (0-2)  Ceará SC
+  20.30  SE Palmeiras             0-2 (0-1)  São Paulo FC
+         EC Juventude             1-0 (1-0)  Fluminense FC
+  21.30  CR Flamengo              1-0 (0-0)  SC Corinthians Paulista
 [Thu Nov/18]
-  21.00  Sport Recife             1-0 (0-0)  EC Bahia
+  21.00  SC Recife                1-0 (0-0)  EC Bahia
 
 
 Matchday 34
 [Sat Nov/20]
-  19.00  Chapecoense              1-3 (0-1)  Grêmio RS
-         Atlético MG              2-0 (0-0)  Esporte Clube Juventude
-         Fortaleza EC             1-0 (1-0)  Palmeiras SP
-  21.00  Atlético GO              1-1 (0-0)  Ceára SC
-  21.30  Internacional Porto Alegre  1-2 (1-2)  Flamengo RJ
+  19.00  Chapecoense AF           1-3 (0-1)  Grêmio FBPA
+         CA Mineiro               2-0 (0-0)  EC Juventude
+         Fortaleza EC             1-0 (1-0)  SE Palmeiras
+  21.00  AC Goianiense            1-1 (0-0)  Ceará SC
+  21.30  SC Internacional         1-2 (1-2)  CR Flamengo
 [Sun Nov/21]
-  16.00  Corinthians SP           2-0 (0-0)  Santos SP
-  17.00  Fluminense RJ            2-0 (1-0)  América MG
-  19.00  EC Bahia                 0-0  Cuiabá
+  16.00  SC Corinthians Paulista  2-0 (0-0)  Santos FC
+  17.00  Fluminense FC            2-0 (1-0)  América Mineiro
+  19.00  EC Bahia                 0-0  Cuiabá EC
 
 
 Matchday 30
 [Tue Nov/23]
-  19.00  Atlético GO              1-1 (0-0)  Esporte Clube Juventude
+  19.00  AC Goianiense            1-1 (0-0)  EC Juventude
 
 
 Matchday 2
 [Tue Nov/23]
-  21.00  Grêmio RS                2-2 (0-0)  Flamengo RJ
+  21.00  Grêmio FBPA              2-2 (0-0)  CR Flamengo
 
 
 Matchday 35
 [Tue Nov/23]
-  21.30  Palmeiras SP             2-2 (1-1)  Atlético MG
+  21.30  SE Palmeiras             2-2 (1-1)  CA Mineiro
+[Wed Nov/24]
+  21.30  Fluminense FC            1-0 (1-0)  SC Internacional
 
 
 Matchday 34
 [Wed Nov/24]
-  21.30  São Paulo FC             0-0  Atlético PR
+  21.30  São Paulo FC             0-0  CA Paranaense
 
 
 Matchday 35
-[Wed Nov/24]
-  21.30  Fluminense RJ            1-0 (1-0)  Internacional Porto Alegre
 [Thu Nov/25]
-  19.00  Santos SP                2-0 (0-0)  Fortaleza EC
-  20.00  Ceára SC                 2-1 (1-0)  Corinthians SP
+  19.00  Santos FC                2-0 (0-0)  Fortaleza EC
+  20.00  Ceará SC                 2-1 (1-0)  SC Corinthians Paulista
 
 
 Matchday 36
 [Fri Nov/26]
-  19.00  EC Bahia                 3-1 (2-0)  Grêmio RS
+  19.00  EC Bahia                 3-1 (2-0)  Grêmio FBPA
 [Sat Nov/27]
-  19.30  RB Bragantino            1-1 (0-0)  América MG
-  21.30  São Paulo FC             2-0 (0-0)  Sport Recife
+  19.30  RB Bragantino            1-1 (0-0)  América Mineiro
+  21.30  São Paulo FC             2-0 (0-0)  SC Recife
 [Sun Nov/28]
-  16.00  Atlético MG              2-1 (1-1)  Fluminense RJ
-         Corinthians SP           1-0 (0-0)  Atlético PR
-  19.00  Internacional Porto Alegre  1-1 (1-0)  Santos SP
+  16.00  CA Mineiro               2-1 (1-1)  Fluminense FC
+         SC Corinthians Paulista  1-0 (0-0)  CA Paranaense
+  19.00  SC Internacional         1-1 (1-0)  Santos FC
 
 
 Matchday 35
 [Mon Nov/29]
-  19.00  Atlético GO              2-1 (0-0)  EC Bahia
+  19.00  AC Goianiense            2-1 (0-0)  EC Bahia
 [Tue Nov/30]
-  19.00  Esporte Clube Juventude  1-0 (1-0)  RB Bragantino
+  19.00  EC Juventude             1-0 (1-0)  RB Bragantino
 
 
 Matchday 36
 [Tue Nov/30]
-  20.00  Flamengo RJ              2-1 (1-0)  Ceára SC
+  20.00  CR Flamengo              2-1 (1-0)  Ceará SC
 
 
 Matchday 35
 [Tue Nov/30]
-  21.00  América MG               3-0 (1-0)  Chapecoense
+  21.00  América Mineiro          3-0 (1-0)  Chapecoense AF
 
 
 Matchday 36
 [Tue Nov/30]
-  22.00  Cuiabá                   1-3 (1-2)  Palmeiras SP
+  22.00  Cuiabá EC                1-3 (1-2)  SE Palmeiras
 
 
 Matchday 32
 [Thu Dec/2]
-  18.00  EC Bahia                 2-3 (0-0)  Atlético MG
+  18.00  EC Bahia                 2-3 (0-0)  CA Mineiro
 
 
 Matchday 35
 [Thu Dec/2]
-  20.00  Grêmio RS                3-0 (1-0)  São Paulo FC
+  20.00  Grêmio FBPA              3-0 (1-0)  São Paulo FC
 [Fri Dec/3]
-  19.00  Atlético PR              1-0 (0-0)  Cuiabá
-  20.00  Sport Recife             1-1 (0-1)  Flamengo RJ
+  19.00  CA Paranaense            1-0 (0-0)  Cuiabá EC
 
 
 Matchday 36
 [Fri Dec/3]
-  20.00  Chapecoense              0-1 (0-0)  Atlético GO
-  21.00  Fortaleza EC             1-0 (0-0)  Esporte Clube Juventude
+  20.00  Chapecoense AF           0-1 (0-0)  AC Goianiense
+
+
+Matchday 35
+[Fri Dec/3]
+  20.00  SC Recife                1-1 (0-1)  CR Flamengo
+
+
+Matchday 36
+[Fri Dec/3]
+  21.00  Fortaleza EC             1-0 (0-0)  EC Juventude
 
 
 Matchday 37
 [Sun Dec/5]
-  16.00  Atlético MG              4-3 (1-1)  RB Bragantino
-         Corinthians SP           1-1 (0-1)  Grêmio RS
-         EC Bahia                 2-0 (2-0)  Fluminense RJ
-  19.00  Ceára SC                 0-0  América MG
+  16.00  EC Bahia                 2-0 (2-0)  Fluminense FC
+         CA Mineiro               4-3 (1-1)  RB Bragantino
+         SC Corinthians Paulista  1-1 (0-1)  Grêmio FBPA
+  19.00  Ceará SC                 0-0  América Mineiro
 [Mon Dec/6]
-  19.00  Atlético PR              0-0  Palmeiras SP
-         São Paulo FC             3-1 (2-0)  Esporte Clube Juventude
-  20.00  Internacional Porto Alegre  1-2 (1-2)  Atlético GO
-         Cuiabá                   1-0 (1-0)  Fortaleza EC
-         Flamengo RJ              0-1 (0-0)  Santos SP
-  21.00  Chapecoense              0-1 (0-0)  Sport Recife
+  19.00  CA Paranaense            0-0  SE Palmeiras
+         São Paulo FC             3-1 (2-0)  EC Juventude
+  20.00  CR Flamengo              0-1 (0-0)  Santos FC
+         SC Internacional         1-2 (1-2)  AC Goianiense
+         Cuiabá EC                1-0 (1-0)  Fortaleza EC
+  21.00  Chapecoense AF           0-1 (0-0)  SC Recife
 
 
 Matchday 38
 [Thu Dec/9]
   21.30  Fortaleza EC             2-1 (1-1)  EC Bahia
-         Sport Recife             1-1 (1-1)  Atlético PR
-         RB Bragantino            1-0 (0-0)  Internacional Porto Alegre
-         Esporte Clube Juventude  1-0 (0-0)  Corinthians SP
-         Atlético GO              2-0 (0-0)  Flamengo RJ
-         Grêmio RS                4-3 (3-2)  Atlético MG
-         América MG               2-0 (0-0)  São Paulo FC
-         Fluminense RJ            3-0 (0-0)  Chapecoense
-         Palmeiras SP             1-0 (1-0)  Ceára SC
-         Santos SP                1-1 (0-1)  Cuiabá
+         SC Recife                1-1 (1-1)  CA Paranaense
+         RB Bragantino            1-0 (0-0)  SC Internacional
+         EC Juventude             1-0 (0-0)  SC Corinthians Paulista
+         AC Goianiense            2-0 (0-0)  CR Flamengo
+         Grêmio FBPA              4-3 (3-2)  CA Mineiro
+         América Mineiro          2-0 (0-0)  São Paulo FC
+         Fluminense FC            3-0 (0-0)  Chapecoense AF
+         SE Palmeiras             1-0 (1-0)  Ceará SC
+         Santos FC                1-1 (0-1)  Cuiabá EC

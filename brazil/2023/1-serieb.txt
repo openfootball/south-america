@@ -1,0 +1,664 @@
+= Brasileiro Série B 2023
+
+# Date       Fri Apr/14 - Sat Nov/25 2023 (225d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Apr/14]
+  21.30  Ituano SP                2-0 (1-0)  Ceará CE
+  19.00  Guarani SP               4-1 (1-0)  Avaí SC
+[Sat Apr/15]
+  17.00  Mirassol SP              1-0 (0-0)  Chapecoense
+         Sampaio Corrêa MA        3-3 (1-2)  Atlético Goianiense
+  18.15  Juventude RS             1-2 (0-1)  Botafogo SP
+  16.00  Vila Nova GO             2-1 (2-0)  Grêmio Novorizontino SP
+[Sun Apr/16]
+  11.00  Criciúma SC              2-0 (1-0)  Tombense MG
+  15.30  Londrina PR              1-0 (0-0)  ABC RN
+  18.00  Vitória BA               3-0 (2-0)  Ponte Preta
+
+
+Matchday 2
+[Fri Apr/21]
+  16.30  Atlético Goianiense      2-1 (2-0)  CR Brasil AL
+  19.00  Botafogo SP              1-0 (1-0)  Sampaio Corrêa MA
+  21.30  Ponte Preta              1-2 (1-2)  Criciúma SC
+[Sat Apr/22]
+  11.00  Tombense MG              3-0 (1-0)  Ituano SP
+  16.00  Avaí SC                  1-0 (0-0)  Mirassol SP
+  17.00  Grêmio Novorizontino SP  1-0 (1-0)  Juventude RS
+  18.15  Ceará CE                 0-3 (0-2)  Guarani SP
+[Sun Apr/23]
+  18.00  ABC RN                   0-3 (0-0)  Vitória BA
+  15.30  Chapecoense              3-0 (0-0)  Londrina PR
+
+
+Matchday 3
+[Fri Apr/28]
+  21.30  Guarani SP               1-0 (1-0)  Ituano SP
+  19.00  Vitória BA               2-0 (2-0)  Londrina PR
+         Criciúma SC              1-0 (1-0)  Avaí SC
+[Sat Apr/29]
+  17.00  Chapecoense              1-1 (0-1)  Ponte Preta
+  16.00  Sampaio Corrêa MA        1-3 (0-1)  Mirassol SP
+  17.00  Botafogo SP              2-0 (1-0)  CR Brasil AL
+  18.15  Tombense MG              1-1 (0-1)  Atlético Goianiense
+[Sun Apr/30]
+  18.00  ABC RN                   1-2 (1-2)  Ceará CE
+  15.30  Grêmio Novorizontino SP  0-0  Sport Recife PE
+  18.15  Vila Nova GO             1-0 (1-0)  Juventude RS
+
+
+Matchday 4
+[Mon May/1]
+  16.00  Londrina PR              1-1 (1-1)  Criciúma SC
+[Tue May/2]
+  21.30  Atlético Goianiense      2-1 (1-0)  Chapecoense
+  19.00  Ponte Preta              2-0 (0-0)  Botafogo SP
+         CR Brasil AL             0-0  Sampaio Corrêa MA
+[Wed May/3]
+  21.15  Avaí SC                  0-3 (0-2)  Vila Nova GO
+  19.00  Ituano SP                3-0 (2-0)  ABC RN
+         Juventude RS             1-0 (1-0)  Guarani SP
+         Mirassol SP              0-2 (0-1)  Grêmio Novorizontino SP
+
+
+Matchday 5
+[Fri May/5]
+  21.30  Botafogo SP              0-3 (0-1)  Vitória BA
+[Sat May/6]
+  20.30  CR Brasil AL             1-1 (0-0)  ABC RN
+         Chapecoense              1-1 (1-1)  Grêmio Novorizontino SP
+  18.15  Sampaio Corrêa MA        2-1 (0-1)  Juventude RS
+         Tombense MG              0-1 (0-1)  Avaí SC
+  16.00  Criciúma SC              2-1 (0-0)  Ituano SP
+  18.15  Mirassol SP              1-1 (1-1)  Vila Nova GO
+[Sun May/7]
+  11.00  Ponte Preta              0-0  Ceará CE
+  19.00  Sport Recife PE          2-0 (2-0)  Guarani SP
+[Mon May/8]
+  20.00  Atlético Goianiense      2-1 (1-0)  Londrina PR
+
+
+Matchday 4
+[Wed May/10]
+  19.00  Ceará CE                 0-2 (0-0)  Vitória BA
+  21.30  Sport Recife PE          3-2 (2-1)  Tombense MG
+
+
+Matchday 6
+[Fri May/12]
+  19.00  Vila Nova GO             0-0  Criciúma SC
+  21.30  Avaí SC                  1-4 (0-1)  Chapecoense
+[Sat May/13]
+  17.00  Grêmio Novorizontino SP  0-1 (0-0)  CR Brasil AL
+  18.15  Ceará CE                 2-0 (1-0)  Tombense MG
+  16.00  Juventude RS             0-1 (0-0)  Mirassol SP
+  17.00  Guarani SP               2-0 (2-0)  Sampaio Corrêa MA
+[Sun May/14]
+  20.30  Ituano SP                1-1 (1-1)  Sport Recife PE
+  15.30  Londrina PR              3-0 (0-0)  Ponte Preta
+  18.00  ABC RN                   1-2 (1-2)  Botafogo SP
+         Vitória BA               2-3 (0-2)  Atlético Goianiense
+
+
+Matchday 7
+[Fri May/19]
+  19.00  Mirassol SP              2-0 (1-0)  Vitória BA
+         Tombense MG              0-2 (0-0)  Londrina PR
+  21.30  Atlético Goianiense      0-0  Avaí SC
+[Sat May/20]
+  17.00  Ituano SP                0-2 (0-0)  Grêmio Novorizontino SP
+         Sampaio Corrêa MA        1-0 (1-0)  ABC RN
+  16.00  Sport Recife PE          3-0 (1-0)  Botafogo SP
+[Sun May/21]
+  18.00  Ponte Preta              1-1 (0-0)  Guarani SP
+  18.15  CR Brasil AL             0-3 (0-2)  Vila Nova GO
+  11.00  Chapecoense              0-2 (0-1)  Juventude RS
+  15.30  Criciúma SC              1-2 (1-2)  Ceará CE
+
+
+Matchday 8
+[Tue May/23]
+  21.30  ABC RN                   1-0 (0-0)  Tombense MG
+  19.00  Botafogo SP              1-0 (0-0)  Mirassol SP
+  21.30  Grêmio Novorizontino SP  2-0 (0-0)  Avaí SC
+[Wed May/24]
+  21.15  Guarani SP               3-3 (3-1)  Chapecoense
+  21.30  Sampaio Corrêa MA        0-0  Ponte Preta
+  19.00  Juventude RS             3-0 (2-0)  Atlético Goianiense
+         Londrina PR              1-3 (0-3)  Ceará CE
+         Vila Nova GO             1-0 (1-0)  Ituano SP
+         Vitória BA               1-0 (0-0)  CR Brasil AL
+  21.30  Criciúma SC              1-0 (1-0)  Sport Recife PE
+
+
+Matchday 9
+[Sat May/27]
+  18.00  Atlético Goianiense      1-1 (0-0)  Botafogo SP
+  17.00  Ituano SP                3-1 (2-1)  Londrina PR
+         CR Brasil AL             1-2 (0-2)  Juventude RS
+  17.30  Avaí SC                  1-1 (0-1)  Vitória BA
+[Sun May/28]
+  18.15  Tombense MG              1-1 (0-1)  Guarani SP
+  11.00  Ponte Preta              1-0 (1-0)  Vila Nova GO
+  15.30  Ceará CE                 0-3 (0-1)  Grêmio Novorizontino SP
+         Mirassol SP              1-0 (0-0)  Criciúma SC
+  18.00  Sport Recife PE          4-1 (1-1)  ABC RN
+[Mon May/29]
+  20.00  Chapecoense              0-1 (0-1)  Sampaio Corrêa MA
+
+
+Matchday 10
+[Fri Jun/2]
+  21.30  Criciúma SC              3-0 (0-0)  Atlético Goianiense
+         Vitória BA               3-0 (2-0)  Ituano SP
+  19.00  Botafogo SP              0-0  Tombense MG
+         Ceará CE                 2-0 (1-0)  Chapecoense
+[Sat Jun/3]
+  19.00  Vila Nova GO             3-0 (1-0)  Sampaio Corrêa MA
+  17.00  Mirassol SP              1-0 (0-0)  Ponte Preta
+  16.00  Juventude RS             3-2 (2-1)  Avaí SC
+  17.00  ABC RN                   0-1 (0-0)  Grêmio Novorizontino SP
+[Sun Jun/4]
+  15.30  Guarani SP               0-1 (0-1)  CR Brasil AL
+  18.00  Londrina PR              1-2 (1-0)  Sport Recife PE
+
+
+Matchday 11
+[Tue Jun/6]
+  21.30  Atlético Goianiense      0-3 (0-1)  Ceará CE
+  19.00  Chapecoense              0-1 (0-0)  Vila Nova GO
+  21.30  Botafogo SP              0-2 (0-0)  Ituano SP
+  19.00  Ponte Preta              0-0  ABC RN
+         Tombense MG              1-2 (0-1)  Vitória BA
+[Wed Jun/7]
+  19.00  Sport Recife PE          2-1 (1-0)  Avaí SC
+  21.30  CR Brasil AL             2-0 (1-0)  Mirassol SP
+  19.00  Grêmio Novorizontino SP  1-0 (0-0)  Guarani SP
+         Sampaio Corrêa MA        2-0 (1-0)  Londrina PR
+[Thu Jun/8]
+  16.00  Criciúma SC              0-1 (0-0)  Juventude RS
+
+
+Matchday 12
+[Fri Jun/9]
+  21.30  ABC RN                   1-1 (0-0)  Chapecoense
+[Sat Jun/10]
+  17.00  Grêmio Novorizontino SP  1-0 (1-0)  Sampaio Corrêa MA
+  16.00  Vila Nova GO             0-0  Guarani SP
+  17.00  Ituano SP                1-1 (0-0)  Atlético Goianiense
+  19.30  Ceará CE                 1-3 (1-1)  CR Brasil AL
+[Sun Jun/11]
+  18.15  Juventude RS             1-2 (0-0)  Tombense MG
+  18.00  Vitória BA               0-1 (0-1)  Criciúma SC
+  11.00  Londrina PR              1-2 (1-0)  Mirassol SP
+         Ponte Preta              1-1 (1-1)  Sport Recife PE
+  15.30  Avaí SC                  1-1 (1-0)  Botafogo SP
+
+
+Matchday 2
+[Sun Jun/18]
+  18.00  Sport Recife PE          1-0 (1-0)  Vila Nova GO
+
+
+Matchday 13
+[Wed Jun/21]
+  19.00  CR Brasil AL             2-2 (2-1)  Ituano SP
+[Thu Jun/22]
+  21.30  Sport Recife PE          3-0 (2-0)  Juventude RS
+[Fri Jun/23]
+  19.00  Atlético Goianiense      1-0 (1-0)  Ponte Preta
+[Sat Jun/24]
+  11.00  Botafogo SP              0-3 (0-2)  Vila Nova GO
+  18.15  Tombense MG              1-2 (0-0)  Grêmio Novorizontino SP
+  17.00  Chapecoense              1-1 (0-1)  Criciúma SC
+  16.00  Avaí SC                  0-0  Londrina PR
+[Sun Jun/25]
+  18.00  Guarani SP               2-0 (1-0)  Vitória BA
+  11.00  Mirassol SP              3-2 (1-1)  ABC RN
+  15.30  Sampaio Corrêa MA        1-1 (1-1)  Ceará CE
+
+
+Matchday 14
+[Tue Jun/27]
+  19.00  Chapecoense              1-1 (0-1)  Sport Recife PE
+  21.30  Vila Nova GO             1-0 (0-0)  Tombense MG
+  19.00  Criciúma SC              2-1 (2-0)  CR Brasil AL
+  21.30  Grêmio Novorizontino SP  0-1 (0-1)  Botafogo SP
+[Wed Jun/28]
+  19.00  ABC RN                   1-1 (0-0)  Atlético Goianiense
+         Ceará CE                 0-0  Avaí SC
+  21.30  Guarani SP               2-1 (1-0)  Mirassol SP
+         Ituano SP                0-1 (0-0)  Ponte Preta
+         Londrina PR              1-2 (1-0)  Juventude RS
+         Vitória BA               2-1 (0-1)  Sampaio Corrêa MA
+
+
+Matchday 15
+[Fri Jun/30]
+  21.30  Tombense MG              4-2 (1-0)  Chapecoense
+[Sat Jul/1]
+  18.15  CR Brasil AL             2-1 (2-0)  Londrina PR
+  16.00  Atlético Goianiense      1-1 (0-0)  Vila Nova GO
+  17.00  Avaí SC                  0-2 (0-1)  ABC RN
+         Sampaio Corrêa MA        0-2 (0-1)  Criciúma SC
+[Sun Jul/2]
+  15.30  Juventude RS             1-0 (0-0)  Vitória BA
+  18.00  Sport Recife PE          2-0 (2-0)  Ceará CE
+  20.30  Ponte Preta              1-0 (0-0)  Grêmio Novorizontino SP
+[Mon Jul/3]
+  18.00  Mirassol SP              0-1 (0-0)  Ituano SP
+  20.15  Botafogo SP              1-0 (0-0)  Guarani SP
+
+
+Matchday 1
+[Wed Jul/5]
+  19.00  CR Brasil AL             2-0 (1-0)  Sport Recife PE
+
+
+Matchday 16
+[Fri Jul/7]
+  21.30  Ceará CE                 3-0 (1-0)  Botafogo SP
+  19.00  Grêmio Novorizontino SP  2-2 (1-0)  Atlético Goianiense
+[Sat Jul/8]
+  11.00  Guarani SP               2-1 (1-1)  Londrina PR
+  15.30  ABC RN                   0-1 (0-1)  Criciúma SC
+  17.00  Avaí SC                  0-1 (0-1)  Ponte Preta
+         Ituano SP                1-1 (0-0)  Juventude RS
+  18.00  Tombense MG              0-1 (0-0)  Sampaio Corrêa MA
+[Sun Jul/9]
+  18.00  Sport Recife PE          0-0  Mirassol SP
+  15.30  Chapecoense              2-1 (0-0)  CR Brasil AL
+[Mon Jul/10]
+  20.00  Vila Nova GO             1-0 (1-0)  Vitória BA
+
+
+Matchday 17
+[Thu Jul/13]
+  20.00  Criciúma SC              1-1 (0-1)  Guarani SP
+[Fri Jul/14]
+  21.30  Atlético Goianiense      3-1 (3-1)  Sport Recife PE
+         Sampaio Corrêa MA        0-0  Ituano SP
+[Sat Jul/15]
+  17.00  Londrina PR              1-0 (1-0)  Vila Nova GO
+         Ponte Preta              0-1 (0-0)  Tombense MG
+  11.00  Juventude RS             1-1 (0-1)  ABC RN
+[Sun Jul/16]
+  15.30  Mirassol SP              1-1 (1-1)  Ceará CE
+  18.00  Vitória BA               2-1 (2-0)  Grêmio Novorizontino SP
+
+
+Matchday 18
+[Mon Jul/17]
+  20.00  Botafogo SP              1-0 (0-0)  Criciúma SC
+[Tue Jul/18]
+  19.00  Chapecoense              1-0 (0-0)  Ituano SP
+  18.00  Tombense MG              2-1 (0-0)  CR Brasil AL
+  21.30  Ponte Preta              0-0  Juventude RS
+[Wed Jul/19]
+  21.30  Ceará CE                 1-0 (0-0)  Vila Nova GO
+         Sport Recife PE          1-2 (0-1)  Vitória BA
+  19.00  Atlético Goianiense      2-2 (0-1)  Mirassol SP
+         Grêmio Novorizontino SP  3-0 (3-0)  Londrina PR
+  21.30  ABC RN                   0-1 (0-0)  Guarani SP
+         Avaí SC                  2-0 (1-0)  Sampaio Corrêa MA
+
+
+Matchday 19
+[Fri Jul/21]
+  19.00  CR Brasil AL             1-0 (1-0)  Ponte Preta
+[Sat Jul/22]
+  18.00  Ituano SP                0-1 (0-1)  Avaí SC
+  15.30  Mirassol SP              2-0 (2-0)  Tombense MG
+  17.00  Criciúma SC              0-1 (0-0)  Grêmio Novorizontino SP
+         Vila Nova GO             1-1 (0-0)  ABC RN
+[Sun Jul/23]
+  18.00  Sampaio Corrêa MA        1-2 (1-1)  Sport Recife PE
+  15.30  Juventude RS             1-0 (0-0)  Ceará CE
+  11.00  Guarani SP               1-0 (1-0)  Atlético Goianiense
+[Mon Jul/24]
+  19.00  Londrina PR              1-2 (1-1)  Botafogo SP
+         Vitória BA               1-0 (0-0)  Chapecoense
+
+
+Matchday 20
+[Fri Jul/28]
+  21.30  Sport Recife PE          2-0 (0-0)  CR Brasil AL
+  19.00  Ceará CE                 1-1 (1-0)  Ituano SP
+[Sat Jul/29]
+  18.00  Atlético Goianiense      2-2 (0-2)  Sampaio Corrêa MA
+  11.00  Chapecoense              0-1 (0-0)  Mirassol SP
+  15.30  Botafogo SP              0-2 (0-1)  Juventude RS
+  17.00  ABC RN                   0-0  Londrina PR
+         Avaí SC                  1-2 (1-1)  Guarani SP
+[Sun Jul/30]
+  18.00  Ponte Preta              2-2 (2-0)  Vitória BA
+  15.30  Grêmio Novorizontino SP  3-1 (2-0)  Vila Nova GO
+  11.00  Tombense MG              2-2 (0-1)  Criciúma SC
+
+
+Matchday 21
+[Tue Aug/1]
+  21.30  CR Brasil AL             2-1 (1-0)  Atlético Goianiense
+  19.00  Sampaio Corrêa MA        0-0  Botafogo SP
+         Mirassol SP              2-2 (0-0)  Avaí SC
+[Wed Aug/2]
+  21.30  Vitória BA               2-0 (0-0)  ABC RN
+  19.00  Criciúma SC              2-1 (2-1)  Ponte Preta
+         Ituano SP                1-0 (1-0)  Tombense MG
+  21.30  Guarani SP               0-0  Ceará CE
+         Vila Nova GO             0-1 (0-0)  Sport Recife PE
+         Londrina PR              1-1 (1-0)  Chapecoense
+         Juventude RS             1-0 (1-0)  Grêmio Novorizontino SP
+
+
+Matchday 22
+[Fri Aug/4]
+  21.30  Mirassol SP              0-0  Sampaio Corrêa MA
+[Sat Aug/5]
+  17.00  Ituano SP                1-1 (0-1)  Guarani SP
+         CR Brasil AL             0-0  Botafogo SP
+  15.30  Avaí SC                  1-0 (1-0)  Criciúma SC
+  18.00  Sport Recife PE          1-0 (0-0)  Grêmio Novorizontino SP
+[Sun Aug/6]
+  15.30  Ponte Preta              1-0 (0-0)  Chapecoense
+  18.00  Ceará CE                 1-0 (1-0)  ABC RN
+[Mon Aug/7]
+  20.00  Atlético Goianiense      3-2 (0-2)  Tombense MG
+  18.00  Juventude RS             0-2 (0-0)  Vila Nova GO
+  20.00  Londrina PR              2-0 (0-0)  Vitória BA
+
+
+Matchday 23
+[Fri Aug/11]
+  19.00  Grêmio Novorizontino SP  2-1 (1-1)  Mirassol SP
+  21.30  Tombense MG              0-0  Sport Recife PE
+[Sat Aug/12]
+  18.00  Vila Nova GO             1-1 (0-1)  Avaí SC
+  17.00  Sampaio Corrêa MA        1-1 (0-0)  CR Brasil AL
+  15.30  Criciúma SC              2-0 (1-0)  Londrina PR
+  17.00  Botafogo SP              0-0  Ponte Preta
+[Sun Aug/13]
+  18.00  Vitória BA               1-0 (1-0)  Ceará CE
+  11.00  Chapecoense              0-1 (0-0)  Atlético Goianiense
+  15.45  Guarani SP               0-1 (0-0)  Juventude RS
+[Mon Aug/14]
+  20.00  ABC RN                   1-1 (0-0)  Ituano SP
+
+
+Matchday 24
+[Thu Aug/17]
+  19.00  Londrina PR              0-2 (0-0)  Atlético Goianiense
+  21.30  Vila Nova GO             2-0 (2-0)  Mirassol SP
+[Fri Aug/18]
+  19.00  Vitória BA               2-0 (0-0)  Botafogo SP
+  21.30  Guarani SP               3-1 (3-1)  Sport Recife PE
+[Sat Aug/19]
+  17.00  Ituano SP                3-0 (2-0)  Criciúma SC
+  18.00  Juventude RS             0-0  Sampaio Corrêa MA
+  15.30  Avaí SC                  4-2 (1-1)  Tombense MG
+  17.00  ABC RN                   1-2 (0-1)  CR Brasil AL
+[Sun Aug/20]
+  15.45  Grêmio Novorizontino SP  1-2 (1-0)  Chapecoense
+  18.00  Ceará CE                 1-1 (0-0)  Ponte Preta
+
+
+Matchday 25
+[Tue Aug/22]
+  19.00  Mirassol SP              0-1 (0-0)  Juventude RS
+  21.30  Criciúma SC              1-0 (1-0)  Vila Nova GO
+
+
+Matchday 17
+[Wed Aug/23]
+  21.30  Botafogo SP              1-2 (0-2)  Chapecoense
+  19.00  CR Brasil AL             1-1 (1-0)  Avaí SC
+
+
+Matchday 25
+[Fri Aug/25]
+  21.30  Sport Recife PE          1-2 (0-2)  Ituano SP
+  19.00  Ponte Preta              1-0 (1-0)  Londrina PR
+[Sat Aug/26]
+  17.00  Tombense MG              2-2 (0-2)  Ceará CE
+  18.00  CR Brasil AL             1-0 (1-0)  Grêmio Novorizontino SP
+  17.00  Sampaio Corrêa MA        1-1 (0-1)  Guarani SP
+[Sun Aug/27]
+  15.45  Chapecoense              0-0  Avaí SC
+  18.00  Atlético Goianiense      0-0  Vitória BA
+[Mon Aug/28]
+  20.00  Botafogo SP              0-0  ABC RN
+
+
+Matchday 26
+[Wed Aug/30]
+  19.00  Grêmio Novorizontino SP  2-0 (1-0)  Ituano SP
+[Thu Aug/31]
+  21.30  Juventude RS             0-0  Chapecoense
+[Fri Sep/1]
+  19.15  Vitória BA               0-0  Mirassol SP
+  21.30  Londrina PR              1-1 (0-1)  Tombense MG
+[Sat Sep/2]
+  17.00  ABC RN                   1-1 (0-1)  Sampaio Corrêa MA
+         Ceará CE                 1-0 (1-0)  Criciúma SC
+  18.00  Guarani SP               1-0 (1-0)  Ponte Preta
+  15.30  Avaí SC                  0-2 (0-1)  Atlético Goianiense
+[Sun Sep/3]
+  15.45  Vila Nova GO             0-1 (0-0)  CR Brasil AL
+  18.00  Botafogo SP              1-1 (1-1)  Sport Recife PE
+
+
+Matchday 27
+[Tue Sep/5]
+  21.30  Chapecoense              0-1 (0-1)  Guarani SP
+[Wed Sep/6]
+  21.30  Ceará CE                 3-1 (3-1)  Londrina PR
+[Thu Sep/7]
+  18.30  Tombense MG              3-0 (1-0)  ABC RN
+[Fri Sep/8]
+  18.00  Ituano SP                1-2 (0-2)  Vila Nova GO
+[Sat Sep/9]
+  20.30  Mirassol SP              1-0 (0-0)  Botafogo SP
+  20.45  Sport Recife PE          3-3 (2-1)  Criciúma SC
+  17.00  Ponte Preta              0-0  Sampaio Corrêa MA
+[Sun Sep/10]
+  15.45  Atlético Goianiense      3-0 (1-0)  Juventude RS
+  18.00  CR Brasil AL             6-0 (3-0)  Vitória BA
+[Mon Sep/11]
+  20.30  Avaí SC                  1-0 (0-0)  Grêmio Novorizontino SP
+
+
+Matchday 28
+[Thu Sep/14]
+  18.30  Londrina PR              2-2 (2-2)  Ituano SP
+[Fri Sep/15]
+  21.30  ABC RN                   0-1 (0-0)  Sport Recife PE
+  19.00  Vila Nova GO             1-1 (1-1)  Ponte Preta
+[Sat Sep/16]
+  15.30  Criciúma SC              2-1 (1-1)  Mirassol SP
+  17.00  Botafogo SP              1-0 (1-0)  Atlético Goianiense
+         Sampaio Corrêa MA        2-0 (2-0)  Chapecoense
+  18.00  Juventude RS             3-1 (0-0)  CR Brasil AL
+[Sun Sep/17]
+  18.00  Vitória BA               3-0 (1-0)  Avaí SC
+  15.45  Guarani SP               3-0 (2-0)  Tombense MG
+[Mon Sep/18]
+  21.00  Grêmio Novorizontino SP  4-1 (3-0)  Ceará CE
+
+
+Matchday 29
+[Tue Sep/19]
+  21.30  Sampaio Corrêa MA        2-1 (1-1)  Vila Nova GO
+[Fri Sep/22]
+  21.30  Atlético Goianiense      3-1 (3-1)  Criciúma SC
+         Ituano SP                0-2 (0-1)  Vitória BA
+  19.00  Ponte Preta              0-3 (0-1)  Mirassol SP
+[Sat Sep/23]
+  17.00  Chapecoense              1-1 (1-0)  Ceará CE
+         CR Brasil AL             1-0 (0-0)  Guarani SP
+  18.00  Tombense MG              0-0  Botafogo SP
+  20.45  Sport Recife PE          4-0 (1-0)  Londrina PR
+[Mon Sep/25]
+  21.00  Grêmio Novorizontino SP  2-1 (2-0)  ABC RN
+  18.30  Avaí SC                  0-2 (0-2)  Juventude RS
+
+
+Matchday 30
+[Thu Sep/28]
+  21.30  Londrina PR              1-0 (1-0)  Sampaio Corrêa MA
+  19.00  Mirassol SP              1-0 (1-0)  CR Brasil AL
+[Fri Sep/29]
+  19.00  Avaí SC                  2-2 (2-1)  Sport Recife PE
+  21.30  Vitória BA               1-0 (0-0)  Tombense MG
+[Sat Sep/30]
+  17.00  Guarani SP               2-1 (1-1)  Grêmio Novorizontino SP
+         Ituano SP                1-1 (1-1)  Botafogo SP
+  18.00  ABC RN                   2-0 (0-0)  Ponte Preta
+  15.30  Juventude RS             1-0 (0-0)  Criciúma SC
+[Sun Oct/1]
+  15.45  Vila Nova GO             0-0  Chapecoense
+  18.00  Ceará CE                 0-1 (0-0)  Atlético Goianiense
+
+
+Matchday 31
+[Tue Oct/3]
+  19.30  Mirassol SP              2-0 (2-0)  Londrina PR
+[Thu Oct/5]
+  19.15  Chapecoense              0-0  ABC RN
+[Fri Oct/6]
+  21.30  CR Brasil AL             2-0 (1-0)  Ceará CE
+         Atlético Goianiense      1-0 (1-0)  Ituano SP
+[Sat Oct/7]
+  15.30  Tombense MG              1-1 (1-0)  Juventude RS
+  17.00  Botafogo SP              0-1 (0-0)  Avaí SC
+         Sampaio Corrêa MA        1-1 (0-0)  Grêmio Novorizontino SP
+  18.00  Guarani SP               1-1 (0-1)  Vila Nova GO
+[Sun Oct/8]
+  18.00  Criciúma SC              1-0 (1-0)  Vitória BA
+[Mon Oct/9]
+  20.00  Sport Recife PE          3-3 (1-3)  Ponte Preta
+
+
+Matchday 32
+[Tue Oct/10]
+  21.30  ABC RN                   1-2 (0-2)  Mirassol SP
+[Wed Oct/11]
+  21.30  Vila Nova GO             3-1 (2-0)  Botafogo SP
+[Fri Oct/13]
+  21.30  Criciúma SC              1-2 (0-1)  Chapecoense
+[Sat Oct/14]
+  17.00  Grêmio Novorizontino SP  0-0  Tombense MG
+  18.30  Ceará CE                 0-0  Sampaio Corrêa MA
+  17.00  Ituano SP                0-0  CR Brasil AL
+[Sun Oct/15]
+  15.45  Ponte Preta              0-2 (0-1)  Atlético Goianiense
+  18.00  Vitória BA               2-0 (1-0)  Guarani SP
+  18.30  Londrina PR              1-1 (1-0)  Avaí SC
+[Mon Oct/16]
+  20.00  Juventude RS             2-2 (1-1)  Sport Recife PE
+
+
+Matchday 33
+[Thu Oct/19]
+  19.00  Tombense MG              2-1 (0-1)  Vila Nova GO
+         Atlético Goianiense      3-1 (1-0)  ABC RN
+[Fri Oct/20]
+  19.00  Sampaio Corrêa MA        0-1 (0-1)  Vitória BA
+  21.30  Mirassol SP              0-0  Guarani SP
+[Sat Oct/21]
+  17.00  CR Brasil AL             0-1 (0-0)  Criciúma SC
+  18.00  Juventude RS             2-2 (1-2)  Londrina PR
+  17.00  Botafogo SP              2-0 (1-0)  Grêmio Novorizontino SP
+[Sun Oct/22]
+  18.00  Sport Recife PE          2-1 (0-1)  Chapecoense
+         Avaí SC                  1-0 (0-0)  Ceará CE
+[Mon Oct/23]
+  20.00  Ponte Preta              0-0  Ituano SP
+
+
+Matchday 34
+[Thu Oct/26]
+  19.00  ABC RN                   1-1 (0-1)  Avaí SC
+[Fri Oct/27]
+  21.30  Guarani SP               0-1 (0-0)  Botafogo SP
+         Grêmio Novorizontino SP  2-0 (0-0)  Ponte Preta
+  19.00  Ceará CE                 2-1 (1-1)  Sport Recife PE
+[Sat Oct/28]
+  15.30  Criciúma SC              3-0 (3-0)  Sampaio Corrêa MA
+         Ituano SP                0-0  Mirassol SP
+  19.00  Vila Nova GO             2-1 (0-0)  Atlético Goianiense
+[Sun Oct/29]
+  19.00  Vitória BA               0-0  Juventude RS
+  18.30  Londrina PR              1-1 (0-0)  CR Brasil AL
+[Mon Oct/30]
+  20.00  Chapecoense              1-2 (0-1)  Tombense MG
+
+
+Matchday 35
+[Wed Nov/1]
+  20.00  Atlético Goianiense      2-2 (1-2)  Grêmio Novorizontino SP
+[Fri Nov/3]
+  19.00  Mirassol SP              2-1 (1-0)  Sport Recife PE
+  21.30  Juventude RS             2-1 (1-0)  Ituano SP
+         Londrina PR              0-0  Guarani SP
+[Sat Nov/4]
+  17.00  Ponte Preta              0-1 (0-0)  Avaí SC
+  19.30  Sampaio Corrêa MA        1-2 (1-1)  Tombense MG
+  17.00  Botafogo SP              2-2 (1-1)  Ceará CE
+[Sun Nov/5]
+  18.00  Vitória BA               1-1 (0-1)  Vila Nova GO
+[Tue Nov/7]
+  21.30  Criciúma SC              1-0 (1-0)  ABC RN
+  19.00  CR Brasil AL             3-2 (2-1)  Chapecoense
+
+
+Matchday 36
+[Fri Nov/10]
+  21.30  Sport Recife PE          0-0  Atlético Goianiense
+  19.00  Vila Nova GO             4-1 (2-0)  Londrina PR
+[Sat Nov/11]
+  15.30  Ituano SP                2-1 (2-0)  Sampaio Corrêa MA
+  17.00  Avaí SC                  1-1 (1-0)  CR Brasil AL
+         Chapecoense              2-0 (0-0)  Botafogo SP
+  18.00  Tombense MG              0-1 (0-0)  Ponte Preta
+[Sun Nov/12]
+  18.00  Grêmio Novorizontino SP  1-2 (1-1)  Vitória BA
+  15.45  Ceará CE                 2-0 (0-0)  Mirassol SP
+[Tue Nov/14]
+  19.00  Guarani SP               1-1 (0-1)  Criciúma SC
+  21.30  ABC RN                   0-0  Juventude RS
+
+
+Matchday 37
+[Fri Nov/17]
+  21.30  Londrina PR              0-1 (0-0)  Grêmio Novorizontino SP
+  19.00  Ituano SP                0-0  Chapecoense
+[Sat Nov/18]
+  17.00  Criciúma SC              3-0 (1-0)  Botafogo SP
+         Juventude RS             0-0  Ponte Preta
+         Mirassol SP              4-1 (2-0)  Atlético Goianiense
+         Vila Nova GO             3-1 (1-1)  Ceará CE
+         Vitória BA               1-0 (0-0)  Sport Recife PE
+[Sun Nov/19]
+  18.00  CR Brasil AL             2-0 (0-0)  Tombense MG
+  15.45  Guarani SP               2-3 (1-1)  ABC RN
+[Mon Nov/20]
+  20.00  Sampaio Corrêa MA        4-0 (3-0)  Avaí SC
+
+
+Matchday 38
+[Sat Nov/25]
+  17.00  ABC RN                   3-2 (2-0)  Vila Nova GO
+         Atlético Goianiense      3-0 (0-0)  Guarani SP
+         Avaí SC                  0-0  Ituano SP
+         Botafogo SP              0-1 (0-0)  Londrina PR
+         Ceará CE                 1-3 (1-1)  Juventude RS
+         Chapecoense              3-1 (1-1)  Vitória BA
+         Grêmio Novorizontino SP  2-0 (1-0)  Criciúma SC
+         Ponte Preta              3-0 (1-0)  CR Brasil AL
+         Sport Recife PE          4-1 (3-0)  Sampaio Corrêa MA
+         Tombense MG              0-1 (0-0)  Mirassol SP

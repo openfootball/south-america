@@ -1,0 +1,651 @@
+= Brasileiro Série B 2024
+
+# Date       Fri Apr/19 - Tue Nov/26 2024 (221d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Apr/19]
+  19.00  Grêmio Novorizontino SP  2-1 (0-1)  CR Brasil AL
+  21.00  Operário Ferroviário PR  1-0 (0-0)  Avaí SC
+  19.00  Botafogo SP              1-1 (0-0)  América MG
+[Sat Apr/20]
+  15.30  Chapecoense              3-1 (1-0)  Ituano SP
+  16.30  Santos FC                2-0 (0-0)  Paysandu PA
+  17.00  Amazonas FC AM           2-3 (0-1)  Sport Recife PE
+  18.00  Ceará CE                 1-1 (1-1)  Goiás GO
+[Sun Apr/21]
+  18.00  Ponte Preta              1-1 (1-0)  Coritiba PR
+[Mon Apr/22]
+  21.00  Vila Nova GO             2-0 (1-0)  Guarani SP
+[Tue Apr/23]
+  21.00  Brusque SC               3-1 (1-0)  Mirassol SP
+
+
+Matchday 2
+[Fri Apr/26]
+  19.00  Ituano SP                0-2 (0-1)  Operário Ferroviário PR
+         Sport Recife PE          2-0 (1-0)  Vila Nova GO
+  20.00  Avaí SC                  0-2 (0-0)  Santos FC
+  21.00  Guarani SP               0-1 (0-1)  Chapecoense
+[Sat Apr/27]
+  17.00  Paysandu PA              1-1 (0-0)  Botafogo SP
+  18.00  América MG               2-0 (1-0)  Grêmio Novorizontino SP
+  17.00  CR Brasil AL             0-0  Amazonas FC AM
+[Sun Apr/28]
+  18.30  Goiás GO                 3-0 (1-0)  Ponte Preta
+  16.00  Coritiba PR              1-0 (0-0)  Brusque SC
+[Mon Apr/29]
+  19.30  Mirassol SP              3-2 (2-0)  Ceará CE
+
+
+Matchday 3
+[Fri May/3]
+  21.30  Coritiba PR              0-1 (0-1)  Sport Recife PE
+  19.00  Paysandu PA              0-0  Avaí SC
+[Sat May/4]
+  17.00  Chapecoense              2-2 (1-0)  América MG
+  18.00  Vila Nova GO             1-0 (0-0)  Operário Ferroviário PR
+  21.00  Ituano SP                1-3 (1-1)  Grêmio Novorizontino SP
+[Sun May/5]
+  16.00  Brusque SC               0-2 (0-1)  Goiás GO
+[Mon May/6]
+  20.00  Ponte Preta              3-0 (2-0)  Amazonas FC AM
+  21.00  Santos FC                4-1 (2-0)  Guarani SP
+  19.00  Ceará CE                 2-2 (1-1)  CR Brasil AL
+[Tue May/7]
+  21.00  Botafogo SP              0-0  Mirassol SP
+
+
+Matchday 4
+[Wed May/8]
+  21.00  América MG               3-1 (2-1)  Vila Nova GO
+[Fri May/10]
+  21.30  Goiás GO                 2-0 (1-0)  Ituano SP
+         CR Brasil AL             2-0 (2-0)  Chapecoense
+  19.00  Grêmio Novorizontino SP  0-3 (0-1)  Ceará CE
+[Sat May/11]
+  17.00  Guarani SP               2-0 (1-0)  Botafogo SP
+         Operário Ferroviário PR  1-1 (1-0)  Ponte Preta
+         Amazonas FC AM           1-0 (1-0)  Santos FC
+         Sport Recife PE          4-1 (1-0)  Brusque SC
+  21.00  Avaí SC                  1-0 (0-0)  Coritiba PR
+[Sun May/12]
+  16.00  Mirassol SP              2-1 (2-0)  Paysandu PA
+
+
+Matchday 5
+[Tue May/14]
+  19.00  Avaí SC                  2-1 (2-0)  CR Brasil AL
+  21.30  Botafogo SP              0-0  Chapecoense
+         Coritiba PR              1-0 (1-0)  Guarani SP
+  19.00  Vila Nova GO             2-1 (0-0)  Grêmio Novorizontino SP
+[Wed May/15]
+  19.00  Ituano SP                1-0 (0-0)  Sport Recife PE
+         América MG               0-0  Mirassol SP
+         Brusque SC               0-0  Operário Ferroviário PR
+  21.30  Ponte Preta              1-2 (0-2)  Santos FC
+         Paysandu PA              1-1 (1-0)  Goiás GO
+         Ceará CE                 2-1 (2-0)  Amazonas FC AM
+
+
+Matchday 6
+[Fri May/17]
+  21.30  Grêmio Novorizontino SP  0-0  Coritiba PR
+  19.00  CR Brasil AL             1-0 (1-0)  Vila Nova GO
+[Sat May/18]
+  17.30  Amazonas FC AM           1-1 (1-1)  Paysandu PA
+  18.30  Goiás GO                 4-0 (2-0)  Botafogo SP
+  21.00  Sport Recife PE          1-2 (1-0)  Avaí SC
+[Sun May/19]
+  16.00  Mirassol SP              2-0 (0-0)  Ituano SP
+         Operário Ferroviário PR  0-0  Ceará CE
+  11.00  Santos FC                4-0 (3-0)  Brusque SC
+[Mon May/20]
+  21.00  Guarani SP               1-2 (1-1)  América MG
+[Tue May/21]
+  17.00  Chapecoense              0-0  Ponte Preta
+
+
+Matchday 7
+[Fri May/24]
+  21.30  América MG               2-1 (1-1)  Santos FC
+[Sat May/25]
+  21.00  Guarani SP               0-0  Paysandu PA
+[Sun May/26]
+  16.00  Ituano SP                2-0 (0-0)  Ponte Preta
+  17.00  Vila Nova GO             2-2 (1-1)  Brusque SC
+  18.30  Ceará CE                 2-1 (1-1)  Chapecoense
+[Mon May/27]
+  21.00  Botafogo SP              0-1 (0-0)  Grêmio Novorizontino SP
+  21.30  Avaí SC                  2-0 (0-0)  Goiás GO
+  19.00  Coritiba PR              3-0 (3-0)  Operário Ferroviário PR
+[Tue May/28]
+  19.00  Amazonas FC AM           1-0 (0-0)  Mirassol SP
+
+
+Matchday 8
+[Fri May/31]
+  21.30  Goiás GO                 3-0 (1-0)  Sport Recife PE
+  19.00  Ceará CE                 1-0 (0-0)  Coritiba PR
+[Sat Jun/1]
+  17.00  Brusque SC               0-0  Grêmio Novorizontino SP
+[Sun Jun/2]
+  16.00  Ponte Preta              4-2 (0-0)  CR Brasil AL
+         Chapecoense              1-1 (0-0)  Vila Nova GO
+  18.30  Ituano SP                0-1 (0-1)  Avaí SC
+[Mon Jun/3]
+  20.00  Santos FC                1-2 (0-1)  Botafogo SP
+  21.00  Operário Ferroviário PR  1-0 (1-0)  Amazonas FC AM
+[Tue Jun/4]
+  19.00  Mirassol SP              3-0 (1-0)  Guarani SP
+  21.30  Paysandu PA              2-0 (0-0)  América MG
+
+
+Matchday 9
+[Fri Jun/7]
+  21.00  Grêmio Novorizontino SP  3-1 (1-0)  Santos FC
+  19.00  Coritiba PR              4-2 (3-0)  Ituano SP
+[Sat Jun/8]
+  17.00  Guarani SP               0-1 (0-1)  Operário Ferroviário PR
+         Amazonas FC AM           2-1 (0-0)  Brusque SC
+[Sun Jun/9]
+  16.00  Avaí SC                  0-0  Chapecoense
+  18.30  América MG               2-0 (1-0)  Ponte Preta
+[Mon Jun/10]
+  19.00  Vila Nova GO             3-2 (1-1)  Ceará CE
+  21.30  Sport Recife PE          1-0 (0-0)  Paysandu PA
+[Tue Jun/11]
+  19.00  Mirassol SP              1-0 (0-0)  Goiás GO
+
+
+Matchday 10
+[Thu Jun/13]
+  21.00  Amazonas FC AM           0-1 (0-0)  Chapecoense
+[Fri Jun/14]
+  19.00  Operário Ferroviário PR  1-0 (1-0)  Santos FC
+  21.00  Avaí SC                  3-2 (1-2)  Guarani SP
+[Sat Jun/15]
+  18.00  Ituano SP                3-5 (2-3)  Paysandu PA
+  17.00  Ponte Preta              1-0 (1-0)  Grêmio Novorizontino SP
+  15.30  América MG               2-1 (0-1)  CR Brasil AL
+[Sun Jun/16]
+  18.30  Goiás GO                 1-1 (1-1)  Coritiba PR
+  11.00  Botafogo SP              1-0 (1-0)  Vila Nova GO
+  16.00  Brusque SC               1-0 (0-0)  Ceará CE
+  18.30  Sport Recife PE          1-0 (0-0)  Mirassol SP
+
+
+Matchday 11
+[Mon Jun/17]
+  21.00  Chapecoense              0-1 (0-0)  Operário Ferroviário PR
+[Tue Jun/18]
+  21.30  Paysandu PA              1-1 (0-0)  CR Brasil AL
+  21.00  Grêmio Novorizontino SP  1-1 (0-1)  Amazonas FC AM
+  19.00  Guarani SP               3-3 (0-1)  Ituano SP
+[Wed Jun/19]
+  21.30  Coritiba PR              1-0 (0-0)  América MG
+         Brusque SC               0-0  Avaí SC
+  19.00  Santos FC                2-0 (0-0)  Goiás GO
+  21.00  Botafogo SP              2-0 (0-0)  Ponte Preta
+[Thu Jun/20]
+  19.00  Vila Nova GO             1-0 (0-0)  Mirassol SP
+  21.30  Ceará CE                 0-0  Sport Recife PE
+
+
+Matchday 12
+[Sat Jun/22]
+  21.00  Ituano SP                1-1 (0-0)  Brusque SC
+  17.00  CR Brasil AL             1-0 (1-0)  Guarani SP
+         Operário Ferroviário PR  0-1 (0-0)  Botafogo SP
+[Sun Jun/23]
+  16.00  Chapecoense              1-2 (1-1)  Paysandu PA
+  18.30  Vila Nova GO             1-0 (0-0)  Goiás GO
+[Mon Jun/24]
+  19.00  Sport Recife PE          1-2 (0-2)  Grêmio Novorizontino SP
+[Tue Jun/25]
+  21.00  Ponte Preta              3-1 (2-0)  Ceará CE
+  19.00  América MG               1-1 (1-1)  Avaí SC
+         Mirassol SP              0-0  Santos FC
+  21.30  Amazonas FC AM           1-0 (0-0)  Coritiba PR
+
+
+Matchday 13
+[Sat Jun/29]
+  21.00  Ceará CE                 4-2 (3-1)  Ituano SP
+  17.00  Botafogo SP              1-1 (1-0)  Sport Recife PE
+  16.00  Coritiba PR              1-1 (0-0)  Vila Nova GO
+[Sun Jun/30]
+  16.00  Paysandu PA              1-1 (1-0)  Operário Ferroviário PR
+  11.00  Avaí SC                  1-1 (1-1)  Amazonas FC AM
+  18.30  Guarani SP               1-1 (1-0)  Ponte Preta
+[Mon Jul/1]
+  19.00  Santos FC                1-0 (0-0)  Chapecoense
+  21.00  CR Brasil AL             1-1 (0-0)  Brusque SC
+[Tue Jul/2]
+  18.30  Goiás GO                 2-1 (0-0)  América MG
+  20.00  Grêmio Novorizontino SP  1-1 (1-1)  Mirassol SP
+
+
+Matchday 14
+[Fri Jul/5]
+  21.00  Brusque SC               0-0  Ponte Preta
+  19.00  Ceará CE                 0-1 (0-1)  Santos FC
+[Sat Jul/6]
+  11.00  América MG               2-0 (0-0)  Operário Ferroviário PR
+  17.00  Goiás GO                 1-2 (0-1)  Chapecoense
+[Sun Jul/7]
+  16.00  Ituano SP                3-2 (3-1)  Botafogo SP
+  11.00  Coritiba PR              1-1 (1-1)  Paysandu PA
+  18.30  Guarani SP               0-1 (0-0)  Sport Recife PE
+[Mon Jul/8]
+  21.00  Amazonas FC AM           1-2 (1-0)  Vila Nova GO
+  20.00  Avaí SC                  0-1 (0-1)  Grêmio Novorizontino SP
+[Tue Jul/9]
+  21.00  Mirassol SP              1-0 (0-0)  CR Brasil AL
+
+
+Matchday 15
+[Fri Jul/12]
+  21.30  Paysandu PA              2-1 (1-1)  Ceará CE
+  21.00  Botafogo SP              0-1 (0-1)  Amazonas FC AM
+  19.00  Ponte Preta              4-2 (1-1)  Mirassol SP
+[Sat Jul/13]
+  17.00  Sport Recife PE          1-1 (0-1)  América MG
+  15.30  Grêmio Novorizontino SP  1-1 (1-1)  Guarani SP
+  18.00  CR Brasil AL             2-1 (0-1)  Coritiba PR
+[Sun Jul/14]
+  18.30  Chapecoense              1-1 (0-1)  Brusque SC
+  16.00  Vila Nova GO             2-1 (0-1)  Avaí SC
+[Mon Jul/15]
+  20.00  Santos FC                2-0 (2-0)  Ituano SP
+
+
+Matchday 9
+[Wed Jul/17]
+  20.30  CR Brasil AL             4-1 (2-1)  Botafogo SP
+
+
+Matchday 15
+[Wed Jul/17]
+  21.00  Operário Ferroviário PR  2-0 (1-0)  Goiás GO
+
+
+Matchday 16
+[Thu Jul/18]
+  20.00  Vila Nova GO             1-1 (0-0)  Santos FC
+  21.00  Grêmio Novorizontino SP  1-0 (1-0)  Chapecoense
+[Fri Jul/19]
+  19.00  Avaí SC                  0-1 (0-0)  Ceará CE
+  21.30  Coritiba PR              0-1 (0-0)  Mirassol SP
+[Sat Jul/20]
+  Sport Recife PE          -  Operário Ferroviário PR
+  17.00  América MG               0-0  Amazonas FC AM
+         CR Brasil AL             1-0 (0-0)  Ituano SP
+  18.00  Paysandu PA              1-0 (1-0)  Ponte Preta
+[Sun Jul/21]
+  16.00  Guarani SP               2-3 (1-1)  Goiás GO
+  18.30  Botafogo SP              2-2 (1-0)  Brusque SC
+
+
+Matchday 17
+[Mon Jul/22]
+  20.00  Santos FC                4-0 (2-0)  Coritiba PR
+[Tue Jul/23]
+  19.00  Chapecoense              1-1 (0-1)  Sport Recife PE
+         Operário Ferroviário PR  0-0  Grêmio Novorizontino SP
+  20.00  Mirassol SP              0-0  Avaí SC
+  21.00  Ituano SP                0-0  América MG
+  21.30  Ponte Preta              2-0 (1-0)  Vila Nova GO
+[Wed Jul/24]
+  21.30  Amazonas FC AM           1-1 (1-1)  Guarani SP
+  21.00  Brusque SC               1-0 (1-0)  Paysandu PA
+[Thu Jul/25]
+  21.30  Ceará CE                 4-1 (3-1)  Botafogo SP
+         Goiás GO                 1-1 (0-0)  CR Brasil AL
+
+
+Matchday 18
+[Fri Jul/26]
+  21.30  Ituano SP                0-0  Vila Nova GO
+[Sat Jul/27]
+  17.00  Mirassol SP              1-0 (1-0)  Operário Ferroviário PR
+         Coritiba PR              1-0 (0-0)  Chapecoense
+  18.00  Sport Recife PE          3-1 (1-1)  Ponte Preta
+[Sun Jul/28]
+  18.30  CR Brasil AL             1-1 (0-0)  Santos FC
+  16.00  Guarani SP               1-0 (0-0)  Brusque SC
+  18.30  América MG               2-2 (2-2)  Ceará CE
+[Mon Jul/29]
+  18.30  Paysandu PA              1-3 (1-1)  Grêmio Novorizontino SP
+[Tue Jul/30]
+  Goiás GO                 -  Amazonas FC AM
+  21.00  Avaí SC                  1-1 (0-0)  Botafogo SP
+
+
+Matchday 19
+[Fri Aug/2]
+  19.00  Brusque SC               0-0  América MG
+  21.30  Santos FC                1-1 (1-0)  Sport Recife PE
+[Sat Aug/3]
+  17.00  Botafogo SP              2-0 (0-0)  Coritiba PR
+  21.30  Amazonas FC AM           1-0 (0-0)  Ituano SP
+[Sun Aug/4]
+  18.30  Operário Ferroviário PR  2-0 (1-0)  CR Brasil AL
+  16.00  Ponte Preta              1-0 (0-0)  Avaí SC
+  18.30  Grêmio Novorizontino SP  2-1 (1-0)  Goiás GO
+[Mon Aug/5]
+  21.00  Vila Nova GO             2-2 (1-1)  Paysandu PA
+  18.30  Chapecoense              0-1 (0-0)  Mirassol SP
+[Tue Aug/6]
+  21.00  Ceará CE                 3-1 (1-1)  Guarani SP
+
+
+Matchday 20
+[Fri Aug/9]
+  21.30  América MG               3-1 (2-0)  Botafogo SP
+  19.15  Avaí SC                  1-0 (1-0)  Operário Ferroviário PR
+  20.00  Paysandu PA              0-3 (0-1)  Santos FC
+  21.00  Mirassol SP              2-0 (2-0)  Brusque SC
+[Sat Aug/10]
+  17.00  Ituano SP                2-1 (1-1)  Chapecoense
+         Sport Recife PE          3-2 (2-1)  Amazonas FC AM
+[Sun Aug/11]
+  16.00  Coritiba PR              1-1 (1-0)  Ponte Preta
+  18.30  CR Brasil AL             0-1 (0-0)  Grêmio Novorizontino SP
+[Mon Aug/12]
+  21.00  Goiás GO                 2-1 (1-1)  Ceará CE
+  20.00  Guarani SP               2-0 (2-0)  Vila Nova GO
+
+
+Matchday 21
+[Thu Aug/15]
+  21.00  Operário Ferroviário PR  1-2 (1-2)  Ituano SP
+[Fri Aug/16]
+  21.30  Grêmio Novorizontino SP  1-1 (1-1)  América MG
+  19.00  Ponte Preta              1-1 (0-1)  Goiás GO
+  21.00  Vila Nova GO             2-0 (1-0)  Sport Recife PE
+[Sat Aug/17]
+  18.00  Amazonas FC AM           2-0 (1-0)  CR Brasil AL
+  15.30  Chapecoense              0-4 (0-2)  Guarani SP
+  16.00  Santos FC                0-1 (0-1)  Avaí SC
+  17.00  Ceará CE                 1-2 (0-1)  Mirassol SP
+[Sun Aug/18]
+  16.00  Brusque SC               0-1 (0-1)  Coritiba PR
+  18.30  Botafogo SP              1-1 (1-1)  Paysandu PA
+
+
+Matchday 22
+[Tue Aug/20]
+  19.00  Grêmio Novorizontino SP  1-0 (0-0)  Ituano SP
+  21.00  Amazonas FC AM           2-1 (1-0)  Ponte Preta
+  21.30  Operário Ferroviário PR  2-3 (1-0)  Vila Nova GO
+[Wed Aug/21]
+  19.00  América MG               0-0  Chapecoense
+         Guarani SP               1-1 (0-0)  Santos FC
+         Mirassol SP              1-2 (0-0)  Botafogo SP
+  21.00  Goiás GO                 4-1 (2-0)  Brusque SC
+  20.00  CR Brasil AL             0-2 (0-1)  Ceará CE
+[Thu Aug/22]
+  20.00  Avaí SC                  1-0 (1-0)  Paysandu PA
+  21.00  Sport Recife PE          0-1 (0-0)  Coritiba PR
+
+
+Matchday 23
+[Fri Aug/23]
+  21.30  Ponte Preta              0-1 (0-0)  Operário Ferroviário PR
+[Sat Aug/24]
+  16.00  Santos FC                0-0  Amazonas FC AM
+  17.00  Ituano SP                1-0 (1-0)  Goiás GO
+[Sun Aug/25]
+  18.30  Vila Nova GO             1-0 (0-0)  América MG
+         Chapecoense              0-0  CR Brasil AL
+[Mon Aug/26]
+  18.30  Paysandu PA              0-0  Mirassol SP
+  21.00  Ceará CE                 1-0 (0-0)  Grêmio Novorizontino SP
+[Tue Aug/27]
+  21.00  Brusque SC               1-0 (1-0)  Sport Recife PE
+  21.30  Coritiba PR              1-0 (0-0)  Avaí SC
+
+
+Matchday 24
+[Fri Aug/30]
+  21.30  Santos FC                2-2 (2-0)  Ponte Preta
+[Sat Aug/31]
+  17.00  Chapecoense              1-1 (1-0)  Botafogo SP
+         Grêmio Novorizontino SP  2-0 (0-0)  Vila Nova GO
+  18.00  CR Brasil AL             1-2 (0-2)  Avaí SC
+[Sun Sep/1]
+  16.00  Amazonas FC AM           1-1 (1-0)  Ceará CE
+  18.30  Goiás GO                 1-1 (0-0)  Paysandu PA
+[Mon Sep/2]
+  19.30  Sport Recife PE          3-2 (1-1)  Ituano SP
+  21.30  Operário Ferroviário PR  0-0  Brusque SC
+[Tue Sep/3]
+  21.30  Guarani SP               2-1 (1-0)  Coritiba PR
+  19.00  Mirassol SP              1-0 (1-0)  América MG
+
+
+Matchday 25
+[Wed Sep/4]
+  20.00  Vila Nova GO             1-0 (0-0)  CR Brasil AL
+[Thu Sep/5]
+  21.30  Paysandu PA              0-1 (0-1)  Amazonas FC AM
+[Sat Sep/7]
+  19.00  Avaí SC                  0-2 (0-1)  Sport Recife PE
+  16.00  Brusque SC               0-1 (0-1)  Santos FC
+         Ituano SP                3-2 (1-1)  Mirassol SP
+[Sun Sep/8]
+  18.30  Coritiba PR              2-2 (1-1)  Grêmio Novorizontino SP
+  16.00  Ceará CE                 2-1 (1-0)  Operário Ferroviário PR
+  18.30  América MG               3-0 (2-0)  Guarani SP
+[Mon Sep/9]
+  21.30  Ponte Preta              0-2 (0-1)  Chapecoense
+  20.00  Botafogo SP              1-0 (0-0)  Goiás GO
+
+
+Matchday 7
+[Wed Sep/11]
+  21.30  CR Brasil AL             1-1 (1-0)  Sport Recife PE
+
+
+Matchday 26
+[Fri Sep/13]
+  19.00  Grêmio Novorizontino SP  2-0 (2-0)  Botafogo SP
+  21.30  Goiás GO                 2-1 (0-0)  Avaí SC
+         Ponte Preta              1-4 (1-1)  Ituano SP
+[Sat Sep/14]
+  17.00  Brusque SC               3-1 (1-0)  Vila Nova GO
+  18.00  Mirassol SP              0-0  Amazonas FC AM
+  17.00  Paysandu PA              2-1 (0-1)  Guarani SP
+[Sun Sep/15]
+  16.00  Santos FC                2-1 (0-0)  América MG
+  18.30  Chapecoense              2-1 (1-1)  Ceará CE
+  16.00  Operário Ferroviário PR  2-1 (0-1)  Coritiba PR
+  18.30  Sport Recife PE          2-0 (1-0)  CR Brasil AL
+
+
+Matchday 27
+[Tue Sep/17]
+  21.30  Avaí SC                  -  Ituano SP
+  19.00  Grêmio Novorizontino SP  -  Brusque SC
+  21.30  Guarani SP               -  Mirassol SP
+[Wed Sep/18]
+  21.30  Coritiba PR              -  Ceará CE
+  19.00  Sport Recife PE          -  Goiás GO
+  19.30  Vila Nova GO             -  Chapecoense
+  21.00  Amazonas FC AM           -  Operário Ferroviário PR
+  21.30  América MG               -  Paysandu PA
+[Thu Sep/19]
+  19.30  CR Brasil AL             -  Ponte Preta
+  21.30  Botafogo SP              -  Santos FC
+
+
+Matchday 28
+[Sat Sep/21]
+  17.00  Goiás GO                 -  Mirassol SP
+  18.00  Ituano SP                -  Coritiba PR
+[Sun Sep/22]
+  16.00  Chapecoense              -  Avaí SC
+  18.30  Ceará CE                 -  Vila Nova GO
+[Mon Sep/23]
+  21.00  Santos FC                -  Grêmio Novorizontino SP
+  18.30  Paysandu PA              -  Sport Recife PE
+  21.30  Brusque SC               -  Amazonas FC AM
+[Tue Sep/24]
+  19.00  Operário Ferroviário PR  -  Guarani SP
+  21.30  Ponte Preta              -  América MG
+         Botafogo SP              -  CR Brasil AL
+
+
+Matchday 29
+[Fri Sep/27]
+  21.30  Paysandu PA              -  Ituano SP
+  19.00  Ceará CE                 -  Brusque SC
+  21.30  Coritiba PR              -  Goiás GO
+[Sat Sep/28]
+  18.00  Santos FC                -  Operário Ferroviário PR
+  17.00  CR Brasil AL             -  América MG
+[Sun Sep/29]
+  18.30  Mirassol SP              -  Sport Recife PE
+  16.00  Vila Nova GO             -  Botafogo SP
+[Mon Sep/30]
+  18.30  Chapecoense              -  Amazonas FC AM
+  21.00  Grêmio Novorizontino SP  -  Ponte Preta
+  21.30  Guarani SP               -  Avaí SC
+
+
+Matchday 30
+[Thu Oct/3]
+  21.30  Avaí SC                  -  Brusque SC
+[Fri Oct/4]
+  21.30  Sport Recife PE          -  Ceará CE
+  19.00  América MG               -  Coritiba PR
+  21.30  Amazonas FC AM           -  Grêmio Novorizontino SP
+[Sat Oct/5]
+  17.00  Ponte Preta              -  Botafogo SP
+         Ituano SP                -  Guarani SP
+         CR Brasil AL             -  Paysandu PA
+  18.00  Mirassol SP              -  Vila Nova GO
+[Mon Oct/7]
+  21.00  Operário Ferroviário PR  -  Chapecoense
+         Goiás GO                 -  Santos FC
+
+
+Matchday 23
+[Wed Oct/9]
+  20.00  Botafogo SP              -  Guarani SP
+
+
+Matchday 31
+[Fri Oct/11]
+  Goiás GO                 -  Vila Nova GO
+  Guarani SP               -  CR Brasil AL
+  Botafogo SP              -  Operário Ferroviário PR
+  Grêmio Novorizontino SP  -  Sport Recife PE
+  Santos FC                -  Mirassol SP
+  Avaí SC                  -  América MG
+  Brusque SC               -  Ituano SP
+  Coritiba PR              -  Amazonas FC AM
+  Paysandu PA              -  Chapecoense
+  Ceará CE                 -  Ponte Preta
+
+
+Matchday 32
+[Fri Oct/18]
+  Vila Nova GO             -  Coritiba PR
+  Ponte Preta              -  Guarani SP
+  Mirassol SP              -  Grêmio Novorizontino SP
+  Ituano SP                -  Ceará CE
+  América MG               -  Goiás GO
+  Chapecoense              -  Santos FC
+  Brusque SC               -  CR Brasil AL
+  Operário Ferroviário PR  -  Paysandu PA
+  Amazonas FC AM           -  Avaí SC
+  Sport Recife PE          -  Botafogo SP
+
+
+Matchday 33
+[Tue Oct/22]
+  Vila Nova GO             -  Amazonas FC AM
+  Ponte Preta              -  Brusque SC
+  Botafogo SP              -  Ituano SP
+  Grêmio Novorizontino SP  -  Avaí SC
+  Santos FC                -  Ceará CE
+  Chapecoense              -  Goiás GO
+  CR Brasil AL             -  Mirassol SP
+  Operário Ferroviário PR  -  América MG
+  Paysandu PA              -  Coritiba PR
+  Sport Recife PE          -  Guarani SP
+
+
+Matchday 34
+[Fri Oct/25]
+  Goiás GO                 -  Operário Ferroviário PR
+  Guarani SP               -  Grêmio Novorizontino SP
+  Mirassol SP              -  Ponte Preta
+  Ituano SP                -  Santos FC
+  América MG               -  Sport Recife PE
+  Avaí SC                  -  Vila Nova GO
+  Brusque SC               -  Chapecoense
+  Coritiba PR              -  CR Brasil AL
+  Amazonas FC AM           -  Botafogo SP
+  Ceará CE                 -  Paysandu PA
+
+
+Matchday 35
+[Tue Nov/5]
+  Goiás GO                 -  Guarani SP
+  Ponte Preta              -  Paysandu PA
+  Mirassol SP              -  Coritiba PR
+  Ituano SP                -  CR Brasil AL
+  Santos FC                -  Vila Nova GO
+  Chapecoense              -  Grêmio Novorizontino SP
+  Brusque SC               -  Botafogo SP
+  Operário Ferroviário PR  -  Sport Recife PE
+  Amazonas FC AM           -  América MG
+  Ceará CE                 -  Avaí SC
+
+
+Matchday 36
+[Fri Nov/15]
+  Vila Nova GO             -  Ponte Preta
+  Guarani SP               -  Amazonas FC AM
+  Botafogo SP              -  Ceará CE
+  Grêmio Novorizontino SP  -  Operário Ferroviário PR
+  América MG               -  Ituano SP
+  Avaí SC                  -  Mirassol SP
+  CR Brasil AL             -  Goiás GO
+  Coritiba PR              -  Santos FC
+  Paysandu PA              -  Brusque SC
+  Sport Recife PE          -  Chapecoense
+
+
+Matchday 37
+[Fri Nov/22]
+  Vila Nova GO             -  Ituano SP
+  Ponte Preta              -  Sport Recife PE
+  Botafogo SP              -  Avaí SC
+  Grêmio Novorizontino SP  -  Paysandu PA
+  Santos FC                -  CR Brasil AL
+  Chapecoense              -  Coritiba PR
+  Brusque SC               -  Guarani SP
+  Operário Ferroviário PR  -  Mirassol SP
+  Amazonas FC AM           -  Goiás GO
+  Ceará CE                 -  América MG
+
+
+Matchday 38
+[Tue Nov/26]
+  Goiás GO                 -  Grêmio Novorizontino SP
+  Guarani SP               -  Ceará CE
+  Mirassol SP              -  Chapecoense
+  Ituano SP                -  Amazonas FC AM
+  América MG               -  Brusque SC
+  Avaí SC                  -  Ponte Preta
+  CR Brasil AL             -  Operário Ferroviário PR
+  Coritiba PR              -  Botafogo SP
+  Paysandu PA              -  Vila Nova GO
+  Sport Recife PE          -  Santos FC
