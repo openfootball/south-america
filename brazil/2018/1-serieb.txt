@@ -1,0 +1,618 @@
+= Brasileiro Série B 2018
+
+# Date       Fri Apr/13 - Sat Nov/24 2018 (225d)
+# Teams      20
+# Matches    380
+
+
+
+Matchday 1
+[Fri Apr/13]
+  20.30  Oeste SP                 2-0 (1-0)  CR Brasil AL
+         Atlético Goianiense      3-2 (1-1)  Criciúma SC
+  21.30  Figueirense SC           2-1 (2-0)  Juventude RS
+  19.15  Fortaleza CE             2-1 (0-0)  Guarani SP
+[Sat Apr/14]
+  16.30  Brasil de Pelotas RS     1-1 (1-1)  São Bento SP
+         Vila Nova GO             1-0 (0-0)  Avaí SC
+         CSA AL                   2-1 (0-0)  Goiás GO
+         Londrina PR              1-0 (0-0)  Boa Esporte MG
+  19.00  Sampaio Corrêa MA        2-0 (1-0)  Coritiba PR
+  21.00  Ponte Preta              0-1 (0-1)  Paysandu PA
+
+
+Matchday 2
+[Tue Apr/17]
+  19.15  Boa Esporte MG           0-2 (0-0)  Fortaleza CE
+  21.30  Coritiba PR              1-0 (0-0)  Atlético Goianiense
+[Fri Apr/20]
+  20.30  São Bento SP             2-1 (0-1)  CSA AL
+  21.30  Paysandu PA              1-0 (1-0)  Londrina PR
+  19.15  Juventude RS             1-1 (1-0)  Oeste SP
+[Sat Apr/21]
+  16.30  Guarani SP               2-0 (1-0)  Sampaio Corrêa MA
+         Avaí SC                  2-2 (1-1)  Brasil de Pelotas RS
+         Goiás GO                 0-2 (0-1)  Figueirense SC
+         CR Brasil AL             0-1 (0-1)  Vila Nova GO
+  19.00  Criciúma SC              0-1 (0-1)  Ponte Preta
+
+
+Matchday 3
+[Tue Apr/24]
+  21.30  Fortaleza CE             3-1 (1-0)  CR Brasil AL
+  19.15  Atlético Goianiense      3-2 (2-0)  Guarani SP
+[Fri Apr/27]
+  19.15  Figueirense SC           2-0 (1-0)  Boa Esporte MG
+  20.30  CSA AL                   5-1 (3-1)  Oeste SP
+  21.30  Coritiba PR              2-1 (1-1)  Criciúma SC
+[Sat Apr/28]
+  16.30  Juventude RS             1-3 (1-1)  Avaí SC
+         Vila Nova GO             3-1 (1-1)  Sampaio Corrêa MA
+         Paysandu PA              2-1 (2-1)  Brasil de Pelotas RS
+  19.00  Ponte Preta              0-1 (0-0)  Londrina PR
+  21.00  São Bento SP             1-1 (0-1)  Goiás GO
+
+
+Matchday 4
+[Tue May/1]
+  16.00  Boa Esporte MG           1-2 (0-0)  Juventude RS
+  16.30  Brasil de Pelotas RS     1-0 (1-0)  Figueirense SC
+         Londrina PR              1-1 (1-1)  Fortaleza CE
+  16.00  Criciúma SC              1-3 (0-1)  CSA AL
+[Fri May/4]
+  19.15  Sampaio Corrêa MA        1-1 (1-1)  Paysandu PA
+  20.30  CR Brasil AL             3-1 (3-0)  Atlético Goianiense
+  21.30  Oeste SP                 1-1 (0-0)  Coritiba PR
+[Sat May/5]
+  16.30  Goiás GO                 1-3 (1-1)  Vila Nova GO
+  19.00  Guarani SP               2-3 (1-2)  Ponte Preta
+  16.30  Avaí SC                  1-1 (1-1)  São Bento SP
+
+
+Matchday 5
+[Mon May/7]
+  20.30  Sampaio Corrêa MA        2-3 (1-1)  CR Brasil AL
+[Tue May/8]
+  21.30  Coritiba PR              1-0 (0-0)  Brasil de Pelotas RS
+  19.15  Guarani SP               1-0 (1-0)  Criciúma SC
+[Fri May/11]
+  21.30  Atlético Goianiense      0-0  Londrina PR
+  19.15  Juventude RS             1-1 (0-1)  Paysandu PA
+[Sat May/12]
+  16.30  São Bento SP             1-0 (0-0)  Oeste SP
+         Figueirense SC           0-1 (0-0)  Avaí SC
+         CSA AL                   1-0 (0-0)  Boa Esporte MG
+  19.00  Fortaleza CE             3-0 (0-0)  Goiás GO
+[Sun May/13]
+  16.00  Vila Nova GO             0-0  Ponte Preta
+
+
+Matchday 6
+[Tue May/15]
+  21.30  Criciúma SC              0-0  Juventude RS
+  19.15  CR Brasil AL             0-4 (0-3)  Avaí SC
+[Fri May/18]
+  21.30  Figueirense SC           1-3 (1-2)  Fortaleza CE
+  19.15  Goiás GO                 1-1 (0-0)  Guarani SP
+[Sat May/19]
+  16.30  Ponte Preta              1-3 (1-0)  Atlético Goianiense
+         Oeste SP                 2-0 (1-0)  Vila Nova GO
+         Londrina PR              1-2 (1-1)  CSA AL
+         Paysandu PA              1-1 (0-1)  São Bento SP
+  19.00  Boa Esporte MG           1-1 (1-1)  Coritiba PR
+  21.00  Brasil de Pelotas RS     1-2 (0-2)  Sampaio Corrêa MA
+
+
+Matchday 7
+[Tue May/22]
+  21.30  Fortaleza CE             2-0 (1-0)  Criciúma SC
+  19.15  CSA AL                   1-4 (1-1)  Figueirense SC
+[Fri May/25]
+  19.15  Atlético Goianiense      2-2 (2-1)  Oeste SP
+  21.30  Coritiba PR              2-0 (1-0)  Vila Nova GO
+  19.15  Avaí SC                  3-1 (1-0)  Paysandu PA
+[Sat May/26]
+  16.30  São Bento SP             2-2 (0-2)  Juventude RS
+         Brasil de Pelotas RS     3-0 (0-0)  Londrina PR
+         Goiás GO                 1-2 (0-1)  Boa Esporte MG
+  21.00  Guarani SP               2-0 (1-0)  CR Brasil AL
+[Mon May/28]
+  20.00  Sampaio Corrêa MA        1-0 (1-0)  Ponte Preta
+
+
+Matchday 8
+[Tue May/29]
+  19.15  São Bento SP             1-1 (0-0)  Figueirense SC
+  21.30  Londrina PR              3-2 (1-1)  Coritiba PR
+[Fri Jun/1]
+  20.30  Vila Nova GO             0-1 (0-0)  CSA AL
+  21.30  Avaí SC                  0-1 (0-0)  Criciúma SC
+         Paysandu PA              2-0 (2-0)  Boa Esporte MG
+  19.15  Juventude RS             1-0 (1-0)  Guarani SP
+[Sat Jun/2]
+  16.30  Atlético Goianiense      1-3 (1-1)  Goiás GO
+         CR Brasil AL             1-1 (1-1)  Brasil de Pelotas RS
+  19.00  Ponte Preta              1-1 (0-1)  Oeste SP
+  16.30  Fortaleza CE             1-0 (0-0)  Sampaio Corrêa MA
+
+
+Matchday 9
+[Tue Jun/5]
+  19.15  Juventude RS             2-2 (0-1)  Atlético Goianiense
+         Figueirense SC           1-1 (1-1)  Londrina PR
+         Criciúma SC              4-1 (2-0)  Paysandu PA
+         Coritiba PR              1-0 (1-0)  CR Brasil AL
+  20.30  Boa Esporte MG           2-2 (1-1)  São Bento SP
+         CSA AL                   1-2 (1-0)  Guarani SP
+         Sampaio Corrêa MA        1-1 (0-0)  Avaí SC
+  21.30  Ponte Preta              2-1 (1-1)  Goiás GO
+         Oeste SP                 0-0  Brasil de Pelotas RS
+         Vila Nova GO             0-0  Fortaleza CE
+
+
+Matchday 10
+[Fri Jun/8]
+  20.30  Goiás GO                 2-1 (2-1)  Paysandu PA
+  21.30  Avaí SC                  2-0 (0-0)  Coritiba PR
+  19.15  Londrina PR              0-1 (0-1)  Juventude RS
+[Sat Jun/9]
+  16.30  Guarani SP               1-1 (0-0)  Vila Nova GO
+         São Bento SP             2-1 (0-0)  Fortaleza CE
+         Criciúma SC              1-1 (1-1)  Boa Esporte MG
+         CSA AL                   0-0  CR Brasil AL
+         Sampaio Corrêa MA        2-0 (2-0)  Oeste SP
+  19.00  Atlético Goianiense      3-4 (2-3)  Figueirense SC
+  21.00  Brasil de Pelotas RS     0-2 (0-1)  Ponte Preta
+
+
+Matchday 11
+[Mon Jun/11]
+  18.00  Juventude RS             1-1 (0-0)  Coritiba PR
+[Tue Jun/12]
+  20.30  Figueirense SC           1-0 (1-0)  Sampaio Corrêa MA
+  18.00  Londrina PR              1-3 (0-1)  Goiás GO
+[Thu Jun/14]
+  21.00  Guarani SP               0-0  São Bento SP
+[Fri Jun/15]
+  19.15  Fortaleza CE             2-0 (2-0)  Brasil de Pelotas RS
+  20.30  Boa Esporte MG           0-2 (0-2)  Avaí SC
+  21.30  CR Brasil AL             2-0 (1-0)  Ponte Preta
+[Sat Jun/16]
+  19.00  Oeste SP                 2-2 (1-1)  Criciúma SC
+  21.00  Paysandu PA              0-0  CSA AL
+  18.30  Vila Nova GO             0-0  Atlético Goianiense
+
+
+Matchday 12
+[Tue Jun/19]
+  19.15  Ponte Preta              1-1 (1-0)  CSA AL
+  21.30  Avaí SC                  3-3 (2-0)  Guarani SP
+[Thu Jun/21]
+  21.30  Goiás GO                 1-1 (1-1)  Juventude RS
+  19.15  Brasil de Pelotas RS     1-0 (1-0)  Criciúma SC
+[Sat Jun/23]
+  19.00  São Bento SP             0-1 (0-0)  Londrina PR
+         Fortaleza CE             1-2 (0-1)  Oeste SP
+         Boa Esporte MG           0-2 (0-1)  Vila Nova GO
+         Sampaio Corrêa MA        2-3 (1-2)  Atlético Goianiense
+  21.00  CR Brasil AL             1-1 (0-0)  Paysandu PA
+  18.30  Coritiba PR              1-1 (1-0)  Figueirense SC
+
+
+Matchday 13
+[Tue Jun/26]
+  19.15  Juventude RS             0-1 (0-1)  Vila Nova GO
+  20.30  Oeste SP                 1-0 (1-0)  Avaí SC
+  21.30  Goiás GO                 2-1 (0-0)  CR Brasil AL
+[Fri Jun/29]
+  19.15  Atlético Goianiense      2-1 (1-1)  Brasil de Pelotas RS
+  21.30  Guarani SP               1-1 (0-0)  Boa Esporte MG
+  18.00  CSA AL                   2-2 (0-0)  Coritiba PR
+[Sat Jun/30]
+  18.00  Criciúma SC              1-0 (0-0)  São Bento SP
+  20.30  Paysandu PA              0-1 (0-1)  Fortaleza CE
+  18.00  Figueirense SC           0-2 (0-1)  Ponte Preta
+[Sun Jul/1]
+  18.00  Londrina PR              1-1 (0-0)  Sampaio Corrêa MA
+
+
+Matchday 14
+[Wed Jul/4]
+  18.00  Coritiba PR              2-0 (1-0)  Paysandu PA
+  20.30  Avaí SC                  0-1 (0-1)  Goiás GO
+         Atlético Goianiense      2-0 (0-0)  Boa Esporte MG
+         CR Brasil AL             1-0 (0-0)  São Bento SP
+[Thu Jul/5]
+  20.30  Brasil de Pelotas RS     0-2 (0-2)  CSA AL
+         Vila Nova GO             1-1 (1-0)  Londrina PR
+  21.00  Criciúma SC              1-1 (1-0)  Figueirense SC
+  18.00  Oeste SP                 0-1 (0-1)  Guarani SP
+[Sun Jul/8]
+  18.00  Ponte Preta              2-0 (2-0)  Fortaleza CE
+
+
+Matchday 15
+[Mon Jul/9]
+  18.00  Guarani SP               2-1 (1-1)  Coritiba PR
+  20.30  Figueirense SC           1-2 (1-1)  Oeste SP
+[Thu Jul/12]
+  20.30  Paysandu PA              1-2 (0-0)  Vila Nova GO
+  18.00  Londrina PR              1-2 (0-2)  Avaí SC
+[Fri Jul/13]
+  21.30  CSA AL                   1-0 (1-0)  Sampaio Corrêa MA
+  18.00  Brasil de Pelotas RS     1-1 (1-1)  Juventude RS
+  20.30  Goiás GO                 2-1 (1-1)  Criciúma SC
+         Boa Esporte MG           0-1 (0-0)  CR Brasil AL
+[Sat Jul/14]
+  16.00  Fortaleza CE             0-1 (0-1)  Atlético Goianiense
+  18.00  São Bento SP             0-2 (0-1)  Ponte Preta
+
+
+Matchday 16
+[Tue Jul/17]
+  19.15  Avaí SC                  0-0  Atlético Goianiense
+  20.30  Vila Nova GO             0-0  Brasil de Pelotas RS
+  21.30  Guarani SP               2-3 (2-2)  Figueirense SC
+
+
+Matchday 14
+[Tue Jul/17]
+  20.30  Sampaio Corrêa MA        0-0  Juventude RS
+
+
+Matchday 16
+[Fri Jul/20]
+  19.15  Criciúma SC              2-1 (1-1)  Londrina PR
+  20.30  Sampaio Corrêa MA        1-3 (1-0)  Goiás GO
+  21.30  CSA AL                   0-0  Fortaleza CE
+[Sat Jul/21]
+  16.30  Coritiba PR              2-2 (2-1)  São Bento SP
+  19.00  Oeste SP                 2-2 (1-2)  Paysandu PA
+         Boa Esporte MG           2-1 (2-0)  Ponte Preta
+  16.30  Juventude RS             1-0 (0-0)  CR Brasil AL
+
+
+Matchday 17
+[Mon Jul/23]
+  20.00  Atlético Goianiense      2-2 (1-2)  CSA AL
+[Tue Jul/24]
+  19.15  Brasil de Pelotas RS     2-0 (0-0)  Boa Esporte MG
+         Figueirense SC           2-1 (2-0)  Vila Nova GO
+         Goiás GO                 0-1 (0-0)  Coritiba PR
+         Londrina PR              3-0 (2-0)  Oeste SP
+  20.30  Ponte Preta              0-1 (0-1)  Juventude RS
+         CR Brasil AL             0-0  Criciúma SC
+         Paysandu PA              1-0 (0-0)  Guarani SP
+  21.30  São Bento SP             2-1 (2-0)  Sampaio Corrêa MA
+         Fortaleza CE             1-1 (1-0)  Avaí SC
+
+
+Matchday 18
+[Fri Jul/27]
+  21.30  Paysandu PA              2-0 (0-0)  Figueirense SC
+  19.15  Avaí SC                  0-0  CSA AL
+[Sat Jul/28]
+  16.30  Guarani SP               2-1 (1-0)  Brasil de Pelotas RS
+         São Bento SP             2-1 (1-0)  Atlético Goianiense
+         Juventude RS             0-3 (0-2)  Fortaleza CE
+         Goiás GO                 1-0 (0-0)  Oeste SP
+         CR Brasil AL             1-1 (1-1)  Londrina PR
+  19.00  Criciúma SC              1-0 (0-0)  Vila Nova GO
+         Coritiba PR              0-0  Ponte Preta
+  21.00  Boa Esporte MG           3-1 (1-1)  Sampaio Corrêa MA
+
+
+Matchday 19
+[Tue Jul/31]
+  19.15  Figueirense SC           0-0  CR Brasil AL
+  21.30  Atlético Goianiense      1-0 (0-0)  Paysandu PA
+[Fri Aug/3]
+  20.30  Oeste SP                 1-1 (1-0)  Boa Esporte MG
+  21.30  CSA AL                   1-0 (0-0)  Juventude RS
+  19.15  Londrina PR              1-2 (0-1)  Guarani SP
+[Sat Aug/4]
+  16.30  Fortaleza CE             2-1 (0-0)  Coritiba PR
+         Vila Nova GO             1-0 (0-0)  São Bento SP
+  19.00  Ponte Preta              2-2 (1-1)  Avaí SC
+  21.00  Sampaio Corrêa MA        0-1 (0-0)  Criciúma SC
+  16.30  Brasil de Pelotas RS     1-0 (0-0)  Goiás GO
+
+
+Matchday 20
+[Tue Aug/7]
+  19.15  Avaí SC                  1-0 (0-0)  Vila Nova GO
+  21.30  Paysandu PA              0-4 (0-2)  Ponte Preta
+[Fri Aug/10]
+  20.30  Boa Esporte MG           1-0 (0-0)  Londrina PR
+  21.30  Coritiba PR              0-0  Sampaio Corrêa MA
+  19.15  Goiás GO                 3-0 (1-0)  CSA AL
+[Sat Aug/11]
+  16.30  São Bento SP             1-1 (1-0)  Brasil de Pelotas RS
+         Criciúma SC              1-1 (0-0)  Atlético Goianiense
+         CR Brasil AL             0-1 (0-0)  Oeste SP
+  19.00  Juventude RS             0-0  Figueirense SC
+  16.30  Guarani SP               2-3 (2-0)  Fortaleza CE
+
+
+Matchday 21
+[Tue Aug/14]
+  19.15  Brasil de Pelotas RS     1-1 (0-1)  Avaí SC
+  21.30  Ponte Preta              3-1 (2-1)  Criciúma SC
+[Fri Aug/17]
+  20.30  Vila Nova GO             0-0  CR Brasil AL
+  21.30  Figueirense SC           1-2 (1-1)  Goiás GO
+  19.15  Londrina PR              2-1 (1-1)  Paysandu PA
+[Sat Aug/18]
+  16.30  Fortaleza CE             2-1 (0-0)  Boa Esporte MG
+         Atlético Goianiense      1-0 (1-0)  Coritiba PR
+  19.00  Sampaio Corrêa MA        0-2 (0-1)  Guarani SP
+  21.00  CSA AL                   1-0 (0-0)  São Bento SP
+  16.30  Oeste SP                 0-0  Juventude RS
+
+
+Matchday 22
+[Tue Aug/21]
+  19.15  Brasil de Pelotas RS     0-0  Paysandu PA
+         Avaí SC                  1-0 (0-0)  Juventude RS
+         Criciúma SC              2-2 (2-1)  Coritiba PR
+         Londrina PR              1-0 (0-0)  Ponte Preta
+  20.30  Goiás GO                 2-1 (1-1)  São Bento SP
+         Boa Esporte MG           0-2 (0-2)  Figueirense SC
+         CR Brasil AL             2-1 (0-0)  Fortaleza CE
+  21.30  Guarani SP               2-0 (1-0)  Atlético Goianiense
+         Oeste SP                 2-1 (1-1)  CSA AL
+         Sampaio Corrêa MA        0-0  Vila Nova GO
+
+
+Matchday 23
+[Fri Aug/24]
+  19.15  Coritiba PR              0-2 (0-2)  Oeste SP
+  21.30  Atlético Goianiense      1-0 (0-0)  CR Brasil AL
+  19.15  Figueirense SC           1-1 (1-1)  Brasil de Pelotas RS
+[Sat Aug/25]
+  16.30  Ponte Preta              0-0  Guarani SP
+         São Bento SP             0-1 (0-1)  Avaí SC
+         Vila Nova GO             3-0 (1-0)  Goiás GO
+         CSA AL                   3-0 (1-0)  Criciúma SC
+         Paysandu PA              0-1 (0-0)  Sampaio Corrêa MA
+  19.00  Fortaleza CE             2-1 (0-1)  Londrina PR
+  21.00  Juventude RS             0-0  Boa Esporte MG
+
+
+Matchday 24
+[Mon Aug/27]
+  20.00  Brasil de Pelotas RS     0-1 (0-1)  Coritiba PR
+[Tue Aug/28]
+  20.30  Oeste SP                 0-1 (0-0)  São Bento SP
+  19.15  Criciúma SC              0-0  Guarani SP
+[Fri Aug/31]
+  19.15  Paysandu PA              3-3 (1-1)  Juventude RS
+  21.30  Ponte Preta              1-1 (1-0)  Vila Nova GO
+         CR Brasil AL             2-1 (1-0)  Sampaio Corrêa MA
+  19.15  Londrina PR              4-1 (2-0)  Atlético Goianiense
+[Sat Sep/1]
+  16.30  Avaí SC                  0-1 (0-1)  Figueirense SC
+  19.00  Goiás GO                 3-1 (2-0)  Fortaleza CE
+  21.00  Boa Esporte MG           3-0 (0-0)  CSA AL
+
+
+Matchday 25
+[Mon Sep/3]
+  20.00  Vila Nova GO             1-1 (0-0)  Oeste SP
+[Tue Sep/4]
+  19.15  Guarani SP               0-2 (0-1)  Goiás GO
+         Avaí SC                  1-0 (1-0)  CR Brasil AL
+         Atlético Goianiense      2-0 (1-0)  Ponte Preta
+         Coritiba PR              2-1 (1-1)  Boa Esporte MG
+  20.30  São Bento SP             1-0 (0-0)  Paysandu PA
+         Juventude RS             0-1 (0-0)  Criciúma SC
+         CSA AL                   4-1 (2-1)  Londrina PR
+  21.30  Fortaleza CE             2-2 (1-1)  Figueirense SC
+         Sampaio Corrêa MA        1-2 (0-1)  Brasil de Pelotas RS
+
+
+Matchday 26
+[Fri Sep/7]
+  16.00  Oeste SP                 1-2 (1-1)  Atlético Goianiense
+         Boa Esporte MG           1-0 (0-0)  Goiás GO
+         CR Brasil AL             1-1 (0-0)  Guarani SP
+  18.00  Paysandu PA              2-1 (1-0)  Avaí SC
+[Sat Sep/8]
+  16.30  Figueirense SC           1-2 (1-1)  CSA AL
+         Criciúma SC              2-0 (1-0)  Fortaleza CE
+         Londrina PR              1-0 (1-0)  Brasil de Pelotas RS
+  19.00  Ponte Preta              0-0  Sampaio Corrêa MA
+  21.00  Vila Nova GO             2-1 (2-1)  Coritiba PR
+  16.30  Juventude RS             0-2 (0-1)  São Bento SP
+
+
+Matchday 27
+[Tue Sep/11]
+  19.00  CSA AL                   1-2 (1-0)  Vila Nova GO
+[Thu Sep/13]
+  21.00  Guarani SP               1-0 (0-0)  Juventude RS
+[Fri Sep/14]
+  19.15  Coritiba PR              0-1 (0-1)  Londrina PR
+  20.30  Figueirense SC           2-2 (1-1)  São Bento SP
+  21.30  Sampaio Corrêa MA        1-0 (1-0)  Fortaleza CE
+[Sat Sep/15]
+  16.30  Criciúma SC              3-2 (2-0)  Avaí SC
+         Boa Esporte MG           1-1 (1-1)  Paysandu PA
+  19.00  Goiás GO                 2-1 (1-1)  Atlético Goianiense
+  21.00  Oeste SP                 0-0  Ponte Preta
+  16.30  Brasil de Pelotas RS     1-0 (0-0)  CR Brasil AL
+
+
+Matchday 28
+[Tue Sep/18]
+  21.30  Londrina PR              2-0 (1-0)  Figueirense SC
+  19.15  Atlético Goianiense      0-1 (0-1)  Juventude RS
+[Fri Sep/21]
+  19.15  Goiás GO                 2-2 (1-2)  Ponte Preta
+  20.30  São Bento SP             0-0  Boa Esporte MG
+         CR Brasil AL             1-1 (0-1)  Coritiba PR
+  21.30  Fortaleza CE             2-0 (0-0)  Vila Nova GO
+[Sat Sep/22]
+  16.30  Paysandu PA              1-1 (1-1)  Criciúma SC
+  19.00  Guarani SP               1-0 (1-0)  CSA AL
+  21.00  Avaí SC                  3-1 (0-1)  Sampaio Corrêa MA
+  16.30  Brasil de Pelotas RS     1-3 (0-2)  Oeste SP
+
+
+Matchday 29
+[Tue Sep/25]
+  19.15  Fortaleza CE             2-1 (2-0)  São Bento SP
+  21.30  Ponte Preta              0-1 (0-1)  Brasil de Pelotas RS
+[Thu Sep/27]
+  19.00  Juventude RS             0-0  Londrina PR
+[Fri Sep/28]
+  21.30  Vila Nova GO             1-1 (0-1)  Guarani SP
+  19.15  Paysandu PA              2-3 (1-2)  Goiás GO
+[Sat Sep/29]
+  16.30  Oeste SP                 0-0  Sampaio Corrêa MA
+         Figueirense SC           2-2 (1-1)  Atlético Goianiense
+         CR Brasil AL             0-0  CSA AL
+  19.00  Coritiba PR              1-0 (0-0)  Avaí SC
+  21.00  Boa Esporte MG           1-2 (0-2)  Criciúma SC
+
+
+Matchday 30
+[Tue Oct/2]
+  20.30  Criciúma SC              0-0  Oeste SP
+         Goiás GO                 0-0  Londrina PR
+  21.30  CSA AL                   1-0 (0-0)  Paysandu PA
+  19.15  Sampaio Corrêa MA        1-0 (1-0)  Figueirense SC
+[Fri Oct/5]
+  19.00  São Bento SP             1-0 (0-0)  Guarani SP
+  20.30  Brasil de Pelotas RS     0-1 (0-0)  Fortaleza CE
+         Avaí SC                  2-0 (1-0)  Boa Esporte MG
+  21.00  Coritiba PR              2-1 (0-0)  Juventude RS
+[Sat Oct/6]
+  18.30  Ponte Preta              1-0 (0-0)  CR Brasil AL
+  16.30  Atlético Goianiense      2-2 (0-1)  Vila Nova GO
+
+
+Matchday 31
+[Tue Oct/9]
+  19.15  Paysandu PA              1-1 (1-1)  CR Brasil AL
+  21.30  Criciúma SC              0-1 (0-0)  Brasil de Pelotas RS
+[Fri Oct/12]
+  20.30  Atlético Goianiense      1-2 (0-1)  Sampaio Corrêa MA
+  21.30  CSA AL                   1-2 (0-2)  Ponte Preta
+  19.15  Juventude RS             3-5 (2-0)  Goiás GO
+[Sat Oct/13]
+  16.30  Oeste SP                 0-0  Fortaleza CE
+         Vila Nova GO             2-0 (1-0)  Boa Esporte MG
+  19.00  Figueirense SC           2-2 (1-0)  Coritiba PR
+  21.00  Londrina PR              2-1 (2-0)  São Bento SP
+  16.30  Guarani SP               1-2 (1-1)  Avaí SC
+
+
+Matchday 32
+[Tue Oct/16]
+  19.15  Coritiba PR              1-1 (1-1)  CSA AL
+  21.30  Brasil de Pelotas RS     1-2 (1-0)  Atlético Goianiense
+[Fri Oct/19]
+  20.30  São Bento SP             0-0  Criciúma SC
+  21.30  Ponte Preta              2-1 (1-0)  Figueirense SC
+  19.15  CR Brasil AL             2-0 (0-0)  Goiás GO
+[Sat Oct/20]
+  16.30  Avaí SC                  1-1 (1-0)  Oeste SP
+         Vila Nova GO             1-0 (1-0)  Juventude RS
+         Boa Esporte MG           2-1 (1-1)  Guarani SP
+  19.00  Fortaleza CE             1-0 (0-0)  Paysandu PA
+  21.00  Sampaio Corrêa MA        1-2 (1-1)  Londrina PR
+
+
+Matchday 33
+[Tue Oct/23]
+  19.15  CSA AL                   2-0 (1-0)  Brasil de Pelotas RS
+[Fri Oct/26]
+  19.15  Londrina PR              3-2 (0-0)  Vila Nova GO
+  20.30  Juventude RS             1-0 (0-0)  Sampaio Corrêa MA
+         Fortaleza CE             1-1 (0-0)  Ponte Preta
+  21.30  Goiás GO                 0-3 (0-2)  Avaí SC
+[Sat Oct/27]
+  16.30  São Bento SP             1-0 (1-0)  CR Brasil AL
+         Figueirense SC           3-2 (1-2)  Criciúma SC
+         Boa Esporte MG           0-2 (0-0)  Atlético Goianiense
+  18.30  Paysandu PA              1-1 (0-0)  Coritiba PR
+  16.30  Guarani SP               1-1 (1-0)  Oeste SP
+
+
+Matchday 34
+[Thu Nov/1]
+  21.30  Juventude RS             0-1 (0-0)  Brasil de Pelotas RS
+  19.15  Criciúma SC              2-2 (0-1)  Goiás GO
+[Fri Nov/2]
+  17.00  Ponte Preta              2-1 (1-1)  São Bento SP
+  19.15  Vila Nova GO             0-0  Paysandu PA
+  20.30  Oeste SP                 0-0  Figueirense SC
+  21.30  Sampaio Corrêa MA        2-3 (2-1)  CSA AL
+[Sat Nov/3]
+  16.30  CR Brasil AL             2-1 (1-0)  Boa Esporte MG
+  17.00  Atlético Goianiense      1-2 (0-2)  Fortaleza CE
+  19.30  Coritiba PR              0-2 (0-1)  Guarani SP
+  16.30  Avaí SC                  1-1 (1-1)  Londrina PR
+
+
+Matchday 35
+[Mon Nov/5]
+  20.00  Goiás GO                 1-0 (1-0)  Sampaio Corrêa MA
+[Tue Nov/6]
+  19.15  Brasil de Pelotas RS     5-0 (1-0)  Vila Nova GO
+         Atlético Goianiense      2-2 (0-1)  Avaí SC
+         Londrina PR              4-2 (1-1)  Criciúma SC
+  20.30  Ponte Preta              1-0 (0-0)  Boa Esporte MG
+         São Bento SP             5-2 (2-2)  Coritiba PR
+  21.30  Figueirense SC           0-0  Guarani SP
+         Fortaleza CE             1-1 (1-0)  CSA AL
+         CR Brasil AL             2-0 (1-0)  Juventude RS
+         Paysandu PA              4-3 (1-1)  Oeste SP
+
+
+Matchday 36
+[Fri Nov/9]
+  20.30  Juventude RS             0-1 (0-0)  Ponte Preta
+         Boa Esporte MG           0-1 (0-1)  Brasil de Pelotas RS
+  21.30  Coritiba PR              1-0 (0-0)  Goiás GO
+  19.15  Vila Nova GO             3-1 (1-0)  Figueirense SC
+[Sat Nov/10]
+  17.00  Oeste SP                 0-0  Londrina PR
+         Criciúma SC              3-3 (2-1)  CR Brasil AL
+         CSA AL                   0-0  Atlético Goianiense
+  17.30  Avaí SC                  0-1 (0-0)  Fortaleza CE
+  19.30  Sampaio Corrêa MA        2-1 (0-0)  São Bento SP
+  21.00  Guarani SP               0-2 (0-1)  Paysandu PA
+
+
+Matchday 37
+[Tue Nov/13]
+  21.30  Ponte Preta              2-0 (2-0)  Coritiba PR
+  19.15  Figueirense SC           2-3 (2-1)  Paysandu PA
+[Thu Nov/15]
+  18.15  Fortaleza CE             4-1 (3-1)  Juventude RS
+[Fri Nov/16]
+  21.30  Londrina PR              1-2 (1-1)  CR Brasil AL
+  20.30  Atlético Goianiense      1-0 (1-0)  São Bento SP
+[Sat Nov/17]
+  17.00  Brasil de Pelotas RS     1-1 (1-1)  Guarani SP
+         CSA AL                   0-1 (0-1)  Avaí SC
+         Sampaio Corrêa MA        1-0 (1-0)  Boa Esporte MG
+  19.30  Vila Nova GO             2-2 (2-2)  Criciúma SC
+  21.00  Oeste SP                 1-3 (0-0)  Goiás GO
+
+
+Matchday 38
+[Fri Nov/23]
+  19.15  Coritiba PR              1-0 (0-0)  Fortaleza CE
+[Sat Nov/24]
+  17.00  Guarani SP               1-0 (1-0)  Londrina PR
+         São Bento SP             2-2 (1-0)  Vila Nova GO
+         Juventude RS             0-4 (0-1)  CSA AL
+         Avaí SC                  0-0  Ponte Preta
+         Criciúma SC              2-0 (0-0)  Sampaio Corrêa MA
+         Goiás GO                 0-1 (0-1)  Brasil de Pelotas RS
+         Boa Esporte MG           0-0  Oeste SP
+         CR Brasil AL             2-1 (0-1)  Figueirense SC
+         Paysandu PA              2-5 (1-2)  Atlético Goianiense

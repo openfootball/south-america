@@ -8,609 +8,605 @@
 
 Matchday 1
 [Sat Apr/27]
-  São Paulo FC             2-0 (1-0)  Botafogo FR
-  Chapecoense AF           2-0 (1-0)  SC Internacional
-  CA Mineiro               2-1 (1-0)  Avaí FC
+  19.00  Atlético Mineiro         2-1 (1-0)  Avaí SC
+         Chapecoense              2-0 (1-0)  Internacional
+  21.00  Flamengo RJ              3-1 (1-1)  Cruzeiro
+  16.00  São Paulo FC             2-0 (1-0)  Botafogo RJ
 [Sun Apr/28]
-  CR Flamengo              3-1 (1-1)  Cruzeiro EC
-  Grêmio FBPA              1-2 (0-2)  Santos FC
-  CA Paranaense            4-1 (2-0)  CR Vasco da Gama
-  Ceará SC                 4-0 (2-0)  CS Alagoano
-  EC Bahia                 3-2 (1-1)  SC Corinthians Paulista
-  Fluminense FC            0-1 (0-0)  Goiás EC
-  SE Palmeiras             4-0 (1-0)  Fortaleza EC
+  11.00  Grêmio Porto Alegre      1-2 (0-2)  Santos FC
+  16.00  Ceará CE                 4-0 (2-0)  CSA AL
+         Bahia BA                 3-2 (1-1)  Corinthians SP
+         Athletico Paranaense     4-1 (2-0)  Vasco da Gama RJ
+  19.00  Palmeiras                4-0 (1-0)  Fortaleza CE
+         Fluminense RJ            0-1 (0-0)  Goiás GO
 
 
 Matchday 2
 [Wed May/1]
-  SC Internacional         2-1 (1-1)  CR Flamengo
-  SC Corinthians Paulista  1-0 (0-0)  Chapecoense AF
-  CS Alagoano              1-1 (0-1)  SE Palmeiras
-  Cruzeiro EC              1-0 (0-0)  Ceará SC
-  Avaí FC                  1-1 (0-1)  Grêmio FBPA
+  16.00  Internacional            2-1 (1-0)  Flamengo RJ
+         Corinthians SP           1-0 (0-0)  Chapecoense
+         CSA AL                   1-1 (0-1)  Palmeiras
+  19.15  Cruzeiro                 1-0 (0-0)  Ceará CE
+         Avaí SC                  1-1 (0-1)  Grêmio Porto Alegre
+  21.30  Fortaleza CE             2-1 (1-1)  Athletico Paranaense
+         Vasco da Gama RJ         1-2 (0-0)  Atlético Mineiro
+         Goiás GO                 1-2 (1-2)  São Paulo FC
 [Thu May/2]
-  CR Vasco da Gama         1-2 (0-0)  CA Mineiro
-  Goiás EC                 1-2 (1-2)  São Paulo FC
-  Fortaleza EC             2-1 (1-1)  CA Paranaense
-  Santos FC                2-1 (0-0)  Fluminense FC
-  Botafogo FR              3-2 (3-1)  EC Bahia
+  20.00  Botafogo RJ              3-2 (3-1)  Bahia BA
+  19.15  Santos FC                2-1 (0-0)  Fluminense RJ
 
 
 Matchday 3
 [Sat May/4]
-  CR Vasco da Gama         1-1 (1-1)  SC Corinthians Paulista
-  SE Palmeiras             1-0 (1-0)  SC Internacional
+  19.00  Palmeiras                1-0 (1-0)  Internacional
+         Vasco da Gama RJ         1-1 (1-1)  Corinthians SP
+  21.00  Ceará CE                 1-2 (1-1)  Atlético Mineiro
 [Sun May/5]
-  Ceará SC                 1-2 (1-1)  CA Mineiro
-  Chapecoense AF           1-1 (0-0)  CA Paranaense
-  São Paulo FC             1-1 (0-1)  CR Flamengo
-  Cruzeiro EC              2-1 (0-0)  Goiás EC
-  Botafogo FR              1-0 (0-0)  Fortaleza EC
-  CS Alagoano              0-0  Santos FC
-  Grêmio FBPA              4-5 (3-2)  Fluminense FC
-  EC Bahia                 1-0 (1-0)  Avaí FC
+  11.00  Chapecoense              1-1 (0-0)  Athletico Paranaense
+  16.00  Cruzeiro                 2-1 (0-0)  Goiás GO
+         São Paulo FC             1-1 (0-1)  Flamengo RJ
+         Botafogo RJ              1-0 (0-0)  Fortaleza CE
+         CSA AL                   0-0  Santos FC
+  19.00  Grêmio Porto Alegre      4-5 (3-2)  Fluminense RJ
+         Bahia BA                 1-0 (1-0)  Avaí SC
 
 
 Matchday 4
 [Sat May/11]
-  Fluminense FC            0-1 (0-0)  Botafogo FR
-  SC Corinthians Paulista  0-0  Grêmio FBPA
+  19.00  Corinthians SP           0-0  Grêmio Porto Alegre
+  21.00  Goiás GO                 2-1 (1-0)  Ceará CE
+  16.00  Fluminense RJ            0-1 (0-0)  Botafogo RJ
 [Sun May/12]
-  Goiás EC                 2-1 (1-0)  Ceará SC
-  CR Flamengo              2-1 (1-0)  Chapecoense AF
-  SC Internacional         3-1 (1-1)  Cruzeiro EC
-  Santos FC                3-0 (2-0)  CR Vasco da Gama
-  CA Mineiro               0-2 (0-1)  SE Palmeiras
-  CA Paranaense            1-0 (1-0)  EC Bahia
-  Avaí FC                  0-0  CS Alagoano
-  Fortaleza EC             0-1 (0-0)  São Paulo FC
+  11.00  Flamengo RJ              2-1 (1-0)  Chapecoense
+  16.00  Internacional            3-1 (1-1)  Cruzeiro
+         Atlético Mineiro         0-2 (0-1)  Palmeiras
+         Santos FC                3-0 (2-0)  Vasco da Gama RJ
+  19.00  Fortaleza CE             0-1 (0-0)  São Paulo FC
+         Avaí SC                  0-0  CSA AL
+         Athletico Paranaense     1-0 (1-0)  Bahia BA
 
 
 Matchday 5
 [Sat May/18]
-  Fluminense FC            4-1 (1-0)  Cruzeiro EC
-  CA Mineiro               2-1 (1-1)  CR Flamengo
-  SE Palmeiras             4-0 (2-0)  Santos FC
+  19.00  Atlético Mineiro         2-1 (1-1)  Flamengo RJ
+         Palmeiras                4-0 (2-0)  Santos FC
+  18.00  Fluminense RJ            4-1 (1-0)  Cruzeiro
 [Sun May/19]
-  São Paulo FC             0-0  EC Bahia
-  SC Internacional         2-0 (2-0)  CS Alagoano
-  CA Paranaense            0-2 (0-1)  SC Corinthians Paulista
-  Goiás EC                 1-0 (0-0)  Botafogo FR
-  Chapecoense AF           1-3 (1-1)  Fortaleza EC
-  CR Vasco da Gama         1-1 (0-0)  Avaí FC
-  Ceará SC                 2-1 (2-1)  Grêmio FBPA
+  11.00  São Paulo FC             0-0  Bahia BA
+  16.00  Internacional            2-0 (1-0)  CSA AL
+         Chapecoense              1-3 (1-1)  Fortaleza CE
+         Goiás GO                 1-0 (0-0)  Botafogo RJ
+         Athletico Paranaense     0-2 (0-1)  Corinthians SP
+  19.00  Ceará CE                 2-1 (2-1)  Grêmio Porto Alegre
+         Vasco da Gama RJ         1-1 (0-0)  Avaí SC
 
 
 Matchday 6
 [Sat May/25]
-  Botafogo FR              0-1 (0-0)  SE Palmeiras
-  Grêmio FBPA              1-0 (0-0)  CA Mineiro
+  19.00  Grêmio Porto Alegre      1-0 (0-0)  Atlético Mineiro
+  16.00  Botafogo RJ              0-1 (0-0)  Palmeiras
 [Sun May/26]
-  Santos FC                0-0  SC Internacional
-  CR Flamengo              3-2 (1-0)  CA Paranaense
-  Cruzeiro EC              1-2 (0-0)  Chapecoense AF
-  EC Bahia                 3-2 (2-1)  Fluminense FC
-  SC Corinthians Paulista  1-0 (1-0)  São Paulo FC
-  Fortaleza EC             1-1 (0-0)  CR Vasco da Gama
+  16.00  Santos FC                0-0  Internacional
+         Flamengo RJ              3-2 (1-0)  Athletico Paranaense
+  19.00  Cruzeiro                 1-2 (0-0)  Chapecoense
+         Fortaleza CE             1-1 (0-0)  Vasco da Gama RJ
+         Corinthians SP           1-0 (1-0)  São Paulo FC
+         Bahia BA                 3-2 (2-1)  Fluminense RJ
 [Mon May/27]
-  Avaí FC                  1-2 (1-0)  Ceará SC
-  CS Alagoano              1-0 (0-0)  Goiás EC
+  20.00  CSA AL                   1-0 (0-0)  Goiás GO
+         Avaí SC                  1-2 (1-0)  Ceará CE
 
 
 Matchday 7
 [Sat Jun/1]
-  CR Flamengo              2-0 (1-0)  Fortaleza EC
-  EC Bahia                 1-0 (0-0)  Grêmio FBPA
+  16.00  Flamengo RJ              2-0 (1-0)  Fortaleza CE
+  19.00  Bahia BA                 1-0 (0-0)  Grêmio Porto Alegre
 [Sun Jun/2]
-  Botafogo FR              1-0 (0-0)  CR Vasco da Gama
-  São Paulo FC             1-1 (1-0)  Cruzeiro EC
-  CA Paranaense            3-0 (2-0)  Fluminense FC
-  Ceará SC                 0-1 (0-0)  Santos FC
-  SC Internacional         2-0 (0-0)  Avaí FC
-  CA Mineiro               4-0 (2-0)  CS Alagoano
-  Chapecoense AF           1-2 (1-2)  SE Palmeiras
+  11.00  Botafogo RJ              1-0 (0-0)  Vasco da Gama RJ
+  16.00  Ceará CE                 0-1 (0-0)  Santos FC
+         São Paulo FC             1-1 (1-0)  Cruzeiro
+         Athletico Paranaense     3-0 (2-0)  Fluminense RJ
+  19.00  Internacional            2-0 (0-0)  Avaí SC
+         Atlético Mineiro         4-0 (2-0)  CSA AL
+         Chapecoense              1-2 (1-2)  Palmeiras
 
 
 Matchday 8
 [Fri Jun/7]
-  CR Vasco da Gama         2-1 (2-0)  SC Internacional
+  20.30  Vasco da Gama RJ         2-1 (2-0)  Internacional
 [Sat Jun/8]
-  SE Palmeiras             1-0 (0-0)  CA Paranaense
-  Cruzeiro EC              0-0  SC Corinthians Paulista
-  Grêmio FBPA              1-0 (0-0)  Fortaleza EC
-  Ceará SC                 0-0  EC Bahia
+  21.00  Avaí SC                  0-0  São Paulo FC
+  16.30  Palmeiras                1-0 (0-0)  Athletico Paranaense
+  19.00  Grêmio Porto Alegre      1-0 (0-0)  Fortaleza CE
+         Cruzeiro                 0-0  Corinthians SP
+  19.30  Ceará CE                 0-0  Bahia BA
 [Sun Jun/9]
-  Avaí FC                  0-0  São Paulo FC
-  Santos FC                3-1 (2-0)  CA Mineiro
-  Fluminense FC            0-0  CR Flamengo
-  CS Alagoano              1-2 (0-0)  Botafogo FR
+  19.00  Santos FC                3-1 (2-0)  Atlético Mineiro
+         Fluminense RJ            0-0  Flamengo RJ
+         CSA AL                   1-2 (0-0)  Botafogo RJ
 [Mon Jun/10]
-  Goiás EC                 3-1 (1-1)  Chapecoense AF
+  20.00  Goiás GO                 3-1 (1-1)  Chapecoense
 
 
 Matchday 9
 [Wed Jun/12]
-  Botafogo FR              0-1 (0-0)  Grêmio FBPA
+  21.30  CSA AL                   0-2 (0-0)  Flamengo RJ
+  19.15  Botafogo RJ              0-1 (0-0)  Grêmio Porto Alegre
+  21.00  Fortaleza CE             2-1 (2-1)  Cruzeiro
+  21.30  Internacional            3-1 (1-0)  Bahia BA
+         Santos FC                1-0 (0-0)  Corinthians SP
 [Thu Jun/13]
-  Fortaleza EC             2-1 (2-1)  Cruzeiro EC
-  SC Internacional         3-1 (1-0)  EC Bahia
-  Santos FC                1-0 (0-0)  SC Corinthians Paulista
-  CS Alagoano              0-2 (0-0)  CR Flamengo
-  CR Vasco da Gama         1-0 (0-0)  Ceará SC
-  CA Mineiro               1-1 (1-0)  São Paulo FC
-  SE Palmeiras             2-0 (1-0)  Avaí FC
-  Goiás EC                 2-1 (2-0)  CA Paranaense
-  Chapecoense AF           1-1 (1-0)  Fluminense FC
+  19.15  Vasco da Gama RJ         1-0 (0-0)  Ceará CE
+  20.00  Atlético Mineiro         1-1 (1-0)  São Paulo FC
+         Palmeiras                2-0 (1-0)  Avaí SC
+         Chapecoense              1-1 (1-0)  Fluminense RJ
+         Goiás GO                 2-1 (2-0)  Athletico Paranaense
 
 
 Matchday 10
 [Sat Jul/13]
-  Grêmio FBPA              2-1 (0-1)  CR Vasco da Gama
-  Fortaleza EC             2-0 (1-0)  Avaí FC
-  São Paulo FC             1-1 (1-0)  SE Palmeiras
-  EC Bahia                 0-1 (0-0)  Santos FC
+  19.00  Bahia BA                 0-1 (0-0)  Santos FC
+  17.00  Grêmio Porto Alegre      2-1 (0-1)  Vasco da Gama RJ
+         Fortaleza CE             2-0 (1-0)  Avaí SC
+  19.00  São Paulo FC             1-1 (1-0)  Palmeiras
 [Sun Jul/14]
-  CR Flamengo              6-1 (4-1)  Goiás EC
-  Cruzeiro EC              0-0  Botafogo FR
-  SC Corinthians Paulista  1-0 (0-0)  CS Alagoano
-  CA Paranaense            1-0 (0-0)  SC Internacional
-  Chapecoense AF           1-2 (1-0)  CA Mineiro
+  19.00  Chapecoense              1-2 (1-0)  Atlético Mineiro
+  11.00  Flamengo RJ              6-1 (4-1)  Goiás GO
+  16.00  Cruzeiro                 0-0  Botafogo RJ
+         Corinthians SP           1-0 (0-0)  CSA AL
+         Athletico Paranaense     1-0 (0-0)  Internacional
 [Mon Jul/15]
-  Fluminense FC            1-1 (1-1)  Ceará SC
+  20.00  Fluminense RJ            1-1 (1-1)  Ceará CE
 
 
 Matchday 11
 [Sat Jul/20]
-  CR Vasco da Gama         2-1 (0-1)  Fluminense FC
-  EC Bahia                 0-0  Cruzeiro EC
-  SC Internacional         1-1 (1-0)  Grêmio FBPA
-  Ceará SC                 2-0 (1-0)  SE Palmeiras
-  CS Alagoano              0-4 (0-1)  CA Paranaense
+  11.00  Vasco da Gama RJ         2-1 (0-1)  Fluminense RJ
+  17.00  Bahia BA                 0-0  Cruzeiro
+  19.00  Internacional            1-1 (1-0)  Grêmio Porto Alegre
+         Ceará CE                 2-0 (1-0)  Palmeiras
+         CSA AL                   0-4 (0-1)  Athletico Paranaense
 [Sun Jul/21]
-  Botafogo FR              0-1 (0-0)  Santos FC
-  CA Mineiro               2-2 (2-0)  Fortaleza EC
-  SC Corinthians Paulista  1-1 (0-0)  CR Flamengo
-  Avaí FC                  0-0  Goiás EC
+  19.00  Avaí SC                  0-0  Goiás GO
+  11.00  Botafogo RJ              0-1 (0-0)  Santos FC
+  16.00  Atlético Mineiro         2-2 (2-0)  Fortaleza CE
+         Corinthians SP           1-1 (0-0)  Flamengo RJ
 [Mon Jul/22]
-  São Paulo FC             4-0 (0-0)  Chapecoense AF
+  20.00  São Paulo FC             4-0 (0-0)  Chapecoense
 
 
 Matchday 12
 [Sat Jul/27]
-  SE Palmeiras             1-1 (1-1)  CR Vasco da Gama
-  SC Internacional         1-0 (1-0)  Ceará SC
-  Cruzeiro EC              0-2 (0-1)  CA Paranaense
-  Fluminense FC            1-2 (1-1)  São Paulo FC
+  19.00  Fluminense RJ            1-2 (1-1)  São Paulo FC
+  17.00  Palmeiras                1-1 (1-1)  Vasco da Gama RJ
+  19.00  Internacional            1-0 (1-0)  Ceará CE
+         Cruzeiro                 0-2 (0-1)  Athletico Paranaense
 [Sun Jul/28]
-  Chapecoense AF           0-0  EC Bahia
-  Santos FC                3-1 (2-1)  Avaí FC
-  CR Flamengo              3-2 (1-1)  Botafogo FR
-  Goiás EC                 0-0  CA Mineiro
-  Fortaleza EC             1-3 (1-0)  SC Corinthians Paulista
+  11.00  Chapecoense              0-0  Bahia BA
+  16.00  Santos FC                3-1 (2-1)  Avaí SC
+         Flamengo RJ              3-2 (1-1)  Botafogo RJ
+  19.00  Fortaleza CE             1-3 (1-0)  Corinthians SP
+         Goiás GO                 0-0  Atlético Mineiro
 [Mon Jul/29]
-  CS Alagoano              0-0  Grêmio FBPA
+  20.00  CSA AL                   0-0  Grêmio Porto Alegre
 
 
 Matchday 13
 [Sat Aug/3]
-  Fluminense FC            2-1 (0-0)  SC Internacional
-  Ceará SC                 2-1 (2-1)  Fortaleza EC
+  19.00  Ceará CE                 2-1 (2-1)  Fortaleza CE
+         Fluminense RJ            2-1 (0-0)  Internacional
 [Sun Aug/4]
-  Santos FC                6-1 (3-0)  Goiás EC
-  EC Bahia                 3-0 (3-0)  CR Flamengo
-  Avaí FC                  0-2 (0-1)  Botafogo FR
-  CA Mineiro               2-0 (1-0)  Cruzeiro EC
-  CR Vasco da Gama         0-0  CS Alagoano
-  SC Corinthians Paulista  1-1 (1-0)  SE Palmeiras
+  16.00  Bahia BA                 3-0 (3-0)  Flamengo RJ
+  11.00  Santos FC                6-1 (3-0)  Goiás GO
+  16.00  Avaí SC                  0-2 (0-1)  Botafogo RJ
+  19.00  Corinthians SP           1-1 (1-0)  Palmeiras
+         Atlético Mineiro         2-0 (1-0)  Cruzeiro
+         Vasco da Gama RJ         0-0  CSA AL
 [Mon Aug/5]
-  Grêmio FBPA              3-3 (2-2)  Chapecoense AF
+  20.00  Grêmio Porto Alegre      3-3 (2-2)  Chapecoense
 
 
 Matchday 7
 [Wed Aug/7]
-  SC Corinthians Paulista  2-0 (1-0)  Goiás EC
+  19.15  Corinthians SP           2-0 (1-0)  Goiás GO
 
 
 Matchday 14
 [Sat Aug/10]
-  São Paulo FC             3-2 (0-1)  Santos FC
-  Ceará SC                 4-1 (1-0)  Chapecoense AF
-  CR Flamengo              3-1 (1-1)  Grêmio FBPA
+  17.00  Ceará CE                 4-1 (1-0)  Chapecoense
+         São Paulo FC             3-2 (0-1)  Santos FC
+  19.00  Flamengo RJ              3-1 (1-1)  Grêmio Porto Alegre
+  21.00  Atlético Mineiro         2-1 (1-0)  Fluminense RJ
 [Sun Aug/11]
-  CA Mineiro               2-1 (1-0)  Fluminense FC
-  SC Internacional         0-0  SC Corinthians Paulista
-  Botafogo FR              2-1 (1-1)  CA Paranaense
-  SE Palmeiras             2-2 (1-0)  EC Bahia
-  Avaí FC                  2-2 (1-0)  Cruzeiro EC
-  Goiás EC                 0-1 (0-1)  CR Vasco da Gama
+  11.00  Internacional            0-0  Corinthians SP
+  19.00  Goiás GO                 0-1 (0-1)  Vasco da Gama RJ
+  16.00  Palmeiras                2-2 (1-0)  Bahia BA
+         Botafogo RJ              2-1 (1-1)  Athletico Paranaense
+         Avaí SC                  2-2 (1-0)  Cruzeiro
 [Mon Aug/12]
-  CS Alagoano              0-2 (0-2)  Fortaleza EC
+  20.00  CSA AL                   0-2 (0-2)  Fortaleza CE
 
 
 Matchday 15
 [Sat Aug/17]
-  SC Corinthians Paulista  2-0 (1-0)  Botafogo FR
-  Fortaleza EC             0-1 (0-0)  SC Internacional
-  CR Vasco da Gama         1-4 (0-1)  CR Flamengo
-  CA Paranaense            1-0 (1-0)  CA Mineiro
+  21.00  Grêmio Porto Alegre      1-1 (0-1)  Palmeiras
+  17.00  Fortaleza CE             0-1 (0-0)  Internacional
+         Corinthians SP           2-0 (1-0)  Botafogo RJ
+  19.00  Vasco da Gama RJ         1-4 (0-1)  Flamengo RJ
+         Athletico Paranaense     1-0 (1-0)  Atlético Mineiro
 [Sun Aug/18]
-  Grêmio FBPA              1-1 (0-1)  SE Palmeiras
-  São Paulo FC             1-0 (1-0)  Ceará SC
-  Cruzeiro EC              2-0 (1-0)  Santos FC
-  EC Bahia                 1-1 (0-1)  Goiás EC
-  Fluminense FC            0-1 (0-0)  CS Alagoano
-  Chapecoense AF           1-0 (0-0)  Avaí FC
+  16.00  Cruzeiro                 2-0 (1-0)  Santos FC
+         São Paulo FC             1-0 (1-0)  Ceará CE
+         Fluminense RJ            0-1 (0-0)  CSA AL
+         Bahia BA                 1-1 (0-1)  Goiás GO
+  19.00  Chapecoense              1-0 (0-0)  Avaí SC
 
 
 Matchday 13
 [Wed Aug/21]
-  CA Paranaense            0-1 (0-1)  São Paulo FC
+  19.15  Athletico Paranaense     0-1 (0-1)  São Paulo FC
 
 
 Matchday 16
 [Sat Aug/24]
-  CA Mineiro               0-1 (0-1)  EC Bahia
-  Grêmio FBPA              2-1 (1-0)  CA Paranaense
+  17.00  Grêmio Porto Alegre      2-1 (1-0)  Athletico Paranaense
+  11.00  Atlético Mineiro         0-1 (0-1)  Bahia BA
 [Sun Aug/25]
-  Santos FC                3-3 (3-0)  Fortaleza EC
-  CR Vasco da Gama         2-0 (0-0)  São Paulo FC
-  Goiás EC                 2-1 (0-1)  SC Internacional
-  Ceará SC                 0-3 (0-2)  CR Flamengo
-  Avaí FC                  1-1 (0-0)  SC Corinthians Paulista
-  CS Alagoano              1-1 (0-1)  Cruzeiro EC
+  16.00  Santos FC                3-3 (3-0)  Fortaleza CE
+         Vasco da Gama RJ         2-0 (0-0)  São Paulo FC
+         Goiás GO                 2-1 (0-1)  Internacional
+  19.00  Ceará CE                 0-3 (0-2)  Flamengo RJ
+         Avaí SC                  1-1 (0-0)  Corinthians SP
+         CSA AL                   1-1 (0-1)  Cruzeiro
 [Mon Aug/26]
-  Botafogo FR              0-0  Chapecoense AF
+  20.00  Botafogo RJ              0-0  Chapecoense
 
 
 Matchday 17
 [Sat Aug/31]
-  São Paulo FC             0-0  Grêmio FBPA
-  EC Bahia                 1-0 (0-0)  CS Alagoano
-  CA Paranaense            1-0 (1-0)  Ceará SC
-  Chapecoense AF           0-1 (0-1)  Santos FC
+  11.00  São Paulo FC             0-0  Grêmio Porto Alegre
+  17.00  Bahia BA                 1-0 (0-0)  CSA AL
+  19.00  Chapecoense              0-1 (0-1)  Santos FC
+         Athletico Paranaense     1-0 (1-0)  Ceará CE
+  21.00  Internacional            3-2 (1-0)  Botafogo RJ
 [Sun Sep/1]
-  SC Internacional         3-2 (1-0)  Botafogo FR
-  CR Flamengo              3-0 (2-0)  SE Palmeiras
-  Fortaleza EC             2-0 (1-0)  Goiás EC
-  Cruzeiro EC              1-0 (0-0)  CR Vasco da Gama
-  SC Corinthians Paulista  1-0 (0-0)  CA Mineiro
+  19.00  Corinthians SP           1-0 (0-0)  Atlético Mineiro
+  16.00  Fortaleza CE             2-0 (1-0)  Goiás GO
+         Flamengo RJ              3-0 (2-0)  Palmeiras
+  19.00  Cruzeiro                 1-0 (0-0)  Vasco da Gama RJ
 [Mon Sep/2]
-  Fluminense FC            0-1 (0-0)  Avaí FC
+  20.00  Fluminense RJ            0-1 (0-0)  Avaí SC
 
 
 Matchday 18
 [Sat Sep/7]
-  CR Vasco da Gama         0-2 (0-0)  EC Bahia
-  SC Corinthians Paulista  2-2 (2-0)  Ceará SC
-  Avaí FC                  0-3 (0-2)  CR Flamengo
-  Fortaleza EC             0-1 (0-0)  Fluminense FC
-  SC Internacional         1-0 (0-0)  São Paulo FC
+  11.00  Corinthians SP           2-2 (2-0)  Ceará CE
+         Vasco da Gama RJ         0-2 (0-0)  Bahia BA
+  17.00  Fortaleza CE             0-1 (0-0)  Fluminense RJ
+  21.00  Goiás GO                 1-2 (1-0)  Palmeiras
+  19.00  Internacional            1-0 (0-0)  São Paulo FC
+  17.00  Avaí SC                  0-3 (0-2)  Flamengo RJ
 [Sun Sep/8]
-  Goiás EC                 1-2 (1-0)  SE Palmeiras
-  Cruzeiro EC              1-4 (1-2)  Grêmio FBPA
-  Santos FC                1-1 (0-1)  CA Paranaense
-  Botafogo FR              2-1 (1-0)  CA Mineiro
-  CS Alagoano              2-0 (1-0)  Chapecoense AF
+  19.00  CSA AL                   2-0 (1-0)  Chapecoense
+  11.00  Cruzeiro                 1-4 (1-2)  Grêmio Porto Alegre
+  16.00  Santos FC                1-1 (0-1)  Athletico Paranaense
+         Botafogo RJ              2-1 (1-0)  Atlético Mineiro
 
 
 Matchday 16
-[Wed Sep/11]
-  SE Palmeiras             3-0 (1-0)  Fluminense FC
+[Tue Sep/10]
+  21.00  Palmeiras                3-0 (1-0)  Fluminense RJ
 
 
 Matchday 19
 [Sat Sep/14]
-  CR Flamengo              1-0 (1-0)  Santos FC
-  SE Palmeiras             1-0 (1-0)  Cruzeiro EC
-  Chapecoense AF           1-2 (0-1)  CR Vasco da Gama
+  19.00  Palmeiras                1-0 (1-0)  Cruzeiro
+         Chapecoense              1-2 (0-1)  Vasco da Gama RJ
+  21.00  Ceará CE                 0-0  Botafogo RJ
+  17.00  Flamengo RJ              1-0 (1-0)  Santos FC
 [Sun Sep/15]
-  Ceará SC                 0-0  Botafogo FR
-  CA Mineiro               1-3 (0-1)  SC Internacional
-  CA Paranaense            0-1 (0-1)  Avaí FC
-  Grêmio FBPA              3-0 (3-0)  Goiás EC
-  EC Bahia                 1-1 (1-1)  Fortaleza EC
-  Fluminense FC            1-0 (1-0)  SC Corinthians Paulista
-  São Paulo FC             1-1 (0-0)  CS Alagoano
+  11.00  Atlético Mineiro         1-3 (0-1)  Internacional
+         Athletico Paranaense     0-1 (0-1)  Avaí SC
+  16.00  Grêmio Porto Alegre      3-0 (3-0)  Goiás GO
+         Fluminense RJ            1-0 (1-0)  Corinthians SP
+         Bahia BA                 1-1 (1-1)  Fortaleza CE
+  19.00  São Paulo FC             1-1 (0-0)  CSA AL
 
 
 Matchday 20
 [Sat Sep/21]
-  Botafogo FR              1-2 (1-1)  São Paulo FC
-  Cruzeiro EC              1-2 (1-1)  CR Flamengo
-  SC Corinthians Paulista  2-1 (1-0)  EC Bahia
+  11.00  Botafogo RJ              1-2 (1-1)  São Paulo FC
+  17.00  Cruzeiro                 1-2 (1-1)  Flamengo RJ
+  19.00  Corinthians SP           2-1 (1-0)  Bahia BA
+  21.00  Santos FC                0-3 (0-0)  Grêmio Porto Alegre
 [Sun Sep/22]
-  Santos FC                0-3 (0-0)  Grêmio FBPA
-  SC Internacional         1-0 (0-0)  Chapecoense AF
-  CR Vasco da Gama         1-1 (0-0)  CA Paranaense
-  Fortaleza EC             0-1 (0-0)  SE Palmeiras
-  CS Alagoano              1-0 (0-0)  Ceará SC
-  Goiás EC                 3-0 (1-0)  Fluminense FC
+  16.00  Fortaleza CE             0-1 (0-0)  Palmeiras
+         Vasco da Gama RJ         1-1 (0-0)  Athletico Paranaense
+         CSA AL                   1-0 (0-0)  Ceará CE
+  19.00  Goiás GO                 3-0 (1-0)  Fluminense RJ
+  11.00  Internacional            1-0 (0-0)  Chapecoense
 [Mon Sep/23]
-  Avaí FC                  1-0 (1-0)  CA Mineiro
+  20.00  Avaí SC                  1-0 (1-0)  Atlético Mineiro
 
 
 Matchday 21
 [Wed Sep/25]
-  Ceará SC                 0-0  Cruzeiro EC
+  21.30  São Paulo FC             0-1 (0-1)  Goiás GO
+         Flamengo RJ              3-1 (1-0)  Internacional
+         Bahia BA                 2-0 (1-0)  Botafogo RJ
+  19.30  Ceará CE                 0-0  Cruzeiro
 [Thu Sep/26]
-  São Paulo FC             0-1 (0-1)  Goiás EC
-  EC Bahia                 2-0 (1-0)  Botafogo FR
-  CR Flamengo              3-1 (1-0)  SC Internacional
-  SE Palmeiras             6-2 (4-0)  CS Alagoano
-  Grêmio FBPA              6-1 (4-0)  Avaí FC
-  Fluminense FC            1-1 (1-1)  Santos FC
-[Fri Sep/27]
-  CA Paranaense            4-1 (2-1)  Fortaleza EC
+  19.15  Palmeiras                6-2 (4-0)  CSA AL
+  20.00  Grêmio Porto Alegre      6-1 (4-0)  Avaí SC
+         Fluminense RJ            1-1 (1-1)  Santos FC
+  21.30  Athletico Paranaense     4-1 (2-1)  Fortaleza CE
 
 
 Matchday 22
 [Sat Sep/28]
-  CR Flamengo              0-0  São Paulo FC
+  19.00  Flamengo RJ              0-0  São Paulo FC
 [Sun Sep/29]
-  SC Corinthians Paulista  1-0 (0-0)  CR Vasco da Gama
-  SC Internacional         1-1 (1-0)  SE Palmeiras
-  Santos FC                2-0 (1-0)  CS Alagoano
-  Fluminense FC            2-1 (1-0)  Grêmio FBPA
-  CA Mineiro               2-1 (0-1)  Ceará SC
-  CA Paranaense            1-1 (0-1)  Chapecoense AF
+  19.00  Atlético Mineiro         2-1 (0-1)  Ceará CE
+  16.00  Internacional            1-1 (1-0)  Palmeiras
+  11.00  Corinthians SP           1-0 (0-0)  Vasco da Gama RJ
+  19.00  Athletico Paranaense     1-1 (0-1)  Chapecoense
+  16.00  Santos FC                2-0 (1-0)  CSA AL
+         Fluminense RJ            2-1 (1-0)  Grêmio Porto Alegre
 [Mon Sep/30]
-  Avaí FC                  0-2 (0-2)  EC Bahia
-  Goiás EC                 1-0 (0-0)  Cruzeiro EC
-  Fortaleza EC             1-0 (0-0)  Botafogo FR
+  20.00  Goiás GO                 1-0 (0-0)  Cruzeiro
+         Avaí SC                  0-2 (0-2)  Bahia BA
+         Fortaleza CE             1-0 (0-0)  Botafogo RJ
 
 
 Matchday 21
 [Wed Oct/2]
-  CA Mineiro               1-2 (0-0)  CR Vasco da Gama
-  Chapecoense AF           0-1 (0-0)  SC Corinthians Paulista
+  19.15  Atlético Mineiro         1-2 (0-0)  Vasco da Gama RJ
+         Chapecoense              0-1 (0-0)  Corinthians SP
 
 
 Matchday 23
 [Sat Oct/5]
-  São Paulo FC             2-1 (1-1)  Fortaleza EC
-  CR Vasco da Gama         0-1 (0-0)  Santos FC
-  Grêmio FBPA              0-0  SC Corinthians Paulista
-  EC Bahia                 1-2 (0-0)  CA Paranaense
+  17.00  Vasco da Gama RJ         0-1 (0-0)  Santos FC
+  19.00  Grêmio Porto Alegre      0-0  Corinthians SP
+         Bahia BA                 1-2 (0-0)  Athletico Paranaense
+  21.00  Cruzeiro                 1-1 (0-1)  Internacional
+  17.00  São Paulo FC             2-1 (1-1)  Fortaleza CE
 [Sun Oct/6]
-  Cruzeiro EC              1-1 (0-1)  SC Internacional
-  Chapecoense AF           0-1 (0-1)  CR Flamengo
-  Botafogo FR              0-1 (0-1)  Fluminense FC
-  SE Palmeiras             1-1 (0-1)  CA Mineiro
-  Ceará SC                 0-1 (0-1)  Goiás EC
-  CS Alagoano              3-1 (1-0)  Avaí FC
+  11.00  Chapecoense              0-1 (0-1)  Flamengo RJ
+  16.00  Ceará CE                 0-1 (0-1)  Goiás GO
+         Palmeiras                1-1 (0-1)  Atlético Mineiro
+         Botafogo RJ              0-1 (0-1)  Fluminense RJ
+  19.00  CSA AL                   3-1 (1-0)  Avaí SC
 
 
 Matchday 24
 [Wed Oct/9]
-  Botafogo FR              3-1 (1-0)  Goiás EC
-  CS Alagoano              1-0 (0-0)  SC Internacional
-  Fortaleza EC             2-0 (0-0)  Chapecoense AF
+  19.15  Botafogo RJ              3-1 (1-0)  Goiás GO
+         CSA AL                   1-0 (0-0)  Internacional
+  20.30  Fortaleza CE             2-0 (0-0)  Chapecoense
+  21.00  Grêmio Porto Alegre      2-1 (2-1)  Ceará CE
+         Bahia BA                 0-0  São Paulo FC
+  21.30  Cruzeiro                 0-0  Fluminense RJ
+         Santos FC                2-0 (2-0)  Palmeiras
 [Thu Oct/10]
-  Grêmio FBPA              2-1 (2-1)  Ceará SC
-  EC Bahia                 0-0  São Paulo FC
-  Cruzeiro EC              0-0  Fluminense FC
-  Santos FC                2-0 (2-0)  SE Palmeiras
-  SC Corinthians Paulista  2-2 (2-2)  CA Paranaense
-  Avaí FC                  0-0  CR Vasco da Gama
-  CR Flamengo              3-1 (1-0)  CA Mineiro
+  19.15  Avaí SC                  0-0  Vasco da Gama RJ
+  20.00  Flamengo RJ              3-1 (1-0)  Atlético Mineiro
+  19.15  Corinthians SP           2-2 (2-2)  Athletico Paranaense
 
 
 Matchday 25
 [Sat Oct/12]
-  Goiás EC                 1-0 (1-0)  CS Alagoano
-  Fluminense FC            2-0 (2-0)  EC Bahia
+  17.00  Goiás GO                 1-0 (1-0)  CSA AL
+  19.00  Fluminense RJ            2-0 (2-0)  Bahia BA
+  21.00  Palmeiras                1-0 (1-0)  Botafogo RJ
 [Sun Oct/13]
-  SE Palmeiras             1-0 (1-0)  Botafogo FR
-  SC Internacional         0-0  Santos FC
-  CR Vasco da Gama         1-0 (0-0)  Fortaleza EC
-  CA Paranaense            0-2 (0-1)  CR Flamengo
-  Ceará SC                 1-0 (0-0)  Avaí FC
-  São Paulo FC             1-0 (0-0)  SC Corinthians Paulista
-  CA Mineiro               1-4 (1-2)  Grêmio FBPA
-  Chapecoense AF           1-1 (0-1)  Cruzeiro EC
+  16.00  Ceará CE                 1-0 (0-0)  Avaí SC
+         Vasco da Gama RJ         1-0 (0-0)  Fortaleza CE
+         Athletico Paranaense     0-2 (0-1)  Flamengo RJ
+  18.00  São Paulo FC             1-0 (0-0)  Corinthians SP
+  19.00  Atlético Mineiro         1-4 (1-2)  Grêmio Porto Alegre
+         Chapecoense              1-1 (0-1)  Cruzeiro
+  16.00  Internacional            0-0  Santos FC
 
 
 Matchday 26
 [Wed Oct/16]
-  Grêmio FBPA              0-1 (0-0)  EC Bahia
-  CS Alagoano              2-2 (1-0)  CA Mineiro
-  Fortaleza EC             1-2 (0-0)  CR Flamengo
+  19.15  Grêmio Porto Alegre      0-1 (0-0)  Bahia BA
+         CSA AL                   2-2 (1-0)  Atlético Mineiro
+  20.00  Fortaleza CE             1-2 (0-0)  Flamengo RJ
+  21.00  Cruzeiro                 1-0 (0-0)  São Paulo FC
+         Palmeiras                1-0 (0-0)  Chapecoense
+  21.30  Vasco da Gama RJ         2-1 (2-1)  Botafogo RJ
+         Goiás GO                 2-2 (1-1)  Corinthians SP
 [Thu Oct/17]
-  Cruzeiro EC              1-0 (0-0)  São Paulo FC
-  SE Palmeiras             1-0 (0-0)  Chapecoense AF
-  CR Vasco da Gama         2-1 (2-1)  Botafogo FR
-  Goiás EC                 2-2 (1-1)  SC Corinthians Paulista
-  Santos FC                2-1 (0-1)  Ceará SC
-  Avaí FC                  0-2 (0-1)  SC Internacional
-[Fri Oct/18]
-  Fluminense FC            1-2 (1-1)  CA Paranaense
+  19.15  Avaí SC                  0-2 (0-1)  Internacional
+  21.00  Fluminense RJ            1-2 (1-1)  Athletico Paranaense
+  19.15  Santos FC                2-1 (0-1)  Ceará CE
 
 
 Matchday 27
 [Sat Oct/19]
-  Fortaleza EC             2-1 (2-1)  Grêmio FBPA
-  SC Corinthians Paulista  1-2 (1-1)  Cruzeiro EC
+  19.00  Corinthians SP           1-2 (1-1)  Cruzeiro
+  17.00  Fortaleza CE             2-1 (2-1)  Grêmio Porto Alegre
 [Sun Oct/20]
-  CA Mineiro               2-0 (2-0)  Santos FC
-  São Paulo FC             1-0 (0-0)  Avaí FC
-  SC Internacional         0-1 (0-0)  CR Vasco da Gama
-  CR Flamengo              2-0 (1-0)  Fluminense FC
-  CA Paranaense            1-1 (1-1)  SE Palmeiras
-  Chapecoense AF           2-2 (2-0)  Goiás EC
+  16.00  Internacional            0-1 (0-0)  Vasco da Gama RJ
+         Atlético Mineiro         2-0 (2-0)  Santos FC
+         São Paulo FC             1-0 (0-0)  Avaí SC
+  18.00  Flamengo RJ              2-0 (1-0)  Fluminense RJ
+  19.00  Chapecoense              2-2 (2-0)  Goiás GO
+         Athletico Paranaense     1-1 (1-1)  Palmeiras
 [Mon Oct/21]
-  EC Bahia                 1-2 (0-0)  Ceará SC
-  Botafogo FR              2-1 (1-0)  CS Alagoano
+  20.00  Botafogo RJ              2-1 (1-0)  CSA AL
+  19.30  Bahia BA                 1-2 (0-0)  Ceará CE
 
 
 Matchday 28
 [Sat Oct/26]
-  SC Corinthians Paulista  0-0  Santos FC
-  Ceará SC                 1-1 (0-1)  CR Vasco da Gama
-  EC Bahia                 2-3 (0-0)  SC Internacional
-  Fluminense FC            1-1 (0-1)  Chapecoense AF
+  17.00  Corinthians SP           0-0  Santos FC
+  19.00  Bahia BA                 2-3 (0-0)  Internacional
+  19.30  Fluminense RJ            1-1 (0-1)  Chapecoense
+  21.00  Cruzeiro                 1-1 (0-0)  Fortaleza CE
+  17.00  Ceará CE                 1-1 (0-1)  Vasco da Gama RJ
 [Sun Oct/27]
-  Cruzeiro EC              1-1 (0-0)  Fortaleza EC
-  São Paulo FC             2-0 (0-0)  CA Mineiro
-  Grêmio FBPA              3-0 (1-0)  Botafogo FR
-  CA Paranaense            4-1 (0-1)  Goiás EC
-  Avaí FC                  1-2 (0-0)  SE Palmeiras
-  CR Flamengo              1-0 (1-0)  CS Alagoano
+  16.00  Grêmio Porto Alegre      3-0 (1-0)  Botafogo RJ
+         São Paulo FC             2-0 (0-0)  Atlético Mineiro
+         Athletico Paranaense     4-1 (0-1)  Goiás GO
+  18.00  Avaí SC                  1-2 (0-0)  Palmeiras
+  19.00  Flamengo RJ              1-0 (1-0)  CSA AL
 
 
 Matchday 29
 [Wed Oct/30]
-  CA Mineiro               0-2 (0-1)  Chapecoense AF
-  SE Palmeiras             3-0 (2-0)  São Paulo FC
-  Avaí FC                  1-3 (0-1)  Fortaleza EC
+  19.30  Palmeiras                3-0 (2-0)  São Paulo FC
+         Avaí SC                  1-3 (0-1)  Fortaleza CE
+  21.30  Ceará CE                 2-0 (1-0)  Fluminense RJ
+         Vasco da Gama RJ         1-3 (1-1)  Grêmio Porto Alegre
+         CSA AL                   2-1 (1-1)  Corinthians SP
+  19.30  Atlético Mineiro         0-2 (0-1)  Chapecoense
 [Thu Oct/31]
-  CR Vasco da Gama         1-3 (1-1)  Grêmio FBPA
-  Ceará SC                 2-0 (1-0)  Fluminense FC
-  CS Alagoano              2-1 (1-1)  SC Corinthians Paulista
-  Santos FC                1-0 (0-0)  EC Bahia
-  Goiás EC                 2-2 (0-0)  CR Flamengo
-[Fri Nov/1]
-  SC Internacional         1-1 (1-1)  CA Paranaense
-  Botafogo FR              0-2 (0-1)  Cruzeiro EC
+  19.15  Santos FC                1-0 (0-0)  Bahia BA
+  20.00  Goiás GO                 2-2 (0-0)  Flamengo RJ
+  21.30  Internacional            1-1 (1-1)  Athletico Paranaense
+         Botafogo RJ              0-2 (0-1)  Cruzeiro
 
 
 Matchday 30
 [Sat Nov/2]
-  Fortaleza EC             2-2 (2-1)  CA Mineiro
-  Fluminense FC            0-0  CR Vasco da Gama
-  SE Palmeiras             1-0 (1-0)  Ceará SC
+  19.00  Palmeiras                1-0 (1-0)  Ceará CE
+         Fluminense RJ            0-0  Vasco da Gama RJ
+  21.00  Chapecoense              0-3 (0-2)  São Paulo FC
+  17.00  Fortaleza CE             2-2 (2-1)  Atlético Mineiro
 [Sun Nov/3]
-  Chapecoense AF           0-3 (0-2)  São Paulo FC
-  CR Flamengo              4-1 (2-0)  SC Corinthians Paulista
-  Grêmio FBPA              2-0 (1-0)  SC Internacional
-  CA Paranaense            1-0 (0-0)  CS Alagoano
-  Cruzeiro EC              1-1 (0-0)  EC Bahia
-  Santos FC                4-1 (2-1)  Botafogo FR
-  Goiás EC                 2-0 (0-0)  Avaí FC
+  16.00  Flamengo RJ              4-1 (2-0)  Corinthians SP
+  18.00  Grêmio Porto Alegre      2-0 (1-0)  Internacional
+         Athletico Paranaense     1-0 (0-0)  CSA AL
+  19.00  Cruzeiro                 1-1 (0-0)  Bahia BA
+         Santos FC                4-1 (2-1)  Botafogo RJ
+  19.30  Goiás GO                 2-0 (0-0)  Avaí SC
 
 
 Matchday 31
 [Wed Nov/6]
-  SC Corinthians Paulista  3-2 (1-1)  Fortaleza EC
-  CA Mineiro               2-0 (0-0)  Goiás EC
+  19.30  Corinthians SP           3-2 (1-1)  Fortaleza CE
+  20.00  Atlético Mineiro         2-0 (0-0)  Goiás GO
+  21.00  Avaí SC                  1-2 (1-2)  Santos FC
+  21.30  Vasco da Gama RJ         1-2 (1-1)  Palmeiras
+         Bahia BA                 1-1 (0-1)  Chapecoense
+         Athletico Paranaense     0-0  Cruzeiro
 [Thu Nov/7]
-  Avaí FC                  1-2 (1-2)  Santos FC
-  EC Bahia                 1-1 (0-1)  Chapecoense AF
-  CR Vasco da Gama         1-2 (1-1)  SE Palmeiras
-  CA Paranaense            0-0  Cruzeiro EC
-  São Paulo FC             0-2 (0-2)  Fluminense FC
-  Ceará SC                 2-0 (1-0)  SC Internacional
-  Botafogo FR              0-1 (0-0)  CR Flamengo
-[Fri Nov/8]
-  Grêmio FBPA              2-1 (1-0)  CS Alagoano
+  19.30  São Paulo FC             0-2 (0-2)  Fluminense RJ
+  20.00  Botafogo RJ              0-1 (0-0)  Flamengo RJ
+  21.00  Grêmio Porto Alegre      2-1 (1-0)  CSA AL
+  19.30  Ceará CE                 2-0 (1-0)  Internacional
 
 
 Matchday 32
 [Sat Nov/9]
-  Goiás EC                 0-3 (0-1)  Santos FC
-  SE Palmeiras             1-1 (0-0)  SC Corinthians Paulista
+  17.00  Goiás GO                 0-3 (0-1)  Santos FC
+  19.00  Palmeiras                1-1 (0-0)  Corinthians SP
 [Sun Nov/10]
-  São Paulo FC             0-1 (0-0)  CA Paranaense
-  SC Internacional         2-1 (2-0)  Fluminense FC
-  Cruzeiro EC              0-0  CA Mineiro
-  CR Flamengo              3-1 (0-1)  EC Bahia
-  Fortaleza EC             1-0 (1-0)  Ceará SC
-  Chapecoense AF           0-1 (0-1)  Grêmio FBPA
-  CS Alagoano              0-3 (0-1)  CR Vasco da Gama
+  16.00  Cruzeiro                 0-0  Atlético Mineiro
+         São Paulo FC             0-1 (0-0)  Athletico Paranaense
+  18.00  Flamengo RJ              3-1 (0-1)  Bahia BA
+  19.00  Fortaleza CE             1-0 (1-0)  Ceará CE
+         Chapecoense              0-1 (0-1)  Grêmio Porto Alegre
+         CSA AL                   0-3 (0-1)  Vasco da Gama RJ
+  16.00  Internacional            2-1 (2-0)  Fluminense RJ
 [Mon Nov/11]
-  Botafogo FR              2-0 (1-0)  Avaí FC
+  20.00  Botafogo RJ              2-0 (1-0)  Avaí SC
 
 
 Matchday 34
-[Thu Nov/14]
-  CR Flamengo              4-4 (2-2)  CR Vasco da Gama
+[Wed Nov/13]
+  21.30  Flamengo RJ              4-4 (2-2)  Vasco da Gama RJ
 
 
 Matchday 33
 [Sat Nov/16]
-  Santos FC                1-1 (1-0)  São Paulo FC
-  Fluminense FC            1-1 (1-0)  CA Mineiro
+  17.00  Santos FC                1-1 (1-0)  São Paulo FC
+  19.00  Fluminense RJ            1-1 (1-0)  Atlético Mineiro
 [Sun Nov/17]
-  Grêmio FBPA              0-1 (0-1)  CR Flamengo
-  EC Bahia                 1-1 (1-0)  SE Palmeiras
-  SC Corinthians Paulista  0-0  SC Internacional
-  CA Paranaense            1-0 (0-0)  Botafogo FR
-  Chapecoense AF           1-0 (0-0)  Ceará SC
-  Fortaleza EC             3-0 (1-0)  CS Alagoano
+  18.00  Corinthians SP           0-0  Internacional
+         Chapecoense              1-0 (0-0)  Ceará CE
+         Athletico Paranaense     1-0 (0-0)  Botafogo RJ
+  19.00  Fortaleza CE             3-0 (1-0)  CSA AL
+  16.00  Bahia BA                 1-1 (1-0)  Palmeiras
+         Grêmio Porto Alegre      0-1 (0-1)  Flamengo RJ
 [Mon Nov/18]
-  CR Vasco da Gama         1-1 (1-0)  Goiás EC
-  Cruzeiro EC              0-0  Avaí FC
+  19.30  Vasco da Gama RJ         1-1 (1-0)  Goiás GO
+  20.00  Cruzeiro                 0-0  Avaí SC
 
 
 Matchday 34
+[Sat Nov/23]
+  21.00  Santos FC                4-1 (1-1)  Cruzeiro
 [Sun Nov/24]
-  Santos FC                4-1 (1-1)  Cruzeiro EC
-  CA Mineiro               0-1 (0-0)  CA Paranaense
-  SE Palmeiras             1-2 (0-0)  Grêmio FBPA
-  Goiás EC                 4-3 (2-0)  EC Bahia
-  Botafogo FR              1-0 (1-0)  SC Corinthians Paulista
-  SC Internacional         2-2 (1-1)  Fortaleza EC
-  Ceará SC                 1-1 (0-1)  São Paulo FC
-  Avaí FC                  0-1 (0-0)  Chapecoense AF
+  16.00  Atlético Mineiro         0-1 (0-0)  Athletico Paranaense
+         Palmeiras                1-2 (0-0)  Grêmio Porto Alegre
+         Goiás GO                 4-3 (2-0)  Bahia BA
+  18.00  Botafogo RJ              1-0 (1-0)  Corinthians SP
+  19.00  Internacional            2-2 (1-1)  Fortaleza CE
+         Ceará CE                 1-1 (0-1)  São Paulo FC
+         Avaí SC                  0-1 (0-0)  Chapecoense
 [Mon Nov/25]
-  CS Alagoano              0-1 (0-0)  Fluminense FC
+  20.00  CSA AL                   0-1 (0-0)  Fluminense RJ
 
 
 Matchday 35
 [Wed Nov/27]
-  SC Internacional         1-2 (0-1)  Goiás EC
-  Chapecoense AF           0-1 (0-0)  Botafogo FR
+  19.30  Chapecoense              0-1 (0-0)  Botafogo RJ
+  21.00  Bahia BA                 1-1 (0-0)  Atlético Mineiro
+  21.30  Corinthians SP           3-0 (1-0)  Avaí SC
+         Flamengo RJ              4-1 (0-1)  Ceará CE
+         Athletico Paranaense     2-0 (1-0)  Grêmio Porto Alegre
+  19.30  Internacional            1-2 (0-1)  Goiás GO
 [Thu Nov/28]
-  EC Bahia                 1-1 (0-0)  CA Mineiro
-  CR Flamengo              4-1 (0-1)  Ceará SC
-  SC Corinthians Paulista  3-0 (1-0)  Avaí FC
-  CA Paranaense            2-0 (1-0)  Grêmio FBPA
-  Fluminense FC            1-0 (1-0)  SE Palmeiras
-  Fortaleza EC             2-1 (0-0)  Santos FC
-  São Paulo FC             1-0 (1-0)  CR Vasco da Gama
-[Fri Nov/29]
-  Cruzeiro EC              0-1 (0-1)  CS Alagoano
+  19.30  Fluminense RJ            1-0 (1-0)  Palmeiras
+  20.00  Fortaleza CE             2-1 (0-0)  Santos FC
+  20.30  São Paulo FC             1-0 (1-0)  Vasco da Gama RJ
+  21.30  Cruzeiro                 0-1 (0-1)  CSA AL
 
 
 Matchday 36
 [Sat Nov/30]
-  Botafogo FR              0-1 (0-0)  SC Internacional
-  Ceará SC                 1-1 (0-0)  CA Paranaense
+  19.00  Botafogo RJ              0-1 (0-0)  Internacional
+         Ceará CE                 1-1 (0-0)  Athletico Paranaense
 [Sun Dec/1]
-  SE Palmeiras             1-3 (0-2)  CR Flamengo
-  Avaí FC                  1-1 (0-1)  Fluminense FC
-  Goiás EC                 1-2 (1-2)  Fortaleza EC
-  CA Mineiro               2-1 (1-1)  SC Corinthians Paulista
-  CS Alagoano              1-2 (0-1)  EC Bahia
-  Grêmio FBPA              3-0 (0-0)  São Paulo FC
-  Santos FC                2-0 (1-0)  Chapecoense AF
+  16.00  Palmeiras                1-3 (0-2)  Flamengo RJ
+         Avaí SC                  1-1 (0-1)  Fluminense RJ
+         Goiás GO                 1-2 (1-2)  Fortaleza CE
+  18.00  Atlético Mineiro         2-1 (1-1)  Corinthians SP
+         CSA AL                   1-2 (0-1)  Bahia BA
+  19.00  Grêmio Porto Alegre      3-0 (0-0)  São Paulo FC
+         Santos FC                2-0 (1-0)  Chapecoense
 [Mon Dec/2]
-  CR Vasco da Gama         1-0 (1-0)  Cruzeiro EC
+  20.00  Vasco da Gama RJ         1-0 (1-0)  Cruzeiro
 
 
 Matchday 37
 [Wed Dec/4]
-  CA Paranaense            1-0 (0-0)  Santos FC
-  CA Mineiro               2-0 (1-0)  Botafogo FR
-  Ceará SC                 0-1 (0-0)  SC Corinthians Paulista
+  19.00  Athletico Paranaense     1-0 (0-0)  Santos FC
+  19.30  Atlético Mineiro         2-0 (1-0)  Botafogo RJ
+         Ceará CE                 0-1 (0-0)  Corinthians SP
+  21.00  Chapecoense              3-0 (1-0)  CSA AL
+  21.30  São Paulo FC             2-1 (1-0)  Internacional
+         Fluminense RJ            0-0  Fortaleza CE
 [Thu Dec/5]
-  Chapecoense AF           3-0 (1-0)  CS Alagoano
-  São Paulo FC             2-1 (1-0)  SC Internacional
-  Fluminense FC            0-0  Fortaleza EC
-  Grêmio FBPA              2-0 (0-0)  Cruzeiro EC
-  EC Bahia                 1-1 (1-0)  CR Vasco da Gama
-  SE Palmeiras             5-1 (2-1)  Goiás EC
-  CR Flamengo              6-1 (3-1)  Avaí FC
+  19.15  Palmeiras                5-1 (2-1)  Goiás GO
+         Bahia BA                 1-1 (1-0)  Vasco da Gama RJ
+  20.00  Flamengo RJ              6-1 (3-1)  Avaí SC
+  19.15  Grêmio Porto Alegre      2-0 (0-0)  Cruzeiro
 
 
 Matchday 38
 [Sun Dec/8]
-  SC Internacional         2-1 (0-1)  CA Mineiro
-  Cruzeiro EC              0-2 (0-0)  SE Palmeiras
-  Santos FC                4-0 (2-0)  CR Flamengo
-  Botafogo FR              1-1 (1-0)  Ceará SC
-  CR Vasco da Gama         1-1 (0-0)  Chapecoense AF
-  SC Corinthians Paulista  1-2 (0-2)  Fluminense FC
-  Avaí FC                  0-0  CA Paranaense
-  Goiás EC                 3-2 (2-2)  Grêmio FBPA
-  Fortaleza EC             2-1 (1-1)  EC Bahia
-  CS Alagoano              1-2 (1-2)  São Paulo FC
+  16.00  Internacional            2-1 (0-1)  Atlético Mineiro
+         Cruzeiro                 0-2 (0-0)  Palmeiras
+         Fortaleza CE             2-1 (1-1)  Bahia BA
+         Corinthians SP           1-2 (0-2)  Fluminense RJ
+         Santos FC                4-0 (2-0)  Flamengo RJ
+         Vasco da Gama RJ         1-1 (0-0)  Chapecoense
+         Botafogo RJ              1-1 (1-0)  Ceará CE
+         Avaí SC                  0-0  Athletico Paranaense
+         Goiás GO                 3-2 (2-2)  Grêmio Porto Alegre
+         CSA AL                   1-2 (1-2)  São Paulo FC
