@@ -429,16 +429,16 @@ Matchday 19
 
 Matchday 26
 [Sat Sep/14]
-  16.00  AC Goianiense            -  EC Vitória
-  18.30  CA Paranaense            -  Fortaleza EC
-  21.00  Botafogo FR              -  SC Corinthians Paulista
+  16.00  AC Goianiense            0-2 (0-1)  EC Vitória
+  18.30  CA Paranaense            1-1 (1-1)  Fortaleza EC
+  21.00  Botafogo FR              2-1 (1-0)  SC Corinthians Paulista
 [Sun Sep/15]
-  16.00  RB Bragantino            -  Grêmio FBPA
-         EC Juventude             -  Fluminense FC
-         SE Palmeiras             -  Criciúma EC
-  18.30  EC Bahia                 -  CA Mineiro
-         Cruzeiro EC              -  São Paulo FC
-         CR Flamengo              -  CR Vasco da Gama
+  16.00  RB Bragantino            2-2 (1-1)  Grêmio FBPA
+         EC Juventude             2-1 (0-1)  Fluminense FC
+         SE Palmeiras             5-0 (3-0)  Criciúma EC
+  18.30  EC Bahia                 3-0 (0-0)  CA Mineiro
+         Cruzeiro EC              0-1 (0-0)  São Paulo FC
+         CR Flamengo              1-1 (0-0)  CR Vasco da Gama
 [Mon Sep/16]
   20.00  SC Internacional         -  Cuiabá EC
 
