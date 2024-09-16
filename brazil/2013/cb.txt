@@ -1,5 +1,0 @@
-######################################
-# Campeonato Brasileiro 2013
-
-
-## todo: add fixtures here
