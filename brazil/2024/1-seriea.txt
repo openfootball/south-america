@@ -440,7 +440,7 @@ Matchday 26
          Cruzeiro EC              0-1 (0-0)  São Paulo FC
          CR Flamengo              1-1 (0-0)  CR Vasco da Gama
 [Mon Sep/16]
-  20.00  SC Internacional         -  Cuiabá EC
+  20.00  SC Internacional         3-0 (2-0)  Cuiabá EC
 
 
 Matchday 27
@@ -478,13 +478,13 @@ Matchday 28
   18.30  SE Palmeiras             -  CA Mineiro
   21.00  Botafogo FR              -  Grêmio FBPA
 [Sun Sep/29]
-  11.00  SC Internacional         -  EC Vitória
+  11.00  EC Juventude             -  RB Bragantino
   16.00  AC Goianiense            -  Fluminense FC
          Fortaleza EC             -  Cuiabá EC
          São Paulo FC             -  SC Corinthians Paulista
   18.30  EC Bahia                 -  Criciúma EC
          Cruzeiro EC              -  CR Vasco da Gama
-         EC Juventude             -  RB Bragantino
+         SC Internacional         -  EC Vitória
   20.00  CR Flamengo              -  CA Paranaense
 
 
