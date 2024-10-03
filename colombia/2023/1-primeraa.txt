@@ -403,89 +403,42 @@ Matchday 20
 
 == Apertura Playoffs
 
-Gruppe B
+Group
 [Sat May/20]
   20.00  Independiente Medellín   2-2 (0-1)  Millonarios
-
-
-Gruppe A
-[Sat May/20]
   17.00  Deportivo Pasto          1-1 (0-0)  Atlético Nacional
-
-
-Gruppe B
 [Sun May/21]
   18.00  Boyacá Chicó             1-1 (1-0)  América de Cali
-
-
-Gruppe A
 [Mon May/22]
   18.00  Alianza Petrolera        5-3 (1-2)  Águilas Doradas
-
-
-Gruppe B
 [Sat May/27]
   20.15  Millonarios              1-0 (1-0)  Boyacá Chicó
-
-
-Gruppe A
-[Sat May/27]
   18.05  Águilas Doradas          0-0  Deportivo Pasto
 [Sun May/28]
   18.05  Atlético Nacional        1-1 (1-1)  Alianza Petrolera
-
-
-Gruppe B
-[Sun May/28]
   20.15  América de Cali          2-0 (0-0)  Independiente Medellín
 [Wed May/31]
   18.15  Boyacá Chicó             1-0 (0-0)  Independiente Medellín
   20.30  América de Cali          0-1 (0-1)  Millonarios
-
-
-Gruppe A
 [Thu Jun/1]
   20.30  Atlético Nacional        1-0 (1-0)  Águilas Doradas
   18.15  Deportivo Pasto          0-0  Alianza Petrolera
-
-
-Gruppe B
 [Sat Jun/3]
   20.30  Millonarios              2-1 (1-1)  América de Cali
   18.20  Independiente Medellín   0-0  Boyacá Chicó
-
-
-Gruppe A
 [Sun Jun/4]
   18.05  Águilas Doradas          0-1 (0-1)  Atlético Nacional
   20.15  Alianza Petrolera        1-0 (0-0)  Deportivo Pasto
 [Sat Jun/10]
   19.30  Deportivo Pasto          3-0 (0-0)  Águilas Doradas
-
-
-Gruppe B
 [Sun Jun/11]
   18.30  Boyacá Chicó             2-1 (0-0)  Millonarios
-
-
-Gruppe A
 [Mon Jun/12]
   19.30  Alianza Petrolera        0-0  Atlético Nacional
-
-
-Gruppe B
-[Mon Jun/12]
   17.00  Independiente Medellín   0-1 (0-0)  América de Cali
-
-
-Gruppe A
 [Sat Jun/17]
   20.00  Atlético Nacional        3-2 (1-1)  Deportivo Pasto
          Águilas Doradas          1-1 (1-0)  Alianza Petrolera
-
-
-Gruppe B
-[Sat Jun/17]
   17.15  América de Cali          3-2 (1-1)  Boyacá Chicó
          Millonarios              2-1 (0-0)  Independiente Medellín
 
@@ -874,72 +827,41 @@ Matchday 20
 
 == Clausura Playoffs
 
-Gruppe B
+Group
 [Sun Nov/12]
   17.00  Atlético Nacional        0-1 (0-1)  Millonarios
   19.30  América de Cali          1-2 (1-2)  Independiente Medellín
-
-
-Gruppe A
 [Mon Nov/13]
   17.30  Deportivo Cali           1-1 (0-0)  Águilas Doradas
   20.00  Deportes Tolima          3-1 (1-0)  Atlético Junior
 [Sat Nov/18]
   19.30  Atlético Junior          3-0 (1-0)  Deportivo Cali
   17.00  Águilas Doradas          0-4 (0-2)  Deportes Tolima
-
-
-Gruppe B
 [Sun Nov/19]
   16.00  Millonarios              2-1 (0-1)  América de Cali
   18.30  Independiente Medellín   2-1 (2-0)  Atlético Nacional
-
-
-Gruppe A
 [Sat Nov/25]
   17.00  Deportes Tolima          4-2 (2-1)  Deportivo Cali
   19.30  Atlético Junior          3-1 (1-1)  Águilas Doradas
-
-
-Gruppe B
 [Sun Nov/26]
   18.30  Atlético Nacional        1-0 (0-0)  América de Cali
   16.00  Millonarios              1-0 (1-0)  Independiente Medellín
-
-
-Gruppe A
 [Wed Nov/29]
   20.30  Deportivo Cali           0-2 (0-0)  Deportes Tolima
   18.15  Águilas Doradas          1-1 (0-0)  Atlético Junior
-
-
-Gruppe B
 [Thu Nov/30]
   18.15  América de Cali          0-1 (0-1)  Atlético Nacional
   20.30  Independiente Medellín   2-1 (2-0)  Millonarios
-
-
-Gruppe A
 [Sat Dec/2]
   20.15  Deportivo Cali           0-2 (0-0)  Atlético Junior
   18.00  Deportes Tolima          0-1 (0-0)  Águilas Doradas
-
-
-Gruppe B
 [Sun Dec/3]
   15.30  Atlético Nacional        0-5 (0-2)  Independiente Medellín
   19.00  América de Cali          1-0 (0-0)  Millonarios
-
-
-Gruppe A
 [Wed Dec/6]
   20.15  Atlético Junior          4-2 (3-2)  Deportes Tolima
   18.00  Águilas Doradas          3-1 (1-1)  Deportivo Cali
-
-
-Gruppe B
-[Wed Dec/6]
-  18.00  Millonarios              0-1 (0-0)  Atlético Nacional
+         Millonarios              0-1 (0-0)  Atlético Nacional
   20.15  Independiente Medellín   2-1 (2-1)  América de Cali
 
 
