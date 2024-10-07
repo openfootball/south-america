@@ -82,7 +82,6 @@ Matchday 6
 [Sat May/11]
   16.00  CR Flamengo              2-0 (1-0)  SC Corinthians Paulista
 [Sun May/12]
-  CA Mineiro               -  Grêmio FBPA
   16.00  AC Goianiense            0-1 (0-0)  Cruzeiro EC
          Fortaleza EC             1-1 (1-1)  Botafogo FR
          SE Palmeiras             0-2 (0-1)  CA Paranaense
@@ -485,18 +484,23 @@ Matchday 28
 
 Matchday 29
 [Thu Oct/3]
-  19.00  Criciúma EC              -  AC Goianiense
-  21.30  Fluminense FC            -  Cruzeiro EC
+  19.00  Criciúma EC              2-0 (1-0)  AC Goianiense
+  21.30  Fluminense FC            1-0 (0-0)  Cruzeiro EC
 [Fri Oct/4]
-  21.30  Grêmio FBPA              -  Fortaleza EC
+  21.30  Grêmio FBPA              3-1 (1-1)  Fortaleza EC
 [Sat Oct/5]
-  16.30  CA Paranaense            -  Botafogo FR
-         CA Mineiro               -  EC Vitória
-         RB Bragantino            -  SE Palmeiras
-  19.00  EC Bahia                 -  CR Flamengo
-         SC Corinthians Paulista  -  SC Internacional
-         Cuiabá EC                -  São Paulo FC
-  21.00  CR Vasco da Gama         -  EC Juventude
+  16.30  CA Paranaense            0-1 (0-1)  Botafogo FR
+         CA Mineiro               2-2 (2-0)  EC Vitória
+         RB Bragantino            0-0  SE Palmeiras
+  19.00  EC Bahia                 0-2 (0-1)  CR Flamengo
+         SC Corinthians Paulista  2-2 (1-1)  SC Internacional
+         Cuiabá EC                2-0 (2-0)  São Paulo FC
+  21.00  CR Vasco da Gama         1-1 (1-1)  EC Juventude
+
+
+Matchday 6
+[Wed Oct/9]
+  19.30  CA Mineiro               -  Grêmio FBPA
 
 
 Matchday 30
@@ -506,13 +510,15 @@ Matchday 30
 [Thu Oct/17]
   20.00  SC Corinthians Paulista  -  CA Paranaense
          CR Flamengo              -  Fluminense FC
+[Fri Oct/18]
+  19.00  AC Goianiense            -  Cuiabá EC
+  20.00  Botafogo FR              -  Criciúma EC
+  21.30  Cruzeiro EC              -  EC Bahia
+[Sat Oct/19]
+  16.00  SC Internacional         -  Grêmio FBPA
+         EC Vitória               -  RB Bragantino
 [Sun Oct/20]
-  AC Goianiense            -  Cuiabá EC
-  Botafogo FR              -  Criciúma EC
-  Cruzeiro EC              -  EC Bahia
-  SC Internacional         -  Grêmio FBPA
-  EC Juventude             -  SE Palmeiras
-  EC Vitória               -  RB Bragantino
+  20.00  EC Juventude             -  SE Palmeiras
 
 
 Matchday 19
@@ -522,16 +528,17 @@ Matchday 19
 
 Matchday 31
 [Sat Oct/26]
-  CA Paranaense            -  Cruzeiro EC
-  CA Mineiro               -  SC Internacional
-  RB Bragantino            -  Botafogo FR
-  Criciúma EC              -  São Paulo FC
-  Cuiabá EC                -  SC Corinthians Paulista
-  CR Flamengo              -  EC Juventude
-  Grêmio FBPA              -  AC Goianiense
-  SE Palmeiras             -  Fortaleza EC
-  CR Vasco da Gama         -  EC Bahia
-  EC Vitória               -  Fluminense FC
+  16.30  Grêmio FBPA              -  AC Goianiense
+         SE Palmeiras             -  Fortaleza EC
+         EC Vitória               -  Fluminense FC
+  18.30  CA Paranaense            -  Cruzeiro EC
+  19.00  CA Mineiro               -  SC Internacional
+         RB Bragantino            -  Botafogo FR
+         CR Flamengo              -  EC Juventude
+  22.00  Criciúma EC              -  São Paulo FC
+[Mon Oct/28]
+  19.00  Cuiabá EC                -  SC Corinthians Paulista
+  21.00  CR Vasco da Gama         -  EC Bahia
 
 
 Matchday 32
