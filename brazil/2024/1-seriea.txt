@@ -264,8 +264,6 @@ Matchday 17
   19.00  EC Juventude             1-1 (1-1)  CA Mineiro
   21.00  SC Corinthians Paulista  2-1 (0-1)  Criciúma EC
 [Wed Jul/17]
-  Fluminense FC            -  CA Paranaense
-  SC Internacional         -  CR Flamengo
   19.00  AC Goianiense            0-1 (0-0)  CR Vasco da Gama
   20.00  São Paulo FC             1-0 (1-0)  Grêmio FBPA
   21.30  Botafogo FR              1-0 (0-0)  SE Palmeiras
@@ -500,7 +498,7 @@ Matchday 29
 
 Matchday 6
 [Wed Oct/9]
-  19.30  CA Mineiro               -  Grêmio FBPA
+  19.30  CA Mineiro               2-1 (2-1)  Grêmio FBPA
 
 
 Matchday 30
@@ -521,6 +519,11 @@ Matchday 30
   20.00  EC Juventude             -  SE Palmeiras
 
 
+Matchday 17
+[Tue Oct/22]
+  19.30  Fluminense FC            -  CA Paranaense
+
+
 Matchday 19
 [Wed Oct/23]
   19.00  CR Vasco da Gama         -  Cuiabá EC
@@ -539,6 +542,11 @@ Matchday 31
 [Mon Oct/28]
   19.00  Cuiabá EC                -  SC Corinthians Paulista
   21.00  CR Vasco da Gama         -  EC Bahia
+
+
+Matchday 17
+[Wed Oct/30]
+  19.00  SC Internacional         -  CR Flamengo
 
 
 Matchday 32
