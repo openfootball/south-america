@@ -287,7 +287,7 @@ Matchday 18
 
 Matchday 19
 [Wed Jul/24]
-  CA Paranaense            -  CA Mineiro
+         CA Paranaense            -  CA Mineiro               [postponed]
   19.00  Cruzeiro EC              2-0 (1-0)  EC Juventude
 
 
@@ -503,18 +503,18 @@ Matchday 6
 
 Matchday 30
 [Wed Oct/16]
-  21.45  Fortaleza EC             -  CA Mineiro
-         São Paulo FC             -  CR Vasco da Gama
+  21.45  Fortaleza EC             1-1 (1-0)  CA Mineiro
+         São Paulo FC             3-0 (1-0)  CR Vasco da Gama
 [Thu Oct/17]
-  20.00  SC Corinthians Paulista  -  CA Paranaense
-         CR Flamengo              -  Fluminense FC
+  20.00  SC Corinthians Paulista  5-2 (2-2)  CA Paranaense
+         CR Flamengo              0-2 (0-0)  Fluminense FC
 [Fri Oct/18]
-  19.00  AC Goianiense            -  Cuiabá EC
-  20.00  Botafogo FR              -  Criciúma EC
-  21.30  Cruzeiro EC              -  EC Bahia
+  19.00  AC Goianiense            0-0  Cuiabá EC
+  20.00  Botafogo FR              1-1 (0-0)  Criciúma EC
+  21.30  Cruzeiro EC              1-1 (0-0)  EC Bahia
 [Sat Oct/19]
-  16.00  SC Internacional         -  Grêmio FBPA
-         EC Vitória               -  RB Bragantino
+  16.00  SC Internacional         1-0 (0-0)  Grêmio FBPA
+         EC Vitória               1-0 (0-0)  RB Bragantino
 [Sun Oct/20]
   20.00  EC Juventude             -  SE Palmeiras
 
@@ -525,7 +525,7 @@ Matchday 17
 
 
 Matchday 19
-[Wed Oct/23]
+[Thu Oct/24]
   19.00  CR Vasco da Gama         -  Cuiabá EC
 
 
@@ -551,97 +551,97 @@ Matchday 17
 
 Matchday 32
 [Wed Nov/6]
-  CA Paranaense            -  EC Vitória
-  AC Goianiense            -  CA Mineiro
-  EC Bahia                 -  São Paulo FC
-  Botafogo FR              -  CR Vasco da Gama
-  RB Bragantino            -  Cuiabá EC
-  SC Corinthians Paulista  -  SE Palmeiras
-  Cruzeiro EC              -  CR Flamengo
-  Fluminense FC            -  Grêmio FBPA
-  SC Internacional         -  Criciúma EC
-  EC Juventude             -  Fortaleza EC
+         CA Paranaense            -  EC Vitória
+         AC Goianiense            -  CA Mineiro
+         EC Bahia                 -  São Paulo FC
+         Botafogo FR              -  CR Vasco da Gama
+         RB Bragantino            -  Cuiabá EC
+         SC Corinthians Paulista  -  SE Palmeiras
+         Cruzeiro EC              -  CR Flamengo
+         Fluminense FC            -  Grêmio FBPA
+         SC Internacional         -  Criciúma EC
+         EC Juventude             -  Fortaleza EC
 
 
 Matchday 33
 [Wed Nov/13]
-  SE Palmeiras             -  Grêmio FBPA
-  São Paulo FC             -  CA Paranaense
-  EC Vitória               -  SC Corinthians Paulista
-  AC Goianiense            -  RB Bragantino
-  Botafogo FR              -  Cuiabá EC
-  Cruzeiro EC              -  Criciúma EC
-  CR Flamengo              -  CA Mineiro
-  Fortaleza EC             -  CR Vasco da Gama
-  SC Internacional         -  Fluminense FC
-  EC Juventude             -  EC Bahia
+         SE Palmeiras             -  Grêmio FBPA
+         São Paulo FC             -  CA Paranaense
+         EC Vitória               -  SC Corinthians Paulista
+         AC Goianiense            -  RB Bragantino
+         Botafogo FR              -  Cuiabá EC
+         Cruzeiro EC              -  Criciúma EC
+         CR Flamengo              -  CA Mineiro
+         Fortaleza EC             -  CR Vasco da Gama
+         SC Internacional         -  Fluminense FC
+         EC Juventude             -  EC Bahia
 
 
 Matchday 34
 [Wed Nov/20]
-  CA Paranaense            -  AC Goianiense
-  CA Mineiro               -  Botafogo FR
-  EC Bahia                 -  SE Palmeiras
-  RB Bragantino            -  São Paulo FC
-  SC Corinthians Paulista  -  Cruzeiro EC
-  Criciúma EC              -  EC Vitória
-  Cuiabá EC                -  CR Flamengo
-  Fluminense FC            -  Fortaleza EC
-  Grêmio FBPA              -  EC Juventude
-  CR Vasco da Gama         -  SC Internacional
+         CA Paranaense            -  AC Goianiense
+         CA Mineiro               -  Botafogo FR
+         EC Bahia                 -  SE Palmeiras
+         RB Bragantino            -  São Paulo FC
+         SC Corinthians Paulista  -  Cruzeiro EC
+         Criciúma EC              -  EC Vitória
+         Cuiabá EC                -  CR Flamengo
+         Fluminense FC            -  Fortaleza EC
+         Grêmio FBPA              -  EC Juventude
+         CR Vasco da Gama         -  SC Internacional
 
 
 Matchday 35
 [Sat Nov/23]
-  AC Goianiense            -  SE Palmeiras
-  EC Bahia                 -  CA Paranaense
-  Botafogo FR              -  EC Vitória
-  SC Corinthians Paulista  -  CR Vasco da Gama
-  Cruzeiro EC              -  Grêmio FBPA
-  Fluminense FC            -  Criciúma EC
-  Fortaleza EC             -  CR Flamengo
-  SC Internacional         -  RB Bragantino
-  EC Juventude             -  Cuiabá EC
-  São Paulo FC             -  CA Mineiro
+         AC Goianiense            -  SE Palmeiras
+         EC Bahia                 -  CA Paranaense
+         Botafogo FR              -  EC Vitória
+         SC Corinthians Paulista  -  CR Vasco da Gama
+         Cruzeiro EC              -  Grêmio FBPA
+         Fluminense FC            -  Criciúma EC
+         Fortaleza EC             -  CR Flamengo
+         SC Internacional         -  RB Bragantino
+         EC Juventude             -  Cuiabá EC
+         São Paulo FC             -  CA Mineiro
 
 
 Matchday 36
 [Sat Nov/30]
-  CA Paranaense            -  Fluminense FC
-  CA Mineiro               -  EC Juventude
-  RB Bragantino            -  Cruzeiro EC
-  Criciúma EC              -  SC Corinthians Paulista
-  Cuiabá EC                -  EC Bahia
-  CR Flamengo              -  SC Internacional
-  Grêmio FBPA              -  São Paulo FC
-  SE Palmeiras             -  Botafogo FR
-  CR Vasco da Gama         -  AC Goianiense
-  EC Vitória               -  Fortaleza EC
+         CA Paranaense            -  Fluminense FC
+         CA Mineiro               -  EC Juventude
+         RB Bragantino            -  Cruzeiro EC
+         Criciúma EC              -  SC Corinthians Paulista
+         Cuiabá EC                -  EC Bahia
+         CR Flamengo              -  SC Internacional
+         Grêmio FBPA              -  São Paulo FC
+         SE Palmeiras             -  Botafogo FR
+         CR Vasco da Gama         -  AC Goianiense
+         EC Vitória               -  Fortaleza EC
 
 
 Matchday 37
 [Wed Dec/4]
-  CA Paranaense            -  RB Bragantino
-  AC Goianiense            -  Fortaleza EC
-  SC Corinthians Paulista  -  EC Bahia
-  Criciúma EC              -  CR Flamengo
-  Cruzeiro EC              -  SE Palmeiras
-  Fluminense FC            -  Cuiabá EC
-  SC Internacional         -  Botafogo FR
-  São Paulo FC             -  EC Juventude
-  CR Vasco da Gama         -  CA Mineiro
-  EC Vitória               -  Grêmio FBPA
+         CA Paranaense            -  RB Bragantino
+         AC Goianiense            -  Fortaleza EC
+         SC Corinthians Paulista  -  EC Bahia
+         Criciúma EC              -  CR Flamengo
+         Cruzeiro EC              -  SE Palmeiras
+         Fluminense FC            -  Cuiabá EC
+         SC Internacional         -  Botafogo FR
+         São Paulo FC             -  EC Juventude
+         CR Vasco da Gama         -  CA Mineiro
+         EC Vitória               -  Grêmio FBPA
 
 
 Matchday 38
 [Sun Dec/8]
-  CA Mineiro               -  CA Paranaense
-  EC Bahia                 -  AC Goianiense
-  Botafogo FR              -  São Paulo FC
-  RB Bragantino            -  Criciúma EC
-  Cuiabá EC                -  CR Vasco da Gama
-  CR Flamengo              -  EC Vitória
-  Fortaleza EC             -  SC Internacional
-  Grêmio FBPA              -  SC Corinthians Paulista
-  EC Juventude             -  Cruzeiro EC
-  SE Palmeiras             -  Fluminense FC
+         CA Mineiro               -  CA Paranaense
+         EC Bahia                 -  AC Goianiense
+         Botafogo FR              -  São Paulo FC
+         RB Bragantino            -  Criciúma EC
+         Cuiabá EC                -  CR Vasco da Gama
+         CR Flamengo              -  EC Vitória
+         Fortaleza EC             -  SC Internacional
+         Grêmio FBPA              -  SC Corinthians Paulista
+         EC Juventude             -  Cruzeiro EC
+         SE Palmeiras             -  Fluminense FC
