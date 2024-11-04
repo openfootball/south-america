@@ -540,21 +540,22 @@ Matchday 31
          RB Bragantino            0-1 (0-0)  Botafogo FR
   22.00  Criciúma EC              1-1 (1-0)  São Paulo FC
 [Mon Oct/28]
-  19.00  Cuiabá EC                -  SC Corinthians Paulista
-  21.00  CR Vasco da Gama         -  EC Bahia
+  19.00  Cuiabá EC                0-1 (0-1)  SC Corinthians Paulista
+  21.00  CR Vasco da Gama         3-2 (3-1)  EC Bahia
 
 
 Matchday 17
 [Wed Oct/30]
-  19.00  SC Internacional         -  CR Flamengo
+  19.00  SC Internacional         1-1 (0-1)  CR Flamengo
 
 
 Matchday 32
+[Fri Nov/1]
+  21.00  Fluminense FC            2-2 (1-1)  Grêmio FBPA
 [Sat Nov/2]
-  16.00  RB Bragantino            -  Cuiabá EC
-  18.30  CA Paranaense            -  EC Vitória
-         EC Juventude             -  Fortaleza EC
-  21.00  Fluminense FC            -  Grêmio FBPA
+  16.00  RB Bragantino            0-0  Cuiabá EC
+  18.30  CA Paranaense            1-2 (1-1)  EC Vitória
+         EC Juventude             0-3 (0-2)  Fortaleza EC
 [Mon Nov/4]
   20.00  SC Corinthians Paulista  -  SE Palmeiras
 [Tue Nov/5]

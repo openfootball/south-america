@@ -1,9 +1,9 @@
 = Copa Libertadores 2024
 
-# Date       Tue Feb/6 - Wed Oct/30 2024 (267d)
+# Date       Tue Feb/6 - Fri Nov/29 2024 (297d)
 # Teams      47
-# Matches    154
-# Stages     Qualifying (30)  Group (96)  Finals (28)
+# Matches    155
+# Stages     Qualifying (30)  Group (96)  Finals (29)
 
 
 == Qualifying
@@ -257,6 +257,11 @@ Semifinals
 [Wed Oct/23]
   21.45  Botafogo FR (BRA)        5-0 (0-0)  CA Peñarol (URU)
 [Tue Oct/29]
-  21.30  CA River Plate (ARG)     -  CA Mineiro (BRA)
+  21.45  CA River Plate (ARG)     0-0  CA Mineiro (BRA)
 [Wed Oct/30]
-  21.30  CA Peñarol (URU)         -  Botafogo FR (BRA)
+  21.30  CA Peñarol (URU)         3-1 (1-0)  Botafogo FR (BRA)
+
+
+Final
+[Fri Nov/29]
+  20.00  CA Mineiro (BRA)         -  Botafogo FR (BRA)
