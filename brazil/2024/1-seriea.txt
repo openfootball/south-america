@@ -287,7 +287,6 @@ Matchday 18
 
 Matchday 19
 [Wed Jul/24]
-         CA Paranaense            -  CA Mineiro               [postponed]
   19.00  Cruzeiro EC              2-0 (1-0)  EC Juventude
 
 
@@ -557,71 +556,89 @@ Matchday 32
   18.30  CA Paranaense            1-2 (1-1)  EC Vitória
          EC Juventude             0-3 (0-2)  Fortaleza EC
 [Mon Nov/4]
-  20.00  SC Corinthians Paulista  -  SE Palmeiras
+  20.00  SC Corinthians Paulista  2-0 (1-0)  SE Palmeiras
 [Tue Nov/5]
-  21.30  EC Bahia                 -  São Paulo FC
-         Botafogo FR              -  CR Vasco da Gama
-         SC Internacional         -  Criciúma EC
+  21.30  EC Bahia                 0-3 (0-1)  São Paulo FC
+         Botafogo FR              3-0 (2-0)  CR Vasco da Gama
+         SC Internacional         2-0 (1-0)  Criciúma EC
 [Wed Nov/6]
-  21.00  AC Goianiense            -  CA Mineiro
-         Cruzeiro EC              -  CR Flamengo
+  21.00  AC Goianiense            1-0 (0-0)  CA Mineiro
+         Cruzeiro EC              0-1 (0-0)  CR Flamengo
 
 
 Matchday 33
 [Fri Nov/8]
-  19.00  SC Internacional         -  Fluminense FC
-  21.30  SE Palmeiras             -  Grêmio FBPA
+  19.00  SC Internacional         2-0 (0-0)  Fluminense FC
+  21.30  SE Palmeiras             1-0 (0-0)  Grêmio FBPA
 [Sat Nov/9]
-  16.30  EC Vitória               -  SC Corinthians Paulista
-         Botafogo FR              -  Cuiabá EC
-  19.00  AC Goianiense            -  RB Bragantino
-         Cruzeiro EC              -  Criciúma EC
-         Fortaleza EC             -  CR Vasco da Gama
-         EC Juventude             -  EC Bahia
-  21.00  São Paulo FC             -  CA Paranaense
+  16.30  EC Vitória               1-2 (1-1)  SC Corinthians Paulista
+         Botafogo FR              0-0  Cuiabá EC
+  19.00  AC Goianiense            0-0  RB Bragantino
+         Cruzeiro EC              2-1 (1-0)  Criciúma EC
+         Fortaleza EC             3-0 (1-0)  CR Vasco da Gama
+         EC Juventude             2-1 (0-1)  EC Bahia
+  21.00  São Paulo FC             2-1 (0-0)  CA Paranaense
 [Wed Nov/13]
-  20.00  CR Flamengo              -  CA Mineiro
+  20.00  CR Flamengo              0-0  CA Mineiro
+
+
+Matchday 19
+[Sat Nov/16]
+  18.30  CA Paranaense            1-0 (1-0)  CA Mineiro
 
 
 Matchday 34
 [Wed Nov/20]
-         CA Paranaense            -  AC Goianiense
-         CA Mineiro               -  Botafogo FR
-         EC Bahia                 -  SE Palmeiras
+  11.00  SC Corinthians Paulista  -  Cruzeiro EC
+  16.30  CA Paranaense            -  AC Goianiense
          RB Bragantino            -  São Paulo FC
-         SC Corinthians Paulista  -  Cruzeiro EC
          Criciúma EC              -  EC Vitória
-         Cuiabá EC                -  CR Flamengo
-         Fluminense FC            -  Fortaleza EC
+  18.00  EC Bahia                 -  SE Palmeiras
+  19.00  Cuiabá EC                -  CR Flamengo
          Grêmio FBPA              -  EC Juventude
-         CR Vasco da Gama         -  SC Internacional
+  21.30  CA Mineiro               -  Botafogo FR
+[Thu Nov/21]
+  20.00  CR Vasco da Gama         -  SC Internacional
+[Fri Nov/22]
+  21.30  Fluminense FC            -  Fortaleza EC
 
 
 Matchday 35
 [Sat Nov/23]
-         AC Goianiense            -  SE Palmeiras
-         EC Bahia                 -  CA Paranaense
+  19.30  AC Goianiense            -  SE Palmeiras
          Botafogo FR              -  EC Vitória
-         SC Corinthians Paulista  -  CR Vasco da Gama
-         Cruzeiro EC              -  Grêmio FBPA
-         Fluminense FC            -  Criciúma EC
-         Fortaleza EC             -  CR Flamengo
-         SC Internacional         -  RB Bragantino
          EC Juventude             -  Cuiabá EC
-         São Paulo FC             -  CA Mineiro
+  21.30  São Paulo FC             -  CA Mineiro
+[Sun Nov/24]
+  16.00  EC Bahia                 -  CA Paranaense
+         SC Corinthians Paulista  -  CR Vasco da Gama
+         SC Internacional         -  RB Bragantino
+[Tue Nov/26]
+  19.00  Fluminense FC            -  Criciúma EC
+  20.00  Fortaleza EC             -  CR Flamengo
+
+
+Matchday 36
+[Tue Nov/26]
+  21.30  CA Mineiro               -  EC Juventude
+         SE Palmeiras             -  Botafogo FR
+
+
+Matchday 35
+[Wed Nov/27]
+  21.00  Cruzeiro EC              -  Grêmio FBPA
 
 
 Matchday 36
 [Sat Nov/30]
-         CA Paranaense            -  Fluminense FC
-         CA Mineiro               -  EC Juventude
-         RB Bragantino            -  Cruzeiro EC
-         Criciúma EC              -  SC Corinthians Paulista
+  19.30  Criciúma EC              -  SC Corinthians Paulista
          Cuiabá EC                -  EC Bahia
-         CR Flamengo              -  SC Internacional
+  21.30  CR Vasco da Gama         -  AC Goianiense
+[Sun Dec/1]
+  16.00  CR Flamengo              -  SC Internacional
          Grêmio FBPA              -  São Paulo FC
-         SE Palmeiras             -  Botafogo FR
-         CR Vasco da Gama         -  AC Goianiense
+  18.30  CA Paranaense            -  Fluminense FC
+         RB Bragantino            -  Cruzeiro EC
          EC Vitória               -  Fortaleza EC
 
 
