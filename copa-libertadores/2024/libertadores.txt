@@ -67,7 +67,7 @@ Round 3
 
 == Group
 
-Round 1
+Matchday 1
 [Tue Apr/2]
   19.00  CD Cobresal (CHI)        1-1 (0-0)  Barcelona SC (ECU)
          Millonarios FC (COL)     1-1 (0-0)  CR Flamengo (BRA)
@@ -89,7 +89,7 @@ Round 1
          CD Palestino (CHI)       0-4 (0-2)  Club Bolívar (BOL)
 
 
-Round 2
+Matchday 2
 [Tue Apr/9]
   19.00  Estudiantes de La Plata (ARG)  2-1 (0-1)  Club The Strongest (BOL)
          Grêmio FBPA (BRA)        0-2 (0-2)  CD Huachipato (CHI)
@@ -111,7 +111,7 @@ Round 2
          CA River Plate (ARG)     2-0 (1-0)  Club Nacional de Football (URU)
 
 
-Round 3
+Matchday 3
 [Tue Apr/23]
   19.00  Caracas FC (VEN)         1-1 (1-0)  CA Rosario Central (ARG)
          Estudiantes de La Plata (ARG)  0-1 (0-0)  Grêmio FBPA (BRA)
@@ -133,7 +133,7 @@ Round 3
          Barcelona SC (ECU)       0-2 (0-1)  São Paulo FC (BRA)
 
 
-Round 4
+Matchday 4
 [Tue May/7]
   19.00  CA Rosario Central (ARG)  0-1 (0-0)  CA Mineiro (BRA)
          Caracas FC (VEN)         0-1 (0-1)  CA Peñarol (URU)
@@ -154,7 +154,7 @@ Round 4
          Club The Strongest (BOL)  1-0 (1-0)  Estudiantes de La Plata (ARG)
 
 
-Round 5
+Matchday 5
 [Tue May/14]
   19.00  CA Peñarol (URU)         2-0 (0-0)  CA Mineiro (BRA)
          CA Talleres (ARG)        1-0 (0-0)  CD Cobresal (CHI)
@@ -175,7 +175,7 @@ Round 5
          São Paulo FC (BRA)       0-0  Barcelona SC (ECU)
 
 
-Round 6
+Matchday 6
 [Tue May/28]
   19.00  CA Mineiro (BRA)         4-0 (2-0)  Caracas FC (VEN)
          CA Peñarol (URU)         2-1 (1-0)  CA Rosario Central (ARG)
@@ -197,12 +197,12 @@ Round 6
          Club Libertad Asuncion (PAR)  2-1 (2-1)  Club Nacional de Football (URU)
 
 
-Round 4
+Matchday 4
 [Tue Jun/4]
   21.00  CD Huachipato (CHI)      0-1 (0-1)  Grêmio FBPA (BRA)
 
 
-Round 5
+Matchday 5
 [Sat Jun/8]
   19.00  Grêmio FBPA (BRA)        1-1 (0-0)  Estudiantes de La Plata (ARG)
 
