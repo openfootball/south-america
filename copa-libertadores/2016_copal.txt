@@ -1,0 +1,282 @@
+= Copa Libertadores 2016
+
+# Date       Tue Feb/2 - Wed Jul/27 2016 (176d)
+# Teams      37
+# Matches    138
+
+
+
+» Round 1
+  Tue Feb/2 2016
+    20.30  Huracán (ARG)           v Caracas FC (VEN)         1-0 (0-0)
+    22.45  River Plate (URU)       v Universidad de Chile (CHI)  2-0 (0-0)
+  Wed Feb/3
+    21.45  Universidad Cesar Vallejo (PER) v São Paulo FC (BRA)       1-1 (1-0)
+  Thu Feb/4
+    00.15  Puebla FC (MEX)         v Racing Club (ARG)        2-2 (1-1)
+    20.30  Independiente del Valle (ECU) v Guaraní (PAR)            1-0 (1-0)
+    22.45  Oriente Petrolero (BOL) v Santa Fe (COL)           1-3 (0-2)
+  Tue Feb/9
+    20.30  Universidad de Chile (CHI) v River Plate (URU)        0-0
+    22.45  Caracas FC (VEN)        v Huracán (ARG)            2-1 (1-0)
+  Wed Feb/10
+    21.45  São Paulo FC (BRA)      v Universidad Cesar Vallejo (PER)  1-0 (0-0)
+    22.45  Racing Club (ARG)       v Puebla FC (MEX)          1-0 (0-0)
+  Thu Feb/11
+    20.30  Guaraní (PAR)           v Independiente del Valle (ECU)  2-1 (0-0)
+    23.00  Santa Fe (COL)          v Oriente Petrolero (BOL)  3-0 (2-0)
+
+
+» Gruppe 1
+  Wed Feb/17
+    19.30  São Paulo FC (BRA)      v The Strongest (BOL)      0-1 (0-0)
+  Thu Feb/25
+    21.45  Trujillanos FC (VEN)    v River Plate (URU)        0-4 (0-0)
+  Wed Mar/2
+    17.15  The Strongest (BOL)     v Trujillanos FC (VEN)     2-1 (2-1)
+  Thu Mar/10
+    19.30  River Plate (URU)       v São Paulo FC (BRA)       1-1 (1-1)
+  Wed Mar/16
+    19.30  The Strongest (BOL)     v River Plate (URU)        1-1 (0-1)
+           Trujillanos FC (VEN)    v São Paulo FC (BRA)       1-1 (1-1)
+  Tue Apr/5
+    21.45  São Paulo FC (BRA)      v Trujillanos FC (VEN)     6-0 (3-0)
+  Wed Apr/6
+    19.30  River Plate (URU)       v The Strongest (BOL)      6-0 (5-0)
+  Tue Apr/12
+    19.30  Trujillanos FC (VEN)    v The Strongest (BOL)      2-1 (1-0)
+  Wed Apr/13
+    21.45  São Paulo FC (BRA)      v River Plate (URU)        2-1 (1-0)
+  Thu Apr/21
+    21.45  River Plate (URU)       v Trujillanos FC (VEN)     4-3 (2-1)
+           The Strongest (BOL)     v São Paulo FC (BRA)       1-1 (1-1)
+
+
+» Gruppe 2
+  Tue Feb/16
+    21.45  River Plate (URU)       v Palmeiras (BRA)          2-2 (0-1)
+  Thu Feb/25
+    19.30  Rosario Central (ARG)   v Nacional (URU)           1-1 (0-0)
+  Wed Mar/2
+    19.30  Nacional (URU)          v River Plate (URU)        0-0
+  Thu Mar/3
+    21.45  Palmeiras (BRA)         v Rosario Central (ARG)    2-0 (1-0)
+  Wed Mar/9
+    19.30  Rosario Central (ARG)   v River Plate (URU)        4-1 (1-0)
+    21.45  Palmeiras (BRA)         v Nacional (URU)           1-2 (1-2)
+  Thu Mar/17
+    19.30  River Plate (URU)       v Rosario Central (ARG)    1-3 (1-1)
+    21.45  Nacional (URU)          v Palmeiras (BRA)          1-0 (0-0)
+  Wed Apr/6
+    21.45  Rosario Central (ARG)   v Palmeiras (BRA)          3-3 (1-2)
+  Thu Apr/7
+    19.30  River Plate (URU)       v Nacional (URU)           2-2 (1-1)
+  Thu Apr/14
+    21.45  Nacional (URU)          v Rosario Central (ARG)    0-2 (0-1)
+           Palmeiras (BRA)         v River Plate (URU)        4-0 (2-0)
+
+
+» Gruppe 3
+  Wed Feb/24
+    19.30  Racing Club (ARG)       v Bolívar (BOL)            4-1 (3-0)
+    21.45  Deportivo Cali (COL)    v Boca Juniors (ARG)       0-0
+  Thu Mar/3
+    19.30  Boca Juniors (ARG)      v Racing Club (ARG)        0-0
+    21.45  Bolívar (BOL)           v Deportivo Cali (COL)     5-0 (3-0)
+  Thu Mar/10
+    21.45  Bolívar (BOL)           v Boca Juniors (ARG)       1-1 (1-0)
+  Thu Mar/17
+    21.45  Deportivo Cali (COL)    v Racing Club (ARG)        2-2 (2-0)
+  Thu Apr/7
+    19.30  Boca Juniors (ARG)      v Bolívar (BOL)            3-1 (2-0)
+    21.45  Racing Club (ARG)       v Deportivo Cali (COL)     4-2 (3-0)
+  Wed Apr/13
+    19.30  Racing Club (ARG)       v Boca Juniors (ARG)       0-1 (0-0)
+  Thu Apr/14
+    21.45  Deportivo Cali (COL)    v Bolívar (BOL)            1-1 (1-0)
+  Wed Apr/20
+    19.30  Boca Juniors (ARG)      v Deportivo Cali (COL)     6-2 (2-2)
+           Bolívar (BOL)           v Racing Club (ARG)        1-1 (0-0)
+
+
+» Gruppe 4
+  Thu Feb/18
+    22.45  Sporting Cristal (PER)  v Peñarol (URU)            1-1 (0-1)
+  Tue Feb/23
+    21.45  Huracán (ARG)           v Atlético Nacional (COL)  0-2 (0-1)
+  Tue Mar/1
+    21.45  Atlético Nacional (COL) v Sporting Cristal (PER)   3-0 (2-0)
+           Peñarol (URU)           v Huracán (ARG)            0-1 (0-1)
+  Tue Mar/8
+    21.45  Atlético Nacional (COL) v Peñarol (URU)            2-0 (0-0)
+           Sporting Cristal (PER)  v Huracán (ARG)            3-2 (2-0)
+  Tue Mar/15
+    21.45  Peñarol (URU)           v Atlético Nacional (COL)  0-4 (0-2)
+  Tue Apr/5
+    19.30  Huracán (ARG)           v Sporting Cristal (PER)   4-2 (2-2)
+  Tue Apr/12
+    19.30  Huracán (ARG)           v Peñarol (URU)            0-0
+    21.45  Sporting Cristal (PER)  v Atlético Nacional (COL)  0-1 (0-1)
+  Tue Apr/19
+    19.30  Atlético Nacional (COL) v Huracán (ARG)            0-0
+           Peñarol (URU)           v Sporting Cristal (PER)   4-3 (1-3)
+
+
+» Gruppe 5
+  Wed Feb/17
+    21.45  FBC Melgar (PER)        v Atlético Mineiro (BRA)   1-2 (1-2)
+  Thu Feb/18
+    22.45  Independiente del Valle (ECU) v Colo-Colo (CHI)          1-1 (0-0)
+  Wed Feb/24
+    19.30  Colo-Colo (CHI)         v FBC Melgar (PER)         1-0 (0-0)
+    21.45  Atlético Mineiro (BRA)  v Independiente del Valle (ECU)  1-0 (1-0)
+  Tue Mar/1
+    17.15  FBC Melgar (PER)        v Independiente del Valle (ECU)  0-1 (0-1)
+  Thu Mar/10
+    21.45  Colo-Colo (CHI)         v Atlético Mineiro (BRA)   0-0
+  Tue Mar/15
+    19.30  Independiente del Valle (ECU) v FBC Melgar (PER)         2-0 (1-0)
+  Wed Mar/16
+    21.45  Atlético Mineiro (BRA)  v Colo-Colo (CHI)          3-0 (2-0)
+  Wed Apr/6
+    21.45  Independiente del Valle (ECU) v Atlético Mineiro (BRA)   3-2 (3-1)
+  Thu Apr/7
+    21.45  FBC Melgar (PER)        v Colo-Colo (CHI)          1-2 (0-0)
+  Thu Apr/14
+    19.30  Atlético Mineiro (BRA)  v FBC Melgar (PER)         4-0 (3-0)
+           Colo-Colo (CHI)         v Independiente del Valle (ECU)  0-0
+
+
+» Gruppe 6
+  Thu Feb/18
+    00.00  Deportivo Toluca (MEX)  v Grêmio Porto Alegre (BRA)  2-0 (0-0)
+  Tue Feb/23
+    19.30  LDU Quito (ECU)         v San Lorenzo (ARG)        2-0 (0-0)
+  Wed Mar/2
+    19.30  San Lorenzo (ARG)       v Deportivo Toluca (MEX)   1-1 (1-1)
+    21.45  Grêmio Porto Alegre (BRA) v LDU Quito (ECU)          4-0 (2-0)
+  Wed Mar/9
+    21.45  Grêmio Porto Alegre (BRA) v San Lorenzo (ARG)        1-1 (1-1)
+  Thu Mar/10
+    21.45  LDU Quito (ECU)         v Deportivo Toluca (MEX)   1-2 (0-1)
+  Tue Mar/15
+    21.45  San Lorenzo (ARG)       v Grêmio Porto Alegre (BRA)  1-1 (1-0)
+  Tue Apr/5
+    21.45  Deportivo Toluca (MEX)  v LDU Quito (ECU)          2-1 (1-1)
+  Tue Apr/12
+    21.45  Deportivo Toluca (MEX)  v San Lorenzo (ARG)        2-1 (0-1)
+  Wed Apr/13
+    21.45  LDU Quito (ECU)         v Grêmio Porto Alegre (BRA)  2-3 (0-2)
+  Tue Apr/19
+    21.45  Grêmio Porto Alegre (BRA) v Deportivo Toluca (MEX)   1-0 (1-0)
+           San Lorenzo (ARG)       v LDU Quito (ECU)          1-1 (0-0)
+
+
+» Gruppe 7
+  Wed Feb/17
+    00.00  Deportivo Táchira (VEN) v Club Olimpia (PAR)       2-1 (1-0)
+  Fri Feb/19
+    01.00  Pumas UNAM (MEX)        v Emelec (ECU)             4-2 (2-1)
+  Thu Feb/25
+    21.45  Emelec (ECU)            v Deportivo Táchira (VEN)  2-0 (0-0)
+  Tue Mar/1
+    19.30  Club Olimpia (PAR)      v Pumas UNAM (MEX)         0-2 (0-0)
+  Tue Mar/8
+    19.30  Emelec (ECU)            v Club Olimpia (PAR)       2-2 (1-2)
+  Wed Mar/9
+    21.45  Deportivo Táchira (VEN) v Pumas UNAM (MEX)         2-0 (2-0)
+  Thu Mar/17
+    19.30  Club Olimpia (PAR)      v Emelec (ECU)             4-2 (1-1)
+  Fri Mar/18
+    00.00  Pumas UNAM (MEX)        v Deportivo Táchira (VEN)  4-1 (1-0)
+  Tue Apr/5
+    19.30  Deportivo Táchira (VEN) v Emelec (ECU)             1-0 (1-0)
+  Thu Apr/7
+    00.00  Pumas UNAM (MEX)        v Club Olimpia (PAR)       4-1 (0-1)
+  Wed Apr/13
+    19.30  Club Olimpia (PAR)      v Deportivo Táchira (VEN)  4-0 (2-0)
+           Emelec (ECU)            v Pumas UNAM (MEX)         2-3 (1-2)
+
+
+» Gruppe 8
+  Wed Feb/17
+    00.00  Santa Fe (COL)          v Cerro Porteño (PAR)      0-0
+    21.45  Cobresal (CHI)          v Corinthians SP (BRA)     0-1 (0-0)
+  Thu Feb/25
+    19.30  Cerro Porteño (PAR)     v Cobresal (CHI)           2-1 (0-0)
+  Wed Mar/2
+    21.45  Corinthians SP (BRA)    v Santa Fe (COL)           1-0 (0-0)
+  Wed Mar/9
+    17.15  Cobresal (CHI)          v Santa Fe (COL)           1-2 (0-2)
+    19.30  Cerro Porteño (PAR)     v Corinthians SP (BRA)     3-2 (0-1)
+  Tue Mar/15
+    19.30  Santa Fe (COL)          v Cobresal (CHI)           3-0 (2-0)
+  Wed Mar/16
+    21.45  Corinthians SP (BRA)    v Cerro Porteño (PAR)      2-0 (1-0)
+  Wed Apr/6
+    21.45  Santa Fe (COL)          v Corinthians SP (BRA)     1-1 (1-0)
+  Wed Apr/13
+    17.15  Cobresal (CHI)          v Cerro Porteño (PAR)      2-0 (0-0)
+  Wed Apr/20
+    21.45  Corinthians SP (BRA)    v Cobresal (CHI)           6-0 (4-0)
+           Cerro Porteño (PAR)     v Santa Fe (COL)           1-0 (1-0)
+
+
+» Round of 16
+  Tue Apr/26
+    19.30  Huracán (ARG)           v Atlético Nacional (COL)  0-0
+    21.45  Deportivo Táchira (VEN) v Pumas UNAM (MEX)         1-0 (0-0)
+  Wed Apr/27
+    19.30  Racing Club (ARG)       v Atlético Mineiro (BRA)   0-0
+    21.45  Nacional (URU)          v Corinthians SP (BRA)     0-0
+           Grêmio Porto Alegre (BRA) v Rosario Central (ARG)    0-1 (0-1)
+  Thu Apr/28
+    19.30  Independiente del Valle (ECU) v River Plate (URU)        2-0 (0-0)
+    21.45  São Paulo FC (BRA)      v Deportivo Toluca (MEX)   4-0 (2-0)
+           Cerro Porteño (PAR)     v Boca Juniors (ARG)       1-2 (0-1)
+  Tue May/3
+    21.45  Atlético Nacional (COL) v Huracán (ARG)            4-2 (1-1)
+    23.45  Pumas UNAM (MEX)        v Deportivo Táchira (VEN)  2-0 (1-0)
+  Wed May/4
+    19.15  Deportivo Toluca (MEX)  v São Paulo FC (BRA)       3-1 (1-0)
+           River Plate (URU)       v Independiente del Valle (ECU)  1-0 (0-0)
+    21.45  Corinthians SP (BRA)    v Nacional (URU)           2-2 (1-1)
+           Atlético Mineiro (BRA)  v Racing Club (ARG)        2-1 (1-1)
+  Thu May/5
+    19.15  Rosario Central (ARG)   v Grêmio Porto Alegre (BRA)  3-0 (2-0)
+    21.45  Boca Juniors (ARG)      v Cerro Porteño (PAR)      3-1 (1-1)
+
+
+» Quarterfinals
+  Wed May/11
+    21.45  São Paulo FC (BRA)      v Atlético Mineiro (BRA)   1-0 (0-0)
+  Thu May/12
+    19.30  Nacional (URU)          v Boca Juniors (ARG)       1-1 (0-0)
+    21.45  Rosario Central (ARG)   v Atlético Nacional (COL)  1-0 (1-0)
+  Tue May/17
+    21.45  Independiente del Valle (ECU) v Pumas UNAM (MEX)         2-1 (1-0)
+  Wed May/18
+    21.45  Atlético Mineiro (BRA)  v São Paulo FC (BRA)       2-1 (2-1)
+  Thu May/19
+    20.15  Boca Juniors (ARG)      v Nacional (URU)           4-3 pen. (1-1, 0-1)
+    22.45  Atlético Nacional (COL) v Rosario Central (ARG)    3-1 (1-1)
+  Tue May/24
+    21.45  Pumas UNAM (MEX)        v Independiente del Valle (ECU)  3-5 pen. (2-1, 2-0)
+
+
+» Semifinals
+  Wed Jul/6
+    21.45  São Paulo FC (BRA)      v Atlético Nacional (COL)  0-2 (0-0)
+  Thu Jul/7
+    21.45  Independiente del Valle (ECU) v Boca Juniors (ARG)       2-1 (0-1)
+  Wed Jul/13
+    21.45  Atlético Nacional (COL) v São Paulo FC (BRA)       2-1 (1-1)
+  Thu Jul/14
+    21.45  Boca Juniors (ARG)      v Independiente del Valle (ECU)  2-3 (1-1)
+
+
+» Final
+  Wed Jul/20
+    21.45  Independiente del Valle (ECU) v Atlético Nacional (COL)  1-1 (0-1)
+  Wed Jul/27
+    21.45  Atlético Nacional (COL) v Independiente del Valle (ECU)  1-0 (1-0)

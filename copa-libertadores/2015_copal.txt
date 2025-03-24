@@ -1,0 +1,286 @@
+= Copa Libertadores 2015
+
+# Date       Tue Feb/3 - Wed Aug/5 2015 (183d)
+# Teams      38
+# Matches    138
+
+
+
+» Round 1
+  Tue Feb/3 2015
+    22.15  Alianza Lima (PER)      v Huracán (ARG)            0-4 (0-2)
+  Wed Feb/4
+    00.30  Monarcas Morelia (MEX)  v The Strongest (BOL)      1-1 (1-1)
+    22.00  Corinthians SP (BRA)    v Once Caldas (COL)        4-0 (1-0)
+  Thu Feb/5
+    00.15  Deportivo Táchira (VEN) v Cerro Porteño (PAR)      2-1 (2-0)
+    20.45  Palestino (CHI)         v Nacional (URU)           1-0 (0-0)
+    23.00  Independiente del Valle (ECU) v Estudiantes (ARG)        1-0 (0-0)
+  Tue Feb/10
+    20.15  Huracán (ARG)           v Alianza Lima (PER)       0-0
+    22.45  The Strongest (BOL)     v Monarcas Morelia (MEX)   2-0 (0-0)
+  Wed Feb/11
+    19.30  Cerro Porteño (PAR)     v Deportivo Táchira (VEN)  2-2 (1-0)
+    22.00  Once Caldas (COL)       v Corinthians SP (BRA)     1-1 (0-1)
+  Thu Feb/12
+    20.15  Nacional (URU)          v Palestino (CHI)          2-1 (2-1)
+    22.45  Estudiantes (ARG)       v Independiente del Valle (ECU)  4-0 (2-0)
+
+
+» Gruppe 1
+  Wed Feb/18
+    00.45  Atlas Guadalajara (MEX) v Santa Fe (COL)           0-1 (0-0)
+    22.00  Colo-Colo (CHI)         v Atlético Mineiro (BRA)   2-0 (1-0)
+  Wed Feb/25
+    19.45  Atlético Mineiro (BRA)  v Atlas Guadalajara (MEX)  0-1 (0-0)
+  Thu Feb/26
+    22.30  Santa Fe (COL)          v Colo-Colo (CHI)          3-1 (2-0)
+  Wed Mar/4
+    19.45  Colo-Colo (CHI)         v Atlas Guadalajara (MEX)  2-0 (0-0)
+  Wed Mar/18
+    22.00  Santa Fe (COL)          v Atlético Mineiro (BRA)   0-1 (0-0)
+  Tue Apr/7
+    22.15  Atlas Guadalajara (MEX) v Colo-Colo (CHI)          1-3 (1-1)
+  Thu Apr/9
+    21.45  Atlético Mineiro (BRA)  v Santa Fe (COL)           2-0 (1-0)
+  Wed Apr/15
+    22.00  Atlas Guadalajara (MEX) v Atlético Mineiro (BRA)   1-0 (1-0)
+           Colo-Colo (CHI)         v Santa Fe (COL)           0-3 (0-1)
+  Wed Apr/22
+    19.45  Santa Fe (COL)          v Atlas Guadalajara (MEX)  3-1 (2-0)
+           Atlético Mineiro (BRA)  v Colo-Colo (CHI)          2-0 (1-0)
+
+
+» Gruppe 2
+  Wed Feb/18
+    22.00  Corinthians SP (BRA)    v São Paulo FC (BRA)       2-0 (1-0)
+  Thu Feb/19
+    20.45  Danubio (URU)           v San Lorenzo (ARG)        1-2 (1-0)
+  Wed Feb/25
+    22.00  São Paulo FC (BRA)      v Danubio (URU)            4-0 (2-0)
+  Wed Mar/4
+    22.00  San Lorenzo (ARG)       v Corinthians SP (BRA)     0-1 (0-0)
+  Tue Mar/17
+    20.00  Danubio (URU)           v Corinthians SP (BRA)     1-2 (0-0)
+  Wed Mar/18
+    22.00  São Paulo FC (BRA)      v San Lorenzo (ARG)        1-0 (0-0)
+  Wed Apr/1
+    19.45  San Lorenzo (ARG)       v São Paulo FC (BRA)       1-0 (0-0)
+    22.00  Corinthians SP (BRA)    v Danubio (URU)            4-0 (2-0)
+  Wed Apr/15
+    22.00  Danubio (URU)           v São Paulo FC (BRA)       1-2 (0-0)
+  Thu Apr/16
+    22.00  Corinthians SP (BRA)    v San Lorenzo (ARG)        0-0
+  Wed Apr/22
+    22.00  São Paulo FC (BRA)      v Corinthians SP (BRA)     2-0 (2-0)
+           San Lorenzo (ARG)       v Danubio (URU)            0-1 (0-0)
+
+
+» Gruppe 3
+  Tue Feb/24
+    19.00  Huracán (ARG)           v Mineros de Guayana (VEN)  2-2 (1-1)
+  Wed Feb/25
+    22.00  Universitario de Sucre (BOL) v Cruzeiro (BRA)           0-0
+  Tue Mar/3
+    19.45  Mineros de Guayana (VEN) v Universitario de Sucre (BOL)  0-1 (0-0)
+    22.00  Cruzeiro (BRA)          v Huracán (ARG)            0-0
+  Tue Mar/10
+    19.30  Universitario de Sucre (BOL) v Huracán (ARG)            0-0
+  Thu Mar/19
+    22.15  Mineros de Guayana (VEN) v Cruzeiro (BRA)           0-2 (0-1)
+  Wed Apr/8
+    19.45  Huracán (ARG)           v Universitario de Sucre (BOL)  1-1 (1-1)
+    22.00  Cruzeiro (BRA)          v Mineros de Guayana (VEN)  3-0 (2-0)
+  Tue Apr/14
+    19.00  Huracán (ARG)           v Cruzeiro (BRA)           3-1 (2-0)
+           Universitario de Sucre (BOL) v Mineros de Guayana (VEN)  2-0 (1-0)
+  Tue Apr/21
+    20.30  Cruzeiro (BRA)          v Universitario de Sucre (BOL)  2-0 (1-0)
+           Mineros de Guayana (VEN) v Huracán (ARG)            3-0 (2-0)
+
+
+» Gruppe 4
+  Tue Feb/17
+    20.15  Universidad de Chile (CHI) v Emelec (ECU)             0-1 (0-0)
+    22.30  The Strongest (BOL)     v Internacional (BRA)      3-1 (2-0)
+  Tue Feb/24
+    23.30  Emelec (ECU)            v The Strongest (BOL)      3-0 (2-0)
+  Thu Feb/26
+    20.15  Internacional (BRA)     v Universidad de Chile (CHI)  3-1 (1-0)
+  Wed Mar/4
+    22.00  Internacional (BRA)     v Emelec (ECU)             3-2 (1-2)
+  Thu Mar/5
+    20.15  Universidad de Chile (CHI) v The Strongest (BOL)      3-1 (1-1)
+  Tue Mar/17
+    22.15  The Strongest (BOL)     v Universidad de Chile (CHI)  5-3 (1-1)
+  Wed Mar/18
+    19.45  Emelec (ECU)            v Internacional (BRA)      1-1 (1-0)
+  Wed Apr/15
+    17.30  The Strongest (BOL)     v Emelec (ECU)             1-0 (0-0)
+  Thu Apr/16
+    22.00  Universidad de Chile (CHI) v Internacional (BRA)      0-4 (0-3)
+  Wed Apr/22
+    17.30  Internacional (BRA)     v The Strongest (BOL)      1-0 (1-0)
+           Emelec (ECU)            v Universidad de Chile (CHI)  2-0 (1-0)
+
+
+» Gruppe 5
+  Tue Feb/17
+    20.15  Montevideo Wanderers (URU) v Zamora FC (VEN)          3-2 (1-1)
+  Wed Feb/18
+    19.45  Palestino (CHI)         v Boca Juniors (ARG)       0-2 (0-1)
+  Thu Feb/26
+    20.15  Boca Juniors (ARG)      v Montevideo Wanderers (URU)  2-1 (2-1)
+    22.30  Zamora FC (VEN)         v Palestino (CHI)          0-1 (0-1)
+  Tue Mar/10
+    19.30  Montevideo Wanderers (URU) v Palestino (CHI)          1-0 (1-0)
+  Wed Mar/11
+    20.00  Boca Juniors (ARG)      v Zamora FC (VEN)          5-0 (3-0)
+  Tue Mar/17
+    22.15  Zamora FC (VEN)         v Boca Juniors (ARG)       1-5 (1-0)
+  Thu Mar/19
+    20.00  Palestino (CHI)         v Montevideo Wanderers (URU)  1-1 (0-1)
+  Tue Apr/7
+    20.00  Palestino (CHI)         v Zamora FC (VEN)          4-0 (0-0)
+  Thu Apr/9
+    21.45  Montevideo Wanderers (URU) v Boca Juniors (ARG)       0-3 (0-1)
+  Thu Apr/16
+    19.45  Boca Juniors (ARG)      v Palestino (CHI)          2-0 (0-0)
+           Zamora FC (VEN)         v Montevideo Wanderers (URU)  0-3 (0-1)
+
+
+» Gruppe 6
+  Thu Feb/19
+    00.15  UANL Tigres (MEX)       v Juan Aurich (PER)        3-0 (1-0)
+    23.00  Club San José (BOL)     v River Plate (ARG)        2-0 (0-0)
+  Thu Mar/5
+    20.15  River Plate (ARG)       v UANL Tigres (MEX)        1-1 (0-1)
+    22.30  Juan Aurich (PER)       v Club San José (BOL)      2-0 (2-0)
+  Wed Mar/11
+    22.15  Club San José (BOL)     v UANL Tigres (MEX)        0-1 (0-1)
+  Thu Mar/12
+    22.15  Juan Aurich (PER)       v River Plate (ARG)        1-1 (0-1)
+  Wed Mar/18
+    00.30  UANL Tigres (MEX)       v Club San José (BOL)      4-0 (2-0)
+  Thu Mar/19
+    20.00  River Plate (ARG)       v Juan Aurich (PER)        1-1 (1-0)
+  Tue Apr/7
+    22.15  Club San José (BOL)     v Juan Aurich (PER)        1-1 (1-1)
+  Wed Apr/8
+    22.00  UANL Tigres (MEX)       v River Plate (ARG)        2-2 (1-0)
+  Wed Apr/15
+    19.45  River Plate (ARG)       v Club San José (BOL)      3-0 (1-0)
+           Juan Aurich (PER)       v UANL Tigres (MEX)        4-5 (2-2)
+
+
+» Gruppe 7
+  Thu Feb/19
+    20.45  Libertad (PAR)          v Atlético Nacional (COL)  2-2 (2-1)
+  Wed Feb/25
+    19.45  Estudiantes (ARG)       v Barcelona (ECU)          3-0 (2-0)
+  Tue Mar/3
+    19.45  Barcelona (ECU)         v Libertad (PAR)           0-1 (0-0)
+  Thu Mar/5
+    22.30  Atlético Nacional (COL) v Estudiantes (ARG)        1-1 (1-0)
+  Wed Mar/11
+    22.15  Barcelona (ECU)         v Atlético Nacional (COL)  1-2 (1-0)
+  Thu Mar/12
+    19.45  Libertad (PAR)          v Estudiantes (ARG)        1-0 (0-0)
+  Wed Mar/18
+    19.45  Estudiantes (ARG)       v Libertad (PAR)           1-0 (0-0)
+  Thu Mar/19
+    22.15  Atlético Nacional (COL) v Barcelona (ECU)          2-3 (1-1)
+  Thu Apr/9
+    19.30  Estudiantes (ARG)       v Atlético Nacional (COL)  0-1 (0-1)
+           Libertad (PAR)          v Barcelona (ECU)          1-1 (0-1)
+  Tue Apr/21
+    22.45  Atlético Nacional (COL) v Libertad (PAR)           4-0 (1-0)
+           Barcelona (ECU)         v Estudiantes (ARG)        0-2 (0-0)
+
+
+» Gruppe 8
+  Tue Feb/17
+    22.30  Deportivo Táchira (VEN) v Racing Club (ARG)        0-5 (0-2)
+  Wed Feb/18
+    19.45  Guaraní (PAR)           v Sporting Cristal (PER)   2-2 (0-1)
+  Tue Feb/24
+    21.15  Racing Club (ARG)       v Guaraní (PAR)            4-1 (1-0)
+    23.30  Sporting Cristal (PER)  v Deportivo Táchira (VEN)  1-1 (1-0)
+  Tue Mar/10
+    21.45  Racing Club (ARG)       v Sporting Cristal (PER)   1-2 (0-0)
+           Guaraní (PAR)           v Deportivo Táchira (VEN)  5-2 (4-1)
+  Tue Mar/17
+    20.00  Sporting Cristal (PER)  v Racing Club (ARG)        0-2 (0-0)
+  Wed Mar/18
+    22.00  Deportivo Táchira (VEN) v Guaraní (PAR)            1-1 (1-1)
+  Tue Apr/7
+    20.00  Guaraní (PAR)           v Racing Club (ARG)        2-0 (0-0)
+  Wed Apr/8
+    19.45  Deportivo Táchira (VEN) v Sporting Cristal (PER)   0-0
+  Tue Apr/14
+    21.15  Racing Club (ARG)       v Deportivo Táchira (VEN)  3-2 (0-1)
+           Sporting Cristal (PER)  v Guaraní (PAR)            1-1 (0-1)
+
+
+» Round of 16
+  Tue Apr/28
+    21.30  Universitario de Sucre (BOL) v UANL Tigres (MEX)        1-2 (1-0)
+  Tue May/5
+    20.45  Estudiantes (ARG)       v Santa Fe (COL)           2-1 (2-0)
+  Wed May/6
+    19.45  Guaraní (PAR)           v Corinthians SP (BRA)     2-0 (0-0)
+    22.00  Atlético Mineiro (BRA)  v Internacional (BRA)      2-2 (1-1)
+           São Paulo FC (BRA)      v Cruzeiro (BRA)           1-0 (0-0)
+  Thu May/7
+    18.45  Montevideo Wanderers (URU) v Racing Club (ARG)        1-1 (0-0)
+    21.00  River Plate (ARG)       v Boca Juniors (ARG)       1-0 (0-0)
+    23.15  Emelec (ECU)            v Atlético Nacional (COL)  2-0 (1-0)
+  Tue May/5
+    23.00  UANL Tigres (MEX)       v Universitario de Sucre (BOL)  1-1 (0-1)
+  Tue May/12
+    21.30  Santa Fe (COL)          v Estudiantes (ARG)        2-0 (1-0)
+  Wed May/13
+    19.30  Cruzeiro (BRA)          v São Paulo FC (BRA)       4-3 pen. 4-3 a.e.t. (4-3, 0-0)
+    22.00  Internacional (BRA)     v Atlético Mineiro (BRA)   3-1 (2-0)
+           Corinthians SP (BRA)    v Guaraní (PAR)            0-1 (0-0)
+  Thu May/14
+    18.30  Racing Club (ARG)       v Montevideo Wanderers (URU)  2-1 (2-0)
+  Fri May/15
+           Boca Juniors (ARG)      v River Plate (ARG)        0-3    [awarded]
+  Thu May/14
+    23.30  Atlético Nacional (COL) v Emelec (ECU)             1-0 (0-0)
+
+
+» Quarterfinals
+  Tue May/19
+    22.00  Emelec (ECU)            v UANL Tigres (MEX)        1-0 (0-0)
+  Wed May/20
+    22.00  Santa Fe (COL)          v Internacional (BRA)      1-0 (0-0)
+  Thu May/21
+    19.45  Guaraní (PAR)           v Racing Club (ARG)        1-0 (0-0)
+    22.00  River Plate (ARG)       v Cruzeiro (BRA)           0-1 (0-0)
+  Tue May/26
+    22.00  UANL Tigres (MEX)       v Emelec (ECU)             2-0 (1-0)
+  Wed May/27
+    19.30  Internacional (BRA)     v Santa Fe (COL)           2-0 (1-0)
+    22.00  Cruzeiro (BRA)          v River Plate (ARG)        0-3 (0-2)
+  Thu May/28
+    21.00  Racing Club (ARG)       v Guaraní (PAR)            0-0
+
+
+» Semifinals
+  Tue Jul/14
+    21.00  River Plate (ARG)       v Guaraní (PAR)            2-0 (0-0)
+  Wed Jul/15
+    22.00  Internacional (BRA)     v UANL Tigres (MEX)        2-1 (2-1)
+  Tue Jul/21
+    21.00  Guaraní (PAR)           v River Plate (ARG)        1-1 (0-0)
+  Wed Jul/22
+    22.00  UANL Tigres (MEX)       v Internacional (BRA)      3-1 (2-0)
+
+
+» Final
+  Wed Jul/29
+    22.00  UANL Tigres (MEX)       v River Plate (ARG)        0-0
+  Wed Aug/5
+    22.00  River Plate (ARG)       v UANL Tigres (MEX)        3-0 (1-0)

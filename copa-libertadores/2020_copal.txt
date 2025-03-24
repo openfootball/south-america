@@ -1,0 +1,309 @@
+= Copa Libertadores 2020
+
+# Date       Tue Jan/21 2020 - Sat Jan/30 2021 (375d)
+# Teams      47
+# Matches    155
+
+
+
+» Round 1
+  Tue Jan/21 2020
+    19.15  Carabobo FC (VEN)       v Universitario de Deportes (PER)  1-1 (0-0)
+  Wed Jan/22
+    19.15  Club San José (BOL)     v Guaraní (PAR)            0-1 (0-0)
+    21.30  Progreso (URU)          v Barcelona (ECU)          0-2 (0-1)
+  Tue Jan/28
+    21.30  Universitario de Deportes (PER) v Carabobo FC (VEN)        1-0 (1-0)
+  Wed Jan/29
+    19.15  Guaraní (PAR)           v Club San José (BOL)      4-0 (2-0)
+    21.30  Barcelona (ECU)         v Progreso (URU)           3-1 (1-0)
+
+
+» Round 2
+  Tue Feb/4
+    18.00  Universidad de Chile (CHI) v Internacional (BRA)      0-0
+    21.30  Independiente Medellín (COL) v Deportivo Táchira (VEN)  4-0 (3-0)
+           Macará (ECU)            v Deportes Tolima (COL)    0-1 (0-0)
+  Wed Feb/5
+    19.15  Universitario de Deportes (PER) v Cerro Porteño (PAR)      1-1 (0-0)
+           Cerro Largo (URU)       v Palestino (CHI)          1-1 (1-0)
+    21.30  The Strongest (BOL)     v Atlético Tucumán (ARG)   2-0 (1-0)
+           Guaraní (PAR)           v Corinthians SP (BRA)     1-0 (1-0)
+  Thu Feb/6
+    21.30  Barcelona (ECU)         v Sporting Cristal (PER)   4-0 (2-0)
+  Tue Feb/11
+    19.15  Deportivo Táchira (VEN) v Independiente Medellín (COL)  2-0 (1-0)
+           Internacional (BRA)     v Universidad de Chile (CHI)  2-0 (1-0)
+    21.30  Deportes Tolima (COL)   v Macará (ECU)             1-0 (1-0)
+  Wed Feb/12
+    19.15  Cerro Porteño (PAR)     v Universitario de Deportes (PER)  1-0 (0-0)
+           Palestino (CHI)         v Cerro Largo (URU)        5-1 (2-0)
+    21.30  Atlético Tucumán (ARG)  v The Strongest (BOL)      6-5 pen. (2-0, 1-0)
+           Corinthians SP (BRA)    v Guaraní (PAR)            2-1 (2-0)
+  Thu Feb/13
+    21.30  Sporting Cristal (PER)  v Barcelona (ECU)          2-1 (0-0)
+
+
+» Round 3
+  Tue Feb/18
+    21.30  Independiente Medellín (COL) v Atlético Tucumán (ARG)   1-0 (1-0)
+  Wed Feb/19
+    21.30  Barcelona (ECU)         v Cerro Porteño (PAR)      1-0 (1-0)
+           Deportes Tolima (COL)   v Internacional (BRA)      0-0
+  Thu Feb/20
+    19.15  Palestino (CHI)         v Guaraní (PAR)            0-1 (0-1)
+  Tue Feb/25
+    21.30  Atlético Tucumán (ARG)  v Independiente Medellín (COL)  2-4 pen. (1-0, 1-0)
+  Wed Feb/26
+    19.15  Cerro Porteño (PAR)     v Barcelona (ECU)          0-4 (0-1)
+    21.30  Internacional (BRA)     v Deportes Tolima (COL)    1-0 (1-0)
+  Thu Feb/27
+    19.15  Guaraní (PAR)           v Palestino (CHI)          2-1 (0-1)
+
+
+» Gruppe 1
+  Wed Mar/4
+    19.15  Barcelona (ECU)         v Independiente del Valle (ECU)  0-3 (0-0)
+    21.30  Atlético Junior (COL)   v Flamengo RJ (BRA)        1-2 (0-1)
+  Wed Mar/11
+    21.30  Independiente del Valle (ECU) v Atlético Junior (COL)    3-0 (0-0)
+           Flamengo RJ (BRA)       v Barcelona (ECU)          3-0 (2-0)
+  Thu Sep/17
+    21.00  Independiente del Valle (ECU) v Flamengo RJ (BRA)        5-0 (1-0)
+    23.00  Barcelona (ECU)         v Atlético Junior (COL)    1-2 (1-1)
+  Tue Sep/22
+    19.15  Barcelona (ECU)         v Flamengo RJ (BRA)        1-2 (0-2)
+    21.30  Atlético Junior (COL)   v Independiente del Valle (ECU)  4-1 (1-1)
+  Wed Sep/30
+    21.30  Atlético Junior (COL)   v Barcelona (ECU)          0-2 (0-1)
+           Flamengo RJ (BRA)       v Independiente del Valle (ECU)  4-0 (2-0)
+  Wed Oct/21
+    21.30  Flamengo RJ (BRA)       v Atlético Junior (COL)    3-1 (2-0)
+           Independiente del Valle (ECU) v Barcelona (ECU)          2-0 (1-0)
+
+
+» Gruppe 2
+  Wed Mar/4
+    19.15  Tigre (ARG)             v Palmeiras (BRA)          0-2 (0-1)
+    21.30  Guaraní (PAR)           v Bolívar (BOL)            2-0 (1-0)
+  Tue Mar/10
+    19.15  Bolívar (BOL)           v Tigre (ARG)              2-0 (0-0)
+    21.30  Palmeiras (BRA)         v Guaraní (PAR)            3-1 (0-0)
+  Wed Sep/16
+    21.30  Bolívar (BOL)           v Palmeiras (BRA)          1-2 (0-1)
+  Thu Sep/17
+    23.00  Guaraní (PAR)           v Tigre (ARG)              4-1 (1-1)
+  Tue Sep/22
+    19.15  Tigre (ARG)             v Bolívar (BOL)            1-1 (1-1)
+  Wed Sep/23
+    21.30  Guaraní (PAR)           v Palmeiras (BRA)          0-0
+  Wed Sep/30
+    19.15  Palmeiras (BRA)         v Bolívar (BOL)            5-0 (1-0)
+  Thu Oct/1
+    21.00  Tigre (ARG)             v Guaraní (PAR)            1-3 (1-1)
+  Wed Oct/21
+    21.30  Bolívar (BOL)           v Guaraní (PAR)            2-3 (0-1)
+           Palmeiras (BRA)         v Tigre (ARG)              5-0 (1-0)
+
+
+» Gruppe 3
+  Tue Mar/3
+    21.30  Athletico Paranaense (BRA) v Peñarol (URU)            1-0 (0-0)
+  Wed Mar/4
+    19.15  Jorge Wilstermann (BOL) v Colo-Colo (CHI)          2-0 (0-0)
+  Wed Mar/11
+    19.15  Colo-Colo (CHI)         v Athletico Paranaense (BRA)  1-0 (1-0)
+           Peñarol (URU)           v Jorge Wilstermann (BOL)  1-0 (0-0)
+  Tue Sep/15
+    19.15  Jorge Wilstermann (BOL) v Athletico Paranaense (BRA)  2-3 (1-1)
+           Colo-Colo (CHI)         v Peñarol (URU)            2-1 (0-1)
+  Wed Sep/23
+    19.15  Athletico Paranaense (BRA) v Colo-Colo (CHI)          2-0 (2-0)
+  Thu Sep/24
+    19.00  Jorge Wilstermann (BOL) v Peñarol (URU)            3-1 (2-1)
+  Tue Sep/29
+    19.15  Peñarol (URU)           v Colo-Colo (CHI)          3-0 (1-0)
+    21.30  Athletico Paranaense (BRA) v Jorge Wilstermann (BOL)  0-0
+  Tue Oct/20
+    21.30  Peñarol (URU)           v Athletico Paranaense (BRA)  3-2 (1-2)
+           Colo-Colo (CHI)         v Jorge Wilstermann (BOL)  0-1 (0-0)
+
+
+» Gruppe 4
+  Wed Mar/4
+    21.30  LDU Quito (ECU)         v River Plate (ARG)        3-0 (2-0)
+  Thu Mar/5
+    21.00  Deportivo Binacional (PER) v São Paulo FC (BRA)       2-1 (0-1)
+  Wed Mar/11
+    19.15  River Plate (ARG)       v Deportivo Binacional (PER)  8-0 (1-0)
+    21.30  São Paulo FC (BRA)      v LDU Quito (ECU)          3-0 (2-0)
+  Tue Sep/15
+    21.30  Deportivo Binacional (PER) v LDU Quito (ECU)          0-1 (0-1)
+  Thu Sep/17
+    19.00  São Paulo FC (BRA)      v River Plate (ARG)        2-2 (1-1)
+  Tue Sep/22
+    21.30  Deportivo Binacional (PER) v River Plate (ARG)        0-6 (0-3)
+           LDU Quito (ECU)         v São Paulo FC (BRA)       4-2 (3-0)
+  Tue Sep/29
+    21.30  LDU Quito (ECU)         v Deportivo Binacional (PER)  4-0 (2-0)
+  Wed Sep/30
+    21.30  River Plate (ARG)       v São Paulo FC (BRA)       2-1 (2-1)
+  Tue Oct/20
+    21.30  São Paulo FC (BRA)      v Deportivo Binacional (PER)  5-1 (2-1)
+           River Plate (ARG)       v LDU Quito (ECU)          3-0 (0-0)
+
+
+» Gruppe 5
+  Tue Mar/3
+    19.15  Internacional (BRA)     v Universidad Católica (CHI)  3-0 (0-0)
+    21.30  América de Cali (COL)   v Grêmio Porto Alegre (BRA)  0-2 (0-1)
+  Tue Mar/10
+    19.15  Universidad Católica (CHI) v América de Cali (COL)    1-2 (1-1)
+  Thu Mar/12
+    21.00  Grêmio Porto Alegre (BRA) v Internacional (BRA)      0-0
+  Wed Sep/16
+    19.15  Internacional (BRA)     v América de Cali (COL)    4-3 (3-1)
+    21.30  Universidad Católica (CHI) v Grêmio Porto Alegre (BRA)  2-0 (2-0)
+  Wed Sep/23
+    21.30  América de Cali (COL)   v Universidad Católica (CHI)  1-1 (1-1)
+           Internacional (BRA)     v Grêmio Porto Alegre (BRA)  0-1 (0-0)
+  Tue Sep/29
+    19.15  Grêmio Porto Alegre (BRA) v Universidad Católica (CHI)  2-0 (0-0)
+    21.30  América de Cali (COL)   v Internacional (BRA)      0-0
+  Thu Oct/22
+    21.30  Grêmio Porto Alegre (BRA) v América de Cali (COL)    1-1 (0-0)
+           Universidad Católica (CHI) v Internacional (BRA)      2-1 (1-1)
+
+
+» Gruppe 6
+  Thu Mar/5
+    19.00  Estudiantes de Mérida (VEN) v Racing Club (ARG)        1-2 (0-0)
+    23.00  Alianza Lima (PER)      v Nacional (URU)           0-1 (0-1)
+  Thu Mar/12
+    19.00  Nacional (URU)          v Estudiantes de Mérida (VEN)  1-0 (0-0)
+    21.00  Racing Club (ARG)       v Alianza Lima (PER)       1-0 (0-0)
+  Wed Sep/16
+    19.15  Estudiantes de Mérida (VEN) v Alianza Lima (PER)       3-2 (0-0)
+  Thu Sep/17
+    17.00  Racing Club (ARG)       v Nacional (URU)           0-1 (0-0)
+  Tue Sep/22
+    19.15  Estudiantes de Mérida (VEN) v Nacional (URU)           1-3 (1-2)
+  Wed Sep/23
+    21.30  Alianza Lima (PER)      v Racing Club (ARG)        0-2 (0-0)
+  Wed Sep/30
+    19.15  Nacional (URU)          v Racing Club (ARG)        1-2 (0-1)
+    21.30  Alianza Lima (PER)      v Estudiantes de Mérida (VEN)  2-2 (1-1)
+  Wed Oct/21
+    19.15  Nacional (URU)          v Alianza Lima (PER)       2-0 (2-0)
+           Racing Club (ARG)       v Estudiantes de Mérida (VEN)  2-1 (0-0)
+
+
+» Gruppe 7
+  Tue Mar/3
+    19.15  Defensa y Justicia (ARG) v Santos FC (BRA)          1-2 (1-0)
+  Wed Mar/4
+    21.30  Delfín SC (ECU)         v Club Olimpia (PAR)       1-1 (0-1)
+  Tue Mar/10
+    19.15  Santos FC (BRA)         v Delfín SC (ECU)          1-0 (1-0)
+  Wed Mar/11
+    21.30  Club Olimpia (PAR)      v Defensa y Justicia (ARG)  2-1 (0-0)
+  Tue Sep/15
+    21.30  Santos FC (BRA)         v Club Olimpia (PAR)       0-0
+  Thu Sep/17
+    19.00  Defensa y Justicia (ARG) v Delfín SC (ECU)          3-0 (0-0)
+  Wed Sep/23
+    19.15  Defensa y Justicia (ARG) v Club Olimpia (PAR)       2-1 (1-0)
+  Thu Sep/24
+    23.00  Delfín SC (ECU)         v Santos FC (BRA)          1-2 (0-1)
+  Thu Oct/1
+    19.00  Club Olimpia (PAR)      v Santos FC (BRA)          2-3 (2-2)
+    23.00  Delfín SC (ECU)         v Defensa y Justicia (ARG)  3-0 (1-0)
+  Tue Oct/20
+    19.15  Club Olimpia (PAR)      v Delfín SC (ECU)          0-1 (0-0)
+           Santos FC (BRA)         v Defensa y Justicia (ARG)  2-1 (0-0)
+
+
+» Gruppe 8
+  Tue Mar/3
+    21.30  Caracas FC (VEN)        v Boca Juniors (ARG)       1-1 (0-1)
+           Independiente Medellín (COL) v Libertad (PAR)           1-2 (0-2)
+  Tue Mar/10
+    21.30  Boca Juniors (ARG)      v Independiente Medellín (COL)  3-0 (1-0)
+           Libertad (PAR)          v Caracas FC (VEN)         3-2 (1-2)
+  Wed Sep/16
+    21.30  Independiente Medellín (COL) v Caracas FC (VEN)         2-3 (1-2)
+  Thu Sep/17
+    21.00  Libertad (PAR)          v Boca Juniors (ARG)       0-2 (0-1)
+  Wed Sep/23
+    19.15  Caracas FC (VEN)        v Libertad (PAR)           2-1 (0-1)
+  Thu Sep/24
+    21.00  Independiente Medellín (COL) v Boca Juniors (ARG)       0-1 (0-0)
+  Tue Sep/29
+    21.30  Boca Juniors (ARG)      v Libertad (PAR)           0-0
+  Wed Sep/30
+    19.15  Caracas FC (VEN)        v Independiente Medellín (COL)  0-2 (0-0)
+  Thu Oct/22
+    21.30  Boca Juniors (ARG)      v Caracas FC (VEN)         3-0 (3-0)
+           Libertad (PAR)          v Independiente Medellín (COL)  2-4 (1-1)
+
+
+» Round of 16
+  Tue Nov/24
+    19.15  Athletico Paranaense (BRA) v River Plate (ARG)        1-1 (0-0)
+           LDU Quito (ECU)         v Santos FC (BRA)          1-2 (1-1)
+    21.30  Racing Club (ARG)       v Flamengo RJ (BRA)        1-1 (1-1)
+  Wed Nov/25
+    19.15  Independiente del Valle (ECU) v Nacional (URU)           0-0
+           Delfín SC (ECU)         v Palmeiras (BRA)          1-3 (0-2)
+    21.30  Libertad (PAR)          v Jorge Wilstermann (BOL)  3-1 (0-0)
+  Thu Nov/26
+    21.30  Guaraní (PAR)           v Grêmio Porto Alegre (BRA)  0-2 (0-0)
+  Wed Dec/2
+    21.30  Internacional (BRA)     v Boca Juniors (ARG)       0-1 (0-0)
+  Tue Dec/1
+    19.15  River Plate (ARG)       v Athletico Paranaense (BRA)  1-0 (0-0)
+           Santos FC (BRA)         v LDU Quito (ECU)          0-1 (0-0)
+    21.30  Flamengo RJ (BRA)       v Racing Club (ARG)        3-5 pen. (1-1, 0-0)
+  Wed Dec/2
+    19.15  Nacional (URU)          v Independiente del Valle (ECU)  4-2 pen. (0-0)
+           Palmeiras (BRA)         v Delfín SC (ECU)          5-0 (1-0)
+    21.30  Jorge Wilstermann (BOL) v Libertad (PAR)           0-2 (0-0)
+  Thu Dec/3
+    21.30  Grêmio Porto Alegre (BRA) v Guaraní (PAR)            2-0 (1-0)
+  Wed Dec/9
+    21.30  Boca Juniors (ARG)      v Internacional (BRA)      5-4 pen. (0-1, 0-0)
+
+
+» Quarterfinals
+  Tue Dec/8
+    21.30  Libertad (PAR)          v Palmeiras (BRA)          1-1 (0-1)
+  Wed Dec/9
+    19.15  Grêmio Porto Alegre (BRA) v Santos FC (BRA)          1-1 (0-1)
+  Thu Dec/10
+    21.30  River Plate (ARG)       v Nacional (URU)           2-0 (0-0)
+  Wed Dec/16
+    21.30  Racing Club (ARG)       v Boca Juniors (ARG)       1-0 (0-0)
+  Tue Dec/15
+    21.30  Palmeiras (BRA)         v Libertad (PAR)           3-0 (1-0)
+  Wed Dec/16
+    19.15  Santos FC (BRA)         v Grêmio Porto Alegre (BRA)  4-1 (2-0)
+  Thu Dec/17
+    21.30  Nacional (URU)          v River Plate (ARG)        2-6 (1-2)
+  Wed Dec/23
+    21.30  Boca Juniors (ARG)      v Racing Club (ARG)        2-0 (1-0)
+
+
+» Semifinals
+  Tue Jan/5 2021
+    21.30  River Plate (ARG)       v Palmeiras (BRA)          0-3 (0-1)
+  Wed Jan/6
+    19.15  Boca Juniors (ARG)      v Santos FC (BRA)          0-0
+  Tue Jan/12
+    21.30  Palmeiras (BRA)         v River Plate (ARG)        0-2 (0-2)
+  Wed Jan/13
+    19.15  Santos FC (BRA)         v Boca Juniors (ARG)       3-0 (1-0)
+
+
+» Final
+  Sat Jan/30
+    17.00  Palmeiras (BRA)         v Santos FC (BRA)          1-0 (0-0)

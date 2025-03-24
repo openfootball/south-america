@@ -1,0 +1,286 @@
+= Copa Libertadores 2013
+
+# Date       Tue Jan/22 - Wed Jul/24 2013 (183d)
+# Teams      38
+# Matches    138
+
+
+
+» Round 1
+  Tue Jan/22 2013
+    21.15  Tigre (ARG)             v Deportivo Anzoátegui (VEN)  2-1 (0-1)
+    23.45  Club León (MEX)         v Deportes Iquique (CHI)   1-1 (0-1)
+  Wed Jan/23
+    22.00  LDU Quito (ECU)         v Grêmio Porto Alegre (BRA)  1-0 (0-0)
+           São Paulo FC (BRA)      v Bolívar (BOL)            5-0 (3-0)
+  Thu Jan/24
+    20.00  Defensor Sporting (URU) v Club Olimpia (PAR)       0-0
+    22.15  Deportes Tolima (COL)   v Universidad Cesar Vallejo (PER)  1-0 (0-0)
+  Tue Jan/29
+    20.15  Deportivo Anzoátegui (VEN) v Tigre (ARG)              0-3 (0-1)
+    23.00  Deportes Iquique (CHI)  v Club León (MEX)          4-2 pen. 1-1 a.e.t. (1-1, 0-0)
+  Wed Jan/30
+    22.00  Grêmio Porto Alegre (BRA) v LDU Quito (ECU)          5-4 pen. 1-0 a.e.t. (1-0, 0-0)
+           Bolívar (BOL)           v São Paulo FC (BRA)       4-3 (1-3)
+  Thu Jan/31
+    20.15  Club Olimpia (PAR)      v Defensor Sporting (URU)  2-0 (1-0)
+    22.45  Universidad Cesar Vallejo (PER) v Deportes Tolima (COL)    1-1 (1-0)
+
+
+» Gruppe 1
+  Tue Feb/12
+    20.15  Nacional (URU)          v Barcelona (ECU)          2-2 (0-2)
+  Wed Feb/13
+    22.00  Boca Juniors (ARG)      v Deportivo Toluca (MEX)   1-2 (1-0)
+  Tue Feb/19
+    23.45  Deportivo Toluca (MEX)  v Nacional (URU)           2-3 (1-0)
+  Wed Feb/27
+    19.45  Barcelona (ECU)         v Boca Juniors (ARG)       1-2 (0-0)
+  Thu Mar/7
+    00.15  Deportivo Toluca (MEX)  v Barcelona (ECU)          1-1 (0-1)
+    21.30  Boca Juniors (ARG)      v Nacional (URU)           0-1 (0-1)
+  Wed Mar/13
+    19.45  Barcelona (ECU)         v Deportivo Toluca (MEX)   0-0
+  Thu Mar/14
+    19.15  Nacional (URU)          v Boca Juniors (ARG)       0-1 (0-1)
+  Wed Apr/3
+    19.45  Boca Juniors (ARG)      v Barcelona (ECU)          1-0 (1-0)
+  Thu Apr/4
+    19.15  Nacional (URU)          v Deportivo Toluca (MEX)   4-0 (2-0)
+  Wed Apr/17
+    19.45  Barcelona (ECU)         v Nacional (URU)           1-0 (1-0)
+           Deportivo Toluca (MEX)  v Boca Juniors (ARG)       3-2 (1-1)
+
+
+» Gruppe 2
+  Thu Feb/14
+    22.00  Palmeiras (BRA)         v Sporting Cristal (PER)   2-1 (1-0)
+  Thu Feb/21
+    21.30  Tigre (ARG)             v Libertad (PAR)           0-2 (0-0)
+  Thu Feb/28
+    17.00  Sporting Cristal (PER)  v Tigre (ARG)              2-0 (1-0)
+    19.15  Libertad (PAR)          v Palmeiras (BRA)          2-0 (1-0)
+  Wed Mar/6
+    19.45  Libertad (PAR)          v Sporting Cristal (PER)   2-2 (0-1)
+           Tigre (ARG)             v Palmeiras (BRA)          1-0 (0-0)
+  Tue Mar/12
+    19.15  Sporting Cristal (PER)  v Libertad (PAR)           1-1 (0-0)
+  Tue Apr/2
+    21.30  Palmeiras (BRA)         v Tigre (ARG)              2-0 (1-0)
+  Tue Apr/9
+    21.30  Tigre (ARG)             v Sporting Cristal (PER)   3-1 (1-0)
+  Thu Apr/11
+    19.15  Palmeiras (BRA)         v Libertad (PAR)           1-0 (0-0)
+  Thu Apr/18
+    19.45  Sporting Cristal (PER)  v Palmeiras (BRA)          1-0 (0-0)
+           Libertad (PAR)          v Tigre (ARG)              3-5 (2-3)
+
+
+» Gruppe 3
+  Wed Feb/13
+    22.00  Atlético Mineiro (BRA)  v São Paulo FC (BRA)       2-1 (1-0)
+  Thu Feb/14
+    22.00  The Strongest (BOL)     v Arsenal de Sarandí (ARG)  2-1 (1-0)
+  Tue Feb/26
+    21.45  Arsenal de Sarandí (ARG) v Atlético Mineiro (BRA)   2-5 (2-3)
+  Thu Feb/28
+    21.30  São Paulo FC (BRA)      v The Strongest (BOL)      2-1 (1-1)
+  Thu Mar/7
+    19.15  São Paulo FC (BRA)      v Arsenal de Sarandí (ARG)  1-1 (1-0)
+    21.30  Atlético Mineiro (BRA)  v The Strongest (BOL)      2-1 (0-0)
+  Wed Mar/13
+    22.00  The Strongest (BOL)     v Atlético Mineiro (BRA)   1-2 (1-1)
+  Thu Mar/14
+    21.30  Arsenal de Sarandí (ARG) v São Paulo FC (BRA)       2-1 (0-0)
+  Wed Apr/3
+    22.00  Atlético Mineiro (BRA)  v Arsenal de Sarandí (ARG)  5-2 (2-1)
+  Thu Apr/4
+    21.30  The Strongest (BOL)     v São Paulo FC (BRA)       2-1 (1-1)
+  Wed Apr/17
+    22.00  Arsenal de Sarandí (ARG) v The Strongest (BOL)      2-1 (1-0)
+           São Paulo FC (BRA)      v Atlético Mineiro (BRA)   2-0 (0-0)
+
+
+» Gruppe 4
+  Tue Feb/12
+    22.30  Emelec (ECU)            v Vélez Sarsfield (ARG)    1-0 (0-0)
+  Wed Feb/13
+    19.30  Deportes Iquique (CHI)  v Peñarol (URU)            1-2 (0-1)
+  Tue Feb/19
+    19.15  Peñarol (URU)           v Emelec (ECU)             1-0 (0-0)
+  Wed Feb/20
+    19.45  Vélez Sarsfield (ARG)   v Deportes Iquique (CHI)   3-0 (2-0)
+  Tue Feb/26
+    19.30  Peñarol (URU)           v Vélez Sarsfield (ARG)    0-1 (0-0)
+  Wed Feb/27
+    19.45  Deportes Iquique (CHI)  v Emelec (ECU)             2-0 (2-0)
+  Tue Mar/5
+    23.45  Emelec (ECU)            v Deportes Iquique (CHI)   2-1 (0-0)
+  Tue Mar/12
+    19.15  Vélez Sarsfield (ARG)   v Peñarol (URU)            3-1 (1-1)
+  Tue Apr/2
+    19.15  Deportes Iquique (CHI)  v Vélez Sarsfield (ARG)    1-3 (1-2)
+    23.45  Emelec (ECU)            v Peñarol (URU)            2-0 (0-0)
+  Tue Apr/9
+    19.15  Peñarol (URU)           v Deportes Iquique (CHI)   3-0 (1-0)
+           Vélez Sarsfield (ARG)   v Emelec (ECU)             0-0
+
+
+» Gruppe 5
+  Tue Feb/19
+    21.30  Millonarios (COL)       v Club Tijuana (MEX)       0-1 (0-0)
+  Wed Feb/20
+    22.00  Club San José (BOL)     v Corinthians SP (BRA)     1-1 (0-1)
+  Wed Feb/27
+    00.15  Club Tijuana (MEX)      v Club San José (BOL)      4-0 (1-0)
+    22.00  Corinthians SP (BRA)    v Millonarios (COL)        2-0 (1-0)
+  Tue Mar/5
+    21.30  Millonarios (COL)       v Club San José (BOL)      2-1 (1-1)
+  Wed Mar/6
+    22.00  Club Tijuana (MEX)      v Corinthians SP (BRA)     1-0 (0-0)
+  Wed Mar/13
+    22.00  Corinthians SP (BRA)    v Club Tijuana (MEX)       3-0 (2-0)
+  Thu Mar/14
+    21.30  Club San José (BOL)     v Millonarios (COL)        2-0 (1-0)
+  Wed Apr/3
+    19.45  Club San José (BOL)     v Club Tijuana (MEX)       1-1 (0-0)
+    22.00  Millonarios (COL)       v Corinthians SP (BRA)     0-1 (0-0)
+  Wed Apr/10
+    22.00  Corinthians SP (BRA)    v Club San José (BOL)      3-0 (1-0)
+           Club Tijuana (MEX)      v Millonarios (COL)        1-0 (0-0)
+
+
+» Gruppe 6
+  Thu Feb/14
+    00.15  Real Garcilaso (PER)    v Santa Fe (COL)           1-1 (0-1)
+  Fri Feb/15
+    00.15  Deportes Tolima (COL)   v Cerro Porteño (PAR)      2-1 (1-0)
+  Thu Feb/21
+    19.15  Cerro Porteño (PAR)     v Real Garcilaso (PER)     0-1 (0-0)
+    21.30  Santa Fe (COL)          v Deportes Tolima (COL)    1-1 (1-1)
+  Tue Feb/26
+    21.45  Deportes Tolima (COL)   v Real Garcilaso (PER)     0-1 (0-0)
+  Thu Mar/7
+    19.15  Cerro Porteño (PAR)     v Santa Fe (COL)           1-2 (1-0)
+  Tue Apr/2
+    19.15  Real Garcilaso (PER)    v Deportes Tolima (COL)    0-3 (0-0)
+    21.30  Santa Fe (COL)          v Cerro Porteño (PAR)      1-0 (1-0)
+  Tue Apr/9
+    21.30  Deportes Tolima (COL)   v Santa Fe (COL)           1-2 (0-0)
+  Wed Apr/10
+    19.45  Real Garcilaso (PER)    v Cerro Porteño (PAR)      5-1 (2-1)
+  Tue Apr/16
+    21.15  Santa Fe (COL)          v Real Garcilaso (PER)     2-0 (0-0)
+           Cerro Porteño (PAR)     v Deportes Tolima (COL)    0-0
+
+
+» Gruppe 7
+  Tue Feb/12
+    22.30  Universidad de Chile (CHI) v Deportivo Lara (VEN)     2-0 (1-0)
+  Thu Feb/14
+    19.45  Newell's Old Boys (ARG) v Club Olimpia (PAR)       3-1 (0-0)
+  Tue Feb/19
+    21.30  Club Olimpia (PAR)      v Universidad de Chile (CHI)  3-0 (2-0)
+  Thu Feb/21
+    19.15  Deportivo Lara (VEN)    v Newell's Old Boys (ARG)  2-1 (1-0)
+  Tue Mar/5
+    19.15  Club Olimpia (PAR)      v Deportivo Lara (VEN)     2-2 (1-0)
+           Newell's Old Boys (ARG) v Universidad de Chile (CHI)  1-2 (1-2)
+  Tue Mar/12
+    21.30  Universidad de Chile (CHI) v Newell's Old Boys (ARG)  0-2 (0-1)
+  Wed Mar/13
+    19.45  Deportivo Lara (VEN)    v Club Olimpia (PAR)       1-5 (0-3)
+  Thu Apr/4
+    19.15  Newell's Old Boys (ARG) v Deportivo Lara (VEN)     3-1 (2-0)
+    21.30  Universidad de Chile (CHI) v Club Olimpia (PAR)       0-1 (0-0)
+  Thu Apr/11
+    21.30  Deportivo Lara (VEN)    v Universidad de Chile (CHI)  2-3 (1-1)
+           Club Olimpia (PAR)      v Newell's Old Boys (ARG)  4-1 (1-0)
+
+
+» Gruppe 8
+  Wed Feb/13
+    22.00  Caracas FC (VEN)        v Fluminense RJ (BRA)      0-1 (0-1)
+  Thu Feb/14
+    19.45  Grêmio Porto Alegre (BRA) v Huachipato (CHI)         1-2 (0-1)
+  Wed Feb/20
+    19.45  Huachipato (CHI)        v Caracas FC (VEN)         1-3 (0-2)
+    22.00  Fluminense RJ (BRA)     v Grêmio Porto Alegre (BRA)  0-3 (0-1)
+  Wed Feb/27
+    22.00  Huachipato (CHI)        v Fluminense RJ (BRA)      1-2 (1-0)
+  Tue Mar/5
+    21.30  Grêmio Porto Alegre (BRA) v Caracas FC (VEN)         4-1 (2-0)
+  Wed Mar/6
+    22.00  Fluminense RJ (BRA)     v Huachipato (CHI)         1-1 (1-0)
+  Tue Mar/12
+    21.30  Caracas FC (VEN)        v Grêmio Porto Alegre (BRA)  2-1 (1-1)
+  Wed Apr/3
+    19.45  Caracas FC (VEN)        v Huachipato (CHI)         0-4 (0-2)
+  Wed Apr/10
+    22.00  Grêmio Porto Alegre (BRA) v Fluminense RJ (BRA)      0-0
+  Thu Apr/18
+    22.00  Fluminense RJ (BRA)     v Caracas FC (VEN)         1-0 (0-0)
+           Huachipato (CHI)        v Grêmio Porto Alegre (BRA)  1-1 (0-1)
+
+
+» Round of 16
+  Wed Apr/24
+    21.15  Newell's Old Boys (ARG) v Vélez Sarsfield (ARG)    0-1 (0-0)
+  Thu Apr/25
+    22.15  Real Garcilaso (PER)    v Nacional (URU)           1-0 (1-0)
+  Tue Apr/30
+    20.15  Tigre (ARG)             v Club Olimpia (PAR)       2-1 (1-0)
+    22.30  Club Tijuana (MEX)      v Palmeiras (BRA)          0-0
+  Wed May/1
+    19.30  Grêmio Porto Alegre (BRA) v Santa Fe (COL)           2-1 (1-0)
+    21.50  Boca Juniors (ARG)      v Corinthians SP (BRA)     1-0 (0-0)
+  Thu May/2
+    20.15  São Paulo FC (BRA)      v Atlético Mineiro (BRA)   1-2 (1-1)
+    22.30  Emelec (ECU)            v Fluminense RJ (BRA)      2-1 (1-1)
+  Wed May/8
+    22.00  Atlético Mineiro (BRA)  v São Paulo FC (BRA)       4-1 (1-0)
+           Fluminense RJ (BRA)     v Emelec (ECU)             2-0 (1-0)
+  Thu May/9
+    21.15  Nacional (URU)          v Real Garcilaso (PER)     1-4 pen. 1-0 a.e.t. (1-0, 0-0)
+  Tue May/14
+    22.00  Palmeiras (BRA)         v Club Tijuana (MEX)       1-2 (0-1)
+  Wed May/15
+    19.15  Vélez Sarsfield (ARG)   v Newell's Old Boys (ARG)  1-2 (0-2)
+    22.00  Corinthians SP (BRA)    v Boca Juniors (ARG)       1-1 (0-1)
+  Thu May/16
+    20.00  Club Olimpia (PAR)      v Tigre (ARG)              2-0 (0-0)
+    22.30  Santa Fe (COL)          v Grêmio Porto Alegre (BRA)  1-0 (0-0)
+
+
+» Quarterfinals
+  Wed May/22
+    19.45  Real Garcilaso (PER)    v Santa Fe (COL)           1-3 (0-2)
+    22.00  Fluminense RJ (BRA)     v Club Olimpia (PAR)       0-0
+  Thu May/23
+    21.30  Club Tijuana (MEX)      v Atlético Mineiro (BRA)   2-2 (1-0)
+           Boca Juniors (ARG)      v Newell's Old Boys (ARG)  0-0
+  Tue May/28
+    22.00  Santa Fe (COL)          v Real Garcilaso (PER)     2-0 (1-0)
+  Wed May/29
+    19.30  Newell's Old Boys (ARG) v Boca Juniors (ARG)       10-9 pen. 0-0 a.e.t. (0-0)
+    22.00  Club Olimpia (PAR)      v Fluminense RJ (BRA)      2-1 (2-1)
+  Thu May/30
+    22.00  Atlético Mineiro (BRA)  v Club Tijuana (MEX)       1-1 (1-1)
+
+
+» Semifinals
+  Tue Jul/2
+    21.50  Club Olimpia (PAR)      v Santa Fe (COL)           2-0 (0-0)
+  Wed Jul/3
+    21.50  Newell's Old Boys (ARG) v Atlético Mineiro (BRA)   2-0 (0-0)
+  Tue Jul/9
+    21.50  Santa Fe (COL)          v Club Olimpia (PAR)       1-0 (0-0)
+  Wed Jul/10
+    21.50  Atlético Mineiro (BRA)  v Newell's Old Boys (ARG)  3-2 pen. 2-0 a.e.t. (2-0, 1-0)
+
+
+» Final
+  Wed Jul/17
+    21.50  Club Olimpia (PAR)      v Atlético Mineiro (BRA)   2-0 (1-0)
+  Wed Jul/24
+    21.50  Atlético Mineiro (BRA)  v Club Olimpia (PAR)       4-3 pen. 2-0 a.e.t. (2-0, 0-0)

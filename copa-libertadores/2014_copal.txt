@@ -1,0 +1,288 @@
+= Copa Libertadores 2014
+
+# Date       Tue Jan/28 - Wed Aug/13 2014 (197d)
+# Teams      38
+# Matches    138
+
+
+
+» Round 1
+  Tue Jan/28 2014
+    21.00  Oriente Petrolero (BOL) v Nacional (URU)           1-0 (1-0)
+    23.15  Monarcas Morelia (MEX)  v Santa Fe (COL)           2-1 (1-0)
+  Wed Jan/29
+    22.00  Sporting Cristal (PER)  v Athletico Paranaense (BRA)  2-1 (1-0)
+           Deportivo Quito (ECU)   v Botafogo RJ (BRA)        1-0 (1-0)
+  Thu Jan/30
+    21.00  Universidad de Chile (CHI) v Guaraní (PAR)            1-0 (0-0)
+    23.15  Caracas FC (VEN)        v Lanús (ARG)              0-2 (0-1)
+  Tue Feb/4
+    21.00  Nacional (URU)          v Oriente Petrolero (BOL)  2-0 (1-0)
+    23.30  Santa Fe (COL)          v Monarcas Morelia (MEX)   1-0 (0-0)
+  Wed Feb/5
+    22.00  Athletico Paranaense (BRA) v Sporting Cristal (PER)   5-4 pen. 2-1 a.e.t. (2-1, 0-0)
+           Botafogo RJ (BRA)       v Deportivo Quito (ECU)    4-0 (1-0)
+  Thu Feb/6
+    20.30  Guaraní (PAR)           v Universidad de Chile (CHI)  2-3 (1-0)
+    23.00  Lanús (ARG)             v Caracas FC (VEN)         1-0 (0-0)
+
+
+» Gruppe 1
+  Wed Feb/12
+    00.30  Universitario de Deportes (PER) v Vélez Sarsfield (ARG)    0-1 (0-0)
+  Thu Feb/13
+    20.00  Athletico Paranaense (BRA) v The Strongest (BOL)      1-0 (1-0)
+  Thu Feb/20
+    22.15  The Strongest (BOL)     v Universitario de Deportes (PER)  1-0 (0-0)
+  Tue Feb/25
+    19.45  Vélez Sarsfield (ARG)   v Athletico Paranaense (BRA)  2-0 (1-0)
+  Tue Mar/11
+    21.15  The Strongest (BOL)     v Vélez Sarsfield (ARG)    2-0 (0-0)
+  Thu Mar/13
+    23.30  Universitario de Deportes (PER) v Athletico Paranaense (BRA)  0-1 (0-0)
+  Tue Mar/18
+    22.00  Vélez Sarsfield (ARG)   v The Strongest (BOL)      2-0 (0-0)
+  Thu Mar/20
+    17.30  Athletico Paranaense (BRA) v Universitario de Deportes (PER)  3-0 (1-0)
+  Wed Mar/26
+    22.00  Athletico Paranaense (BRA) v Vélez Sarsfield (ARG)    1-3 (0-1)
+  Thu Mar/27
+    23.00  Universitario de Deportes (PER) v The Strongest (BOL)      3-3 (2-1)
+  Tue Apr/8
+    19.45  Vélez Sarsfield (ARG)   v Universitario de Deportes (PER)  1-0 (0-0)
+           The Strongest (BOL)     v Athletico Paranaense (BRA)  2-1 (1-1)
+
+
+» Gruppe 2
+  Tue Feb/11
+    20.00  Botafogo RJ (BRA)       v San Lorenzo (ARG)        2-0 (1-0)
+  Tue Feb/18
+    22.30  Club Social y Deportivo Independiente José Terán (ECU) v Unión Española (CHI)     2-2 (1-0)
+  Wed Feb/26
+    19.45  Unión Española (CHI)    v Botafogo RJ (BRA)        1-1 (0-0)
+  Thu Feb/27
+    19.30  San Lorenzo (ARG)       v Club Social y Deportivo Independiente José Terán (ECU)  1-0 (0-0)
+  Wed Mar/12
+    19.45  San Lorenzo (ARG)       v Unión Española (CHI)     1-1 (1-0)
+           Club Social y Deportivo Independiente José Terán (ECU) v Botafogo RJ (BRA)        2-1 (1-0)
+  Tue Mar/18
+    22.00  Botafogo RJ (BRA)       v Club Social y Deportivo Independiente José Terán (ECU)  1-0 (1-0)
+  Thu Mar/20
+    22.00  Unión Española (CHI)    v San Lorenzo (ARG)        1-0 (0-0)
+  Thu Mar/27
+    20.45  Club Social y Deportivo Independiente José Terán (ECU) v San Lorenzo (ARG)        1-1 (0-0)
+  Wed Apr/2
+    19.45  Botafogo RJ (BRA)       v Unión Española (CHI)     0-1 (0-0)
+  Wed Apr/9
+    22.00  Unión Española (CHI)    v Club Social y Deportivo Independiente José Terán (ECU)  4-5 (1-1)
+           San Lorenzo (ARG)       v Botafogo RJ (BRA)        3-0 (1-0)
+
+
+» Gruppe 3
+  Thu Feb/13
+    00.15  Deportivo Cali (COL)    v Cerro Porteño (PAR)      1-0 (0-0)
+    22.15  Lanús (ARG)             v O'Higgins (CHI)          0-0
+  Wed Feb/19
+    21.45  O'Higgins (CHI)         v Deportivo Cali (COL)     1-0 (0-0)
+  Wed Feb/26
+    19.45  Cerro Porteño (PAR)     v Lanús (ARG)              3-1 (0-0)
+  Thu Mar/13
+    21.15  O'Higgins (CHI)         v Cerro Porteño (PAR)      2-2 (1-0)
+    23.30  Deportivo Cali (COL)    v Lanús (ARG)              2-1 (0-1)
+  Thu Mar/20
+    19.45  Cerro Porteño (PAR)     v O'Higgins (CHI)          2-1 (2-1)
+           Lanús (ARG)             v Deportivo Cali (COL)     2-0 (2-0)
+  Wed Mar/26
+    22.00  Deportivo Cali (COL)    v O'Higgins (CHI)          1-1 (0-0)
+  Thu Mar/27
+    18.30  Lanús (ARG)             v Cerro Porteño (PAR)      2-0 (0-0)
+  Tue Apr/8
+    22.00  Cerro Porteño (PAR)     v Deportivo Cali (COL)     3-2 (2-1)
+           O'Higgins (CHI)         v Lanús (ARG)              0-0
+
+
+» Gruppe 4
+  Tue Feb/11
+    22.15  Zamora FC (VEN)         v Atlético Mineiro (BRA)   0-1 (0-0)
+  Wed Feb/12
+    00.30  Santa Fe (COL)          v Club Nacional (PAR)      3-1 (0-0)
+  Thu Feb/20
+    20.00  Club Nacional (PAR)     v Zamora FC (VEN)          1-0 (1-0)
+  Wed Feb/26
+    22.00  Atlético Mineiro (BRA)  v Santa Fe (COL)           2-1 (0-0)
+  Wed Mar/12
+    22.00  Club Nacional (PAR)     v Atlético Mineiro (BRA)   2-2 (1-2)
+           Zamora FC (VEN)         v Santa Fe (COL)           2-1 (0-0)
+  Tue Mar/18
+    22.00  Santa Fe (COL)          v Zamora FC (VEN)          2-2 (1-1)
+  Wed Mar/19
+    19.45  Atlético Mineiro (BRA)  v Club Nacional (PAR)      1-1 (1-1)
+  Tue Mar/25
+    20.45  Zamora FC (VEN)         v Club Nacional (PAR)      2-0 (0-0)
+  Thu Apr/3
+    23.00  Santa Fe (COL)          v Atlético Mineiro (BRA)   1-1 (0-1)
+  Thu Apr/10
+    17.30  Atlético Mineiro (BRA)  v Zamora FC (VEN)          1-0 (1-0)
+           Club Nacional (PAR)     v Santa Fe (COL)           3-2 (1-1)
+
+
+» Gruppe 5
+  Wed Feb/12
+    22.00  Real Garcilaso (PER)    v Cruzeiro (BRA)           2-1 (0-1)
+  Thu Feb/13
+    20.00  Universidad de Chile (CHI) v Defensor Sporting (URU)  1-0 (0-0)
+  Wed Feb/19
+    19.30  Defensor Sporting (URU) v Real Garcilaso (PER)     4-1 (1-1)
+  Tue Feb/25
+    17.30  Cruzeiro (BRA)          v Universidad de Chile (CHI)  5-1 (3-0)
+  Tue Mar/11
+    19.00  Defensor Sporting (URU) v Cruzeiro (BRA)           2-0 (0-0)
+    23.30  Real Garcilaso (PER)    v Universidad de Chile (CHI)  1-2 (1-1)
+  Tue Mar/18
+    19.45  Universidad de Chile (CHI) v Real Garcilaso (PER)     1-0 (0-0)
+  Thu Mar/20
+    22.00  Cruzeiro (BRA)          v Defensor Sporting (URU)  2-2 (1-0)
+  Tue Apr/1
+    21.00  Real Garcilaso (PER)    v Defensor Sporting (URU)  0-2 (0-0)
+  Thu Apr/3
+    20.45  Universidad de Chile (CHI) v Cruzeiro (BRA)           0-2 (0-2)
+  Wed Apr/9
+    22.00  Cruzeiro (BRA)          v Real Garcilaso (PER)     3-0 (3-0)
+           Defensor Sporting (URU) v Universidad de Chile (CHI)  1-1 (0-1)
+
+
+» Gruppe 6
+  Thu Feb/13
+    22.15  Nacional (URU)          v Grêmio Porto Alegre (BRA)  0-1 (0-0)
+  Fri Feb/14
+    00.30  Atlético Nacional (COL) v Newell's Old Boys (ARG)  1-0 (0-0)
+  Tue Feb/25
+    22.00  Grêmio Porto Alegre (BRA) v Atlético Nacional (COL)  3-0 (1-0)
+  Thu Feb/27
+    21.45  Newell's Old Boys (ARG) v Nacional (URU)           4-0 (2-0)
+  Tue Mar/11
+    21.15  Atlético Nacional (COL) v Nacional (URU)           2-2 (0-2)
+  Thu Mar/13
+    21.15  Grêmio Porto Alegre (BRA) v Newell's Old Boys (ARG)  0-0
+  Tue Mar/18
+    19.45  Nacional (URU)          v Atlético Nacional (COL)  0-1 (0-0)
+  Wed Mar/19
+    22.00  Newell's Old Boys (ARG) v Grêmio Porto Alegre (BRA)  1-1 (0-0)
+  Wed Mar/26
+    19.45  Nacional (URU)          v Newell's Old Boys (ARG)  2-4 (1-1)
+  Wed Apr/2
+    22.00  Atlético Nacional (COL) v Grêmio Porto Alegre (BRA)  0-2 (0-0)
+  Thu Apr/10
+    22.00  Newell's Old Boys (ARG) v Atlético Nacional (COL)  1-3 (1-2)
+           Grêmio Porto Alegre (BRA) v Nacional (URU)           1-0 (1-0)
+
+
+» Gruppe 7
+  Wed Feb/12
+    22.00  Club León (MEX)         v Flamengo RJ (BRA)        2-1 (1-1)
+  Fri Feb/14
+    00.30  Emelec (ECU)            v Bolívar (BOL)            2-1 (1-1)
+  Wed Feb/19
+    21.45  Bolívar (BOL)           v Club León (MEX)          1-1 (0-1)
+  Wed Feb/26
+    22.00  Flamengo RJ (BRA)       v Emelec (ECU)             3-1 (1-0)
+  Tue Mar/11
+    23.30  Emelec (ECU)            v Club León (MEX)          2-1 (1-1)
+  Wed Mar/12
+    22.00  Flamengo RJ (BRA)       v Bolívar (BOL)            2-2 (0-0)
+  Wed Mar/19
+    22.00  Bolívar (BOL)           v Flamengo RJ (BRA)        1-0 (1-0)
+           Club León (MEX)         v Emelec (ECU)             3-0 (1-0)
+  Thu Mar/27
+    00.15  Club León (MEX)         v Bolívar (BOL)            0-1 (0-0)
+  Wed Apr/2
+    22.00  Emelec (ECU)            v Flamengo RJ (BRA)        1-2 (0-1)
+  Wed Apr/9
+    19.45  Bolívar (BOL)           v Emelec (ECU)             2-1 (1-0)
+           Flamengo RJ (BRA)       v Club León (MEX)          2-3 (2-2)
+
+
+» Gruppe 8
+  Tue Feb/11
+    22.15  Santos Laguna (MEX)     v Arsenal de Sarandí (ARG)  1-0 (1-0)
+  Wed Feb/12
+    19.45  Deportivo Anzoátegui (VEN) v Peñarol (URU)            1-1 (1-0)
+  Tue Feb/18
+    20.15  Peñarol (URU)           v Santos Laguna (MEX)      0-2 (0-0)
+  Tue Feb/25
+    22.00  Arsenal de Sarandí (ARG) v Deportivo Anzoátegui (VEN)  3-0 (2-0)
+  Tue Mar/11
+    21.15  Deportivo Anzoátegui (VEN) v Santos Laguna (MEX)      1-1 (0-0)
+  Thu Mar/13
+    19.00  Arsenal de Sarandí (ARG) v Peñarol (URU)            1-0 (1-0)
+  Wed Mar/19
+    00.15  Santos Laguna (MEX)     v Deportivo Anzoátegui (VEN)  3-0 (1-0)
+    19.45  Peñarol (URU)           v Arsenal de Sarandí (ARG)  2-1 (0-0)
+  Tue Mar/25
+    23.00  Santos Laguna (MEX)     v Peñarol (URU)            4-1 (1-1)
+  Wed Mar/26
+    19.45  Deportivo Anzoátegui (VEN) v Arsenal de Sarandí (ARG)  1-3 (0-1)
+  Thu Apr/10
+    19.45  Peñarol (URU)           v Deportivo Anzoátegui (VEN)  1-1 (1-0)
+           Arsenal de Sarandí (ARG) v Santos Laguna (MEX)      3-0 (1-0)
+
+
+» Round of 16
+  Wed Apr/16
+    19.45  Lanús (ARG)             v Santos Laguna (MEX)      2-1 (0-0)
+    22.00  Club León (MEX)         v Bolívar (BOL)            2-2 (1-1)
+           Cruzeiro (BRA)          v Cerro Porteño (PAR)      1-1 (0-1)
+  Thu Apr/17
+    21.15  The Strongest (BOL)     v Defensor Sporting (URU)  2-0 (0-0)
+  Wed Apr/23
+    19.45  Club Nacional (PAR)     v Vélez Sarsfield (ARG)    1-0 (0-0)
+    22.00  San Lorenzo (ARG)       v Grêmio Porto Alegre (BRA)  1-0 (0-0)
+           Atlético Nacional (COL) v Atlético Mineiro (BRA)   1-0 (0-0)
+  Thu Apr/24
+    21.15  Arsenal de Sarandí (ARG) v Unión Española (CHI)     0-0
+  Tue Apr/22
+    21.15  Bolívar (BOL)           v Club León (MEX)          1-1 (1-1)
+  Thu Apr/24
+    00.10  Santos Laguna (MEX)     v Lanús (ARG)              0-2 (0-1)
+  Tue Apr/29
+    19.15  Defensor Sporting (URU) v The Strongest (BOL)      4-2 pen. (2-0, 0-0)
+    21.45  Vélez Sarsfield (ARG)   v Club Nacional (PAR)      2-2 (0-0)
+  Wed Apr/30
+    19.30  Unión Española (CHI)    v Arsenal de Sarandí (ARG)  0-1 (0-0)
+    22.00  Grêmio Porto Alegre (BRA) v San Lorenzo (ARG)        2-4 pen. (1-0, 0-0)
+           Cerro Porteño (PAR)     v Cruzeiro (BRA)           0-2 (0-0)
+  Thu May/1
+    19.15  Atlético Mineiro (BRA)  v Atlético Nacional (COL)  1-1 (1-0)
+
+
+» Quarterfinals
+  Wed May/7
+    19.45  Club Nacional (PAR)     v Arsenal de Sarandí (ARG)  1-0 (1-0)
+    22.00  San Lorenzo (ARG)       v Cruzeiro (BRA)           1-0 (0-0)
+  Thu May/8
+    19.45  Lanús (ARG)             v Bolívar (BOL)            1-1 (1-0)
+    22.00  Atlético Nacional (COL) v Defensor Sporting (URU)  0-2 (0-0)
+  Wed May/14
+    19.30  Arsenal de Sarandí (ARG) v Club Nacional (PAR)      0-0
+    22.00  Cruzeiro (BRA)          v San Lorenzo (ARG)        1-1 (0-1)
+  Thu May/15
+    19.30  Bolívar (BOL)           v Lanús (ARG)              1-0 (0-0)
+    22.00  Defensor Sporting (URU) v Atlético Nacional (COL)  1-0 (0-0)
+
+
+» Semifinals
+  Tue Jul/22
+    21.15  Club Nacional (PAR)     v Defensor Sporting (URU)  2-0 (1-0)
+  Wed Jul/23
+    19.45  San Lorenzo (ARG)       v Bolívar (BOL)            5-0 (2-0)
+  Tue Jul/29
+    21.15  Defensor Sporting (URU) v Club Nacional (PAR)      1-0 (0-0)
+  Wed Jul/30
+    21.15  Bolívar (BOL)           v San Lorenzo (ARG)        1-0 (0-0)
+
+
+» Final
+  Wed Aug/6
+    21.15  Club Nacional (PAR)     v San Lorenzo (ARG)        1-1 (0-0)
+  Wed Aug/13
+    21.15  San Lorenzo (ARG)       v Club Nacional (PAR)      1-0 (1-0)
