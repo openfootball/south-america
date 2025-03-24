@@ -1,540 +1,575 @@
 = Argentina Primera Division 2024
 
-# Date       Fri May/10 - Sun Dec/15 2024 (219d)
+# Date       Fri May/10 - Mon Dec/16 2024 (220d)
 # Teams      28
 # Matches    378
 
 
 
-Matchday 1
-[Fri May/10]
-  21.15  Argentinos Juniors       3-2 (2-2)  Rosario Central
-         Newell's Old Boys        2-0 (0-0)  Platense
-  19.00  Sarmiento de Junín       1-2 (0-1)  Instituto de Córdoba
-[Sat May/11]
-  15.30  Godoy Cruz               0-1 (0-0)  Barracas Central
-  17.30  Independiente            1-3 (1-1)  Talleres de Córdoba
-  19.45  River Plate              3-0 (2-0)  Central Córdoba SdE
-  14.30  Huracán                  3-1 (1-0)  Defensa y Justicia
-[Sun May/12]
-  15.30  Tigre                    0-1 (0-1)  Estudiantes
-         Deportivo Riestra        1-0 (1-0)  San Lorenzo
-  17.45  Belgrano de Córdoba      4-4 (1-3)  Racing Club
-         Lanús                    0-2 (0-1)  Independiente Rivadavia
-  20.15  Atlético Tucumán         1-0 (1-0)  Boca Juniors
-[Mon May/13]
-  21.00  Unión de Santa Fe        1-0 (0-0)  Banfield
-  19.00  Gimnasia de La Plata     3-1 (1-0)  Vélez Sarsfield
+» Matchday 1
+  Fri May/10 2024
+    19.00  Sarmiento de Junín      v Instituto de Córdoba     1-2 (0-1)
+    21.15  Argentinos Juniors      v Rosario Central          3-2 (2-2)
+           Newell's Old Boys       v Platense                 2-0 (0-0)
+  Sat May/11
+    14.30  Huracán                 v Defensa y Justicia       3-1 (1-0)
+    15.30  Godoy Cruz              v Barracas Central         0-1 (0-0)
+    17.30  Independiente           v Talleres de Córdoba      1-3 (1-1)
+    19.45  River Plate             v Central Córdoba SdE      3-0 (2-0)
+  Sun May/12
+    15.30  Tigre                   v Estudiantes              0-1 (0-1)
+           Deportivo Riestra       v San Lorenzo              1-0 (1-0)
+    17.45  Belgrano de Córdoba     v Racing Club              4-4 (1-3)
+           Lanús                   v Independiente Rivadavia  0-2 (0-1)
+    20.15  Atlético Tucumán        v Boca Juniors             1-0 (1-0)
+  Mon May/13
+    19.00  Gimnasia de La Plata    v Vélez Sarsfield          3-1 (1-0)
+    21.00  Unión de Santa Fe       v Banfield                 1-0 (0-0)
 
 
-Matchday 2
-[Sat May/18]
-  18.00  River Plate              3-0 (1-0)  Belgrano de Córdoba
-  20.00  Defensa y Justicia       1-1 (0-1)  Gimnasia de La Plata
-  20.30  Instituto de Córdoba     1-1 (1-1)  Unión de Santa Fe
-  15.30  Independiente Rivadavia  0-0  Godoy Cruz
-[Sun May/19]
-  15.00  Barracas Central         1-1 (1-1)  Sarmiento de Junín
-  15.30  Platense                 0-0  Independiente
-  17.45  Talleres de Córdoba      2-0 (1-0)  Atlético Tucumán
-         Banfield                 1-1 (0-1)  Huracán
-  20.00  Central Córdoba SdE      2-4 (2-0)  Boca Juniors
-[Mon May/20]
-  19.00  Estudiantes              2-0 (1-0)  Deportivo Riestra
-  21.15  Rosario Central          1-1 (0-1)  Tigre
-         Racing Club              3-0 (1-0)  Argentinos Juniors
-  19.00  San Lorenzo              1-1 (0-1)  Lanús
-[Tue May/21]
-  20.00  Vélez Sarsfield          1-0 (1-0)  Newell's Old Boys
+» Matchday 2
+  Sat May/18
+    15.30  Independiente Rivadavia v Godoy Cruz               0-0
+    18.00  River Plate             v Belgrano de Córdoba      3-0 (1-0)
+    20.00  Defensa y Justicia      v Gimnasia de La Plata     1-1 (0-1)
+    20.30  Instituto de Córdoba    v Unión de Santa Fe        1-1 (1-1)
+  Sun May/19
+    15.00  Barracas Central        v Sarmiento de Junín       1-1 (1-1)
+    15.30  Platense                v Independiente            0-0
+    17.45  Talleres de Córdoba     v Atlético Tucumán         2-0 (1-0)
+           Banfield                v Huracán                  1-1 (0-1)
+    20.00  Central Córdoba SdE     v Boca Juniors             2-4 (2-0)
+  Mon May/20
+    19.00  San Lorenzo             v Lanús                    1-1 (0-1)
+           Estudiantes             v Deportivo Riestra        2-0 (1-0)
+    21.15  Rosario Central         v Tigre                    1-1 (0-1)
+           Racing Club             v Argentinos Juniors       3-0 (1-0)
+  Tue May/21
+    20.00  Vélez Sarsfield         v Newell's Old Boys        1-0 (1-0)
 
 
-Matchday 3
-[Fri May/24]
-  19.00  Tigre                    0-4 (0-2)  Racing Club
-  21.15  Belgrano de Córdoba      2-1 (0-1)  Central Córdoba SdE
-         Lanús                    2-1 (0-0)  Estudiantes
-  15.30  Deportivo Riestra        0-2 (0-1)  Rosario Central
-[Sat May/25]
-  15.00  Argentinos Juniors       1-0 (1-0)  River Plate
-  17.30  Godoy Cruz               -  San Lorenzo              [abandoned]
-         Newell's Old Boys        1-0 (0-0)  Defensa y Justicia
-  20.00  Boca Juniors             0-0  Talleres de Córdoba
-[Sun May/26]
-  17.30  Sarmiento de Junín       0-1 (0-0)  Independiente Rivadavia
-  17.45  Gimnasia de La Plata     3-0 (0-0)  Banfield
-  20.00  Independiente            1-1 (0-1)  Vélez Sarsfield
-  15.30  Huracán                  1-0 (0-0)  Instituto de Córdoba
-[Mon May/27]
-  19.00  Unión de Santa Fe        2-0 (1-0)  Barracas Central
-  21.00  Atlético Tucumán         1-1 (0-0)  Platense
+» Matchday 3
+  Fri May/24
+    15.30  Deportivo Riestra       v Rosario Central          0-2 (0-1)
+    19.00  Tigre                   v Racing Club              0-4 (0-2)
+    21.15  Belgrano de Córdoba     v Central Córdoba SdE      2-1 (0-1)
+           Lanús                   v Estudiantes              2-1 (0-0)
+  Sat May/25
+    15.00  Argentinos Juniors      v River Plate              1-0 (1-0)
+    17.30  Newell's Old Boys       v Defensa y Justicia       1-0 (0-0)
+    20.00  Boca Juniors            v Talleres de Córdoba      0-0
+  Sun May/26
+    15.30  Huracán                 v Instituto de Córdoba     1-0 (0-0)
+    17.30  Sarmiento de Junín      v Independiente Rivadavia  0-1 (0-0)
+    17.45  Gimnasia de La Plata    v Banfield                 3-0 (0-0)
+  Mon May/27
+           Godoy Cruz              v San Lorenzo              1-1 (1-1)
+  Sun May/26
+    20.00  Independiente           v Vélez Sarsfield          1-1 (0-1)
+  Mon May/27
+    19.00  Unión de Santa Fe       v Barracas Central         2-0 (1-0)
+    21.00  Atlético Tucumán        v Platense                 1-1 (0-0)
 
 
-Matchday 4
-[Sat Jun/1]
-  20.15  Vélez Sarsfield          1-1 (0-1)  Atlético Tucumán
-         Belgrano de Córdoba      1-0 (0-0)  Argentinos Juniors
-  18.00  Racing Club              1-0 (0-0)  Deportivo Riestra
-[Sun Jun/2]
-  14.30  Platense                 1-0 (0-0)  Boca Juniors
-  18.00  Central Córdoba SdE      2-4 (1-1)  Talleres de Córdoba
-         Rosario Central          1-1 (0-1)  Lanús
-  20.15  Instituto de Córdoba     2-1 (1-1)  Gimnasia de La Plata
-         River Plate              3-1 (1-1)  Tigre
-[Mon Jun/3]
-  21.15  Defensa y Justicia       0-0  Independiente
-         Estudiantes              1-1 (0-1)  Godoy Cruz
-  19.00  San Lorenzo              0-1 (0-0)  Sarmiento de Junín
-[Tue Jun/4]
-  15.00  Barracas Central         0-2 (0-1)  Huracán
-  20.00  Banfield                 2-0 (0-0)  Newell's Old Boys
-         Independiente Rivadavia  0-1 (0-0)  Unión de Santa Fe
+» Matchday 4
+  Sat Jun/1
+    18.00  Racing Club             v Deportivo Riestra        1-0 (0-0)
+    20.15  Vélez Sarsfield         v Atlético Tucumán         1-1 (0-1)
+           Belgrano de Córdoba     v Argentinos Juniors       1-0 (0-0)
+  Sun Jun/2
+    14.30  Platense                v Boca Juniors             1-0 (0-0)
+    18.00  Central Córdoba SdE     v Talleres de Córdoba      2-4 (1-1)
+           Rosario Central         v Lanús                    1-1 (0-1)
+    20.15  Instituto de Córdoba    v Gimnasia de La Plata     2-1 (1-1)
+           River Plate             v Tigre                    3-1 (1-1)
+  Mon Jun/3
+    19.00  San Lorenzo             v Sarmiento de Junín       0-1 (0-0)
+    21.15  Defensa y Justicia      v Independiente            0-0
+           Estudiantes             v Godoy Cruz               1-1 (0-1)
+  Tue Jun/4
+    15.00  Barracas Central        v Huracán                  0-2 (0-1)
+    20.00  Banfield                v Newell's Old Boys        2-0 (0-0)
+           Independiente Rivadavia v Unión de Santa Fe        0-1 (0-0)
 
 
-Matchday 5
-[Wed Jun/12]
-  19.00  Argentinos Juniors       2-1 (1-0)  Central Córdoba SdE
-  21.15  Gimnasia de La Plata     2-1 (1-0)  Barracas Central
-         Independiente            2-1 (1-1)  Banfield
-  17.00  Godoy Cruz               1-1 (1-1)  Rosario Central
-[Thu Jun/13]
-  15.00  Deportivo Riestra        2-0 (0-0)  River Plate
-  19.00  Tigre                    1-1 (1-0)  Belgrano de Córdoba
-         Sarmiento de Junín       2-0 (0-0)  Estudiantes
-  21.15  Lanús                    2-0 (1-0)  Racing Club
-         Newell's Old Boys        0-2 (0-1)  Instituto de Córdoba
-[Fri Jun/14]
-  19.00  Talleres de Córdoba      2-1 (1-1)  Platense
-         Boca Juniors             1-0 (0-0)  Vélez Sarsfield
-[Sat Jun/15]
-  18.00  Huracán                  1-0 (1-0)  Independiente Rivadavia
-  20.30  Atlético Tucumán         1-1 (1-1)  Defensa y Justicia
-  16.00  Unión de Santa Fe        2-1 (0-1)  San Lorenzo
+» Matchday 5
+  Wed Jun/12
+    17.00  Godoy Cruz              v Rosario Central          1-1 (1-1)
+    19.00  Argentinos Juniors      v Central Córdoba SdE      2-1 (1-0)
+    21.15  Gimnasia de La Plata    v Barracas Central         2-1 (1-0)
+           Independiente           v Banfield                 2-1 (1-1)
+  Thu Jun/13
+    15.00  Deportivo Riestra       v River Plate              2-0 (0-0)
+    19.00  Tigre                   v Belgrano de Córdoba      1-1 (1-0)
+           Sarmiento de Junín      v Estudiantes              2-0 (0-0)
+    21.15  Lanús                   v Racing Club              2-0 (1-0)
+           Newell's Old Boys       v Instituto de Córdoba     0-2 (0-1)
+  Fri Jun/14
+    19.00  Boca Juniors            v Vélez Sarsfield          1-0 (0-0)
+           Talleres de Córdoba     v Platense                 2-1 (1-1)
+  Sat Jun/15
+    16.00  Unión de Santa Fe       v San Lorenzo              2-1 (0-1)
+    18.00  Huracán                 v Independiente Rivadavia  1-0 (1-0)
+    20.30  Atlético Tucumán        v Defensa y Justicia       1-1 (1-1)
 
 
-Matchday 6
-[Thu Jul/18]
-  18.45  Argentinos Juniors       0-2 (0-1)  Tigre
-  19.00  Independiente Rivadavia  1-0 (1-0)  Gimnasia de La Plata
-  21.00  Instituto de Córdoba     3-1 (3-1)  Independiente
-[Fri Jul/19]
-  19.00  Belgrano de Córdoba      2-1 (0-0)  Deportivo Riestra
-  21.00  Rosario Central          4-2 (3-0)  Sarmiento de Junín
-  15.00  Barracas Central         0-1 (0-0)  Newell's Old Boys
-[Sat Jul/20]
-  17.00  Racing Club              3-0 (2-0)  Godoy Cruz
-  19.30  Banfield                 1-1 (1-0)  Atlético Tucumán
-  15.00  San Lorenzo              1-1 (1-1)  Huracán
-[Sun Jul/21]
-  15.00  River Plate              2-2 (0-0)  Lanús
-  17.15  Central Córdoba SdE      0-2 (0-0)  Platense
-         Estudiantes              0-0  Unión de Santa Fe
-  20.00  Vélez Sarsfield          3-0 (1-0)  Talleres de Córdoba
-         Defensa y Justicia       2-2 (2-1)  Boca Juniors
+» Matchday 6
+  Thu Jul/18
+    18.45  Argentinos Juniors      v Tigre                    0-2 (0-1)
+    19.00  Independiente Rivadavia v Gimnasia de La Plata     1-0 (1-0)
+    21.00  Instituto de Córdoba    v Independiente            3-1 (3-1)
+  Fri Jul/19
+    15.00  Barracas Central        v Newell's Old Boys        0-1 (0-0)
+    19.00  Belgrano de Córdoba     v Deportivo Riestra        2-1 (0-0)
+    21.00  Rosario Central         v Sarmiento de Junín       4-2 (3-0)
+  Sat Jul/20
+    15.00  San Lorenzo             v Huracán                  1-1 (1-1)
+    17.00  Racing Club             v Godoy Cruz               3-0 (2-0)
+    19.30  Banfield                v Atlético Tucumán         1-1 (1-0)
+  Sun Jul/21
+    15.00  River Plate             v Lanús                    2-2 (0-0)
+    17.15  Central Córdoba SdE     v Platense                 0-2 (0-0)
+           Estudiantes             v Unión de Santa Fe        0-0
+    20.00  Vélez Sarsfield         v Talleres de Córdoba      3-0 (1-0)
+           Defensa y Justicia      v Boca Juniors             2-2 (2-1)
 
 
-Matchday 7
-[Tue Jul/23]
-  18.45  Gimnasia de La Plata     0-1 (0-1)  San Lorenzo
-         Newell's Old Boys        0-0  Independiente Rivadavia
-  21.00  Independiente            0-0  Barracas Central
-  15.00  Deportivo Riestra        2-0 (0-0)  Argentinos Juniors
-[Wed Jul/24]
-  17.15  Sarmiento de Junín       1-0 (1-0)  Racing Club
-  19.30  Godoy Cruz               2-1 (2-1)  River Plate
-         Huracán                  0-0  Estudiantes
-  17.00  Talleres de Córdoba      1-1 (0-1)  Defensa y Justicia
-[Thu Jul/25]
-  18.45  Lanús                    3-2 (1-1)  Belgrano de Córdoba
-         Platense                 0-2 (0-1)  Vélez Sarsfield
-  21.00  Tigre                    1-1 (1-0)  Central Córdoba SdE
-         Atlético Tucumán         1-0 (0-0)  Instituto de Córdoba
+» Matchday 7
+  Tue Jul/23
+    15.00  Deportivo Riestra       v Argentinos Juniors       2-0 (0-0)
+    18.45  Gimnasia de La Plata    v San Lorenzo              0-1 (0-1)
+           Newell's Old Boys       v Independiente Rivadavia  0-0
+    21.00  Independiente           v Barracas Central         0-0
+  Wed Jul/24
+    17.00  Talleres de Córdoba     v Defensa y Justicia       1-1 (0-1)
+    17.15  Sarmiento de Junín      v Racing Club              1-0 (1-0)
+    19.30  Godoy Cruz              v River Plate              2-1 (2-1)
+           Huracán                 v Estudiantes              0-0
+  Thu Jul/25
+    18.45  Lanús                   v Belgrano de Córdoba      3-2 (1-1)
+           Platense                v Vélez Sarsfield          0-2 (0-1)
+    21.00  Tigre                   v Central Córdoba SdE      1-1 (1-0)
+           Atlético Tucumán        v Instituto de Córdoba     1-0 (0-0)
+  Wed Jul/31
+    18.30  Unión de Santa Fe       v Rosario Central          1-0 (0-0)
+    20.30  Boca Juniors            v Banfield                 3-0 (1-0)
 
 
-Matchday 8
-[Sat Jul/27]
-  17.00  San Lorenzo              1-1 (0-1)  Newell's Old Boys
-  15.00  Independiente Rivadavia  1-0 (1-0)  Independiente
-  19.00  Rosario Central          0-1 (0-1)  Huracán
-[Sun Jul/28]
-  17.15  Racing Club              2-1 (1-0)  Unión de Santa Fe
-  18.30  River Plate              1-0 (0-0)  Sarmiento de Junín
-  15.00  Banfield                 1-1 (1-1)  Talleres de Córdoba
-         Estudiantes              4-1 (0-0)  Gimnasia de La Plata
-  20.30  Instituto de Córdoba     0-0  Boca Juniors
-[Mon Jul/29]
-  16.30  Defensa y Justicia       1-3 (0-1)  Platense
-  21.00  Belgrano de Córdoba      1-0 (1-0)  Godoy Cruz
-  15.00  Barracas Central         0-2 (0-1)  Atlético Tucumán
-  18.45  Tigre                    2-1 (1-1)  Deportivo Riestra
-         Central Córdoba SdE      0-2 (0-1)  Vélez Sarsfield
-  21.00  Argentinos Juniors       2-0 (0-0)  Lanús
+» Matchday 8
+  Sat Jul/27
+    15.00  Independiente Rivadavia v Independiente            1-0 (1-0)
+    17.00  San Lorenzo             v Newell's Old Boys        1-1 (0-1)
+    19.00  Rosario Central         v Huracán                  0-1 (0-1)
+  Sun Jul/28
+    15.00  Banfield                v Talleres de Córdoba      1-1 (1-1)
+           Estudiantes             v Gimnasia de La Plata     4-1 (0-0)
+    17.15  Racing Club             v Unión de Santa Fe        2-1 (1-0)
+    18.30  River Plate             v Sarmiento de Junín       1-0 (0-0)
+    20.30  Instituto de Córdoba    v Boca Juniors             0-0
+  Mon Jul/29
+    15.00  Barracas Central        v Atlético Tucumán         0-2 (0-1)
+    16.30  Defensa y Justicia      v Platense                 1-3 (0-1)
+    18.45  Central Córdoba SdE     v Vélez Sarsfield          0-2 (0-1)
+           Tigre                   v Deportivo Riestra        2-1 (1-1)
+    21.00  Belgrano de Córdoba     v Godoy Cruz               1-0 (1-0)
+           Argentinos Juniors      v Lanús                    2-0 (0-0)
 
 
-Matchday 7
-[Wed Jul/31]
-  20.30  Boca Juniors             3-0 (1-0)  Banfield
-  18.30  Unión de Santa Fe        1-0 (0-0)  Rosario Central
+» Matchday 9
+  Fri Aug/2
+    20.00  Newell's Old Boys       v Estudiantes              1-4 (1-2)
+  Sat Aug/3
+    15.00  Godoy Cruz              v Argentinos Juniors       1-0 (1-0)
+           Vélez Sarsfield         v Defensa y Justicia       3-0 (1-0)
+    17.15  Talleres de Córdoba     v Instituto de Córdoba     1-1 (0-0)
+    19.15  Independiente           v San Lorenzo              0-0
+    20.30  Huracán                 v Racing Club              0-0
+  Sun Aug/4
+    15.00  Sarmiento de Junín      v Belgrano de Córdoba      0-0
+           Unión de Santa Fe       v River Plate              0-0
+    17.30  Boca Juniors            v Barracas Central         1-1 (1-1)
+    20.00  Lanús                   v Tigre                    3-2 (0-1)
+           Atlético Tucumán        v Independiente Rivadavia  2-1 (0-1)
+  Mon Aug/5
+    14.30  Deportivo Riestra       v Central Córdoba SdE      1-0 (1-0)
+    17.00  Gimnasia de La Plata    v Rosario Central          0-1 (0-0)
+    20.00  Platense                v Banfield                 0-1 (0-1)
 
 
-Matchday 9
-[Fri Aug/2]
-  20.00  Newell's Old Boys        1-4 (1-2)  Estudiantes
-[Sat Aug/3]
-  15.00  Vélez Sarsfield          3-0 (1-0)  Defensa y Justicia
-  17.15  Talleres de Córdoba      1-1 (0-0)  Instituto de Córdoba
-  19.15  Independiente            0-0  San Lorenzo
-  20.30  Huracán                  0-0  Racing Club
-  15.00  Godoy Cruz               1-0 (1-0)  Argentinos Juniors
-[Sun Aug/4]
-  15.00  Sarmiento de Junín       0-0  Belgrano de Córdoba
-         Unión de Santa Fe        0-0  River Plate
-  17.30  Boca Juniors             1-1 (1-1)  Barracas Central
-  20.00  Lanús                    3-2 (0-1)  Tigre
-         Atlético Tucumán         2-1 (0-1)  Independiente Rivadavia
-[Mon Aug/5]
-  17.00  Gimnasia de La Plata     0-1 (0-0)  Rosario Central
-  20.00  Platense                 0-1 (0-1)  Banfield
-  14.30  Deportivo Riestra        1-0 (1-0)  Central Córdoba SdE
+» Matchday 10
+  Thu Aug/8
+    15.00  Argentinos Juniors      v Sarmiento de Junín       0-0
+  Fri Aug/9
+    15.00  Deportivo Riestra       v Lanús                    3-1 (0-0)
+    16.30  Barracas Central        v Talleres de Córdoba      1-1 (0-0)
+    19.00  Belgrano de Córdoba     v Unión de Santa Fe        1-1 (0-0)
+    21.00  Racing Club             v Gimnasia de La Plata     0-1 (0-1)
+  Sat Aug/10
+    14.30  San Lorenzo             v Atlético Tucumán         0-1 (0-0)
+    16.30  Rosario Central         v Newell's Old Boys        1-0 (0-0)
+    18.45  Independiente Rivadavia v Boca Juniors             1-1 (0-0)
+    20.30  River Plate             v Huracán                  1-1 (1-1)
+  Sun Aug/11
+    15.00  Central Córdoba SdE     v Defensa y Justicia       2-0 (1-0)
+           Instituto de Córdoba    v Platense                 2-0 (0-0)
+    17.30  Banfield                v Vélez Sarsfield          2-2 (0-1)
+    20.00  Estudiantes             v Independiente            0-2 (0-1)
+  Mon Aug/12
+    19.00  Tigre                   v Godoy Cruz               0-2 (0-1)
 
 
-Matchday 10
-[Thu Aug/8]
-  15.00  Argentinos Juniors       0-0  Sarmiento de Junín
-[Fri Aug/9]
-  16.30  Barracas Central         1-1 (0-0)  Talleres de Córdoba
-  19.00  Belgrano de Córdoba      1-1 (0-0)  Unión de Santa Fe
-  21.00  Racing Club              0-1 (0-1)  Gimnasia de La Plata
-  15.00  Deportivo Riestra        3-1 (0-0)  Lanús
-[Sat Aug/10]
-  14.30  San Lorenzo              0-1 (0-0)  Atlético Tucumán
-  16.30  Rosario Central          1-0 (0-0)  Newell's Old Boys
-  18.45  Independiente Rivadavia  1-1 (0-0)  Boca Juniors
-  20.30  River Plate              1-1 (1-1)  Huracán
-[Sun Aug/11]
-  15.00  Instituto de Córdoba     2-0 (0-0)  Platense
-  17.30  Banfield                 2-2 (0-1)  Vélez Sarsfield
-  20.00  Estudiantes              0-2 (0-1)  Independiente
-  15.00  Central Córdoba SdE      2-0 (1-0)  Defensa y Justicia
-[Mon Aug/12]
-  19.00  Tigre                    0-2 (0-1)  Godoy Cruz
+» Matchday 11
+  Fri Aug/16
+    19.00  Platense                v Barracas Central         0-0
+    21.00  Newell's Old Boys       v Racing Club              0-1 (0-1)
+  Sat Aug/17
+    15.00  Lanús                   v Central Córdoba SdE      1-1 (1-0)
+    15.30  Independiente           v Rosario Central          1-0 (1-0)
+    17.30  Gimnasia de La Plata    v River Plate              1-1 (0-0)
+    20.00  Talleres de Córdoba     v Independiente Rivadavia  2-1 (0-1)
+           Vélez Sarsfield         v Instituto de Córdoba     1-0 (1-0)
+  Sun Aug/18
+    14.30  Boca Juniors            v San Lorenzo              3-2 (0-1)
+    17.00  Sarmiento de Junín      v Tigre                    0-0
+           Atlético Tucumán        v Estudiantes              2-0 (0-0)
+    20.30  Huracán                 v Belgrano de Córdoba      1-0 (1-0)
+  Mon Aug/19
+    18.45  Godoy Cruz              v Deportivo Riestra        4-1 (3-0)
+           Unión de Santa Fe       v Argentinos Juniors       3-0 (2-0)
+    21.00  Defensa y Justicia      v Banfield                 1-0 (0-0)
 
 
-Matchday 11
-[Fri Aug/16]
-  19.00  Platense                 0-0  Barracas Central
-  21.00  Newell's Old Boys        0-1 (0-1)  Racing Club
-[Sat Aug/17]
-  15.00  Lanús                    1-1 (1-0)  Central Córdoba SdE
-  15.30  Independiente            1-0 (1-0)  Rosario Central
-  17.30  Gimnasia de La Plata     1-1 (0-0)  River Plate
-  20.00  Talleres de Córdoba      2-1 (0-1)  Independiente Rivadavia
-         Vélez Sarsfield          1-0 (1-0)  Instituto de Córdoba
-[Sun Aug/18]
-  17.00  Sarmiento de Junín       0-0  Tigre
-         Atlético Tucumán         2-0 (0-0)  Estudiantes
-  20.30  Huracán                  1-0 (1-0)  Belgrano de Córdoba
-  14.30  Boca Juniors             3-2 (0-1)  San Lorenzo
-[Mon Aug/19]
-  18.45  Godoy Cruz               4-1 (3-0)  Deportivo Riestra
-         Unión de Santa Fe        3-0 (2-0)  Argentinos Juniors
-  21.00  Defensa y Justicia       1-0 (0-0)  Banfield
+» Matchday 12
+  Fri Aug/23
+    18.00  Independiente Rivadavia v Platense                 0-2 (0-1)
+  Sat Aug/24
+    14.30  Deportivo Riestra       v Sarmiento de Junín       2-1 (1-1)
+    15.00  Argentinos Juniors      v Huracán                  0-0
+    17.00  Instituto de Córdoba    v Defensa y Justicia       4-1 (3-1)
+    19.30  Tigre                   v Unión de Santa Fe        5-1 (2-0)
+  Sun Aug/25
+    14.30  San Lorenzo             v Talleres de Córdoba      2-0 (1-0)
+           Lanús                   v Godoy Cruz               1-1 (1-0)
+    17.00  Racing Club             v Independiente            0-0
+    20.30  River Plate             v Newell's Old Boys        0-0
+  Mon Aug/26
+    16.00  Central Córdoba SdE     v Banfield                 0-0
+           Barracas Central        v Vélez Sarsfield          0-5 (0-1)
+    18.30  Rosario Central         v Atlético Tucumán         1-0 (0-0)
+           Belgrano de Córdoba     v Gimnasia de La Plata     0-1 (0-0)
+    21.00  Estudiantes             v Boca Juniors             1-1 (0-0)
 
 
-Matchday 12
-[Fri Aug/23]
-  18.00  Independiente Rivadavia  0-2 (0-1)  Platense
-[Sat Aug/24]
-  14.30  Deportivo Riestra        2-1 (1-1)  Sarmiento de Junín
-  15.00  Argentinos Juniors       0-0  Huracán
-  17.00  Instituto de Córdoba     4-1 (3-1)  Defensa y Justicia
-  19.30  Tigre                    5-1 (2-0)  Unión de Santa Fe
-[Sun Aug/25]
-  14.30  Lanús                    1-1 (1-0)  Godoy Cruz
-  17.00  Racing Club              0-0  Independiente
-  20.30  River Plate              0-0  Newell's Old Boys
-  14.30  San Lorenzo              2-0 (1-0)  Talleres de Córdoba
-[Mon Aug/26]
-  16.00  Central Córdoba SdE      0-0  Banfield
-         Barracas Central         0-5 (0-1)  Vélez Sarsfield
-  18.30  Rosario Central          1-0 (0-0)  Atlético Tucumán
-         Belgrano de Córdoba      0-1 (0-0)  Gimnasia de La Plata
-  21.00  Estudiantes              1-1 (0-0)  Boca Juniors
+» Matchday 13
+  Fri Aug/30
+    19.00  Sarmiento de Junín      v Lanús                    0-0
+    21.00  Unión de Santa Fe       v Deportivo Riestra        0-0
+  Sat Aug/31
+    15.00  Newell's Old Boys       v Belgrano de Córdoba      0-0
+           Defensa y Justicia      v Barracas Central         1-0 (1-0)
+    18.00  Talleres de Córdoba     v Estudiantes              1-0 (1-0)
+           Vélez Sarsfield         v Independiente Rivadavia  4-0 (2-0)
+    21.00  Boca Juniors            v Rosario Central          2-1 (2-0)
+  Sun Sep/1
+    14.30  Huracán                 v Tigre                    0-2 (0-1)
+           Platense                v San Lorenzo              1-2 (1-1)
+    17.00  Independiente           v River Plate              0-0
+    19.00  Atlético Tucumán        v Racing Club              1-0 (1-0)
+    21.00  Banfield                v Instituto de Córdoba     1-2 (0-1)
+  Mon Sep/2
+    17.00  Gimnasia de La Plata    v Argentinos Juniors       1-0 (0-0)
+    19.00  Godoy Cruz              v Central Córdoba SdE      1-1 (1-0)
 
 
-Matchday 13
-[Fri Aug/30]
-  21.00  Unión de Santa Fe        0-0  Deportivo Riestra
-  19.00  Sarmiento de Junín       0-0  Lanús
-[Sat Aug/31]
-  15.00  Defensa y Justicia       1-0 (1-0)  Barracas Central
-  18.00  Talleres de Córdoba      1-0 (1-0)  Estudiantes
-         Vélez Sarsfield          4-0 (2-0)  Independiente Rivadavia
-  21.00  Boca Juniors             2-1 (2-0)  Rosario Central
-  15.00  Newell's Old Boys        0-0  Belgrano de Córdoba
-[Sun Sep/1]
-  14.30  Huracán                  0-2 (0-1)  Tigre
-         Platense                 1-2 (1-1)  San Lorenzo
-  17.00  Independiente            0-0  River Plate
-  19.00  Atlético Tucumán         1-0 (1-0)  Racing Club
-  21.00  Banfield                 1-2 (0-1)  Instituto de Córdoba
-[Mon Sep/2]
-  19.00  Godoy Cruz               1-1 (1-0)  Central Córdoba SdE
-  17.00  Gimnasia de La Plata     1-0 (0-0)  Argentinos Juniors
+» Matchday 14
+  Fri Sep/13
+    15.00  Deportivo Riestra       v Huracán                  1-0 (0-0)
+    18.30  Central Córdoba SdE     v Instituto de Córdoba     2-1 (0-1)
+           Lanús                   v Unión de Santa Fe        1-1 (1-0)
+    21.00  River Plate             v Atlético Tucumán         4-1 (2-1)
+  Sat Sep/14
+    15.00  San Lorenzo             v Vélez Sarsfield          0-1 (0-1)
+    17.30  Racing Club             v Boca Juniors             2-1 (1-1)
+    20.00  Belgrano de Córdoba     v Independiente            1-1 (0-0)
+           Tigre                   v Gimnasia de La Plata     1-1 (0-1)
+  Sun Sep/15
+    15.00  Estudiantes             v Platense                 1-1 (1-1)
+           Godoy Cruz              v Sarmiento de Junín       1-1 (1-1)
+    17.30  Rosario Central         v Talleres de Córdoba      2-2 (1-1)
+    20.00  Argentinos Juniors      v Newell's Old Boys        3-0 (2-0)
+  Mon Sep/16
+    15.00  Barracas Central        v Banfield                 0-1 (0-0)
+    21.00  Independiente Rivadavia v Defensa y Justicia       1-0 (1-0)
 
 
-Matchday 14
-[Fri Sep/13]
-  18.30  Central Córdoba SdE      2-1 (0-1)  Instituto de Córdoba
-         Lanús                    1-1 (1-0)  Unión de Santa Fe
-  21.00  River Plate              4-1 (2-1)  Atlético Tucumán
-  15.00  Deportivo Riestra        1-0 (0-0)  Huracán
-[Sat Sep/14]
-  15.00  San Lorenzo              0-1 (0-1)  Vélez Sarsfield
-  17.30  Racing Club              2-1 (1-1)  Boca Juniors
-  20.00  Belgrano de Córdoba      1-1 (0-0)  Independiente
-         Tigre                    1-1 (0-1)  Gimnasia de La Plata
-[Sun Sep/15]
-  15.00  Godoy Cruz               1-1 (1-1)  Sarmiento de Junín
-  17.30  Rosario Central          2-2 (1-1)  Talleres de Córdoba
-  20.00  Argentinos Juniors       3-0 (2-0)  Newell's Old Boys
-  15.00  Estudiantes              1-1 (1-1)  Platense
-[Mon Sep/16]
-  21.00  Independiente Rivadavia  -  Defensa y Justicia
-  15.00  Barracas Central         -  Banfield
+» Matchday 15
+  Fri Sep/20
+    17.30  Gimnasia de La Plata    v Deportivo Riestra        0-0
+    20.00  Unión de Santa Fe       v Godoy Cruz               3-1 (1-1)
+  Sat Sep/21
+    16.00  Boca Juniors            v River Plate              0-1 (0-1)
+    19.00  Newell's Old Boys       v Tigre                    1-0 (0-0)
+           Instituto de Córdoba    v Barracas Central         0-1 (0-0)
+    21.15  Defensa y Justicia      v San Lorenzo              0-0
+  Sun Sep/22
+    14.30  Huracán                 v Lanús                    3-0 (1-0)
+           Independiente           v Argentinos Juniors       0-0
+    17.00  Talleres de Córdoba     v Racing Club              2-0 (1-0)
+    19.30  Atlético Tucumán        v Belgrano de Córdoba      2-4 (1-2)
+           Platense                v Rosario Central          1-0 (1-0)
+  Mon Sep/23
+    18.45  Sarmiento de Junín      v Central Córdoba SdE      1-3 (0-1)
+    21.00  Vélez Sarsfield         v Estudiantes              2-0 (1-0)
+           Banfield                v Independiente Rivadavia  2-0 (1-0)
 
 
-Matchday 15
-[Fri Sep/20]
-  20.00  Unión de Santa Fe        -  Godoy Cruz
-  17.30  Gimnasia de La Plata     -  Deportivo Riestra
-[Sat Sep/21]
-  16.00  Boca Juniors             -  River Plate
-  19.00  Newell's Old Boys        -  Tigre
-         Instituto de Córdoba     -  Barracas Central
-  21.15  Defensa y Justicia       -  San Lorenzo
-[Sun Sep/22]
-  14.30  Independiente            -  Argentinos Juniors
-  17.00  Talleres de Córdoba      -  Racing Club
-  19.30  Atlético Tucumán         -  Belgrano de Córdoba
-         Platense                 -  Rosario Central
-  14.30  Huracán                  -  Lanús
-[Mon Sep/23]
-  18.45  Sarmiento de Junín       -  Central Córdoba SdE
-  21.00  Vélez Sarsfield          -  Estudiantes
-         Banfield                 -  Independiente Rivadavia
+» Matchday 16
+  Fri Sep/27
+    15.00  Deportivo Riestra       v Newell's Old Boys        3-3 (2-2)
+    21.00  Independiente Rivadavia v Instituto de Córdoba     1-1 (1-1)
+  Sat Sep/28
+    15.00  San Lorenzo             v Banfield                 2-1 (1-1)
+    17.30  Estudiantes             v Defensa y Justicia       1-0 (1-0)
+           Godoy Cruz              v Huracán                  1-1 (0-1)
+    20.00  Belgrano de Córdoba     v Boca Juniors             2-0 (0-0)
+  Sun Sep/29
+    14.30  Central Córdoba SdE     v Barracas Central         2-1 (2-0)
+    18.15  River Plate             v Talleres de Córdoba      0-1 (0-1)
+    19.30  Sarmiento de Junín      v Unión de Santa Fe        1-0 (0-0)
+  Mon Sep/30
+    19.00  Argentinos Juniors      v Atlético Tucumán         0-0
+    21.00  Racing Club             v Platense                 1-1 (1-1)
+    21.15  Lanús                   v Gimnasia de La Plata     0-0
+  Tue Oct/1
+    18.30  Tigre                   v Independiente            1-1 (0-1)
+    20.30  Rosario Central         v Vélez Sarsfield          3-0 (1-0)
 
 
-Matchday 16
-[Sun Sep/29]
-  17.00  Central Córdoba SdE      -  Barracas Central
-         Independiente Rivadavia  -  Instituto de Córdoba
-         San Lorenzo              -  Banfield
-         Estudiantes              -  Defensa y Justicia
-         Rosario Central          -  Vélez Sarsfield
-         Racing Club              -  Platense
-         River Plate              -  Talleres de Córdoba
-         Belgrano de Córdoba      -  Boca Juniors
-         Argentinos Juniors       -  Atlético Tucumán
-         Tigre                    -  Independiente
-         Deportivo Riestra        -  Newell's Old Boys
-         Lanús                    -  Gimnasia de La Plata
-         Godoy Cruz               -  Huracán
-         Sarmiento de Junín       -  Unión de Santa Fe
+» Matchday 17
+  Fri Oct/4
+    19.00  Unión de Santa Fe       v Central Córdoba SdE      0-2 (0-1)
+    21.00  Huracán                 v Sarmiento de Junín       3-1 (1-1)
+  Sat Oct/5
+    15.00  Vélez Sarsfield         v Racing Club              1-0 (0-0)
+    17.30  Gimnasia de La Plata    v Godoy Cruz               0-1 (0-0)
+           Newell's Old Boys       v Lanús                    2-1 (0-0)
+    20.00  Instituto de Córdoba    v San Lorenzo              2-0 (1-0)
+  Sun Oct/6
+    15.00  Independiente           v Deportivo Riestra        3-1 (2-1)
+    16.30  Talleres de Córdoba     v Belgrano de Córdoba      0-0
+    19.00  Platense                v River Plate              0-0
+    21.00  Boca Juniors            v Argentinos Juniors       1-0 (1-0)
+  Mon Oct/7
+    15.00  Barracas Central        v Independiente Rivadavia  1-1 (1-1)
+    18.00  Banfield                v Estudiantes              1-2 (0-1)
+    18.45  Defensa y Justicia      v Rosario Central          2-1 (2-0)
+    21.00  Atlético Tucumán        v Tigre                    1-2 (1-1)
 
 
-Matchday 17
-[Sun Oct/6]
-  17.00  Unión de Santa Fe        -  Central Córdoba SdE
-         Huracán                  -  Sarmiento de Junín
-         Gimnasia de La Plata     -  Godoy Cruz
-         Newell's Old Boys        -  Lanús
-         Independiente            -  Deportivo Riestra
-         Atlético Tucumán         -  Tigre
-         Boca Juniors             -  Argentinos Juniors
-         Talleres de Córdoba      -  Belgrano de Córdoba
-         Platense                 -  River Plate
-         Vélez Sarsfield          -  Racing Club
-         Defensa y Justicia       -  Rosario Central
-         Banfield                 -  Estudiantes
-         Instituto de Córdoba     -  San Lorenzo
-         Barracas Central         -  Independiente Rivadavia
+» Matchday 18
+  Fri Oct/18
+    15.00  Deportivo Riestra       v Atlético Tucumán         2-0 (0-0)
+    17.00  Sarmiento de Junín      v Gimnasia de La Plata     1-1 (1-1)
+    18.45  Central Córdoba SdE     v Independiente Rivadavia  2-0 (2-0)
+    19.15  Lanús                   v Independiente            0-2 (0-0)
+    21.00  River Plate             v Vélez Sarsfield          1-1 (0-1)
+  Sat Oct/19
+    17.00  Racing Club             v Defensa y Justicia       4-3 (3-0)
+           Belgrano de Córdoba     v Platense                 0-1 (0-0)
+    19.15  Tigre                   v Boca Juniors             3-0 (1-0)
+    21.15  Unión de Santa Fe       v Huracán                  0-1 (0-0)
+  Sun Oct/20
+    15.00  Argentinos Juniors      v Talleres de Córdoba      3-0 (0-0)
+    17.15  Estudiantes             v Instituto de Córdoba     3-2 (2-0)
+           Rosario Central         v Banfield                 1-1 (1-1)
+    19.30  San Lorenzo             v Barracas Central         1-0 (0-0)
+           Godoy Cruz              v Newell's Old Boys        2-0 (1-0)
 
 
-Matchday 18
-[Sun Oct/20]
-  Central Córdoba SdE      -  Independiente Rivadavia
-  San Lorenzo              -  Barracas Central
-  Estudiantes              -  Instituto de Córdoba
-  Rosario Central          -  Banfield
-  Racing Club              -  Defensa y Justicia
-  River Plate              -  Vélez Sarsfield
-  Belgrano de Córdoba      -  Platense
-  Argentinos Juniors       -  Talleres de Córdoba
-  Tigre                    -  Boca Juniors
-  Deportivo Riestra        -  Atlético Tucumán
-  Lanús                    -  Independiente
-  Godoy Cruz               -  Newell's Old Boys
-  Sarmiento de Junín       -  Gimnasia de La Plata
-  Unión de Santa Fe        -  Huracán
+» Matchday 19
+  Fri Oct/25
+    15.00  Barracas Central        v Estudiantes              1-1 (0-0)
+    21.00  Defensa y Justicia      v River Plate              0-0
+  Sat Oct/26
+    17.15  Newell's Old Boys       v Sarmiento de Junín       1-1 (1-1)
+           Instituto de Córdoba    v Rosario Central          0-0
+    19.30  Independiente           v Godoy Cruz               1-1 (0-0)
+    21.00  Vélez Sarsfield         v Belgrano de Córdoba      1-1 (0-1)
+    21.45  Independiente Rivadavia v San Lorenzo              1-0 (1-0)
+  Sun Oct/27
+    15.00  Platense                v Argentinos Juniors       2-1 (2-1)
+    17.15  Banfield                v Racing Club              2-1 (0-0)
+    19.00  Boca Juniors            v Deportivo Riestra        1-1 (0-1)
+    21.15  Atlético Tucumán        v Lanús                    1-0 (1-0)
+           Talleres de Córdoba     v Tigre                    1-1 (0-0)
+  Mon Oct/28
+    19.00  Gimnasia de La Plata    v Unión de Santa Fe        2-3 (1-1)
+    21.00  Huracán                 v Central Córdoba SdE      0-0
 
 
-Matchday 19
-[Sun Oct/27]
-  Huracán                  -  Central Córdoba SdE
-  Gimnasia de La Plata     -  Unión de Santa Fe
-  Newell's Old Boys        -  Sarmiento de Junín
-  Independiente            -  Godoy Cruz
-  Atlético Tucumán         -  Lanús
-  Boca Juniors             -  Deportivo Riestra
-  Talleres de Córdoba      -  Tigre
-  Platense                 -  Argentinos Juniors
-  Vélez Sarsfield          -  Belgrano de Córdoba
-  Defensa y Justicia       -  River Plate
-  Banfield                 -  Racing Club
-  Instituto de Córdoba     -  Rosario Central
-  Barracas Central         -  Estudiantes
-  Independiente Rivadavia  -  San Lorenzo
+» Matchday 20
+  Thu Oct/31
+    19.00  Estudiantes             v Independiente Rivadavia  1-1 (1-1)
+           Sarmiento de Junín      v Independiente            0-0
+    21.15  Rosario Central         v Barracas Central         0-1 (0-0)
+           Godoy Cruz              v Atlético Tucumán         1-1 (1-0)
+  Fri Nov/1
+    19.00  Central Córdoba SdE     v San Lorenzo              0-1 (0-1)
+    19.45  Huracán                 v Gimnasia de La Plata     0-0
+    21.15  Unión de Santa Fe       v Newell's Old Boys        2-0 (1-0)
+    22.00  Argentinos Juniors      v Vélez Sarsfield          1-1 (0-0)
+  Sat Nov/2
+    15.00  Deportivo Riestra       v Talleres de Córdoba      0-0
+    18.00  River Plate             v Banfield                 3-1 (1-0)
+    20.00  Belgrano de Córdoba     v Defensa y Justicia       1-2 (0-0)
+  Sun Nov/3
+    17.00  Tigre                   v Platense                 0-0
+    17.30  Racing Club             v Instituto de Córdoba     2-0 (2-0)
+    19.30  Lanús                   v Boca Juniors             1-0 (0-0)
 
 
-Matchday 20
-[Sun Nov/3]
-  Central Córdoba SdE      -  San Lorenzo
-  Estudiantes              -  Independiente Rivadavia
-  Rosario Central          -  Barracas Central
-  Racing Club              -  Instituto de Córdoba
-  River Plate              -  Banfield
-  Belgrano de Córdoba      -  Defensa y Justicia
-  Argentinos Juniors       -  Vélez Sarsfield
-  Tigre                    -  Platense
-  Deportivo Riestra        -  Talleres de Córdoba
-  Lanús                    -  Boca Juniors
-  Godoy Cruz               -  Atlético Tucumán
-  Sarmiento de Junín       -  Independiente
-  Unión de Santa Fe        -  Newell's Old Boys
-  Huracán                  -  Gimnasia de La Plata
+» Matchday 21
+  Mon Nov/4
+    19.00  Atlético Tucumán        v Sarmiento de Junín       1-0 (1-0)
+    21.00  Independiente Rivadavia v Rosario Central          1-1 (1-1)
+  Tue Nov/5
+    18.45  Gimnasia de La Plata    v Central Córdoba SdE      0-0
+           San Lorenzo             v Estudiantes              1-1 (1-1)
+    21.00  Newell's Old Boys       v Huracán                  2-4 (1-2)
+           Independiente           v Unión de Santa Fe        3-0 (1-0)
+  Wed Nov/6
+    16.00  Barracas Central        v Racing Club              0-2 (0-1)
+    17.00  Banfield                v Belgrano de Córdoba      1-1 (0-1)
+    19.30  Boca Juniors            v Godoy Cruz               4-1 (2-1)
+    21.30  Instituto de Córdoba    v River Plate              2-3 (1-0)
+  Thu Nov/7
+    18.45  Talleres de Córdoba     v Lanús                    1-2 (1-1)
+    19.00  Defensa y Justicia      v Argentinos Juniors       2-1 (1-1)
+    21.00  Platense                v Deportivo Riestra        0-0
+    21.15  Vélez Sarsfield         v Tigre                    1-0 (0-0)
 
 
-Matchday 21
-[Wed Nov/6]
-  Gimnasia de La Plata     -  Central Córdoba SdE
-  Newell's Old Boys        -  Huracán
-  Independiente            -  Unión de Santa Fe
-  Atlético Tucumán         -  Sarmiento de Junín
-  Boca Juniors             -  Godoy Cruz
-  Talleres de Córdoba      -  Lanús
-  Platense                 -  Deportivo Riestra
-  Vélez Sarsfield          -  Tigre
-  Defensa y Justicia       -  Argentinos Juniors
-  Banfield                 -  Belgrano de Córdoba
-  Instituto de Córdoba     -  River Plate
-  Barracas Central         -  Racing Club
-  Independiente Rivadavia  -  Rosario Central
-  San Lorenzo              -  Estudiantes
+» Matchday 22
+  Sat Nov/9
+    16.45  Unión de Santa Fe       v Atlético Tucumán         1-0 (0-0)
+    17.00  Gimnasia de La Plata    v Newell's Old Boys        1-0 (1-0)
+    19.00  Rosario Central         v San Lorenzo              0-1 (0-0)
+    21.00  Huracán                 v Independiente            1-0 (0-0)
+  Sun Nov/10
+    16.00  Central Córdoba SdE     v Estudiantes              1-1 (1-1)
+    17.15  River Plate             v Barracas Central         3-0 (0-0)
+    19.15  Godoy Cruz              v Talleres de Córdoba      0-1 (0-0)
+    19.30  Racing Club             v Independiente Rivadavia  2-1 (1-1)
+    21.30  Sarmiento de Junín      v Boca Juniors             0-2 (0-0)
+  Mon Nov/11
+    16.00  Deportivo Riestra       v Vélez Sarsfield          1-1 (0-1)
+    18.45  Tigre                   v Defensa y Justicia       0-4 (0-0)
+           Lanús                   v Platense                 0-0
+    21.00  Belgrano de Córdoba     v Instituto de Córdoba     3-1 (2-1)
+           Argentinos Juniors      v Banfield                 1-0 (1-0)
 
 
-Matchday 22
-[Sun Nov/10]
-  Central Córdoba SdE      -  Estudiantes
-  Rosario Central          -  San Lorenzo
-  Racing Club              -  Independiente Rivadavia
-  River Plate              -  Barracas Central
-  Belgrano de Córdoba      -  Instituto de Córdoba
-  Argentinos Juniors       -  Banfield
-  Tigre                    -  Defensa y Justicia
-  Deportivo Riestra        -  Vélez Sarsfield
-  Lanús                    -  Platense
-  Godoy Cruz               -  Talleres de Córdoba
-  Sarmiento de Junín       -  Boca Juniors
-  Unión de Santa Fe        -  Atlético Tucumán
-  Huracán                  -  Independiente
-  Gimnasia de La Plata     -  Newell's Old Boys
+» Matchday 23
+  Sun Nov/17
+    17.30  San Lorenzo             v Racing Club              1-2 (1-0)
+  Mon Nov/18
+    17.00  Banfield                v Tigre                    0-1 (0-0)
+    19.15  Platense                v Godoy Cruz               1-0 (0-0)
+           Defensa y Justicia      v Deportivo Riestra        1-1 (0-0)
+    21.30  Atlético Tucumán        v Huracán                  4-2 (2-1)
+           Instituto de Córdoba    v Argentinos Juniors       1-0 (0-0)
+  Wed Nov/20
+    17.00  Newell's Old Boys       v Central Córdoba SdE      2-3 (1-1)
+    19.15  Vélez Sarsfield         v Lanús                    0-0
+           Estudiantes             v Rosario Central          1-1 (1-1)
+    21.30  Boca Juniors            v Unión de Santa Fe        1-0 (1-0)
+  Thu Nov/21
+    17.00  Barracas Central        v Belgrano de Córdoba      1-1 (1-1)
+    19.15  Independiente           v Gimnasia de La Plata     1-0 (1-0)
+           Talleres de Córdoba     v Sarmiento de Junín       2-0 (0-0)
+    21.30  Independiente Rivadavia v River Plate              2-1 (1-1)
 
 
-Matchday 23
-[Wed Nov/20]
-  Newell's Old Boys        -  Central Córdoba SdE
-  Independiente            -  Gimnasia de La Plata
-  Atlético Tucumán         -  Huracán
-  Boca Juniors             -  Unión de Santa Fe
-  Talleres de Córdoba      -  Sarmiento de Junín
-  Platense                 -  Godoy Cruz
-  Vélez Sarsfield          -  Lanús
-  Defensa y Justicia       -  Deportivo Riestra
-  Banfield                 -  Tigre
-  Instituto de Córdoba     -  Argentinos Juniors
-  Barracas Central         -  Belgrano de Córdoba
-  Independiente Rivadavia  -  River Plate
-  San Lorenzo              -  Racing Club
-  Estudiantes              -  Rosario Central
+» Matchday 24
+  Sat Nov/23
+    19.30  Tigre                   v Instituto de Córdoba     0-0
+    21.45  Huracán                 v Boca Juniors             0-0
+  Sun Nov/24
+    17.00  Deportivo Riestra       v Banfield                 1-1 (1-1)
+           Gimnasia de La Plata    v Atlético Tucumán         1-0 (1-0)
+    19.15  Godoy Cruz              v Vélez Sarsfield          0-0
+    21.30  Lanús                   v Defensa y Justicia       0-0
+  Mon Nov/25
+    19.00  Central Córdoba SdE     v Rosario Central          0-1 (0-0)
+    21.15  Belgrano de Córdoba     v Independiente Rivadavia  0-2 (0-1)
+           Argentinos Juniors      v Barracas Central         0-1 (0-1)
+  Tue Nov/26
+    19.00  Newell's Old Boys       v Independiente            2-1 (1-0)
+    21.15  Sarmiento de Junín      v Platense                 1-0 (1-0)
+           Unión de Santa Fe       v Talleres de Córdoba      2-3 (1-2)
+  Wed Dec/4
+    19.00  Racing Club             v Estudiantes              4-5 (2-1)
+    21.00  River Plate             v San Lorenzo              1-1 (0-0)
 
 
-Matchday 24
-[Sun Nov/24]
-  Central Córdoba SdE      -  Rosario Central
-  Racing Club              -  Estudiantes
-  River Plate              -  San Lorenzo
-  Belgrano de Córdoba      -  Independiente Rivadavia
-  Argentinos Juniors       -  Barracas Central
-  Tigre                    -  Instituto de Córdoba
-  Deportivo Riestra        -  Banfield
-  Lanús                    -  Defensa y Justicia
-  Godoy Cruz               -  Vélez Sarsfield
-  Sarmiento de Junín       -  Platense
-  Unión de Santa Fe        -  Talleres de Córdoba
-  Huracán                  -  Boca Juniors
-  Gimnasia de La Plata     -  Atlético Tucumán
-  Newell's Old Boys        -  Independiente
+» Matchday 25
+  Fri Nov/29
+    19.00  San Lorenzo             v Belgrano de Córdoba      0-2 (0-1)
+    21.00  Estudiantes             v River Plate              1-2 (0-2)
+  Sat Nov/30
+    19.30  Banfield                v Lanús                    0-1 (0-0)
+           Rosario Central         v Racing Club              0-2 (0-0)
+    21.45  Defensa y Justicia      v Godoy Cruz               2-1 (2-1)
+           Instituto de Córdoba    v Deportivo Riestra        2-1 (0-1)
+  Sun Dec/1
+    17.00  Independiente           v Central Córdoba SdE      2-0 (2-0)
+    19.15  Vélez Sarsfield         v Sarmiento de Junín       1-0 (1-0)
+    21.45  Boca Juniors            v Gimnasia de La Plata     1-0 (1-0)
+  Mon Dec/2
+    17.00  Barracas Central        v Tigre                    0-0
+    19.15  Platense                v Unión de Santa Fe        1-0 (0-0)
+    19.45  Talleres de Córdoba     v Huracán                  1-0 (0-0)
+    21.30  Independiente Rivadavia v Argentinos Juniors       2-1 (2-1)
+    22.00  Atlético Tucumán        v Newell's Old Boys        0-0
 
 
-Matchday 25
-[Sun Dec/1]
-  Independiente            -  Central Córdoba SdE
-  Atlético Tucumán         -  Newell's Old Boys
-  Boca Juniors             -  Gimnasia de La Plata
-  Talleres de Córdoba      -  Huracán
-  Platense                 -  Unión de Santa Fe
-  Vélez Sarsfield          -  Sarmiento de Junín
-  Defensa y Justicia       -  Godoy Cruz
-  Banfield                 -  Lanús
-  Instituto de Córdoba     -  Deportivo Riestra
-  Barracas Central         -  Tigre
-  Independiente Rivadavia  -  Argentinos Juniors
-  San Lorenzo              -  Belgrano de Córdoba
-  Estudiantes              -  River Plate
-  Rosario Central          -  Racing Club
+» Matchday 26
+  Fri Dec/6
+    17.00  Deportivo Riestra       v Barracas Central         0-0
+    20.00  Sarmiento de Junín      v Defensa y Justicia       1-1 (1-1)
+  Sat Dec/7
+    17.00  Lanús                   v Instituto de Córdoba     2-0 (0-0)
+    19.00  Unión de Santa Fe       v Vélez Sarsfield          1-0 (0-0)
+    21.15  Central Córdoba SdE     v Racing Club              3-1 (2-0)
+  Sun Dec/8
+    17.00  Godoy Cruz              v Banfield                 4-0 (1-0)
+           Gimnasia de La Plata    v Talleres de Córdoba      0-1 (0-0)
+    19.15  River Plate             v Rosario Central          4-0 (1-0)
+    21.00  Newell's Old Boys       v Boca Juniors             0-1 (0-0)
+  Mon Dec/9
+    17.00  Tigre                   v Independiente Rivadavia  0-2 (0-1)
+    19.15  Belgrano de Córdoba     v Estudiantes              2-2 (1-1)
+           Argentinos Juniors      v San Lorenzo              1-0 (1-0)
+    21.30  Huracán                 v Platense                 1-0 (0-0)
+           Independiente           v Atlético Tucumán         2-1 (1-0)
 
 
-Matchday 26
-[Sun Dec/8]
-  Central Córdoba SdE      -  Racing Club
-  River Plate              -  Rosario Central
-  Belgrano de Córdoba      -  Estudiantes
-  Argentinos Juniors       -  San Lorenzo
-  Tigre                    -  Independiente Rivadavia
-  Deportivo Riestra        -  Barracas Central
-  Lanús                    -  Instituto de Córdoba
-  Godoy Cruz               -  Banfield
-  Sarmiento de Junín       -  Defensa y Justicia
-  Unión de Santa Fe        -  Vélez Sarsfield
-  Huracán                  -  Platense
-  Gimnasia de La Plata     -  Talleres de Córdoba
-  Newell's Old Boys        -  Boca Juniors
-  Independiente            -  Atlético Tucumán
-
-
-Matchday 27
-[Sun Dec/15]
-  Atlético Tucumán         -  Central Córdoba SdE
-  Boca Juniors             -  Independiente
-  Talleres de Córdoba      -  Newell's Old Boys
-  Platense                 -  Gimnasia de La Plata
-  Vélez Sarsfield          -  Huracán
-  Defensa y Justicia       -  Unión de Santa Fe
-  Banfield                 -  Sarmiento de Junín
-  Instituto de Córdoba     -  Godoy Cruz
-  Barracas Central         -  Lanús
-  Independiente Rivadavia  -  Deportivo Riestra
-  San Lorenzo              -  Tigre
-  Estudiantes              -  Argentinos Juniors
-  Rosario Central          -  Belgrano de Córdoba
-  Racing Club              -  River Plate
+» Matchday 27
+  Fri Dec/13
+    19.00  Barracas Central        v Lanús                    3-3 (1-1)
+           Estudiantes             v Argentinos Juniors       2-2 (1-1)
+    21.15  Banfield                v Sarmiento de Junín       1-1 (0-0)
+           San Lorenzo             v Tigre                    0-1 (0-0)
+  Sat Dec/14
+    17.00  Instituto de Córdoba    v Godoy Cruz               1-3 (1-1)
+           Rosario Central         v Belgrano de Córdoba      2-1 (1-0)
+    19.15  Boca Juniors            v Independiente            0-0
+    21.15  Racing Club             v River Plate              1-0 (1-0)
+  Sun Dec/15
+    17.00  Platense                v Gimnasia de La Plata     1-0 (1-0)
+           Defensa y Justicia      v Unión de Santa Fe        0-0
+    19.30  Talleres de Córdoba     v Newell's Old Boys        1-3 (0-0)
+           Vélez Sarsfield         v Huracán                  2-0 (2-0)
+  Mon Dec/16
+    21.00  Atlético Tucumán        v Central Córdoba SdE      2-0 (1-0)
+           Independiente Rivadavia v Deportivo Riestra        0-0

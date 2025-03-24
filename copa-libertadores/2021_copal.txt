@@ -1,0 +1,313 @@
+= Copa Libertadores 2021
+
+# Date       Tue Feb/23 - Sat Nov/27 2021 (277d)
+# Teams      47
+# Matches    155
+
+
+
+» Round 1
+  Tue Feb/23 2021
+    21.30  Liverpool (URU)         v Universidad Catolica (ECU)  2-1 (0-1)
+  Wed Feb/24
+    19.15  Universidad Cesar Vallejo (PER) v Caracas FC (VEN)         0-0
+    21.30  Royal Pari (BOL)        v Guaraní (PAR)            1-4 (0-3)
+  Tue Mar/2
+    21.30  Universidad Catolica (ECU) v Liverpool (URU)          3-0 (2-0)
+  Wed Mar/3
+    19.15  Caracas FC (VEN)        v Universidad Cesar Vallejo (PER)  2-0 (1-0)
+    21.30  Guaraní (PAR)           v Royal Pari (BOL)         1-1 (0-0)
+
+
+» Round 2
+  Tue Mar/9
+    19.15  Montevideo Wanderers (URU) v Bolívar (BOL)            1-0 (0-0)
+           Santos FC (BRA)         v Deportivo Lara (VEN)     2-1 (0-0)
+    21.30  Unión Española (CHI)    v Independiente del Valle (ECU)  1-0 (0-0)
+  Wed Mar/10
+    19.15  Universidad Catolica (ECU) v Libertad (PAR)           0-1 (0-1)
+    21.30  Grêmio Porto Alegre (BRA) v Ayacucho FC (PER)        6-1 (4-0)
+           Universidad de Chile (CHI) v San Lorenzo (ARG)        1-1 (0-0)
+           Caracas FC (VEN)        v Atlético Junior (COL)    1-2 (1-0)
+  Thu Mar/11
+    21.30  Guaraní (PAR)           v Atlético Nacional (COL)  0-2 (0-1)
+  Tue Mar/16
+    19.15  Bolívar (BOL)           v Montevideo Wanderers (URU)  5-0 (2-0)
+           Deportivo Lara (VEN)    v Santos FC (BRA)          1-1 (0-1)
+    21.30  Ayacucho FC (PER)       v Grêmio Porto Alegre (BRA)  1-2 (1-1)
+           Independiente del Valle (ECU) v Unión Española (CHI)     6-2 (4-0)
+  Wed Mar/17
+    19.15  Libertad (PAR)          v Universidad Catolica (ECU)  2-2 (1-0)
+    21.30  San Lorenzo (ARG)       v Universidad de Chile (CHI)  2-0 (1-0)
+           Atlético Junior (COL)   v Caracas FC (VEN)         3-1 (1-0)
+  Thu Mar/18
+    21.30  Atlético Nacional (COL) v Guaraní (PAR)            3-0 (2-0)
+
+
+» Round 3
+  Tue Apr/6
+    21.30  San Lorenzo (ARG)       v Santos FC (BRA)          1-3 (0-2)
+  Wed Apr/7
+    21.30  Libertad (PAR)          v Atlético Nacional (COL)  1-0 (0-0)
+  Thu Apr/8
+    21.30  Bolívar (BOL)           v Atlético Junior (COL)    2-1 (1-1)
+  Fri Apr/9
+    19.15  Independiente del Valle (ECU) v Grêmio Porto Alegre (BRA)  2-1 (0-1)
+  Tue Apr/13
+    21.30  Santos FC (BRA)         v San Lorenzo (ARG)        2-2 (1-0)
+  Wed Apr/14
+    19.15  Grêmio Porto Alegre (BRA) v Independiente del Valle (ECU)  1-2 (1-1)
+    21.30  Atlético Nacional (COL) v Libertad (PAR)           4-1 (1-1)
+  Thu Apr/15
+    21.30  Atlético Junior (COL)   v Bolívar (BOL)            3-0 (1-0)
+
+
+» Gruppe 1
+  Wed Apr/21
+    21.00  Universitario de Deportes (PER) v Palmeiras (BRA)          2-3 (0-1)
+           Independiente del Valle (ECU) v Defensa y Justicia (ARG)  1-1 (1-1)
+  Tue Apr/27
+    21.30  Palmeiras (BRA)         v Independiente del Valle (ECU)  5-0 (2-0)
+  Wed Apr/28
+    19.00  Defensa y Justicia (ARG) v Universitario de Deportes (PER)  3-0 (1-0)
+  Tue May/4
+    21.30  Defensa y Justicia (ARG) v Palmeiras (BRA)          1-2 (0-0)
+  Wed May/5
+    19.00  Independiente del Valle (ECU) v Universitario de Deportes (PER)  4-0 (1-0)
+  Tue May/11
+    21.30  Independiente del Valle (ECU) v Palmeiras (BRA)          0-1 (0-1)
+  Wed May/12
+    23.00  Universitario de Deportes (PER) v Defensa y Justicia (ARG)  1-1 (1-0)
+  Tue May/18
+    19.15  Palmeiras (BRA)         v Defensa y Justicia (ARG)  3-4 (2-2)
+    21.30  Universitario de Deportes (PER) v Independiente del Valle (ECU)  3-2 (1-1)
+  Thu May/27
+    19.00  Palmeiras (BRA)         v Universitario de Deportes (PER)  6-0 (2-0)
+           Defensa y Justicia (ARG) v Independiente del Valle (ECU)  1-1 (1-1)
+
+
+» Gruppe 2
+  Tue Apr/20
+    19.15  Deportivo Táchira (VEN) v Club Olimpia (PAR)       3-2 (1-1)
+           Always Ready (BOL)      v Internacional (BRA)      2-0 (0-0)
+  Tue Apr/27
+    21.30  Internacional (BRA)     v Deportivo Táchira (VEN)  4-0 (3-0)
+  Wed Apr/28
+    23.00  Club Olimpia (PAR)      v Always Ready (BOL)       2-1 (0-0)
+  Wed May/5
+    21.00  Internacional (BRA)     v Club Olimpia (PAR)       6-1 (1-0)
+  Thu May/6
+    19.00  Always Ready (BOL)      v Deportivo Táchira (VEN)  2-0 (1-0)
+  Tue May/11
+    19.15  Deportivo Táchira (VEN) v Internacional (BRA)      2-1 (0-0)
+  Thu May/13
+    21.00  Always Ready (BOL)      v Club Olimpia (PAR)       1-2 (1-1)
+  Wed May/19
+    23.00  Deportivo Táchira (VEN) v Always Ready (BOL)       7-2 (4-0)
+  Thu May/20
+    21.00  Club Olimpia (PAR)      v Internacional (BRA)      0-1 (0-0)
+  Wed May/26
+    19.00  Club Olimpia (PAR)      v Deportivo Táchira (VEN)  6-2 (2-0)
+           Internacional (BRA)     v Always Ready (BOL)       0-0
+
+
+» Gruppe 3
+  Tue Apr/20
+    19.15  Santos FC (BRA)         v Barcelona (ECU)          0-2 (0-0)
+  Wed Apr/21
+    19.00  The Strongest (BOL)     v Boca Juniors (ARG)       0-1 (0-1)
+  Tue Apr/27
+    21.30  Boca Juniors (ARG)      v Santos FC (BRA)          2-0 (0-0)
+  Wed Apr/28
+    23.00  Barcelona (ECU)         v The Strongest (BOL)      4-0 (0-0)
+  Tue May/4
+    19.15  Santos FC (BRA)         v The Strongest (BOL)      5-0 (3-0)
+    21.30  Barcelona (ECU)         v Boca Juniors (ARG)       1-0 (0-0)
+  Tue May/11
+    19.15  The Strongest (BOL)     v Barcelona (ECU)          2-0 (1-0)
+           Santos FC (BRA)         v Boca Juniors (ARG)       1-0 (1-0)
+  Tue May/18
+    19.15  The Strongest (BOL)     v Santos FC (BRA)          2-1 (2-0)
+  Thu May/20
+    21.00  Boca Juniors (ARG)      v Barcelona (ECU)          0-0
+  Wed May/26
+    21.00  Boca Juniors (ARG)      v The Strongest (BOL)      3-0 (2-0)
+           Barcelona (ECU)         v Santos FC (BRA)          3-1 (1-1)
+
+
+» Gruppe 4
+  Thu Apr/22
+    19.00  Fluminense RJ (BRA)     v River Plate (ARG)        1-1 (0-1)
+    23.00  Atlético Junior (COL)   v Santa Fe (COL)           1-1 (1-1)
+  Wed Apr/28
+    21.00  River Plate (ARG)       v Atlético Junior (COL)    2-1 (1-0)
+           Santa Fe (COL)          v Fluminense RJ (BRA)      1-2 (0-1)
+  Thu May/6
+    21.00  Santa Fe (COL)          v River Plate (ARG)        0-0
+           Atlético Junior (COL)   v Fluminense RJ (BRA)      1-1 (1-1)
+  Wed May/12
+    21.00  Atlético Junior (COL)   v River Plate (ARG)        1-1 (1-0)
+           Fluminense RJ (BRA)     v Santa Fe (COL)           2-1 (0-0)
+  Tue May/18
+    21.30  Fluminense RJ (BRA)     v Atlético Junior (COL)    1-2 (0-1)
+  Wed May/19
+    21.00  River Plate (ARG)       v Santa Fe (COL)           2-1 (2-0)
+  Tue May/25
+    19.15  River Plate (ARG)       v Fluminense RJ (BRA)      1-3 (0-2)
+           Santa Fe (COL)          v Atlético Junior (COL)    0-0
+
+
+» Gruppe 5
+  Tue Apr/20
+    21.30  Sporting Cristal (PER)  v São Paulo FC (BRA)       0-3 (0-1)
+  Wed Apr/21
+    21.00  Rentistas (URU)         v Racing Club (ARG)        1-1 (1-0)
+  Thu Apr/29
+    19.00  Racing Club (ARG)       v Sporting Cristal (PER)   2-1 (1-0)
+    21.00  São Paulo FC (BRA)      v Rentistas (URU)          2-0 (1-0)
+  Wed May/5
+    19.00  Racing Club (ARG)       v São Paulo FC (BRA)       0-0
+    21.00  Rentistas (URU)         v Sporting Cristal (PER)   0-0
+  Tue May/11
+    21.30  Sporting Cristal (PER)  v Racing Club (ARG)        0-2 (0-0)
+  Wed May/12
+    19.00  Rentistas (URU)         v São Paulo FC (BRA)       1-1 (1-1)
+  Tue May/18
+    21.30  São Paulo FC (BRA)      v Racing Club (ARG)        0-1 (0-1)
+  Wed May/19
+    19.00  Sporting Cristal (PER)  v Rentistas (URU)          2-0 (1-0)
+  Tue May/25
+    21.30  Racing Club (ARG)       v Rentistas (URU)          3-0 (1-0)
+           São Paulo FC (BRA)      v Sporting Cristal (PER)   3-0 (1-0)
+
+
+» Gruppe 6
+  Tue Apr/20
+    19.15  Argentinos Juniors (ARG) v Nacional (URU)           2-0 (1-0)
+  Thu Apr/22
+    21.00  Atlético Nacional (COL) v Universidad Católica (CHI)  2-0 (2-0)
+  Wed Apr/28
+    19.00  Nacional (URU)          v Atlético Nacional (COL)  4-4 (2-2)
+  Thu Apr/29
+    19.00  Universidad Católica (CHI) v Argentinos Juniors (ARG)  0-2 (0-1)
+  Wed May/5
+    23.00  Universidad Católica (CHI) v Nacional (URU)           3-1 (1-1)
+  Thu May/6
+    19.00  Atlético Nacional (COL) v Argentinos Juniors (ARG)  0-2 (0-1)
+  Wed May/12
+    19.00  Argentinos Juniors (ARG) v Universidad Católica (CHI)  0-1 (0-0)
+  Thu May/13
+    00.00  Atlético Nacional (COL) v Nacional (URU)           0-0
+  Tue May/18
+    19.15  Nacional (URU)          v Universidad Católica (CHI)  1-0 (1-0)
+  Thu May/20
+    19.00  Argentinos Juniors (ARG) v Atlético Nacional (COL)  1-0 (0-0)
+  Wed May/26
+    23.00  Nacional (URU)          v Argentinos Juniors (ARG)  2-0 (0-0)
+           Universidad Católica (CHI) v Atlético Nacional (COL)  2-0 (1-0)
+
+
+» Gruppe 7
+  Tue Apr/20
+    21.30  Vélez Sarsfield (ARG)   v Flamengo RJ (BRA)        2-3 (1-1)
+  Wed Apr/21
+    23.00  Unión La Calera (CHI)   v LDU Quito (ECU)          2-2 (1-0)
+  Tue Apr/27
+    19.15  Flamengo RJ (BRA)       v Unión La Calera (CHI)    4-1 (2-0)
+           LDU Quito (ECU)         v Vélez Sarsfield (ARG)    3-1 (1-1)
+  Tue May/4
+    19.15  Unión La Calera (CHI)   v Vélez Sarsfield (ARG)    0-2 (0-1)
+    21.30  LDU Quito (ECU)         v Flamengo RJ (BRA)        2-3 (0-2)
+  Tue May/11
+    21.30  Unión La Calera (CHI)   v Flamengo RJ (BRA)        2-2 (2-1)
+  Thu May/13
+    19.00  Vélez Sarsfield (ARG)   v LDU Quito (ECU)          3-1 (1-0)
+  Wed May/19
+    19.00  Vélez Sarsfield (ARG)   v Unión La Calera (CHI)    2-1 (2-1)
+    21.00  Flamengo RJ (BRA)       v LDU Quito (ECU)          2-2 (1-1)
+  Thu May/27
+    21.00  Flamengo RJ (BRA)       v Vélez Sarsfield (ARG)    0-0
+           LDU Quito (ECU)         v Unión La Calera (CHI)    5-2 (3-0)
+
+
+» Gruppe 8
+  Wed Apr/21
+    19.00  Deportivo La Guaira (VEN) v Atlético Mineiro (BRA)   1-1 (1-0)
+    23.00  América de Cali (COL)   v Cerro Porteño (PAR)      0-2 (0-1)
+  Tue Apr/27
+    19.15  Atlético Mineiro (BRA)  v América de Cali (COL)    2-1 (0-0)
+  Wed Apr/28
+    19.00  Cerro Porteño (PAR)     v Deportivo La Guaira (VEN)  0-0
+  Tue May/4
+    19.15  Atlético Mineiro (BRA)  v Cerro Porteño (PAR)      4-0 (2-0)
+  Thu May/6
+    23.00  Deportivo La Guaira (VEN) v América de Cali (COL)    0-0
+  Wed May/12
+    21.00  Deportivo La Guaira (VEN) v Cerro Porteño (PAR)      0-1 (0-1)
+  Thu May/13
+    21.00  América de Cali (COL)   v Atlético Mineiro (BRA)   1-3 (1-1)
+  Wed May/19
+    21.00  Cerro Porteño (PAR)     v Atlético Mineiro (BRA)   0-1 (0-0)
+    23.00  América de Cali (COL)   v Deportivo La Guaira (VEN)  3-1 (1-1)
+  Tue May/25
+    21.30  Cerro Porteño (PAR)     v América de Cali (COL)    1-0 (1-0)
+           Atlético Mineiro (BRA)  v Deportivo La Guaira (VEN)  4-0 (2-0)
+
+
+» Round of 16
+  Tue Jul/13
+    19.15  Boca Juniors (ARG)      v Atlético Mineiro (BRA)   0-0
+           Cerro Porteño (PAR)     v Fluminense RJ (BRA)      0-2 (0-0)
+    21.30  São Paulo FC (BRA)      v Racing Club (ARG)        1-1 (1-1)
+  Wed Jul/14
+    19.15  Universidad Católica (CHI) v Palmeiras (BRA)          0-1 (0-1)
+           Vélez Sarsfield (ARG)   v Barcelona (ECU)          1-0 (1-0)
+    21.30  Defensa y Justicia (ARG) v Flamengo RJ (BRA)        0-1 (0-1)
+           River Plate (ARG)       v Argentinos Juniors (ARG)  1-1 (1-1)
+  Thu Jul/15
+    21.30  Club Olimpia (PAR)      v Internacional (BRA)      0-0
+  Tue Jul/20
+    19.15  Atlético Mineiro (BRA)  v Boca Juniors (ARG)       3-1 pen. (0-0)
+    21.30  Racing Club (ARG)       v São Paulo FC (BRA)       1-3 (0-1)
+  Wed Jul/21
+    19.15  Palmeiras (BRA)         v Universidad Católica (CHI)  1-0 (1-0)
+           Barcelona (ECU)         v Vélez Sarsfield (ARG)    3-1 (1-0)
+    21.30  Flamengo RJ (BRA)       v Defensa y Justicia (ARG)  4-1 (1-1)
+           Argentinos Juniors (ARG) v River Plate (ARG)        0-2 (0-1)
+  Thu Jul/22
+    21.30  Internacional (BRA)     v Club Olimpia (PAR)       4-5 pen. (0-0)
+  Tue Aug/3
+    19.15  Fluminense RJ (BRA)     v Cerro Porteño (PAR)      1-0 (1-0)
+
+
+» Quarterfinals
+  Tue Aug/10
+    21.30  São Paulo FC (BRA)      v Palmeiras (BRA)          1-1 (0-0)
+  Wed Aug/11
+    19.15  Club Olimpia (PAR)      v Flamengo RJ (BRA)        1-4 (1-2)
+    21.30  River Plate (ARG)       v Atlético Mineiro (BRA)   0-1 (0-0)
+  Thu Aug/12
+    21.30  Fluminense RJ (BRA)     v Barcelona (ECU)          2-2 (1-0)
+  Tue Aug/17
+    21.30  Palmeiras (BRA)         v São Paulo FC (BRA)       3-0 (1-0)
+  Wed Aug/18
+    19.15  Flamengo RJ (BRA)       v Club Olimpia (PAR)       5-1 (2-1)
+    21.30  Atlético Mineiro (BRA)  v River Plate (ARG)        3-0 (2-0)
+  Thu Aug/19
+    21.30  Barcelona (ECU)         v Fluminense RJ (BRA)      1-1 (0-0)
+
+
+» Semifinals
+  Tue Sep/21
+    21.30  Palmeiras (BRA)         v Atlético Mineiro (BRA)   0-0
+  Wed Sep/22
+    21.30  Flamengo RJ (BRA)       v Barcelona (ECU)          2-0 (2-0)
+  Tue Sep/28
+    21.30  Atlético Mineiro (BRA)  v Palmeiras (BRA)          1-1 (0-0)
+  Wed Sep/29
+    21.30  Barcelona (ECU)         v Flamengo RJ (BRA)        0-2 (0-1)
+
+
+» Final
+  Sat Nov/27
+    17.00  Palmeiras (BRA)         v Flamengo RJ (BRA)        2-1 a.e.t. (1-1, 1-0)

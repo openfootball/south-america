@@ -1,0 +1,346 @@
+= Argentina Primera Division 2025
+
+# Date       Thu Jan/23 - Sun May/4 2025 (101d)
+# Teams      30
+# Matches    240
+# Stages     1° Semestre (240)
+
+
+
+» 1° Semestre, Matchday 1
+  Thu Jan/23 2025
+    19.00  Tigre                   v Vélez Sarsfield          3-0 (2-0)
+           Godoy Cruz              v Rosario Central          0-3 (0-2)
+    21.30  Newell's Old Boys       v Independiente Rivadavia  0-1 (0-1)
+           Defensa y Justicia      v Banfield                 0-1 (0-0)
+           Lanús                   v Deportivo Riestra        0-2 (0-0)
+  Fri Jan/24
+    17.00  Barracas Central        v Racing Club              1-3 (1-1)
+    19.15  Independiente           v Sarmiento de Junín       2-1 (1-0)
+    21.00  Belgrano de Córdoba     v Huracán                  1-1 (1-1)
+    21.30  San Martín de San Juan  v Atlético Tucumán         0-1 (0-1)
+  Sat Jan/25
+    17.00  San Lorenzo             v Talleres de Córdoba      1-0 (0-0)
+    19.15  Estudiantes             v Unión de Santa Fe        3-1 (3-0)
+           Instituto de Córdoba    v Gimnasia de La Plata     3-0 (1-0)
+    21.30  Platense                v River Plate              1-1 (1-0)
+  Sun Jan/26
+    19.00  Boca Juniors            v Argentinos Juniors       0-0
+    21.00  Central Córdoba SdE     v Aldosivi                 1-0 (0-0)
+
+
+» 1° Semestre, Matchday 2
+  Mon Jan/27
+    20.00  Banfield                v Newell's Old Boys        3-0 (2-0)
+  Tue Jan/28
+    17.00  Deportivo Riestra       v San Martín de San Juan   0-0
+    19.15  Rosario Central         v Lanús                    2-1 (2-0)
+           Sarmiento de Junín      v Godoy Cruz               0-0
+    21.30  Independiente Rivadavia v Barracas Central         0-0
+           Vélez Sarsfield         v Platense                 0-1 (0-0)
+  Wed Jan/29
+    17.00  Talleres de Córdoba     v Independiente            2-3 (1-2)
+           Gimnasia de La Plata    v San Lorenzo              0-2 (0-0)
+    19.15  Huracán                 v Estudiantes              0-0
+           Unión de Santa Fe       v Boca Juniors             1-1 (0-1)
+    21.30  River Plate             v Instituto de Córdoba     1-0 (0-0)
+  Thu Jan/30
+    17.00  Aldosivi                v Defensa y Justicia       0-5 (0-2)
+    19.15  Racing Club             v Belgrano de Córdoba      4-0 (1-0)
+    21.30  Argentinos Juniors      v Tigre                    1-0 (1-0)
+           Central Córdoba SdE     v Atlético Tucumán         2-0 (1-0)
+
+
+» 1° Semestre, Matchday 3
+  Sat Feb/1
+    17.00  Barracas Central        v Banfield                 1-0 (1-0)
+    19.00  San Martín de San Juan  v Rosario Central          0-0
+    21.00  Lanús                   v Sarmiento de Junín       2-0 (2-0)
+  Sun Feb/2
+    17.00  San Lorenzo             v River Plate              0-0
+    19.15  Boca Juniors            v Huracán                  2-1 (1-1)
+           Newell's Old Boys       v Aldosivi                 1-0 (1-0)
+    21.30  Instituto de Córdoba    v Vélez Sarsfield          2-0 (1-0)
+           Independiente           v Gimnasia de La Plata     2-0 (1-0)
+  Mon Feb/3
+    17.00  Defensa y Justicia      v Central Córdoba SdE      2-1 (0-0)
+    19.15  Tigre                   v Unión de Santa Fe        1-0 (1-0)
+           Estudiantes             v Racing Club              2-0 (1-0)
+    21.30  Belgrano de Córdoba     v Independiente Rivadavia  0-3 (0-3)
+           Argentinos Juniors      v Platense                 1-0 (0-0)
+  Tue Feb/4
+    21.00  Atlético Tucumán        v Deportivo Riestra        0-3 (0-1)
+  Sat Mar/22
+    17.00  Godoy Cruz              v Talleres de Córdoba      0-0
+
+
+» 1° Semestre, Matchday 4
+  Thu Feb/6
+    17.00  Aldosivi                v Barracas Central         1-3 (0-2)
+    20.00  Sarmiento de Junín      v San Martín de San Juan   1-1 (0-1)
+  Fri Feb/7
+    17.45  Banfield                v Belgrano de Córdoba      1-1 (1-0)
+    20.00  Central Córdoba SdE     v Newell's Old Boys        2-0 (1-0)
+           Huracán                 v Tigre                    2-0 (1-0)
+    22.15  Independiente Rivadavia v Estudiantes              2-2 (0-0)
+           Unión de Santa Fe       v Argentinos Juniors       0-1 (0-1)
+  Sat Feb/8
+    18.00  Vélez Sarsfield         v San Lorenzo              0-0
+    19.30  Rosario Central         v Atlético Tucumán         3-1 (1-0)
+    20.15  River Plate             v Independiente            2-0 (0-0)
+    22.15  Racing Club             v Boca Juniors             2-0 (1-0)
+  Sun Feb/9
+    17.00  Platense                v Instituto de Córdoba     1-0 (0-0)
+           Deportivo Riestra       v Defensa y Justicia       1-1 (0-0)
+    19.15  Gimnasia de La Plata    v Godoy Cruz               3-0 (1-0)
+    21.30  Talleres de Córdoba     v Lanús                    0-1 (0-1)
+
+
+» 1° Semestre, Matchday 5
+  Tue Feb/11
+    17.45  Barracas Central        v Central Córdoba SdE      3-3 (0-0)
+    20.00  Boca Juniors            v Independiente Rivadavia  2-0 (0-0)
+           Estudiantes             v Banfield                 1-0 (0-0)
+    22.15  Tigre                   v Racing Club              1-0 (1-0)
+           Belgrano de Córdoba     v Aldosivi                 2-0 (1-0)
+  Wed Feb/12
+    17.00  Deportivo Riestra       v Rosario Central          0-0
+    17.45  Newell's Old Boys       v Defensa y Justicia       0-1 (0-0)
+    20.00  Argentinos Juniors      v Huracán                  1-1 (1-0)
+           Independiente           v Vélez Sarsfield          3-0 (2-0)
+    22.15  Godoy Cruz              v River Plate              0-0
+  Thu Feb/13
+    17.45  Lanús                   v Gimnasia de La Plata     0-0
+    20.00  San Lorenzo             v Platense                 2-1 (1-1)
+           San Martín de San Juan  v Talleres de Córdoba      0-1 (0-0)
+    22.15  Atlético Tucumán        v Sarmiento de Junín       5-0 (4-0)
+           Unión de Santa Fe       v Instituto de Córdoba     0-0
+
+
+» 1° Semestre, Matchday 6
+  Fri Feb/14
+    20.00  Banfield                v Boca Juniors             0-1 (0-0)
+  Sat Feb/15
+    17.00  Defensa y Justicia      v Barracas Central         1-1 (1-0)
+           Aldosivi                v Estudiantes              2-2 (0-1)
+    19.15  Central Córdoba SdE     v Belgrano de Córdoba      4-0 (2-0)
+           Independiente Rivadavia v Tigre                    1-4 (0-2)
+    21.30  Racing Club             v Argentinos Juniors       2-3 (0-2)
+  Sun Feb/16
+    17.00  Newell's Old Boys       v Rosario Central          1-2 (0-1)
+    19.15  River Plate             v Lanús                    1-0 (0-0)
+    21.30  Huracán                 v Unión de Santa Fe        1-0 (0-0)
+           Talleres de Córdoba     v Atlético Tucumán         1-1 (0-0)
+  Mon Feb/17
+    17.00  Sarmiento de Junín      v Deportivo Riestra        2-1 (0-1)
+           Gimnasia de La Plata    v San Martín de San Juan   1-0 (1-0)
+    19.15  Platense                v Independiente            1-1 (0-0)
+    21.30  Vélez Sarsfield         v Godoy Cruz               0-2 (0-2)
+           Instituto de Córdoba    v San Lorenzo              0-1 (0-1)
+
+
+» 1° Semestre, Matchday 7
+  Fri Feb/21
+    17.00  Deportivo Riestra       v Talleres de Córdoba      0-0
+    19.15  Estudiantes             v Central Córdoba SdE      3-2 (0-1)
+           Godoy Cruz              v Platense                 1-1 (0-1)
+    21.30  Lanús                   v Vélez Sarsfield          0-0
+  Sat Feb/22
+    18.00  Independiente           v Instituto de Córdoba     2-0 (0-0)
+    19.30  Boca Juniors            v Aldosivi                 2-1 (0-0)
+    21.30  San Martín de San Juan  v River Plate              0-2 (0-0)
+    21.45  Rosario Central         v Sarmiento de Junín       1-0 (1-0)
+  Sun Feb/23
+    18.00  Huracán                 v San Lorenzo              2-0 (1-0)
+    21.00  Belgrano de Córdoba     v Defensa y Justicia       2-0 (1-0)
+           Atlético Tucumán        v Gimnasia de La Plata     0-1 (0-1)
+  Mon Feb/24
+    17.00  Barracas Central        v Newell's Old Boys        2-0 (1-0)
+    19.00  Argentinos Juniors      v Independiente Rivadavia  0-0
+    21.00  Tigre                   v Banfield                 1-0 (0-0)
+  Thu Mar/20
+    21.00  Unión de Santa Fe       v Racing Club              0-1 (0-0)
+
+
+» 1° Semestre, Matchday 8
+  Fri Feb/28
+    20.00  Boca Juniors            v Rosario Central          1-0 (1-0)
+    22.15  Central Córdoba SdE     v Deportivo Riestra        0-0
+           San Martín de San Juan  v Belgrano de Córdoba      3-1 (0-0)
+  Sat Mar/1
+    17.00  Aldosivi                v Sarmiento de Junín       2-2 (2-2)
+    19.15  River Plate             v Estudiantes              0-2 (0-1)
+    21.30  Unión de Santa Fe       v Gimnasia de La Plata     1-0 (0-0)
+           Talleres de Córdoba     v Tigre                    1-2 (1-1)
+  Sun Mar/2
+    17.00  Independiente Rivadavia v Lanús                    1-1 (0-0)
+           Argentinos Juniors      v Instituto de Córdoba     2-0 (0-0)
+    19.15  Vélez Sarsfield         v Huracán                  0-2 (0-1)
+  Mon Mar/3
+    17.00  Barracas Central        v Godoy Cruz               1-2 (0-1)
+    19.00  San Lorenzo             v Racing Club              3-2 (1-1)
+    21.00  Atlético Tucumán        v Newell's Old Boys        1-2 (1-2)
+  Tue Mar/4
+    19.30  Banfield                v Independiente            0-0
+    20.00  Platense                v Defensa y Justicia       0-1
+
+
+» 1° Semestre, Matchday 9
+  Fri Mar/7
+    19.00  Banfield                v Argentinos Juniors       1-2 (1-0)
+           Vélez Sarsfield         v San Martín de San Juan   1-0 (0-0)
+    21.15  Central Córdoba SdE     v Boca Juniors             0-3 (0-2)
+  Sat Mar/8
+    17.00  San Lorenzo             v Independiente            1-2 (1-1)
+    19.15  Racing Club             v Huracán                  0-1 (0-1)
+    21.30  Platense                v Lanús                    0-0
+           Sarmiento de Junín      v Barracas Central         1-1 (0-0)
+  Sun Mar/9
+    17.00  Defensa y Justicia      v Estudiantes              1-0 (0-0)
+           Aldosivi                v Tigre                    0-2 (0-1)
+    19.15  River Plate             v Atlético Tucumán         1-0 (0-0)
+    21.30  Newell's Old Boys       v Belgrano de Córdoba      0-0
+           Instituto de Córdoba    v Godoy Cruz               1-1 (1-1)
+  Mon Mar/10
+    19.00  Gimnasia de La Plata    v Deportivo Riestra        1-1 (0-1)
+    21.15  Independiente Rivadavia v Unión de Santa Fe        2-0 (1-0)
+           Talleres de Córdoba     v Rosario Central          0-0
+
+
+» 1° Semestre, Matchday 10
+  Fri Mar/14
+    19.00  Argentinos Juniors      v Aldosivi                 0-2 (0-1)
+    21.00  Godoy Cruz              v San Lorenzo              0-0
+  Sat Mar/15
+    16.00  Deportivo Riestra       v River Plate              0-0
+    18.30  Estudiantes             v Newell's Old Boys        1-1 (1-1)
+           Rosario Central         v Gimnasia de La Plata     2-1 (1-1)
+    21.00  Huracán                 v Independiente Rivadavia  2-0 (0-0)
+           Sarmiento de Junín      v Talleres de Córdoba      0-0
+  Sun Mar/16
+    16.00  Independiente           v Racing Club              1-1 (0-1)
+    18.15  Boca Juniors            v Defensa y Justicia       4-0 (2-0)
+    21.00  Belgrano de Córdoba     v Barracas Central         1-1 (1-1)
+           Lanús                   v Instituto de Córdoba     4-1 (1-1)
+  Mon Mar/17
+    19.00  Unión de Santa Fe       v Banfield                 3-1 (1-0)
+           Tigre                   v Central Córdoba SdE      1-2 (0-0)
+    21.15  San Martín de San Juan  v Platense                 0-2 (0-2)
+           Atlético Tucumán        v Vélez Sarsfield          1-2 (1-1)
+
+
+» 1° Semestre, Matchday 11
+  Thu Mar/27
+    15.30  Aldosivi                v Unión de Santa Fe
+    18.00  Barracas Central        v Estudiantes
+    21.00  Independiente Rivadavia v Racing Club
+  Fri Mar/28
+    17.00  Defensa y Justicia      v Tigre
+    19.15  San Lorenzo             v Lanús
+    20.15  Banfield                v Huracán
+    21.30  Vélez Sarsfield         v Deportivo Riestra
+           Platense                v Atlético Tucumán
+  Sat Mar/29
+    16.30  Instituto de Córdoba    v San Martín de San Juan
+    18.30  Central Córdoba SdE     v Argentinos Juniors
+    18.45  Independiente           v Godoy Cruz
+    21.00  River Plate             v Rosario Central
+  Sun Mar/30
+    15.00  Belgrano de Córdoba     v Talleres de Córdoba
+    17.30  Gimnasia de La Plata    v Sarmiento de Junín
+    19.30  Newell's Old Boys       v Boca Juniors
+
+
+» 1° Semestre, Matchday 12
+  Sun Apr/6
+           Racing Club             v Banfield
+           Huracán                 v Aldosivi
+           Unión de Santa Fe       v Central Córdoba SdE
+           Argentinos Juniors      v Defensa y Justicia
+           Tigre                   v Newell's Old Boys
+           Boca Juniors            v Barracas Central
+           Estudiantes             v Belgrano de Córdoba
+           Lanús                   v Independiente
+           San Martín de San Juan  v San Lorenzo
+           Atlético Tucumán        v Instituto de Córdoba
+           Deportivo Riestra       v Platense
+           Rosario Central         v Vélez Sarsfield
+           Sarmiento de Junín      v River Plate
+           Talleres de Córdoba     v Gimnasia de La Plata
+           Godoy Cruz              v Independiente Rivadavia
+
+
+» 1° Semestre, Matchday 13
+  Sun Apr/13
+           Belgrano de Córdoba     v Boca Juniors
+           Barracas Central        v Tigre
+           Newell's Old Boys       v Argentinos Juniors
+           Defensa y Justicia      v Unión de Santa Fe
+           Central Córdoba SdE     v Huracán
+           Aldosivi                v Racing Club
+           Banfield                v Independiente Rivadavia
+           River Plate             v Talleres de Córdoba
+           Vélez Sarsfield         v Sarmiento de Junín
+           Platense                v Rosario Central
+           Instituto de Córdoba    v Deportivo Riestra
+           San Lorenzo             v Atlético Tucumán
+           Independiente           v San Martín de San Juan
+           Godoy Cruz              v Lanús
+           Gimnasia de La Plata    v Estudiantes
+
+
+» 1° Semestre, Matchday 14
+  Sun Apr/20
+           Independiente Rivadavia v Aldosivi
+           Racing Club             v Central Córdoba SdE
+           Huracán                 v Defensa y Justicia
+           Unión de Santa Fe       v Newell's Old Boys
+           Argentinos Juniors      v Barracas Central
+           Tigre                   v Belgrano de Córdoba
+           Boca Juniors            v Estudiantes
+           San Martín de San Juan  v Godoy Cruz
+           Atlético Tucumán        v Independiente
+           Deportivo Riestra       v San Lorenzo
+           Rosario Central         v Instituto de Córdoba
+           Sarmiento de Junín      v Platense
+           Talleres de Córdoba     v Vélez Sarsfield
+           Gimnasia de La Plata    v River Plate
+           Lanús                   v Banfield
+
+
+» 1° Semestre, Matchday 15
+  Sun Apr/27
+           Estudiantes             v Tigre
+           Belgrano de Córdoba     v Argentinos Juniors
+           Barracas Central        v Unión de Santa Fe
+           Newell's Old Boys       v Huracán
+           Defensa y Justicia      v Racing Club
+           Central Córdoba SdE     v Independiente Rivadavia
+           Aldosivi                v Banfield
+           Vélez Sarsfield         v Gimnasia de La Plata
+           Platense                v Talleres de Córdoba
+           Instituto de Córdoba    v Sarmiento de Junín
+           San Lorenzo             v Rosario Central
+           Independiente           v Deportivo Riestra
+           Godoy Cruz              v Atlético Tucumán
+           Lanús                   v San Martín de San Juan
+           River Plate             v Boca Juniors
+
+
+» 1° Semestre, Matchday 16
+  Sun May/4
+           Banfield                v Central Córdoba SdE
+           Independiente Rivadavia v Defensa y Justicia
+           Racing Club             v Newell's Old Boys
+           Huracán                 v Barracas Central
+           Unión de Santa Fe       v Belgrano de Córdoba
+           Argentinos Juniors      v Estudiantes
+           Tigre                   v Boca Juniors
+           Atlético Tucumán        v Lanús
+           Deportivo Riestra       v Godoy Cruz
+           Rosario Central         v Independiente
+           Sarmiento de Junín      v San Lorenzo
+           Talleres de Córdoba     v Instituto de Córdoba
+           Gimnasia de La Plata    v Platense
+           River Plate             v Vélez Sarsfield
+           San Martín de San Juan  v Aldosivi

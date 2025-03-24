@@ -1,737 +1,769 @@
 = Colombia Primera A 2024
 
-# Date       Fri Jan/19 - Wed Nov/6 2024 (292d)
+# Date       Fri Jan/19 - Sun Dec/22 2024 (338d)
 # Teams      20
-# Matches    406
-# Stages     Apertura (190)  Apertura Playoffs (26)  Clausura (190)
-
-
-== Apertura
-
-Matchday 1
-[Fri Jan/19]
-  20.15  Deportivo Pereira        2-2 (0-0)  Deportivo Cali
-  18.00  Patriotas FC             0-1 (0-1)  Jaguares de Córdoba
-[Sat Jan/20]
-  18.10  Deportes Tolima          1-2 (0-1)  Fortaleza FC
-  20.20  América de Cali          0-1 (0-0)  Águilas Doradas
-  16.00  Once Caldas              2-1 (1-1)  Boyacá Chicó
-[Sun Jan/21]
-  16.00  Millonarios              5-0 (3-0)  Independiente Medellín
-  18.10  Atlético Junior          2-0 (0-0)  Atlético Bucaramanga
-  20.20  Atlético Nacional        3-1 (0-1)  Alianza FC
-[Mon Jan/22]
-  20.20  Deportivo Pasto          0-1 (0-0)  Santa Fe
-  18.10  La Equidad               0-0  Envigado FC
-
-
-Matchday 2
-[Thu Jan/25]
-  18.10  Fortaleza FC             2-0 (1-0)  Patriotas FC
-  20.20  Águilas Doradas          1-0 (1-0)  Once Caldas
-[Fri Jan/26]
-  20.20  Alianza FC               3-3 (2-2)  Deportivo Cali
-  18.10  Deportivo Pasto          1-4 (1-1)  Deportes Tolima
-[Sat Jan/27]
-  18.10  Jaguares de Córdoba      0-0  La Equidad
-  20.20  Independiente Medellín   1-0 (0-0)  Deportivo Pereira
-  16.00  Santa Fe                 3-1 (2-1)  Envigado FC
-[Sun Jan/28]
-  16.00  Boyacá Chicó             2-2 (2-1)  Atlético Junior
-  18.10  América de Cali          4-1 (2-0)  Atlético Nacional
-  20.20  Atlético Bucaramanga     0-0  Millonarios
-
-
-Matchday 3
-[Tue Jan/30]
-  18.15  Deportivo Cali           2-0 (1-0)  Fortaleza FC
-  20.30  La Equidad               1-0 (1-0)  Santa Fe
-  16.00  Patriotas FC             0-0  Águilas Doradas
-[Wed Jan/31]
-  16.00  Deportivo Pereira        0-1 (0-0)  Deportivo Pasto
-  18.10  Millonarios              1-1 (0-1)  Alianza FC
-  20.20  Deportes Tolima          2-1 (1-0)  América de Cali
-[Thu Feb/1]
-  18.10  Atlético Nacional        1-1 (1-1)  Once Caldas
-  20.20  Atlético Junior          3-0 (1-0)  Independiente Medellín
-  16.00  Envigado FC              2-0 (0-0)  Boyacá Chicó
-[Fri Feb/2]
-  18.10  Jaguares de Córdoba      0-1 (0-1)  Atlético Bucaramanga
-
-
-Matchday 4
-[Sat Feb/3]
-  18.00  Deportes Tolima          2-0 (2-0)  Millonarios
-  20.10  América de Cali          1-0 (0-0)  Patriotas FC
-[Sun Feb/4]
-  18.10  Águilas Doradas          0-3 (0-2)  Atlético Nacional
-  20.20  Alianza FC               0-1 (0-0)  Atlético Junior
-  16.00  Fortaleza FC             1-1 (1-1)  Envigado FC
-[Mon Feb/5]
-  16.00  Boyacá Chicó             1-2 (0-1)  Deportivo Pereira
-  18.10  Deportivo Pasto          1-1 (0-0)  Jaguares de Córdoba
-  20.20  Independiente Medellín   1-0 (1-0)  Deportivo Cali
-[Tue Feb/6]
-  20.20  Santa Fe                 0-1 (0-0)  Atlético Bucaramanga
-  18.10  Once Caldas              0-0  La Equidad
-
-
-Matchday 5
-[Wed Feb/7]
-  20.00  Millonarios              1-0 (0-0)  América de Cali
-  16.00  Envigado FC              1-2 (0-0)  Alianza FC
-[Thu Feb/8]
-  16.00  Deportivo Pereira        2-0 (1-0)  Fortaleza FC
-  18.10  Atlético Junior          2-0 (1-0)  Deportivo Pasto
-  20.20  Patriotas FC             0-0  Atlético Nacional
-[Fri Feb/9]
-  20.20  Deportivo Cali           4-0 (3-0)  Boyacá Chicó
-  18.10  Jaguares de Córdoba      1-0 (0-0)  Águilas Doradas
-[Sat Feb/10]
-  16.00  La Equidad               1-1 (1-1)  Deportes Tolima
-  18.10  Atlético Bucaramanga     1-1 (0-0)  Once Caldas
-  20.20  Independiente Medellín   1-1 (0-0)  Santa Fe
-
-
-Matchday 6
-[Sun Feb/11]
-  18.10  Atlético Nacional        0-1 (0-1)  Millonarios
-  20.20  Alianza FC               1-2 (0-1)  Deportivo Pereira
-  16.00  Fortaleza FC             2-0 (1-0)  Atlético Junior
-[Mon Feb/12]
-  20.10  Deportivo Pasto          0-1 (0-1)  Envigado FC
-[Tue Feb/13]
-  18.10  Águilas Doradas          1-1 (0-1)  La Equidad
-  20.20  Santa Fe                 1-0 (0-0)  Deportivo Cali
-[Wed Feb/14]
-  20.20  Boyacá Chicó             3-0 (1-0)  Independiente Medellín
-  18.10  Once Caldas              1-0 (1-0)  Patriotas FC
-[Thu Feb/15]
-  20.20  América de Cali          0-0  Atlético Bucaramanga
-  18.10  Deportes Tolima          2-0 (0-0)  Jaguares de Córdoba
-
-
-Matchday 7
-[Fri Feb/16]
-  18.10  Millonarios              0-1 (0-0)  Águilas Doradas
-  20.20  Deportivo Cali           3-2 (2-1)  Atlético Nacional
-[Sat Feb/17]
-  20.15  Deportivo Pereira        1-0 (0-0)  Santa Fe
-  18.05  Independiente Medellín   2-2 (0-2)  Fortaleza FC
-[Sun Feb/18]
-  14.00  La Equidad               1-0 (0-0)  Patriotas FC
-  16.00  Envigado FC              1-1 (0-1)  América de Cali
-  18.10  Jaguares de Córdoba      3-0 (1-0)  Once Caldas
-  20.20  Atlético Junior          0-1 (0-1)  Deportes Tolima
-[Mon Feb/19]
-  20.20  Atlético Bucaramanga     1-0 (0-0)  Deportivo Pasto
-  16.00  Boyacá Chicó             1-0 (0-0)  Alianza FC
-
-
-Matchday 8
-[Wed Feb/21]
-  19.45  Santa Fe                 3-0 (2-0)  Atlético Junior
-[Thu Feb/22]
-  16.00  Deportes Tolima          0-0  Atlético Bucaramanga
-  18.10  América de Cali          0-1 (0-1)  La Equidad
-  20.20  Once Caldas              1-2 (0-2)  Deportivo Pereira
-[Fri Feb/23]
-  18.10  Águilas Doradas          2-0 (1-0)  Envigado FC
-  20.20  Deportivo Pasto          0-1 (0-1)  Deportivo Cali
-  16.00  Fortaleza FC             1-1 (1-1)  Boyacá Chicó
-[Sat Feb/24]
-  18.10  Alianza FC               2-0 (2-0)  Independiente Medellín
-  20.20  Patriotas FC             1-0 (0-0)  Millonarios
-
-
-Matchday 9
-[Sun Feb/25]
-  16.30  Jaguares de Córdoba      1-1 (0-0)  América de Cali
-  18.30  La Equidad               2-0 (1-0)  Atlético Nacional
-  20.30  Deportivo Pereira        3-3 (0-2)  Atlético Junior
-[Mon Feb/26]
-  20.20  Deportivo Cali           1-2 (0-0)  Deportes Tolima
-  18.10  Boyacá Chicó             1-2 (0-1)  Santa Fe
-[Tue Feb/27]
-  20.15  Millonarios              0-2 (0-1)  Once Caldas
-  16.00  Envigado FC              1-0 (1-0)  Patriotas FC
-[Wed Feb/28]
-  15.15  Fortaleza FC             1-2 (1-2)  Alianza FC
-[Thu Feb/29]
-  19.45  Independiente Medellín   1-0 (0-0)  Deportivo Pasto
-
-
-Matchday 10
-[Fri Mar/1]
-  20.20  Deportivo Cali           0-1 (0-0)  Once Caldas
-  16.00  Envigado FC              2-2 (2-1)  Jaguares de Córdoba
-  18.10  Boyacá Chicó             1-1 (0-0)  Deportes Tolima
-[Sat Mar/2]
-  20.20  Atlético Junior          0-0  Atlético Nacional
-  18.10  Deportivo Pereira        2-0 (1-0)  América de Cali
-  16.00  Millonarios              1-2 (1-1)  La Equidad
-[Sun Mar/3]
-  20.20  Alianza FC               0-1 (0-1)  Santa Fe
-  18.10  Independiente Medellín   1-0 (1-0)  Águilas Doradas
-  16.00  Atlético Bucaramanga     3-0 (2-0)  Patriotas FC
-[Mon Mar/4]
-  20.10  Deportivo Pasto          1-0 (1-0)  Fortaleza FC
-
-
-Matchday 11
-[Fri Mar/8]
-  18.10  Águilas Doradas          0-2 (0-1)  Atlético Junior
-  20.20  La Equidad               2-0 (2-0)  Deportivo Cali
-[Sat Mar/9]
-  16.10  Santa Fe                 2-0 (1-0)  Fortaleza FC
-  18.20  América de Cali          2-0 (0-0)  Alianza FC
-  14.00  Deportivo Pasto          2-1 (1-1)  Boyacá Chicó
-  20.30  Deportes Tolima          2-2 (1-1)  Independiente Medellín
-[Sun Mar/10]
-  18.20  Jaguares de Córdoba      2-1 (1-0)  Millonarios
-  20.30  Patriotas FC             3-0  Deportivo Pereira        [awarded]
-  14.00  Once Caldas              2-1 (1-1)  Envigado FC
-  16.10  Atlético Nacional        0-0  Atlético Bucaramanga
-
-
-Matchday 12
-[Fri Mar/15]
-  18.00  Alianza FC               1-1 (1-1)  Deportivo Pasto
-  20.10  Atlético Junior          3-1 (1-0)  Jaguares de Córdoba
-[Sat Mar/16]
-  20.30  Independiente Medellín   1-2 (1-0)  Once Caldas
-  16.10  Atlético Bucaramanga     4-0 (2-0)  La Equidad
-  14.00  Santa Fe                 1-1 (0-1)  Deportes Tolima
-  18.20  Boyacá Chicó             2-1 (0-1)  Atlético Nacional
-[Sun Mar/17]
-  18.20  Fortaleza FC             0-0  América de Cali
-  14.00  Envigado FC              1-1 (1-1)  Millonarios
-  16.10  Deportivo Cali           0-1 (0-1)  Patriotas FC
-  20.30  Deportivo Pereira        2-1 (1-1)  Águilas Doradas
-
-
-Matchday 13
-[Fri Mar/22]
-  20.20  La Equidad               1-2 (1-2)  Independiente Medellín
-  18.10  Patriotas FC             1-0 (1-0)  Atlético Junior
-[Sat Mar/23]
-  18.20  Jaguares de Córdoba      0-1 (0-1)  Fortaleza FC
-  14.00  Millonarios              1-1 (0-0)  Deportivo Cali
-  16.10  Deportes Tolima          2-1 (1-0)  Deportivo Pereira
-  20.30  América de Cali          3-2 (1-1)  Boyacá Chicó
-[Sun Mar/24]
-  18.10  Atlético Nacional        1-0 (1-0)  Deportivo Pasto
-  16.00  Atlético Bucaramanga     3-1 (2-1)  Envigado FC
-  20.20  Águilas Doradas          1-1 (0-0)  Santa Fe
-[Mon Mar/25]
-  16.00  Once Caldas              1-0 (1-0)  Alianza FC
-
-
-Matchday 9
-[Wed Mar/27]
-  16.00  Atlético Bucaramanga     1-0 (1-0)  Águilas Doradas
-
-
-Matchday 8
-[Wed Mar/27]
-  18.10  Atlético Nacional        2-0 (0-0)  Jaguares de Córdoba
-
-
-Matchday 15
-[Wed Mar/27]
-  20.20  Millonarios              3-1 (2-1)  Santa Fe
-
-
-Matchday 14
-[Fri Mar/29]
-  19.30  Atlético Junior          1-0 (1-0)  La Equidad
-  17.00  Alianza FC               0-2 (0-1)  Deportes Tolima
-[Sat Mar/30]
-  18.20  Boyacá Chicó             1-0 (1-0)  Jaguares de Córdoba
-  20.30  Fortaleza FC             1-2 (0-2)  Millonarios
-  14.00  Envigado FC              0-1 (0-1)  Atlético Nacional
-  16.10  Deportivo Pasto          0-0  Once Caldas
-[Sun Mar/31]
-  18.20  Independiente Medellín   1-4 (1-3)  América de Cali
-  20.30  Deportivo Cali           2-4 (1-3)  Águilas Doradas
-  14.00  Santa Fe                 3-0 (2-0)  Patriotas FC
-  16.10  Deportivo Pereira        1-2 (1-0)  Atlético Bucaramanga
-
-
-Matchday 15
-[Fri Apr/5]
-  18.10  Atlético Nacional        1-2 (1-2)  Fortaleza FC
-  20.20  Once Caldas              2-1 (1-0)  Deportes Tolima
-  16.00  Envigado FC              1-1 (0-0)  Deportivo Pereira
-[Sat Apr/6]
-  16.00  Águilas Doradas          0-1 (0-0)  Deportivo Pasto
-  18.10  Atlético Bucaramanga     2-1 (1-0)  Deportivo Cali
-  20.20  América de Cali          4-1 (2-0)  Atlético Junior
-[Sun Apr/7]
-  18.10  Jaguares de Córdoba      2-2 (1-0)  Independiente Medellín
-  20.20  La Equidad               4-0 (3-0)  Boyacá Chicó
-  16.00  Patriotas FC             0-0  Alianza FC
-
-
-Matchday 16
-[Fri Apr/12]
-  18.05  Deportes Tolima          2-1 (2-1)  Águilas Doradas
-  20.15  Deportivo Cali           1-1 (0-1)  América de Cali
-[Sat Apr/13]
-  16.10  Santa Fe                 0-0  Atlético Nacional
-  18.20  Atlético Junior          1-1 (0-0)  Envigado FC
-  20.30  Deportivo Pereira        0-0  Jaguares de Córdoba
-  14.00  Fortaleza FC             2-0 (0-0)  Once Caldas
-[Sun Apr/14]
-  14.00  Boyacá Chicó             1-2 (1-1)  Patriotas FC
-  16.10  Independiente Medellín   1-0 (0-0)  Atlético Bucaramanga
-  18.20  Deportivo Pasto          2-3 (0-1)  Millonarios
-  20.30  Alianza FC               0-3 (0-0)  La Equidad
-
-
-Matchday 17
-[Tue Apr/16]
-  18.10  Jaguares de Córdoba      1-1 (0-1)  Deportivo Cali
-  20.20  Once Caldas              0-1 (0-1)  Santa Fe
-  16.00  Envigado FC              0-2 (0-2)  Deportes Tolima
-[Wed Apr/17]
-  16.00  Águilas Doradas          4-0 (0-0)  Alianza FC
-  18.10  Millonarios              3-2 (1-0)  Atlético Junior
-  20.20  Atlético Nacional        0-1 (0-1)  Deportivo Pereira
-[Thu Apr/18]
-  18.10  Patriotas FC             2-3 (2-0)  Independiente Medellín
-  20.20  América de Cali          0-0  Deportivo Pasto
-  16.00  La Equidad               0-0  Fortaleza FC
-[Fri Apr/19]
-  20.10  Atlético Bucaramanga     2-3 (1-1)  Boyacá Chicó
-
-
-Matchday 18
-[Sat Apr/20]
-  18.10  Atlético Junior          1-0 (1-0)  Once Caldas
-  20.30  Alianza FC               2-1 (0-1)  Jaguares de Córdoba
-  16.00  Deportivo Pereira        1-2 (0-1)  Millonarios
-[Sun Apr/21]
-  14.00  Santa Fe                 1-0 (0-0)  América de Cali
-  16.10  Deportivo Cali           2-0 (1-0)  Envigado FC
-  18.20  Independiente Medellín   2-2 (1-2)  Atlético Nacional
-  20.30  Deportes Tolima          2-1 (0-0)  Patriotas FC
-[Mon Apr/22]
-  18.10  Boyacá Chicó             1-2 (1-1)  Águilas Doradas
-  20.20  Deportivo Pasto          2-3 (2-0)  La Equidad
-  16.00  Fortaleza FC             0-2 (0-1)  Atlético Bucaramanga
-
-
-Matchday 19
-[Sat Apr/27]
-  19.00  Atlético Nacional        3-1 (1-0)  Deportes Tolima
-[Sun Apr/28]
-  15.00  Patriotas FC             0-3 (0-2)  Deportivo Pasto
-  17.00  Deportivo Cali           0-0  Atlético Junior
-         Once Caldas              0-0  América de Cali
-         Atlético Bucaramanga     1-0 (1-0)  Alianza FC
-         Jaguares de Córdoba      1-0 (1-0)  Santa Fe
-         Águilas Doradas          1-1 (1-0)  Fortaleza FC
-         Millonarios              3-0 (1-0)  Boyacá Chicó
-         La Equidad               0-2 (0-1)  Deportivo Pereira
-         Envigado FC              0-1 (0-1)  Independiente Medellín
-
-
-== Apertura Playoffs
-
-Group
-[Sat May/4]
-  19.15  Atlético Junior          2-1 (1-0)  Millonarios
-  17.00  Deportivo Pereira        1-0 (1-0)  Atlético Bucaramanga
-[Sun May/5]
-  19.30  Once Caldas              2-0 (1-0)  La Equidad
-  17.15  Santa Fe                 1-0 (0-0)  Deportes Tolima
-[Sat May/11]
-  17.15  Atlético Bucaramanga     0-0  Atlético Junior
-  19.30  Millonarios              1-0 (1-0)  Deportivo Pereira
-[Sun May/12]
-  17.15  La Equidad               0-2 (0-0)  Santa Fe
-  19.30  Deportes Tolima          1-1 (1-0)  Once Caldas
-[Sat May/18]
-  17.15  La Equidad               2-3 (2-0)  Deportes Tolima
-  19.30  Once Caldas              0-0  Santa Fe
-[Sun May/19]
-  20.00  Millonarios              0-1 (0-0)  Atlético Bucaramanga
-  17.30  Atlético Junior          2-3 (1-3)  Deportivo Pereira
-[Wed May/22]
-  18.15  Atlético Bucaramanga     0-0  Millonarios
-  20.30  Deportivo Pereira        0-0  Atlético Junior
-[Thu May/23]
-  20.30  Santa Fe                 1-0 (0-0)  Once Caldas
-  18.15  Deportes Tolima          3-0 (2-0)  La Equidad
-[Sat May/25]
-  19.30  Atlético Junior          1-0 (0-0)  Atlético Bucaramanga
-  17.00  Deportivo Pereira        2-2 (0-1)  Millonarios
-[Sun May/26]
-  18.00  Once Caldas              0-1 (0-1)  Deportes Tolima
-         Santa Fe                 2-0 (1-0)  La Equidad
-[Fri May/31]
-  17.00  La Equidad               1-2 (1-1)  Once Caldas
-[Sun Jun/2]
-  17.00  Millonarios              2-0 (0-0)  Atlético Junior
-  19.30  Deportes Tolima          1-2 (0-1)  Santa Fe
-  17.00  Atlético Bucaramanga     3-1 (1-0)  Deportivo Pereira
-
-
-Final
-[Sat Jun/8]
-  19.30  Atlético Bucaramanga     1-0 (0-0)  Santa Fe
-[Sat Jun/15]
-  19.30  Santa Fe                 5-6 pen. (3-2, 1-1)  Atlético Bucaramanga
-
-
-== Clausura
-
-Matchday 1
-[Mon Jul/15]
-  20.15  Boyacá Chicó             0-1 (0-0)  Once Caldas
-[Tue Jul/16]
-  18.10  Águilas Doradas          1-2 (1-2)  América de Cali
-  20.20  Deportivo Cali           0-2 (0-0)  Deportivo Pereira
-  16.00  Envigado FC              2-1 (1-1)  La Equidad
-[Wed Jul/17]
-  20.10  Alianza FC               0-2 (0-1)  Atlético Nacional
-  18.00  Santa Fe                 2-1 (2-0)  Deportivo Pasto
-[Thu Jul/18]
-  18.00  Atlético Bucaramanga     1-0 (0-0)  Atlético Junior
-  20.10  Independiente Medellín   1-1 (1-0)  Millonarios
-[Fri Jul/19]
-  19.30  Fortaleza FC             1-1 (1-1)  Deportes Tolima
-  17.00  Jaguares de Córdoba      0-0  Patriotas FC
-
-
-Matchday 2
-[Sat Jul/20]
-  18.30  Once Caldas              1-0 (0-0)  Águilas Doradas
-  16.00  Envigado FC              0-1 (0-1)  Santa Fe
-[Sun Jul/21]
-  15.30  Millonarios              1-0 (0-0)  Atlético Bucaramanga
-  17.45  Atlético Nacional        2-1 (0-0)  América de Cali
-  20.00  Atlético Junior          2-1 (1-1)  Boyacá Chicó
-[Mon Jul/22]
-  20.00  Deportivo Pereira        1-1 (1-1)  Independiente Medellín
-  18.00  Deportivo Cali           1-0 (1-0)  Alianza FC
-[Tue Jul/23]
-  18.10  La Equidad               1-0 (0-0)  Jaguares de Córdoba
-  20.20  Deportes Tolima          2-1 (2-1)  Deportivo Pasto
-  16.00  Patriotas FC             0-2 (0-0)  Fortaleza FC
-
-
-Matchday 6
-[Wed Jul/24]
-  20.00  Millonarios              1-2 (0-1)  Atlético Nacional
-
-
-Matchday 7
-[Thu Jul/25]
-  16.00  América de Cali          4-0 (2-0)  Envigado FC
-
-
-Matchday 3
-[Sat Jul/27]
-  16.00  Once Caldas              2-0 (2-0)  Atlético Nacional
-  18.10  Santa Fe                 0-1 (0-1)  La Equidad
-  20.20  Independiente Medellín   0-0  Atlético Junior
-[Sun Jul/28]
-  15.00  Atlético Bucaramanga     0-0  Jaguares de Córdoba
-  17.30  Alianza FC               2-1 (0-1)  Millonarios
-[Mon Jul/29]
-  20.10  Fortaleza FC             2-1 (1-0)  Deportivo Cali
-  18.00  Deportivo Pasto          2-0 (1-0)  Deportivo Pereira
-[Tue Jul/30]
-  18.00  Águilas Doradas          3-2 (0-0)  Patriotas FC
-
-
-Matchday 9
-[Tue Jul/30]
-  20.10  Atlético Nacional        0-1 (0-1)  La Equidad
-
-
-Matchday 6
-[Wed Jul/31]
-  20.10  Independiente Medellín   1-0 (1-0)  Boyacá Chicó
-
-
-Matchday 4
-[Fri Aug/2]
-  20.00  Millonarios              1-0 (1-0)  Deportes Tolima
-[Sat Aug/3]
-  19.20  La Equidad               1-1 (0-0)  Once Caldas
-  17.00  Jaguares de Córdoba      0-0  Deportivo Pasto
-  15.00  Envigado FC              0-1 (0-0)  Fortaleza FC
-[Sun Aug/4]
-  20.00  Deportivo Cali           2-0 (1-0)  Independiente Medellín
-  15.30  Patriotas FC             1-1 (0-1)  América de Cali
-  17.45  Atlético Junior          2-2 (1-1)  Alianza FC
-[Mon Aug/5]
-  20.00  Atlético Nacional        1-1 (0-1)  Águilas Doradas
-[Tue Aug/6]
-  20.00  Deportivo Pereira        1-0 (0-0)  Boyacá Chicó
-[Wed Aug/7]
-  19.00  Atlético Bucaramanga     0-1 (0-0)  Santa Fe
-
-
-Matchday 5
-[Sat Aug/10]
-  20.00  Boyacá Chicó             1-0 (1-0)  Deportivo Cali
-  15.30  Atlético Nacional        3-1 (0-0)  Patriotas FC
-  17.45  Deportes Tolima          5-1 (3-1)  La Equidad
-[Sun Aug/11]
-  20.00  Alianza FC               1-1 (0-0)  Envigado FC
-  17.45  Once Caldas              2-1 (0-1)  Atlético Bucaramanga
-  América de Cali          -  Millonarios
-  Santa Fe                 -  Independiente Medellín
-[Mon Aug/12]
-  20.00  Fortaleza FC             1-0 (0-0)  Deportivo Pereira
-[Tue Aug/13]
-  19.30  Águilas Doradas          1-0 (1-0)  Jaguares de Córdoba
-
-
-Matchday 6
-[Sat Aug/17]
-  18.05  Atlético Junior          2-1 (2-1)  Fortaleza FC
-  20.10  La Equidad               0-0  Águilas Doradas
-[Sun Aug/18]
-  Envigado FC              -  Deportivo Pasto
-
-
-Matchday 3
-[Sun Aug/18]
-  20.00  Boyacá Chicó             0-0  Envigado FC
-
-
-Matchday 6
-[Sun Aug/18]
-  17.45  Atlético Bucaramanga     1-2 (1-1)  América de Cali
-[Mon Aug/19]
-  18.15  Jaguares de Córdoba      0-2 (0-2)  Deportes Tolima
-  16.00  Patriotas FC             3-1 (3-1)  Once Caldas
-[Tue Aug/20]
-  19.00  Deportivo Cali           1-3 (1-2)  Santa Fe
-
-
-Matchday 7
-[Fri Aug/23]
-  19.30  Deportivo Pasto          1-2 (0-0)  Atlético Bucaramanga
-[Sat Aug/24]
-  19.30  Deportes Tolima          0-1 (0-1)  Atlético Junior
-  15.00  Patriotas FC             0-0  La Equidad
-  17.15  Alianza FC               4-0 (2-0)  Boyacá Chicó
-[Sun Aug/25]
-  17.30  Águilas Doradas          2-1 (1-1)  Millonarios
-  Atlético Nacional        -  Deportivo Cali
-  19.40  Once Caldas              2-0 (2-0)  Jaguares de Córdoba
-[Mon Aug/26]
-  20.00  Fortaleza FC             2-2 (2-0)  Independiente Medellín
-
-
-Matchday 5
-[Wed Aug/28]
-  20.30  Deportivo Pasto          1-0 (0-0)  Atlético Junior
-
-
-Matchday 8
-[Sat Aug/31]
-  20.00  Boyacá Chicó             2-2 (1-0)  Fortaleza FC
-  16.15  Jaguares de Córdoba      0-2 (0-1)  Atlético Nacional
-[Sun Sep/1]
-  15.00  Atlético Bucaramanga     0-2 (0-1)  Deportes Tolima
-  Independiente Medellín   -  Alianza FC
-  Envigado FC              -  Águilas Doradas
-  19.20  Atlético Junior          1-1 (0-1)  Santa Fe
-  17.10  Millonarios              3-0 (1-0)  Patriotas FC
-  La Equidad               -  América de Cali
-[Mon Sep/2]
-  19.30  Deportivo Cali           0-2 (0-1)  Deportivo Pasto
-[Tue Sep/3]
-  18.00  Deportivo Pereira        0-1 (0-0)  Once Caldas
-
-
-Matchday 9
-[Sat Sep/7]
-  18.20  Deportes Tolima          1-1 (1-0)  Deportivo Cali
-  14.00  Patriotas FC             2-0 (0-0)  Envigado FC
-  16.10  América de Cali          1-0 (0-0)  Jaguares de Córdoba
-  Atlético Junior          -  Deportivo Pereira
-[Sun Sep/8]
-  17.10  Alianza FC               1-1 (0-1)  Fortaleza FC
-  Águilas Doradas          -  Atlético Bucaramanga
-  Santa Fe                 -  Boyacá Chicó
-  19.20  Deportivo Pasto          1-0 (0-0)  Independiente Medellín
-  15.00  Once Caldas              1-1 (1-1)  Millonarios
-
-
-Matchday 3
-[Wed Sep/11]
-  18.00  América de Cali          1-0 (1-0)  Deportes Tolima
-
-
-Matchday 6
-[Thu Sep/12]
-  19.30  Deportivo Pereira        1-0 (1-0)  Alianza FC
-
-
-Matchday 10
-[Fri Sep/13]
-  16.00  Patriotas FC             1-2 (0-0)  Atlético Bucaramanga
-  18.30  Jaguares de Córdoba      2-1 (1-0)  Envigado FC
-[Sat Sep/14]
-  20.30  Fortaleza FC             0-0  Deportivo Pasto
-  16.10  Once Caldas              4-1 (1-0)  Deportivo Cali
-  18.20  Deportes Tolima          2-1 (2-1)  Boyacá Chicó
-  20.30  Águilas Doradas          1-1 (0-0)  Independiente Medellín
-[Sun Sep/15]
-  18.30  América de Cali          1-0 (1-0)  Deportivo Pereira
-  20.30  La Equidad               1-3 (0-2)  Millonarios
-
-
-Matchday 11
-[Fri Sep/20]
-  20.00  Deportivo Pereira        0-1 (0-1)  Patriotas FC
-[Sat Sep/21]
-  15.15  Envigado FC              0-1 (0-0)  Once Caldas
-  17.45  Deportivo Cali           1-1 (1-0)  La Equidad
-  20.00  Fortaleza FC             1-3 (0-1)  Santa Fe
-[Sun Sep/22]
-  20.30  Atlético Junior          3-4 (1-2)  Águilas Doradas
-  16.10  Boyacá Chicó             1-0 (0-0)  Deportivo Pasto
-  14.00  Independiente Medellín   0-1 (0-0)  Deportes Tolima
-  18.20  Alianza FC               0-1 (0-0)  América de Cali
-[Mon Sep/23]
-  20.10  Atlético Bucaramanga     1-0 (0-0)  Atlético Nacional
-[Wed Sep/25]
-  20.30  Millonarios              0-0  Jaguares de Córdoba
-
-
-Matchday 10
-[Thu Sep/26]
-  18.30  Santa Fe                 2-0 (0-0)  Alianza FC
-  20.30  Atlético Nacional        -  Atlético Junior          [abandoned]
-
-
-Matchday 12
-[Fri Sep/27]
-  17.15  Águilas Doradas          1-1 (1-0)  Deportivo Pereira
-[Sat Sep/28]
-  20.30  Millonarios              3-0 (1-0)  Envigado FC
-  14.00  La Equidad               0-1 (0-1)  Atlético Bucaramanga
-  16.10  Once Caldas              0-2 (0-1)  Independiente Medellín
-  18.20  América de Cali          1-1 (0-0)  Fortaleza FC
-[Sun Sep/29]
-  14.00  Atlético Nacional        6-2 (4-1)  Boyacá Chicó
-  16.10  Jaguares de Córdoba      1-1 (1-0)  Atlético Junior
-  18.20  Deportes Tolima          0-0  Santa Fe
-  20.30  Deportivo Pasto          1-0 (0-0)  Alianza FC
-[Mon Sep/30]
-  16.00  Patriotas FC             2-2 (0-1)  Deportivo Cali
-
-
-Matchday 7
-[Thu Oct/3]
-  20.10  Santa Fe                 -  Deportivo Pereira
-
-
-Matchday 13
-[Fri Oct/4]
-  19.40  Deportivo Cali           -  Millonarios
-[Sat Oct/5]
-  16.10  Boyacá Chicó             -  América de Cali
-  18.20  Deportivo Pasto          -  Atlético Nacional
-  20.30  Alianza FC               -  Once Caldas
-  14.00  Envigado FC              -  Atlético Bucaramanga
-[Sun Oct/6]
-  15.00  Independiente Medellín   -  La Equidad
-  17.10  Santa Fe                 -  Águilas Doradas
-  19.20  Atlético Junior          -  Patriotas FC
-[Mon Oct/7]
-  20.00  Deportivo Pereira        -  Deportes Tolima
-  18.00  Fortaleza FC             -  Jaguares de Córdoba
-
-
-Matchday 14
-[Wed Oct/9]
-  15.00  Águilas Doradas          -  Deportivo Cali
-         Once Caldas              -  Deportivo Pasto
-         Atlético Bucaramanga     -  Deportivo Pereira
-         La Equidad               -  Atlético Junior
-         Deportes Tolima          -  Alianza FC
-         Patriotas FC             -  Santa Fe
-         Jaguares de Córdoba      -  Boyacá Chicó
-         Millonarios              -  Fortaleza FC
-         América de Cali          -  Independiente Medellín
-         Atlético Nacional        -  Envigado FC
-
-
-Matchday 15
-[Sun Oct/13]
-  15.00  Deportes Tolima          -  Once Caldas
-         Deportivo Cali           -  Atlético Bucaramanga
-         Independiente Medellín   -  Jaguares de Córdoba
-         Deportivo Pasto          -  Águilas Doradas
-         Santa Fe                 -  Millonarios
-         Atlético Junior          -  América de Cali
-         Alianza FC               -  Patriotas FC
-         Boyacá Chicó             -  La Equidad
-         Fortaleza FC             -  Atlético Nacional
-         Deportivo Pereira        -  Envigado FC
-
-
-Matchday 16
-[Sun Oct/20]
-  15.00  América de Cali          -  Deportivo Cali
-         Águilas Doradas          -  Deportes Tolima
-         Millonarios              -  Deportivo Pasto
-         Jaguares de Córdoba      -  Deportivo Pereira
-         Envigado FC              -  Atlético Junior
-         La Equidad               -  Alianza FC
-         Atlético Nacional        -  Santa Fe
-         Patriotas FC             -  Boyacá Chicó
-         Once Caldas              -  Fortaleza FC
-         Atlético Bucaramanga     -  Independiente Medellín
-
-
-Matchday 17
-[Sun Oct/27]
-  Santa Fe                 -  Once Caldas
-  Boyacá Chicó             -  Atlético Bucaramanga
-  Deportivo Cali           -  Jaguares de Córdoba
-  Alianza FC               -  Águilas Doradas
-  Atlético Junior          -  Millonarios
-  Deportivo Pasto          -  América de Cali
-  Independiente Medellín   -  Patriotas FC
-  Fortaleza FC             -  La Equidad
-  Deportivo Pereira        -  Atlético Nacional
-  Deportes Tolima          -  Envigado FC
-
-
-Matchday 18
-[Sun Nov/3]
-  Envigado FC              -  Deportivo Cali
-  Patriotas FC             -  Deportes Tolima
-  La Equidad               -  Deportivo Pasto
-  Millonarios              -  Deportivo Pereira
-  Once Caldas              -  Atlético Junior
-  Jaguares de Córdoba      -  Alianza FC
-  América de Cali          -  Santa Fe
-  Águilas Doradas          -  Boyacá Chicó
-  Atlético Bucaramanga     -  Fortaleza FC
-  Atlético Nacional        -  Independiente Medellín
-
-
-Matchday 19
-[Wed Nov/6]
-  Atlético Junior          -  Deportivo Cali
-  América de Cali          -  Once Caldas
-  Alianza FC               -  Atlético Bucaramanga
-  Santa Fe                 -  Jaguares de Córdoba
-  Fortaleza FC             -  Águilas Doradas
-  Boyacá Chicó             -  Millonarios
-  Deportivo Pasto          -  Patriotas FC
-  Deportivo Pereira        -  La Equidad
-  Deportes Tolima          -  Atlético Nacional
-  Independiente Medellín   -  Envigado FC
+# Matches    432
+# Stages     Apertura (190)  Apertura Playoffs (26)  Clausura (190)  Clausura Playoffs (26)
+
+
+
+» Apertura, Matchday 1
+  Fri Jan/19 2024
+    18.00  Patriotas FC            v Jaguares de Córdoba      0-1 (0-1)
+    20.15  Deportivo Pereira       v Deportivo Cali           2-2 (0-0)
+  Sat Jan/20
+    16.00  Once Caldas             v Boyacá Chicó             2-1 (1-1)
+    18.10  Deportes Tolima         v Fortaleza FC             1-2 (0-1)
+    20.20  América de Cali         v Águilas Doradas          0-1 (0-0)
+  Sun Jan/21
+    16.00  Millonarios             v Independiente Medellín   5-0 (3-0)
+    18.10  Atlético Junior         v Atlético Bucaramanga     2-0 (0-0)
+    20.20  Atlético Nacional       v Alianza FC               3-1 (0-1)
+  Mon Jan/22
+    18.10  La Equidad              v Envigado FC              0-0
+    20.20  Deportivo Pasto         v Santa Fe                 0-1 (0-0)
+
+
+» Apertura, Matchday 2
+  Thu Jan/25
+    18.10  Fortaleza FC            v Patriotas FC             2-0 (1-0)
+    20.20  Águilas Doradas         v Once Caldas              1-0 (1-0)
+  Fri Jan/26
+    18.10  Deportivo Pasto         v Deportes Tolima          1-4 (1-1)
+    20.20  Alianza FC              v Deportivo Cali           3-3 (2-2)
+  Sat Jan/27
+    16.00  Santa Fe                v Envigado FC              3-1 (2-1)
+    18.10  Jaguares de Córdoba     v La Equidad               0-0
+    20.20  Independiente Medellín  v Deportivo Pereira        1-0 (0-0)
+  Sun Jan/28
+    16.00  Boyacá Chicó            v Atlético Junior          2-2 (2-1)
+    18.10  América de Cali         v Atlético Nacional        4-1 (2-0)
+    20.20  Atlético Bucaramanga    v Millonarios              0-0
+
+
+» Apertura, Matchday 3
+  Tue Jan/30
+    16.00  Patriotas FC            v Águilas Doradas          0-0
+    18.15  Deportivo Cali          v Fortaleza FC             2-0 (1-0)
+    20.30  La Equidad              v Santa Fe                 1-0 (1-0)
+  Wed Jan/31
+    16.00  Deportivo Pereira       v Deportivo Pasto          0-1 (0-0)
+    18.10  Millonarios             v Alianza FC               1-1 (0-1)
+    20.20  Deportes Tolima         v América de Cali          2-1 (1-0)
+  Thu Feb/1
+    16.00  Envigado FC             v Boyacá Chicó             2-0 (0-0)
+    18.10  Atlético Nacional       v Once Caldas              1-1 (1-1)
+    20.20  Atlético Junior         v Independiente Medellín   3-0 (1-0)
+  Fri Feb/2
+    18.10  Jaguares de Córdoba     v Atlético Bucaramanga     0-1 (0-1)
+
+
+» Apertura, Matchday 4
+  Sat Feb/3
+    18.00  Deportes Tolima         v Millonarios              2-0 (2-0)
+    20.10  América de Cali         v Patriotas FC             1-0 (0-0)
+  Sun Feb/4
+    16.00  Fortaleza FC            v Envigado FC              1-1 (1-1)
+    18.10  Águilas Doradas         v Atlético Nacional        0-3 (0-2)
+    20.20  Alianza FC              v Atlético Junior          0-1 (0-0)
+  Mon Feb/5
+    16.00  Boyacá Chicó            v Deportivo Pereira        1-2 (0-1)
+    18.10  Deportivo Pasto         v Jaguares de Córdoba      1-1 (0-0)
+    20.20  Independiente Medellín  v Deportivo Cali           1-0 (1-0)
+  Tue Feb/6
+    18.10  Once Caldas             v La Equidad               0-0
+    20.20  Santa Fe                v Atlético Bucaramanga     0-1 (0-0)
+
+
+» Apertura, Matchday 5
+  Wed Feb/7
+    16.00  Envigado FC             v Alianza FC               1-2 (0-0)
+    20.00  Millonarios             v América de Cali          1-0 (0-0)
+  Thu Feb/8
+    16.00  Deportivo Pereira       v Fortaleza FC             2-0 (1-0)
+    18.10  Atlético Junior         v Deportivo Pasto          2-0 (1-0)
+    20.20  Patriotas FC            v Atlético Nacional        0-0
+  Fri Feb/9
+    18.10  Jaguares de Córdoba     v Águilas Doradas          1-0 (0-0)
+    20.20  Deportivo Cali          v Boyacá Chicó             4-0 (3-0)
+  Sat Feb/10
+    16.00  La Equidad              v Deportes Tolima          1-1 (1-1)
+    18.10  Atlético Bucaramanga    v Once Caldas              1-1 (0-0)
+    20.20  Independiente Medellín  v Santa Fe                 1-1 (0-0)
+
+
+» Apertura, Matchday 6
+  Sun Feb/11
+    16.00  Fortaleza FC            v Atlético Junior          2-0 (1-0)
+    18.10  Atlético Nacional       v Millonarios              0-1 (0-1)
+    20.20  Alianza FC              v Deportivo Pereira        1-2 (0-1)
+  Mon Feb/12
+    20.10  Deportivo Pasto         v Envigado FC              0-1 (0-1)
+  Tue Feb/13
+    18.10  Águilas Doradas         v La Equidad               1-1 (0-1)
+    20.20  Santa Fe                v Deportivo Cali           1-0 (0-0)
+  Wed Feb/14
+    18.10  Once Caldas             v Patriotas FC             1-0 (1-0)
+    20.20  Boyacá Chicó            v Independiente Medellín   3-0 (1-0)
+  Thu Feb/15
+    18.10  Deportes Tolima         v Jaguares de Córdoba      2-0 (0-0)
+    20.20  América de Cali         v Atlético Bucaramanga     0-0
+
+
+» Apertura, Matchday 7
+  Fri Feb/16
+    18.10  Millonarios             v Águilas Doradas          0-1 (0-0)
+    20.20  Deportivo Cali          v Atlético Nacional        3-2 (2-1)
+  Sat Feb/17
+    18.05  Independiente Medellín  v Fortaleza FC             2-2 (0-2)
+    20.15  Deportivo Pereira       v Santa Fe                 1-0 (0-0)
+  Sun Feb/18
+    14.00  La Equidad              v Patriotas FC             1-0 (0-0)
+    16.00  Envigado FC             v América de Cali          1-1 (0-1)
+    18.10  Jaguares de Córdoba     v Once Caldas              3-0 (1-0)
+    20.20  Atlético Junior         v Deportes Tolima          0-1 (0-1)
+  Mon Feb/19
+    16.00  Boyacá Chicó            v Alianza FC               1-0 (0-0)
+    20.20  Atlético Bucaramanga    v Deportivo Pasto          1-0 (0-0)
+
+
+» Apertura, Matchday 8
+  Wed Feb/21
+    19.45  Santa Fe                v Atlético Junior          3-0 (2-0)
+  Thu Feb/22
+    16.00  Deportes Tolima         v Atlético Bucaramanga     0-0
+    18.10  América de Cali         v La Equidad               0-1 (0-1)
+    20.20  Once Caldas             v Deportivo Pereira        1-2 (0-2)
+  Fri Feb/23
+    16.00  Fortaleza FC            v Boyacá Chicó             1-1 (1-1)
+    18.10  Águilas Doradas         v Envigado FC              2-0 (1-0)
+    20.20  Deportivo Pasto         v Deportivo Cali           0-1 (0-1)
+  Sat Feb/24
+    18.10  Alianza FC              v Independiente Medellín   2-0 (2-0)
+    20.20  Patriotas FC            v Millonarios              1-0 (0-0)
+  Wed Mar/27
+    18.10  Atlético Nacional       v Jaguares de Córdoba      2-0 (0-0)
+
+
+» Apertura, Matchday 9
+  Sun Feb/25
+    16.30  Jaguares de Córdoba     v América de Cali          1-1 (0-0)
+    18.30  La Equidad              v Atlético Nacional        2-0 (1-0)
+    20.30  Deportivo Pereira       v Atlético Junior          3-3 (0-2)
+  Mon Feb/26
+    18.10  Boyacá Chicó            v Santa Fe                 1-2 (0-1)
+    20.20  Deportivo Cali          v Deportes Tolima          1-2 (0-0)
+  Tue Feb/27
+    16.00  Envigado FC             v Patriotas FC             1-0 (1-0)
+    20.15  Millonarios             v Once Caldas              0-2 (0-1)
+  Wed Feb/28
+    15.15  Fortaleza FC            v Alianza FC               1-2 (1-2)
+  Thu Feb/29
+    19.45  Independiente Medellín  v Deportivo Pasto          1-0 (0-0)
+  Wed Mar/27
+    16.00  Atlético Bucaramanga    v Águilas Doradas          1-0 (1-0)
+
+
+» Apertura, Matchday 10
+  Fri Mar/1
+    16.00  Envigado FC             v Jaguares de Córdoba      2-2 (2-1)
+    18.10  Boyacá Chicó            v Deportes Tolima          1-1 (0-0)
+    20.20  Deportivo Cali          v Once Caldas              0-1 (0-0)
+  Sat Mar/2
+    16.00  Millonarios             v La Equidad               1-2 (1-1)
+    18.10  Deportivo Pereira       v América de Cali          2-0 (1-0)
+    20.20  Atlético Junior         v Atlético Nacional        0-0
+  Sun Mar/3
+    16.00  Atlético Bucaramanga    v Patriotas FC             3-0 (2-0)
+    18.10  Independiente Medellín  v Águilas Doradas          1-0 (1-0)
+    20.20  Alianza FC              v Santa Fe                 0-1 (0-1)
+  Mon Mar/4
+    20.10  Deportivo Pasto         v Fortaleza FC             1-0 (1-0)
+
+
+» Apertura, Matchday 11
+  Fri Mar/8
+    18.10  Águilas Doradas         v Atlético Junior          0-2 (0-1)
+    20.20  La Equidad              v Deportivo Cali           2-0 (2-0)
+  Sat Mar/9
+    14.00  Deportivo Pasto         v Boyacá Chicó             2-1 (1-1)
+    16.10  Santa Fe                v Fortaleza FC             2-0 (1-0)
+    18.20  América de Cali         v Alianza FC               2-0 (0-0)
+    20.30  Deportes Tolima         v Independiente Medellín   2-2 (1-1)
+  Sun Mar/10
+    14.00  Once Caldas             v Envigado FC              2-1 (1-1)
+    16.10  Atlético Nacional       v Atlético Bucaramanga     0-0
+    18.20  Jaguares de Córdoba     v Millonarios              2-1 (1-0)
+    20.30  Patriotas FC            v Deportivo Pereira        3-0    [awarded]
+
+
+» Apertura, Matchday 12
+  Fri Mar/15
+    18.00  Alianza FC              v Deportivo Pasto          1-1 (1-1)
+    20.10  Atlético Junior         v Jaguares de Córdoba      3-1 (1-0)
+  Sat Mar/16
+    14.00  Santa Fe                v Deportes Tolima          1-1 (0-1)
+    16.10  Atlético Bucaramanga    v La Equidad               4-0 (2-0)
+    18.20  Boyacá Chicó            v Atlético Nacional        2-1 (0-1)
+    20.30  Independiente Medellín  v Once Caldas              1-2 (1-0)
+  Sun Mar/17
+    14.00  Envigado FC             v Millonarios              1-1 (1-1)
+    16.10  Deportivo Cali          v Patriotas FC             0-1 (0-1)
+    18.20  Fortaleza FC            v América de Cali          0-0
+    20.30  Deportivo Pereira       v Águilas Doradas          2-1 (1-1)
+
+
+» Apertura, Matchday 13
+  Fri Mar/22
+    18.10  Patriotas FC            v Atlético Junior          1-0 (1-0)
+    20.20  La Equidad              v Independiente Medellín   1-2 (1-2)
+  Sat Mar/23
+    14.00  Millonarios             v Deportivo Cali           1-1 (0-0)
+    16.10  Deportes Tolima         v Deportivo Pereira        2-1 (1-0)
+    18.20  Jaguares de Córdoba     v Fortaleza FC             0-1 (0-1)
+    20.30  América de Cali         v Boyacá Chicó             3-2 (1-1)
+  Sun Mar/24
+    16.00  Atlético Bucaramanga    v Envigado FC              3-1 (2-1)
+    18.10  Atlético Nacional       v Deportivo Pasto          1-0 (1-0)
+    20.20  Águilas Doradas         v Santa Fe                 1-1 (0-0)
+  Mon Mar/25
+    16.00  Once Caldas             v Alianza FC               1-0 (1-0)
+
+
+» Apertura, Matchday 14
+  Fri Mar/29
+    17.00  Alianza FC              v Deportes Tolima          0-2 (0-1)
+    19.30  Atlético Junior         v La Equidad               1-0 (1-0)
+  Sat Mar/30
+    14.00  Envigado FC             v Atlético Nacional        0-1 (0-1)
+    16.10  Deportivo Pasto         v Once Caldas              0-0
+    18.20  Boyacá Chicó            v Jaguares de Córdoba      1-0 (1-0)
+    20.30  Fortaleza FC            v Millonarios              1-2 (0-2)
+  Sun Mar/31
+    14.00  Santa Fe                v Patriotas FC             3-0 (2-0)
+    16.10  Deportivo Pereira       v Atlético Bucaramanga     1-2 (1-0)
+    18.20  Independiente Medellín  v América de Cali          1-4 (1-3)
+    20.30  Deportivo Cali          v Águilas Doradas          2-4 (1-3)
+
+
+» Apertura, Matchday 15
+  Wed Mar/27
+    20.20  Millonarios             v Santa Fe                 3-1 (2-1)
+  Fri Apr/5
+    16.00  Envigado FC             v Deportivo Pereira        1-1 (0-0)
+    18.10  Atlético Nacional       v Fortaleza FC             1-2 (1-2)
+    20.20  Once Caldas             v Deportes Tolima          2-1 (1-0)
+  Sat Apr/6
+    16.00  Águilas Doradas         v Deportivo Pasto          0-1 (0-0)
+    18.10  Atlético Bucaramanga    v Deportivo Cali           2-1 (1-0)
+    20.20  América de Cali         v Atlético Junior          4-1 (2-0)
+  Sun Apr/7
+    16.00  Patriotas FC            v Alianza FC               0-0
+    18.10  Jaguares de Córdoba     v Independiente Medellín   2-2 (1-0)
+    20.20  La Equidad              v Boyacá Chicó             4-0 (3-0)
+
+
+» Apertura, Matchday 16
+  Fri Apr/12
+    18.05  Deportes Tolima         v Águilas Doradas          2-1 (2-1)
+    20.15  Deportivo Cali          v América de Cali          1-1 (0-1)
+  Sat Apr/13
+    14.00  Fortaleza FC            v Once Caldas              2-0 (0-0)
+    16.10  Santa Fe                v Atlético Nacional        0-0
+    18.20  Atlético Junior         v Envigado FC              1-1 (0-0)
+    20.30  Deportivo Pereira       v Jaguares de Córdoba      0-0
+  Sun Apr/14
+    14.00  Boyacá Chicó            v Patriotas FC             1-2 (1-1)
+    16.10  Independiente Medellín  v Atlético Bucaramanga     1-0 (0-0)
+    18.20  Deportivo Pasto         v Millonarios              2-3 (0-1)
+    20.30  Alianza FC              v La Equidad               0-3 (0-0)
+
+
+» Apertura, Matchday 17
+  Tue Apr/16
+    16.00  Envigado FC             v Deportes Tolima          0-2 (0-2)
+    18.10  Jaguares de Córdoba     v Deportivo Cali           1-1 (0-1)
+    20.20  Once Caldas             v Santa Fe                 0-1 (0-1)
+  Wed Apr/17
+    16.00  Águilas Doradas         v Alianza FC               4-0 (0-0)
+    18.10  Millonarios             v Atlético Junior          3-2 (1-0)
+    20.20  Atlético Nacional       v Deportivo Pereira        0-1 (0-1)
+  Thu Apr/18
+    16.00  La Equidad              v Fortaleza FC             0-0
+    18.10  Patriotas FC            v Independiente Medellín   2-3 (2-0)
+    20.20  América de Cali         v Deportivo Pasto          0-0
+  Fri Apr/19
+    20.10  Atlético Bucaramanga    v Boyacá Chicó             2-3 (1-1)
+
+
+» Apertura, Matchday 18
+  Sat Apr/20
+    16.00  Deportivo Pereira       v Millonarios              1-2 (0-1)
+    18.10  Atlético Junior         v Once Caldas              1-0 (1-0)
+    20.30  Alianza FC              v Jaguares de Córdoba      2-1 (0-1)
+  Sun Apr/21
+    14.00  Santa Fe                v América de Cali          1-0 (0-0)
+    16.10  Deportivo Cali          v Envigado FC              2-0 (1-0)
+    18.20  Independiente Medellín  v Atlético Nacional        2-2 (1-2)
+    20.30  Deportes Tolima         v Patriotas FC             2-1 (0-0)
+  Mon Apr/22
+    16.00  Fortaleza FC            v Atlético Bucaramanga     0-2 (0-1)
+    18.10  Boyacá Chicó            v Águilas Doradas          1-2 (1-1)
+    20.20  Deportivo Pasto         v La Equidad               2-3 (2-0)
+
+
+» Apertura, Matchday 19
+  Sat Apr/27
+    19.00  Atlético Nacional       v Deportes Tolima          3-1 (1-0)
+  Sun Apr/28
+    15.00  Patriotas FC            v Deportivo Pasto          0-3 (0-2)
+    17.00  Deportivo Cali          v Atlético Junior          0-0
+           Once Caldas             v América de Cali          0-0
+           Atlético Bucaramanga    v Alianza FC               1-0 (1-0)
+           Jaguares de Córdoba     v Santa Fe                 1-0 (1-0)
+           Águilas Doradas         v Fortaleza FC             1-1 (1-0)
+           Millonarios             v Boyacá Chicó             3-0 (1-0)
+           La Equidad              v Deportivo Pereira        0-2 (0-1)
+           Envigado FC             v Independiente Medellín   0-1 (0-1)
+
+
+» Apertura Playoffs, Group A
+  Sat May/4
+    17.00  Deportivo Pereira       v Atlético Bucaramanga     1-0 (1-0)
+    19.15  Atlético Junior         v Millonarios              2-1 (1-0)
+  Sat May/11
+    17.15  Atlético Bucaramanga    v Atlético Junior          0-0
+    19.30  Millonarios             v Deportivo Pereira        1-0 (1-0)
+  Sun May/19
+    17.30  Atlético Junior         v Deportivo Pereira        2-3 (1-3)
+    20.00  Millonarios             v Atlético Bucaramanga     0-1 (0-0)
+  Wed May/22
+    18.15  Atlético Bucaramanga    v Millonarios              0-0
+    20.30  Deportivo Pereira       v Atlético Junior          0-0
+  Sat May/25
+    17.00  Deportivo Pereira       v Millonarios              2-2 (0-1)
+    19.30  Atlético Junior         v Atlético Bucaramanga     1-0 (0-0)
+  Sun Jun/2
+    17.00  Millonarios             v Atlético Junior          2-0 (0-0)
+           Atlético Bucaramanga    v Deportivo Pereira        3-1 (1-0)
+
+
+» Apertura Playoffs, Group B
+  Sun May/5
+    17.15  Santa Fe                v Deportes Tolima          1-0 (0-0)
+    19.30  Once Caldas             v La Equidad               2-0 (1-0)
+  Sun May/12
+    17.15  La Equidad              v Santa Fe                 0-2 (0-0)
+    19.30  Deportes Tolima         v Once Caldas              1-1 (1-0)
+  Sat May/18
+    17.15  La Equidad              v Deportes Tolima          2-3 (2-0)
+    19.30  Once Caldas             v Santa Fe                 0-0
+  Thu May/23
+    18.15  Deportes Tolima         v La Equidad               3-0 (2-0)
+    20.30  Santa Fe                v Once Caldas              1-0 (0-0)
+  Sun May/26
+    18.00  Santa Fe                v La Equidad               2-0 (1-0)
+           Once Caldas             v Deportes Tolima          0-1 (0-1)
+  Fri May/31
+    17.00  La Equidad              v Once Caldas              1-2 (1-1)
+  Sun Jun/2
+    19.30  Deportes Tolima         v Santa Fe                 1-2 (0-1)
+
+
+» Apertura Playoffs, Final
+  Sat Jun/8
+    19.30  Atlético Bucaramanga    v Santa Fe                 1-0 (0-0)
+  Sat Jun/15
+    19.30  Santa Fe                v Atlético Bucaramanga     5-6 pen. (3-2, 1-1)
+
+
+» Clausura, Matchday 1
+  Mon Jul/15
+    20.15  Boyacá Chicó            v Once Caldas              0-1 (0-0)
+  Tue Jul/16
+    16.00  Envigado FC             v La Equidad               2-1 (1-1)
+    18.10  Águilas Doradas         v América de Cali          1-2 (1-2)
+    20.20  Deportivo Cali          v Deportivo Pereira        0-2 (0-0)
+  Wed Jul/17
+    18.00  Santa Fe                v Deportivo Pasto          2-1 (2-0)
+    20.10  Alianza FC              v Atlético Nacional        0-2 (0-1)
+  Thu Jul/18
+    18.00  Atlético Bucaramanga    v Atlético Junior          1-0 (0-0)
+    20.10  Independiente Medellín  v Millonarios              1-1 (1-0)
+  Fri Jul/19
+    17.00  Jaguares de Córdoba     v Patriotas FC             0-0
+    19.30  Fortaleza FC            v Deportes Tolima          1-1 (1-1)
+
+
+» Clausura, Matchday 2
+  Sat Jul/20
+    16.00  Envigado FC             v Santa Fe                 0-1 (0-1)
+    18.30  Once Caldas             v Águilas Doradas          1-0 (0-0)
+  Sun Jul/21
+    15.30  Millonarios             v Atlético Bucaramanga     1-0 (0-0)
+    17.45  Atlético Nacional       v América de Cali          2-1 (0-0)
+    20.00  Atlético Junior         v Boyacá Chicó             2-1 (1-1)
+  Mon Jul/22
+    18.00  Deportivo Cali          v Alianza FC               1-0 (1-0)
+    20.00  Deportivo Pereira       v Independiente Medellín   1-1 (1-1)
+  Tue Jul/23
+    16.00  Patriotas FC            v Fortaleza FC             0-2 (0-0)
+    18.10  La Equidad              v Jaguares de Córdoba      1-0 (0-0)
+    20.20  Deportes Tolima         v Deportivo Pasto          2-1 (2-1)
+
+
+» Clausura, Matchday 3
+  Sat Jul/27
+    16.00  Once Caldas             v Atlético Nacional        2-0 (2-0)
+    18.10  Santa Fe                v La Equidad               0-1 (0-1)
+    20.20  Independiente Medellín  v Atlético Junior          0-0
+  Sun Jul/28
+    15.00  Atlético Bucaramanga    v Jaguares de Córdoba      0-0
+    17.30  Alianza FC              v Millonarios              2-1 (0-1)
+  Mon Jul/29
+    18.00  Deportivo Pasto         v Deportivo Pereira        2-0 (1-0)
+    20.10  Fortaleza FC            v Deportivo Cali           2-1 (1-0)
+  Tue Jul/30
+    18.00  Águilas Doradas         v Patriotas FC             3-2 (0-0)
+  Sun Aug/18
+    20.00  Boyacá Chicó            v Envigado FC              0-0
+  Wed Sep/11
+    18.00  América de Cali         v Deportes Tolima          1-0 (1-0)
+
+
+» Clausura, Matchday 4
+  Fri Aug/2
+    20.00  Millonarios             v Deportes Tolima          1-0 (1-0)
+  Sat Aug/3
+    15.00  Envigado FC             v Fortaleza FC             0-1 (0-0)
+    17.00  Jaguares de Córdoba     v Deportivo Pasto          0-0
+    19.20  La Equidad              v Once Caldas              1-1 (0-0)
+  Sun Aug/4
+    15.30  Patriotas FC            v América de Cali          1-1 (0-1)
+    17.45  Atlético Junior         v Alianza FC               2-2 (1-1)
+    20.00  Deportivo Cali          v Independiente Medellín   2-0 (1-0)
+  Mon Aug/5
+    20.00  Atlético Nacional       v Águilas Doradas          1-1 (0-1)
+  Tue Aug/6
+    20.00  Deportivo Pereira       v Boyacá Chicó             1-0 (0-0)
+  Wed Aug/7
+    19.00  Atlético Bucaramanga    v Santa Fe                 0-1 (0-0)
+
+
+» Clausura, Matchday 5
+  Sat Aug/10
+    15.30  Atlético Nacional       v Patriotas FC             3-1 (0-0)
+    17.45  Deportes Tolima         v La Equidad               5-1 (3-1)
+    20.00  Boyacá Chicó            v Deportivo Cali           1-0 (1-0)
+  Sun Aug/11
+    17.45  Once Caldas             v Atlético Bucaramanga     2-1 (0-1)
+    20.00  Alianza FC              v Envigado FC              1-1 (0-0)
+  Mon Aug/12
+    20.00  Fortaleza FC            v Deportivo Pereira        1-0 (0-0)
+  Tue Aug/13
+    19.30  Águilas Doradas         v Jaguares de Córdoba      1-0 (1-0)
+  Wed Aug/28
+    20.30  Deportivo Pasto         v Atlético Junior          1-0 (0-0)
+  Fri Oct/11
+    19.30  América de Cali         v Millonarios              2-1 (1-0)
+  Fri Oct/18
+    19.00  Santa Fe                v Independiente Medellín   1-1 (0-1)
+
+
+» Clausura, Matchday 6
+  Wed Jul/24
+    20.00  Millonarios             v Atlético Nacional        1-2 (0-1)
+  Wed Jul/31
+    20.10  Independiente Medellín  v Boyacá Chicó             1-0 (1-0)
+  Sat Aug/17
+    18.05  Atlético Junior         v Fortaleza FC             2-1 (2-1)
+    20.10  La Equidad              v Águilas Doradas          0-0
+  Sun Aug/18
+    17.45  Atlético Bucaramanga    v América de Cali          1-2 (1-1)
+  Mon Aug/19
+    16.00  Patriotas FC            v Once Caldas              3-1 (3-1)
+    18.15  Jaguares de Córdoba     v Deportes Tolima          0-2 (0-2)
+  Tue Aug/20
+    19.00  Deportivo Cali          v Santa Fe                 1-3 (1-2)
+  Thu Sep/12
+    19.30  Deportivo Pereira       v Alianza FC               1-0 (1-0)
+  Wed Oct/9
+    16.00  Envigado FC             v Deportivo Pasto          0-1 (0-1)
+
+
+» Clausura, Matchday 7
+  Thu Jul/25
+    16.00  América de Cali         v Envigado FC              4-0 (2-0)
+  Fri Aug/23
+    19.30  Deportivo Pasto         v Atlético Bucaramanga     1-2 (0-0)
+  Sat Aug/24
+    15.00  Patriotas FC            v La Equidad               0-0
+    17.15  Alianza FC              v Boyacá Chicó             4-0 (2-0)
+    19.30  Deportes Tolima         v Atlético Junior          0-1 (0-1)
+  Sun Aug/25
+    17.30  Águilas Doradas         v Millonarios              2-1 (1-1)
+    19.40  Once Caldas             v Jaguares de Córdoba      2-0 (2-0)
+  Mon Aug/26
+    20.00  Fortaleza FC            v Independiente Medellín   2-2 (2-0)
+  Thu Oct/3
+    20.10  Santa Fe                v Deportivo Pereira        1-1 (1-1)
+  Wed Oct/9
+    19.30  Atlético Nacional       v Deportivo Cali           1-1 (0-0)
+
+
+» Clausura, Matchday 8
+  Sat Aug/31
+    16.15  Jaguares de Córdoba     v Atlético Nacional        0-2 (0-1)
+    20.00  Boyacá Chicó            v Fortaleza FC             2-2 (1-0)
+  Sun Sep/1
+    15.00  Atlético Bucaramanga    v Deportes Tolima          0-2 (0-1)
+    17.10  Millonarios             v Patriotas FC             3-0 (1-0)
+    19.20  Atlético Junior         v Santa Fe                 1-1 (0-1)
+  Mon Sep/2
+    19.30  Deportivo Cali          v Deportivo Pasto          0-3    [awarded]
+  Tue Sep/3
+    18.00  Deportivo Pereira       v Once Caldas              0-1 (0-0)
+  Thu Oct/10
+    18.30  Independiente Medellín  v Alianza FC               2-0 (1-0)
+  Sun Oct/20
+    15.45  La Equidad              v América de Cali          2-2 (0-1)
+  Thu Oct/24
+    16.00  Envigado FC             v Águilas Doradas          3-0 (1-0)
+
+
+» Clausura, Matchday 9
+  Tue Jul/30
+    20.10  Atlético Nacional       v La Equidad               0-1 (0-1)
+  Sat Sep/7
+    14.00  Patriotas FC            v Envigado FC              2-0 (0-0)
+    16.10  América de Cali         v Jaguares de Córdoba      1-0 (0-0)
+    18.20  Deportes Tolima         v Deportivo Cali           1-1 (1-0)
+  Sun Sep/8
+    15.00  Once Caldas             v Millonarios              1-1 (1-1)
+    17.10  Alianza FC              v Fortaleza FC             1-1 (0-1)
+    19.20  Deportivo Pasto         v Independiente Medellín   1-0 (0-0)
+  Thu Oct/10
+    20.30  Santa Fe                v Boyacá Chicó             3-1 (1-1)
+  Sun Oct/20
+    17.45  Atlético Junior         v Deportivo Pereira        3-1 (0-1)
+    20.00  Águilas Doradas         v Atlético Bucaramanga     1-3 (0-1)
+
+
+» Clausura, Matchday 10
+  Fri Sep/13
+    16.00  Patriotas FC            v Atlético Bucaramanga     1-2 (0-0)
+    18.30  Jaguares de Córdoba     v Envigado FC              2-1 (1-0)
+  Sat Sep/14
+    16.10  Once Caldas             v Deportivo Cali           4-1 (1-0)
+    18.20  Deportes Tolima         v Boyacá Chicó             2-1 (2-1)
+    20.30  Fortaleza FC            v Deportivo Pasto          0-0
+           Águilas Doradas         v Independiente Medellín   1-1 (0-0)
+  Sun Sep/15
+    18.30  América de Cali         v Deportivo Pereira        1-0 (1-0)
+    20.30  La Equidad              v Millonarios              1-3 (0-2)
+  Thu Sep/26
+    18.30  Santa Fe                v Alianza FC               2-0 (0-0)
+    20.30  Atlético Nacional       v Atlético Junior          0-3    [awarded]
+
+
+» Clausura, Matchday 11
+  Fri Sep/20
+    20.00  Deportivo Pereira       v Patriotas FC             0-1 (0-1)
+  Sat Sep/21
+    15.15  Envigado FC             v Once Caldas              0-1 (0-0)
+    17.45  Deportivo Cali          v La Equidad               1-1 (1-0)
+    20.00  Fortaleza FC            v Santa Fe                 1-3 (0-1)
+  Sun Sep/22
+    14.00  Independiente Medellín  v Deportes Tolima          0-1 (0-0)
+    16.10  Boyacá Chicó            v Deportivo Pasto          1-0 (0-0)
+    18.20  Alianza FC              v América de Cali          0-1 (0-0)
+    20.30  Atlético Junior         v Águilas Doradas          3-4 (1-2)
+  Mon Sep/23
+    20.10  Atlético Bucaramanga    v Atlético Nacional        1-0 (0-0)
+  Wed Sep/25
+    20.30  Millonarios             v Jaguares de Córdoba      0-0
+
+
+» Clausura, Matchday 12
+  Fri Sep/27
+    17.15  Águilas Doradas         v Deportivo Pereira        1-1 (1-0)
+  Sat Sep/28
+    14.00  La Equidad              v Atlético Bucaramanga     0-1 (0-1)
+    16.10  Once Caldas             v Independiente Medellín   0-2 (0-1)
+    18.20  América de Cali         v Fortaleza FC             1-1 (0-0)
+    20.30  Millonarios             v Envigado FC              3-0 (1-0)
+  Sun Sep/29
+    14.00  Atlético Nacional       v Boyacá Chicó             6-2 (4-1)
+    16.10  Jaguares de Córdoba     v Atlético Junior          1-1 (1-0)
+    18.20  Deportes Tolima         v Santa Fe                 0-0
+    20.30  Deportivo Pasto         v Alianza FC               1-0 (0-0)
+  Mon Sep/30
+    16.00  Patriotas FC            v Deportivo Cali           2-2 (0-1)
+
+
+» Clausura, Matchday 13
+  Fri Oct/4
+    19.40  Deportivo Cali          v Millonarios              0-1 (0-1)
+  Sat Oct/5
+    14.00  Envigado FC             v Atlético Bucaramanga     0-0
+    16.10  Boyacá Chicó            v América de Cali          0-2 (0-2)
+    18.20  Deportivo Pasto         v Atlético Nacional        1-2 (0-1)
+    20.30  Alianza FC              v Once Caldas              1-0 (1-0)
+  Sun Oct/6
+    15.00  Independiente Medellín  v La Equidad               0-0
+    17.10  Santa Fe                v Águilas Doradas          0-0
+    19.20  Atlético Junior         v Patriotas FC             2-1 (0-1)
+  Mon Oct/7
+    18.00  Fortaleza FC            v Jaguares de Córdoba      3-1 (2-1)
+    20.00  Deportivo Pereira       v Deportes Tolima          1-0 (0-0)
+
+
+» Clausura, Matchday 14
+  Sat Oct/12
+    17.45  La Equidad              v Atlético Junior          1-0 (1-0)
+    20.00  Atlético Bucaramanga    v Deportivo Pereira        1-1 (0-1)
+  Sun Oct/13
+    19.30  Águilas Doradas         v Deportivo Cali           1-1 (0-1)
+  Mon Oct/14
+    14.00  Patriotas FC            v Santa Fe                 1-2 (1-2)
+    16.10  Once Caldas             v Deportivo Pasto          2-1 (1-0)
+    18.20  América de Cali         v Independiente Medellín   1-0 (0-0)
+    20.30  Atlético Nacional       v Envigado FC              2-1 (1-1)
+  Tue Oct/15
+    17.30  Jaguares de Córdoba     v Boyacá Chicó             1-0 (0-0)
+  Wed Oct/16
+    20.05  Millonarios             v Fortaleza FC             2-1 (0-1)
+  Sat Oct/19
+    19.10  Deportes Tolima         v Alianza FC               2-0 (0-0)
+
+
+» Clausura, Matchday 15
+  Fri Oct/25
+    18.30  Deportes Tolima         v Once Caldas              1-1 (0-0)
+  Sat Oct/26
+    17.15  Alianza FC              v Patriotas FC             1-1 (0-0)
+    19.30  Santa Fe                v Millonarios              0-1 (0-0)
+  Sun Oct/27
+    14.00  Fortaleza FC            v Atlético Nacional        0-1 (0-1)
+    16.10  Deportivo Cali          v Atlético Bucaramanga     1-0 (1-0)
+    18.20  Atlético Junior         v América de Cali          3-1 (1-0)
+  Mon Oct/28
+    20.15  Independiente Medellín  v Jaguares de Córdoba      4-1 (2-0)
+  Tue Oct/29
+    16.00  Boyacá Chicó            v La Equidad               1-0 (0-0)
+    18.05  Deportivo Pasto         v Águilas Doradas          3-1 (1-1)
+    20.10  Deportivo Pereira       v Envigado FC              2-0 (0-0)
+
+
+» Clausura, Matchday 16
+  Fri Nov/1
+    17.00  Jaguares de Córdoba     v Deportivo Pereira        1-2 (0-2)
+    20.00  Once Caldas             v Fortaleza FC             0-2 (0-1)
+  Sat Nov/2
+    14.00  La Equidad              v Alianza FC               3-2 (1-1)
+    16.00  Envigado FC             v Atlético Junior          0-0
+    18.30  Águilas Doradas         v Deportes Tolima          0-1 (0-0)
+  Sun Nov/3
+    14.00  Patriotas FC            v Boyacá Chicó             3-0 (2-0)
+    16.10  América de Cali         v Deportivo Cali           0-1 (0-0)
+    18.20  Millonarios             v Deportivo Pasto          1-0 (0-0)
+    20.30  Atlético Bucaramanga    v Independiente Medellín   2-3 (2-0)
+  Mon Nov/4
+    20.15  Atlético Nacional       v Santa Fe                 1-1 (1-1)
+
+
+» Clausura, Matchday 17
+  Tue Nov/5
+    19.30  Fortaleza FC            v La Equidad               2-1 (0-1)
+  Wed Nov/6
+    14.30  Boyacá Chicó            v Atlético Bucaramanga     1-1 (0-1)
+    16.30  Alianza FC              v Águilas Doradas          3-0 (1-0)
+    18.30  Deportes Tolima         v Envigado FC              3-0 (2-0)
+    20.30  Deportivo Cali          v Jaguares de Córdoba      1-2 (1-0)
+           Independiente Medellín  v Patriotas FC             3-0 (1-0)
+  Thu Nov/7
+    16.50  Atlético Junior         v Millonarios              0-0
+    18.45  Deportivo Pasto         v América de Cali          3-1 (1-1)
+    20.45  Deportivo Pereira       v Atlético Nacional        1-1 (1-1)
+  Fri Nov/8
+    20.20  Santa Fe                v Once Caldas              2-1 (0-1)
+
+
+» Clausura, Matchday 18
+  Sat Nov/9
+    20.20  Atlético Bucaramanga    v Fortaleza FC             1-0 (0-0)
+  Sun Nov/10
+    14.00  Patriotas FC            v Deportes Tolima          2-1 (2-1)
+    16.10  Envigado FC             v Deportivo Cali           1-0 (0-0)
+           Jaguares de Córdoba     v Alianza FC               0-0
+    18.20  Águilas Doradas         v Boyacá Chicó             0-1 (0-1)
+    20.30  Millonarios             v Deportivo Pereira        0-0
+  Mon Nov/11
+    14.00  La Equidad              v Deportivo Pasto          2-2 (0-0)
+    16.10  Atlético Nacional       v Independiente Medellín   1-1 (0-0)
+    18.20  Once Caldas             v Atlético Junior          0-0
+    20.30  América de Cali         v Santa Fe                 0-0
+
+
+» Clausura, Matchday 19
+  Thu Nov/14
+    19.00  Atlético Junior         v Deportivo Cali           3-0 (1-0)
+           América de Cali         v Once Caldas              3-0 (0-0)
+           Alianza FC              v Atlético Bucaramanga     0-4 (0-3)
+           Santa Fe                v Jaguares de Córdoba      3-0 (1-0)
+           Fortaleza FC            v Águilas Doradas          0-1 (0-1)
+           Boyacá Chicó            v Millonarios              1-5 (0-4)
+           Deportivo Pasto         v Patriotas FC             3-2 (2-1)
+           Deportivo Pereira       v La Equidad               4-3 (3-2)
+           Deportes Tolima         v Atlético Nacional        1-0 (1-0)
+           Independiente Medellín  v Envigado FC              1-0 (1-0)
+
+
+» Clausura Playoffs, Group A
+  Wed Nov/20
+    18.30  Millonarios             v Deportivo Pasto          2-1 (0-0)
+    20.30  Atlético Nacional       v Santa Fe                 5-0 (3-0)
+  Sun Nov/24
+    15.00  Deportivo Pasto         v Atlético Nacional        0-1 (0-1)
+  Tue Nov/26
+    20.00  Santa Fe                v Millonarios              0-1 (0-1)
+  Fri Nov/29
+    18.30  Deportivo Pasto         v Santa Fe                 1-0 (0-0)
+    20.30  Millonarios             v Atlético Nacional        2-1 (1-1)
+  Mon Dec/2
+    18.30  Santa Fe                v Deportivo Pasto          1-2 (1-0)
+    20.30  Atlético Nacional       v Millonarios              1-1 (1-0)
+  Thu Dec/5
+    18.30  Atlético Nacional       v Deportivo Pasto          2-1 (0-0)
+    20.30  Millonarios             v Santa Fe                 1-1 (1-0)
+  Sun Dec/8
+    19.00  Deportivo Pasto         v Millonarios              0-0
+           Santa Fe                v Atlético Nacional        0-3 (0-2)
+
+
+» Clausura Playoffs, Group B
+  Thu Nov/21
+    18.30  Once Caldas             v Deportes Tolima          0-0
+    20.30  Atlético Junior         v América de Cali          1-0 (1-0)
+  Sun Nov/24
+    17.10  América de Cali         v Once Caldas              1-1 (1-1)
+    19.20  Deportes Tolima         v Atlético Junior          1-0 (1-0)
+  Wed Nov/27
+    18.30  Deportes Tolima         v América de Cali          1-0 (0-0)
+    20.30  Once Caldas             v Atlético Junior          2-2 (2-1)
+  Sun Dec/1
+    16.00  América de Cali         v Deportes Tolima          4-2 (1-1)
+    18.30  Atlético Junior         v Once Caldas              1-2 (1-0)
+  Wed Dec/4
+    18.30  Once Caldas             v América de Cali          3-0 (1-0)
+    20.30  Atlético Junior         v Deportes Tolima          3-2 (2-0)
+  Sun Dec/8
+    16.30  América de Cali         v Atlético Junior          1-0 (1-0)
+           Deportes Tolima         v Once Caldas              1-0 (1-0)
+
+
+» Clausura Playoffs, Final
+  Wed Dec/18
+    19.30  Deportes Tolima         v Atlético Nacional        1-1 (0-1)
+  Sun Dec/22
+    18.00  Atlético Nacional       v Deportes Tolima          2-0 (2-0)

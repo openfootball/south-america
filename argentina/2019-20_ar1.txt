@@ -6,447 +6,435 @@
 
 
 
-Matchday 1
-[Fri Jul/26]
-  21.00  Racing Club              0-0  Unión de Santa Fe
-[Sat Jul/27]
-  15.30  San Lorenzo              3-2 (1-0)  Godoy Cruz
-  17.45  Lanús                    1-1 (1-0)  Gimnasia de La Plata
-  20.00  Argentinos Juniors       1-1 (1-0)  River Plate
-  13.15  Colón de Santa Fe        0-1 (0-1)  Patronato de Paraná
-[Sun Jul/28]
-  11.00  Estudiantes              1-0 (1-0)  Aldosivi
-  13.15  Newell's Old Boys        2-0 (1-0)  Central Córdoba SdE
-  15.30  Talleres de Córdoba      1-0 (0-0)  Vélez Sarsfield
-  17.45  Defensa y Justicia       0-1 (0-1)  Independiente
-  20.00  Boca Juniors             0-0  Huracán
-[Mon Jul/29]
-  21.10  Atlético Tucumán         1-2 (0-1)  Rosario Central
-  19.00  Arsenal de Sarandí       1-0 (1-0)  Banfield
+» Matchday 1
+  Fri Jul/26 2019
+    21.00  Racing Club             v Unión de Santa Fe        0-0
+  Sat Jul/27
+    13.15  Colón de Santa Fe       v Patronato de Paraná      0-1 (0-1)
+    15.30  San Lorenzo             v Godoy Cruz               3-2 (1-0)
+    17.45  Lanús                   v Gimnasia de La Plata     1-1 (1-0)
+    20.00  Argentinos Juniors      v River Plate              1-1 (1-0)
+  Sun Jul/28
+    11.00  Estudiantes             v Aldosivi                 1-0 (1-0)
+    13.15  Newell's Old Boys       v Central Córdoba SdE      2-0 (1-0)
+    15.30  Talleres de Córdoba     v Vélez Sarsfield          1-0 (0-0)
+    17.45  Defensa y Justicia      v Independiente            0-1 (0-1)
+    20.00  Boca Juniors            v Huracán                  0-0
+  Mon Jul/29
+    19.00  Arsenal de Sarandí      v Banfield                 1-0 (1-0)
+    21.10  Atlético Tucumán        v Rosario Central          1-2 (0-1)
 
 
-Matchday 2
-[Fri Aug/2]
-  21.00  Huracán                  2-0 (0-0)  Colón de Santa Fe
-[Sat Aug/3]
-  13.15  Aldosivi                 0-0  Argentinos Juniors
-  15.30  Rosario Central          1-0 (0-0)  Talleres de Córdoba
-  17.45  Central Córdoba SdE      1-0 (1-0)  Atlético Tucumán
-  20.00  Vélez Sarsfield          2-2 (2-0)  Racing Club
-[Sun Aug/4]
-  11.00  Unión de Santa Fe        2-1 (1-0)  Defensa y Justicia
-  13.15  Gimnasia de La Plata     0-1 (0-0)  San Lorenzo
-  15.30  Banfield                 1-0 (1-0)  Estudiantes
-  17.45  River Plate              3-0 (2-0)  Lanús
-  20.00  Patronato de Paraná      0-2 (0-2)  Boca Juniors
-[Mon Aug/5]
-  21.10  Godoy Cruz               0-2 (0-1)  Arsenal de Sarandí
+» Matchday 2
+  Fri Aug/2
+    21.00  Huracán                 v Colón de Santa Fe        2-0 (0-0)
+  Sat Aug/3
+    13.15  Aldosivi                v Argentinos Juniors       0-0
+    15.30  Rosario Central         v Talleres de Córdoba      1-0 (0-0)
+    17.45  Central Córdoba SdE     v Atlético Tucumán         1-0 (1-0)
+    20.00  Vélez Sarsfield         v Racing Club              2-2 (2-0)
+  Sun Aug/4
+    11.00  Unión de Santa Fe       v Defensa y Justicia       2-1 (1-0)
+    13.15  Gimnasia de La Plata    v San Lorenzo              0-1 (0-0)
+    15.30  Banfield                v Estudiantes              1-0 (1-0)
+    17.45  River Plate             v Lanús                    3-0 (2-0)
+    20.00  Patronato de Paraná     v Boca Juniors             0-2 (0-2)
+  Mon Aug/5
+    21.10  Godoy Cruz              v Arsenal de Sarandí       0-2 (0-1)
+  Fri Dec/13
+    17.10  Independiente           v Newell's Old Boys        2-3 (2-1)
 
 
-Matchday 3
-[Fri Aug/16]
-  19.00  Argentinos Juniors       3-2 (2-1)  Banfield
-  21.10  Talleres de Córdoba      1-1 (1-0)  Central Córdoba SdE
-[Sat Aug/17]
-  20.00  Racing Club              1-6 (1-3)  River Plate
-  15.30  Newell's Old Boys        2-0 (0-0)  Unión de Santa Fe
-  17.45  San Lorenzo              2-2 (2-2)  Rosario Central
-[Sun Aug/18]
-  20.00  Boca Juniors             2-0 (1-0)  Aldosivi
-  11.00  Patronato de Paraná      2-1 (1-0)  Huracán
-  15.30  Defensa y Justicia       0-3 (0-2)  Arsenal de Sarandí
-  17.45  Lanús                    3-1 (0-0)  Vélez Sarsfield
-[Mon Aug/19]
-  15.30  Atlético Tucumán         1-0 (0-0)  Godoy Cruz
-  17.45  Colón de Santa Fe        2-1 (1-0)  Gimnasia de La Plata
-  20.00  Estudiantes              3-0 (0-0)  Independiente
+» Matchday 3
+  Fri Aug/16
+    19.00  Argentinos Juniors      v Banfield                 3-2 (2-1)
+    21.10  Talleres de Córdoba     v Central Córdoba SdE      1-1 (1-0)
+  Sat Aug/17
+    15.30  Newell's Old Boys       v Unión de Santa Fe        2-0 (0-0)
+    17.45  San Lorenzo             v Rosario Central          2-2 (2-2)
+    20.00  Racing Club             v River Plate              1-6 (1-3)
+  Sun Aug/18
+    11.00  Patronato de Paraná     v Huracán                  2-1 (1-0)
+    15.30  Defensa y Justicia      v Arsenal de Sarandí       0-3 (0-2)
+    17.45  Lanús                   v Vélez Sarsfield          3-1 (0-0)
+    20.00  Boca Juniors            v Aldosivi                 2-0 (1-0)
+  Mon Aug/19
+    15.30  Atlético Tucumán        v Godoy Cruz               1-0 (0-0)
+    17.45  Colón de Santa Fe       v Gimnasia de La Plata     2-1 (1-0)
+    20.00  Estudiantes             v Independiente            3-0 (0-0)
 
 
-Matchday 4
-[Fri Aug/23]
-  21.00  Arsenal de Sarandí       0-2 (0-2)  San Lorenzo
-[Sat Aug/24]
-  20.00  Independiente            2-0 (1-0)  Colón de Santa Fe
-  13.15  Gimnasia de La Plata     0-1 (0-0)  Defensa y Justicia
-  15.30  Vélez Sarsfield          3-1 (1-1)  Newell's Old Boys
-  17.45  Rosario Central          1-1 (1-0)  Patronato de Paraná
-[Sun Aug/25]
-  11.00  Godoy Cruz               2-1 (0-1)  Estudiantes
-  13.15  Unión de Santa Fe        1-2 (0-1)  Lanús
-  15.30  Central Córdoba SdE      0-0  Racing Club
-  17.45  River Plate              0-1 (0-0)  Talleres de Córdoba
-  20.00  Banfield                 0-1 (0-1)  Boca Juniors
-[Mon Aug/26]
-  19.00  Aldosivi                 3-0 (0-0)  Atlético Tucumán
-  21.10  Huracán                  0-0  Argentinos Juniors
+» Matchday 4
+  Fri Aug/23
+    21.00  Arsenal de Sarandí      v San Lorenzo              0-2 (0-2)
+  Sat Aug/24
+    13.15  Gimnasia de La Plata    v Defensa y Justicia       0-1 (0-0)
+    15.30  Vélez Sarsfield         v Newell's Old Boys        3-1 (1-1)
+    17.45  Rosario Central         v Patronato de Paraná      1-1 (1-0)
+    20.00  Independiente           v Colón de Santa Fe        2-0 (1-0)
+  Sun Aug/25
+    11.00  Godoy Cruz              v Estudiantes              2-1 (0-1)
+    13.15  Unión de Santa Fe       v Lanús                    1-2 (0-1)
+    15.30  Central Córdoba SdE     v Racing Club              0-0
+    17.45  River Plate             v Talleres de Córdoba      0-1 (0-0)
+    20.00  Banfield                v Boca Juniors             0-1 (0-1)
+  Mon Aug/26
+    19.00  Aldosivi                v Atlético Tucumán         3-0 (0-0)
+    21.10  Huracán                 v Argentinos Juniors       0-0
 
 
-Matchday 5
-[Fri Aug/30]
-  19.00  Lanús                    1-0 (1-0)  Central Córdoba SdE
-  21.10  Defensa y Justicia       0-0  Banfield
-         Estudiantes              0-1 (0-1)  Vélez Sarsfield
-[Sat Aug/31]
-  13.15  Argentinos Juniors       1-0 (1-0)  Gimnasia de La Plata
-  15.30  San Lorenzo              2-1 (2-1)  Unión de Santa Fe
-  17.45  Patronato de Paraná      1-0 (1-0)  Independiente
-  20.00  Racing Club              3-1 (3-1)  Godoy Cruz
-[Sun Sep/1]
-  11.00  Colón de Santa Fe        1-1 (1-1)  Rosario Central
-  17.00  River Plate              0-0  Boca Juniors
-  11.00  Atlético Tucumán         1-0 (1-0)  Arsenal de Sarandí
-  13.15  Newell's Old Boys        4-1 (2-1)  Huracán
-         Talleres de Córdoba      2-1 (2-1)  Aldosivi
+» Matchday 5
+  Fri Aug/30
+    19.00  Lanús                   v Central Córdoba SdE      1-0 (1-0)
+    21.10  Estudiantes             v Vélez Sarsfield          0-1 (0-1)
+           Defensa y Justicia      v Banfield                 0-0
+  Sat Aug/31
+    13.15  Argentinos Juniors      v Gimnasia de La Plata     1-0 (1-0)
+    15.30  San Lorenzo             v Unión de Santa Fe        2-1 (2-1)
+    17.45  Patronato de Paraná     v Independiente            1-0 (1-0)
+    20.00  Racing Club             v Godoy Cruz               3-1 (3-1)
+  Sun Sep/1
+    11.00  Colón de Santa Fe       v Rosario Central          1-1 (1-1)
+           Atlético Tucumán        v Arsenal de Sarandí       1-0 (1-0)
+    13.15  Newell's Old Boys       v Huracán                  4-1 (2-1)
+           Talleres de Córdoba     v Aldosivi                 2-1 (2-1)
+    17.00  River Plate             v Boca Juniors             0-0
 
 
-Matchday 6
-[Sat Sep/14]
-  20.00  Huracán                  0-4 (0-3)  River Plate
-  13.15  Arsenal de Sarandí       4-1 (2-0)  Unión de Santa Fe
-  15.30  Central Córdoba SdE      1-2 (0-0)  Defensa y Justicia
-         Godoy Cruz               0-1 (0-1)  Argentinos Juniors
-  17.45  Colón de Santa Fe        2-1 (1-0)  San Lorenzo
-[Sun Sep/15]
-  20.00  Boca Juniors             1-0 (1-0)  Estudiantes
-  11.00  Gimnasia de La Plata     1-2 (0-1)  Racing Club
-  13.15  Banfield                 0-1 (0-1)  Talleres de Córdoba
-  15.30  Rosario Central          1-1 (0-0)  Newell's Old Boys
-  17.45  Independiente            2-2 (1-0)  Lanús
-[Mon Sep/16]
-  19.00  Aldosivi                 1-1 (0-0)  Patronato de Paraná
-  21.10  Vélez Sarsfield          1-0 (1-0)  Atlético Tucumán
+» Matchday 6
+  Sat Sep/14
+    13.15  Arsenal de Sarandí      v Unión de Santa Fe        4-1 (2-0)
+    15.30  Central Córdoba SdE     v Defensa y Justicia       1-2 (0-0)
+           Godoy Cruz              v Argentinos Juniors       0-1 (0-1)
+    17.45  Colón de Santa Fe       v San Lorenzo              2-1 (1-0)
+    20.00  Huracán                 v River Plate              0-4 (0-3)
+  Sun Sep/15
+    11.00  Gimnasia de La Plata    v Racing Club              1-2 (0-1)
+    13.15  Banfield                v Talleres de Córdoba      0-1 (0-1)
+    15.30  Rosario Central         v Newell's Old Boys        1-1 (0-0)
+    17.45  Independiente           v Lanús                    2-2 (1-0)
+    20.00  Boca Juniors            v Estudiantes              1-0 (1-0)
+  Mon Sep/16
+    19.00  Aldosivi                v Patronato de Paraná      1-1 (0-0)
+    21.10  Vélez Sarsfield         v Atlético Tucumán         1-0 (1-0)
 
 
-Matchday 7
-[Fri Sep/20]
-  19.00  Unión de Santa Fe        0-0  Rosario Central
-  21.10  Argentinos Juniors       3-1 (0-0)  Central Córdoba SdE
-[Sat Sep/21]
-  15.30  Defensa y Justicia       0-1 (0-0)  Huracán
-  13.15  Estudiantes              1-0 (1-0)  Patronato de Paraná
-  17.45  San Lorenzo              0-2 (0-1)  Boca Juniors
-  20.00  Atlético Tucumán         0-1 (0-0)  Independiente
-[Sun Sep/22]
-  20.00  River Plate              1-2 (0-1)  Vélez Sarsfield
-  11.00  Newell's Old Boys        2-0 (1-0)  Aldosivi
-  13.15  Godoy Cruz               0-2 (0-1)  Banfield
-  15.30  Lanús                    3-2 (3-0)  Colón de Santa Fe
-  17.45  Racing Club              2-1 (1-0)  Arsenal de Sarandí
-[Mon Sep/23]
-  21.00  Talleres de Córdoba      2-1 (1-0)  Gimnasia de La Plata
+» Matchday 7
+  Fri Sep/20
+    19.00  Unión de Santa Fe       v Rosario Central          0-0
+    21.10  Argentinos Juniors      v Central Córdoba SdE      3-1 (0-0)
+  Sat Sep/21
+    13.15  Estudiantes             v Patronato de Paraná      1-0 (1-0)
+    15.30  Defensa y Justicia      v Huracán                  0-1 (0-0)
+    17.45  San Lorenzo             v Boca Juniors             0-2 (0-1)
+    20.00  Atlético Tucumán        v Independiente            0-1 (0-0)
+  Sun Sep/22
+    11.00  Newell's Old Boys       v Aldosivi                 2-0 (1-0)
+    13.15  Godoy Cruz              v Banfield                 0-2 (0-1)
+    15.30  Lanús                   v Colón de Santa Fe        3-2 (3-0)
+    17.45  Racing Club             v Arsenal de Sarandí       2-1 (1-0)
+    20.00  River Plate             v Vélez Sarsfield          1-2 (0-1)
+  Mon Sep/23
+    21.00  Talleres de Córdoba     v Gimnasia de La Plata     2-1 (1-0)
 
 
-Matchday 8
-[Fri Sep/27]
-  19.00  Aldosivi                 1-2 (0-1)  Unión de Santa Fe
-  21.10  Patronato de Paraná      1-1 (1-0)  Lanús
-[Sat Sep/28]
-  15.30  Arsenal de Sarandí       3-0 (2-0)  Estudiantes
-  17.45  Gimnasia de La Plata     0-2 (0-1)  River Plate
-  20.00  Boca Juniors             1-1 (1-0)  Newell's Old Boys
-[Sun Sep/29]
-  11.00  Banfield                 0-1 (0-1)  San Lorenzo
-  17.45  Rosario Central          1-1 (1-1)  Racing Club
-  13.15  Huracán                  0-0  Atlético Tucumán
-  15.30  Vélez Sarsfield          0-1 (0-0)  Defensa y Justicia
-  20.00  Independiente            3-2 (2-0)  Talleres de Córdoba
-[Mon Sep/30]
-  21.10  Colón de Santa Fe        1-0 (1-0)  Argentinos Juniors
-  19.00  Central Córdoba SdE      1-0 (0-0)  Godoy Cruz
+» Matchday 8
+  Fri Sep/27
+    19.00  Aldosivi                v Unión de Santa Fe        1-2 (0-1)
+    21.10  Patronato de Paraná     v Lanús                    1-1 (1-0)
+  Sat Sep/28
+    15.30  Arsenal de Sarandí      v Estudiantes              3-0 (2-0)
+    17.45  Gimnasia de La Plata    v River Plate              0-2 (0-1)
+    20.00  Boca Juniors            v Newell's Old Boys        1-1 (1-0)
+  Sun Sep/29
+    11.00  Banfield                v San Lorenzo              0-1 (0-1)
+    13.15  Huracán                 v Atlético Tucumán         0-0
+    15.30  Vélez Sarsfield         v Defensa y Justicia       0-1 (0-0)
+    17.45  Rosario Central         v Racing Club              1-1 (1-1)
+    20.00  Independiente           v Talleres de Córdoba      3-2 (2-0)
+  Mon Sep/30
+    19.00  Central Córdoba SdE     v Godoy Cruz               1-0 (0-0)
+    21.10  Colón de Santa Fe       v Argentinos Juniors       1-0 (1-0)
 
 
-Matchday 9
-[Fri Oct/4]
-  21.10  Atlético Tucumán         2-1 (1-0)  Talleres de Córdoba
-  19.00  Newell's Old Boys        0-0  Banfield
-[Sat Oct/5]
-  20.00  Racing Club              2-0 (1-0)  Aldosivi
-  13.15  Argentinos Juniors       2-1 (1-1)  Arsenal de Sarandí
-         Godoy Cruz               2-4 (1-2)  Gimnasia de La Plata
-  15.30  San Lorenzo              1-4 (0-1)  Central Córdoba SdE
-  17.45  Estudiantes              0-0  Huracán
-[Sun Oct/6]
-  11.00  Vélez Sarsfield          2-0 (1-0)  Independiente
-  13.15  Lanús                    1-1 (0-0)  Rosario Central
-  15.30  Unión de Santa Fe        1-0 (0-0)  Colón de Santa Fe
-  17.45  River Plate              2-0 (0-0)  Patronato de Paraná
-  20.00  Defensa y Justicia       0-1 (0-1)  Boca Juniors
+» Matchday 9
+  Fri Oct/4
+    19.00  Newell's Old Boys       v Banfield                 0-0
+    21.10  Atlético Tucumán        v Talleres de Córdoba      2-1 (1-0)
+  Sat Oct/5
+    13.15  Argentinos Juniors      v Arsenal de Sarandí       2-1 (1-1)
+           Godoy Cruz              v Gimnasia de La Plata     2-4 (1-2)
+    15.30  San Lorenzo             v Central Córdoba SdE      1-4 (0-1)
+    17.45  Estudiantes             v Huracán                  0-0
+    20.00  Racing Club             v Aldosivi                 2-0 (1-0)
+  Sun Oct/6
+    11.00  Vélez Sarsfield         v Independiente            2-0 (1-0)
+    13.15  Lanús                   v Rosario Central          1-1 (0-0)
+    15.30  Unión de Santa Fe       v Colón de Santa Fe        1-0 (0-0)
+    17.45  River Plate             v Patronato de Paraná      2-0 (0-0)
+    20.00  Defensa y Justicia      v Boca Juniors             0-1 (0-1)
 
 
-Matchday 10
-[Fri Oct/18]
-  21.10  Boca Juniors             0-1 (0-1)  Racing Club
-  19.00  Arsenal de Sarandí       3-3 (2-0)  River Plate
-[Sat Oct/19]
-  20.00  Talleres de Córdoba      2-4 (1-2)  Lanús
-  13.15  Banfield                 1-2 (1-1)  Atlético Tucumán
-  15.30  Independiente            0-1 (0-0)  Argentinos Juniors
-  17.45  Patronato de Paraná      1-3 (0-1)  Newell's Old Boys
-[Sun Oct/20]
-  17.45  Rosario Central          0-1 (0-0)  Vélez Sarsfield
-  11.00  Aldosivi                 1-0 (1-0)  Defensa y Justicia
-  13.15  Gimnasia de La Plata     0-1 (0-0)  Unión de Santa Fe
-  15.30  Huracán                  2-0 (1-0)  San Lorenzo
-[Mon Oct/21]
-  19.00  Central Córdoba SdE      0-1 (0-0)  Estudiantes
-  21.20  Colón de Santa Fe        2-1 (2-1)  Godoy Cruz
+» Matchday 10
+  Fri Oct/18
+    19.00  Arsenal de Sarandí      v River Plate              3-3 (2-0)
+    21.10  Boca Juniors            v Racing Club              0-1 (0-1)
+  Sat Oct/19
+    13.15  Banfield                v Atlético Tucumán         1-2 (1-1)
+    15.30  Independiente           v Argentinos Juniors       0-1 (0-0)
+    17.45  Patronato de Paraná     v Newell's Old Boys        1-3 (0-1)
+    20.00  Talleres de Córdoba     v Lanús                    2-4 (1-2)
+  Sun Oct/20
+    11.00  Aldosivi                v Defensa y Justicia       1-0 (1-0)
+    13.15  Gimnasia de La Plata    v Unión de Santa Fe        0-1 (0-0)
+    15.30  Huracán                 v San Lorenzo              2-0 (1-0)
+    17.45  Rosario Central         v Vélez Sarsfield          0-1 (0-0)
+  Mon Oct/21
+    19.00  Central Córdoba SdE     v Estudiantes              0-1 (0-0)
+    21.20  Colón de Santa Fe       v Godoy Cruz               2-1 (2-1)
 
 
-Matchday 11
-[Tue Oct/29]
-  15.00  Godoy Cruz               3-2 (1-2)  Aldosivi
-  17.00  Estudiantes              3-0 (1-0)  Rosario Central
-  19.10  Newell's Old Boys        0-4 (0-1)  Gimnasia de La Plata
-  21.20  River Plate              2-1 (0-0)  Colón de Santa Fe
-  19.10  Atlético Tucumán         2-0 (1-0)  Patronato de Paraná
-[Wed Oct/30]
-  21.20  Racing Club              0-0  Banfield
-  15.00  Argentinos Juniors       1-0 (0-0)  Talleres de Córdoba
-  17.00  San Lorenzo              1-3 (1-2)  Defensa y Justicia
-  19.10  Unión de Santa Fe        2-2 (0-2)  Independiente
-[Thu Oct/31]
-  21.20  Lanús                    2-1 (1-1)  Boca Juniors
-  17.00  Arsenal de Sarandí       2-2 (1-1)  Central Córdoba SdE
-  19.10  Vélez Sarsfield          0-0  Huracán
+» Matchday 11
+  Tue Oct/29
+    15.00  Godoy Cruz              v Aldosivi                 3-2 (1-2)
+    17.00  Estudiantes             v Rosario Central          3-0 (1-0)
+    19.10  Newell's Old Boys       v Gimnasia de La Plata     0-4 (0-1)
+           Atlético Tucumán        v Patronato de Paraná      2-0 (1-0)
+    21.20  River Plate             v Colón de Santa Fe        2-1 (0-0)
+  Wed Oct/30
+    15.00  Argentinos Juniors      v Talleres de Córdoba      1-0 (0-0)
+    17.00  San Lorenzo             v Defensa y Justicia       1-3 (1-2)
+    19.10  Unión de Santa Fe       v Independiente            2-2 (0-2)
+    21.20  Racing Club             v Banfield                 0-0
+  Thu Oct/31
+    17.00  Arsenal de Sarandí      v Central Córdoba SdE      2-2 (1-1)
+    19.10  Vélez Sarsfield         v Huracán                  0-0
+    21.20  Lanús                   v Boca Juniors             2-1 (1-1)
 
 
-Matchday 12
-[Sat Nov/2]
-  20.00  Aldosivi                 1-2 (0-1)  River Plate
-  13.15  Colón de Santa Fe        0-2 (0-1)  Atlético Tucumán
-  15.30  Gimnasia de La Plata     0-1 (0-0)  Estudiantes
-  17.45  Rosario Central          5-2 (3-1)  Godoy Cruz
-[Sun Nov/3]
-  20.00  Independiente            2-1 (1-0)  San Lorenzo
-  11.00  Boca Juniors             5-1 (2-0)  Arsenal de Sarandí
-  13.15  Banfield                 3-3 (1-1)  Unión de Santa Fe
-  15.30  Talleres de Córdoba      1-0 (0-0)  Newell's Old Boys
-  17.45  Patronato de Paraná      1-1 (0-1)  Racing Club
-[Mon Nov/4]
-  19.00  Defensa y Justicia       0-0  Argentinos Juniors
-  21.10  Huracán                  0-1 (0-0)  Lanús
-         Central Córdoba SdE      0-0  Vélez Sarsfield
+» Matchday 12
+  Sat Nov/2
+    13.15  Colón de Santa Fe       v Atlético Tucumán         0-2 (0-1)
+    15.30  Gimnasia de La Plata    v Estudiantes              0-1 (0-0)
+    17.45  Rosario Central         v Godoy Cruz               5-2 (3-1)
+    20.00  Aldosivi                v River Plate              1-2 (0-1)
+  Sun Nov/3
+    11.00  Boca Juniors            v Arsenal de Sarandí       5-1 (2-0)
+    13.15  Banfield                v Unión de Santa Fe        3-3 (1-1)
+    15.30  Talleres de Córdoba     v Newell's Old Boys        1-0 (0-0)
+    17.45  Patronato de Paraná     v Racing Club              1-1 (0-1)
+    20.00  Independiente           v San Lorenzo              2-1 (1-0)
+  Mon Nov/4
+    19.00  Defensa y Justicia      v Argentinos Juniors       0-0
+    21.10  Huracán                 v Lanús                    0-1 (0-0)
+           Central Córdoba SdE     v Vélez Sarsfield          0-0
 
 
-Matchday 13
-[Fri Nov/8]
-  19.00  Estudiantes              1-0 (1-0)  Talleres de Córdoba
-  21.10  Unión de Santa Fe        0-1 (0-1)  Atlético Tucumán
-[Sat Nov/9]
-  17.45  San Lorenzo              3-0 (3-0)  Argentinos Juniors
-  15.30  Lanús                    0-1 (0-0)  Banfield
-  20.00  Godoy Cruz               1-2 (1-0)  Independiente
-  21.10  Central Córdoba SdE      3-2 (0-1)  Patronato de Paraná
-[Sun Nov/10]
-  13.15  Aldosivi                 0-3 (0-2)  Gimnasia de La Plata
-  11.00  River Plate              0-1 (0-0)  Rosario Central
-  17.45  Racing Club              1-0 (0-0)  Huracán
-  15.30  Newell's Old Boys        2-0 (2-0)  Defensa y Justicia
-  20.00  Vélez Sarsfield          0-0  Boca Juniors
+» Matchday 13
+  Fri Nov/8
+    19.00  Estudiantes             v Talleres de Córdoba      1-0 (1-0)
+    21.10  Unión de Santa Fe       v Atlético Tucumán         0-1 (0-1)
+  Sat Nov/9
+    15.30  Lanús                   v Banfield                 0-1 (0-0)
+    17.45  San Lorenzo             v Argentinos Juniors       3-0 (3-0)
+    20.00  Godoy Cruz              v Independiente            1-2 (1-0)
+    21.10  Central Córdoba SdE     v Patronato de Paraná      3-2 (0-1)
+  Sun Nov/10
+    11.00  River Plate             v Rosario Central          0-1 (0-0)
+    13.15  Aldosivi                v Gimnasia de La Plata     0-3 (0-2)
+    15.30  Newell's Old Boys       v Defensa y Justicia       2-0 (2-0)
+    17.45  Racing Club             v Huracán                  1-0 (0-0)
+    20.00  Vélez Sarsfield         v Boca Juniors             0-0
+  Thu Dec/12
+    21.00  Arsenal de Sarandí      v Colón de Santa Fe        2-1 (0-0)
 
 
-Matchday 14
-[Sat Nov/23]
-  19.40  Huracán                  1-1 (0-0)  Central Córdoba SdE
-  21.45  Atlético Tucumán         2-2 (1-0)  San Lorenzo
-  19.40  Defensa y Justicia       2-0 (1-0)  Lanús
-[Sun Nov/24]
-  19.40  Banfield                 1-0 (0-0)  Vélez Sarsfield
-  17.10  Boca Juniors             2-0 (1-0)  Unión de Santa Fe
-  19.40  Gimnasia de La Plata     0-1 (0-1)  Arsenal de Sarandí
-  21.45  Talleres de Córdoba      3-3 (2-2)  Racing Club
-[Mon Nov/25]
-  21.10  Rosario Central          5-1 (1-1)  Aldosivi
-         Argentinos Juniors       1-0 (0-0)  Newell's Old Boys
-  19.00  Colón de Santa Fe        3-2 (1-2)  Estudiantes
-         Patronato de Paraná      0-2 (0-0)  Godoy Cruz
+» Matchday 14
+  Sat Nov/23
+    19.40  Huracán                 v Central Córdoba SdE      1-1 (0-0)
+           Defensa y Justicia      v Lanús                    2-0 (1-0)
+    21.45  Atlético Tucumán        v San Lorenzo              2-2 (1-0)
+  Sun Nov/24
+    17.10  Boca Juniors            v Unión de Santa Fe        2-0 (1-0)
+    19.40  Gimnasia de La Plata    v Arsenal de Sarandí       0-1 (0-1)
+           Banfield                v Vélez Sarsfield          1-0 (0-0)
+    21.45  Talleres de Córdoba     v Racing Club              3-3 (2-2)
+  Mon Nov/25
+    19.00  Colón de Santa Fe       v Estudiantes              3-2 (1-2)
+           Patronato de Paraná     v Godoy Cruz               0-2 (0-0)
+    21.10  Argentinos Juniors      v Newell's Old Boys        1-0 (0-0)
+           Rosario Central         v Aldosivi                 5-1 (1-1)
+  Sun Jan/19 2020
+    19.10  Independiente           v River Plate              1-2 (0-1)
 
 
-Matchday 15
-[Fri Nov/29]
-  19.00  Banfield                 1-1 (1-1)  Gimnasia de La Plata
-  21.10  Racing Club              1-1 (1-1)  Defensa y Justicia
-[Sat Nov/30]
-  17.35  Estudiantes              1-1 (0-0)  Atlético Tucumán
-  19.40  Boca Juniors             1-1 (1-0)  Argentinos Juniors
-  21.45  Newell's Old Boys        2-3 (2-1)  River Plate
-[Sun Dec/1]
-  21.45  Aldosivi                 0-0  Independiente
-         Central Córdoba SdE      1-1 (0-0)  Rosario Central
-  17.10  San Lorenzo              2-0 (2-0)  Patronato de Paraná
-  19.40  Godoy Cruz               0-5 (0-2)  Talleres de Córdoba
-         Vélez Sarsfield          3-1 (2-1)  Colón de Santa Fe
-[Mon Dec/2]
-  21.10  Unión de Santa Fe        1-0 (1-0)  Huracán
-  19.00  Arsenal de Sarandí       1-1 (0-0)  Lanús
+» Matchday 15
+  Fri Nov/29 2019
+    19.00  Banfield                v Gimnasia de La Plata     1-1 (1-1)
+    21.10  Racing Club             v Defensa y Justicia       1-1 (1-1)
+  Sat Nov/30
+    17.35  Estudiantes             v Atlético Tucumán         1-1 (0-0)
+    19.40  Boca Juniors            v Argentinos Juniors       1-1 (1-0)
+    21.45  Newell's Old Boys       v River Plate              2-3 (2-1)
+  Sun Dec/1
+    17.10  San Lorenzo             v Patronato de Paraná      2-0 (2-0)
+    19.40  Vélez Sarsfield         v Colón de Santa Fe        3-1 (2-1)
+           Godoy Cruz              v Talleres de Córdoba      0-5 (0-2)
+    21.45  Aldosivi                v Independiente            0-0
+           Central Córdoba SdE     v Rosario Central          1-1 (0-0)
+  Mon Dec/2
+    19.00  Arsenal de Sarandí      v Lanús                    1-1 (0-0)
+    21.10  Unión de Santa Fe       v Huracán                  1-0 (1-0)
 
 
-Matchday 16
-[Fri Dec/6]
-  19.00  Colón de Santa Fe        0-2 (0-1)  Aldosivi
-  21.10  Independiente            0-1 (0-0)  Banfield
-[Sat Dec/7]
-  19.40  Atlético Tucumán         2-2 (1-1)  Newell's Old Boys
-  21.45  Lanús                    1-0 (0-0)  Racing Club
-  19.40  Talleres de Córdoba      0-0  Unión de Santa Fe
-  17.35  Huracán                  0-2 (0-0)  Arsenal de Sarandí
-[Sun Dec/8]
-  21.45  River Plate              0-1 (0-1)  San Lorenzo
-  17.35  Defensa y Justicia       2-0 (1-0)  Godoy Cruz
-         Gimnasia de La Plata     2-1 (0-1)  Central Córdoba SdE
-  19.40  Rosario Central          1-0 (1-0)  Boca Juniors
-[Mon Dec/9]
-  21.10  Argentinos Juniors       1-1 (1-0)  Estudiantes
-  19.00  Patronato de Paraná      0-1 (0-1)  Vélez Sarsfield
+» Matchday 16
+  Fri Dec/6
+    19.00  Colón de Santa Fe       v Aldosivi                 0-2 (0-1)
+    21.10  Independiente           v Banfield                 0-1 (0-0)
+  Sat Dec/7
+    17.35  Huracán                 v Arsenal de Sarandí       0-2 (0-0)
+    19.40  Talleres de Córdoba     v Unión de Santa Fe        0-0
+           Atlético Tucumán        v Newell's Old Boys        2-2 (1-1)
+    21.45  Lanús                   v Racing Club              1-0 (0-0)
+  Sun Dec/8
+    17.35  Gimnasia de La Plata    v Central Córdoba SdE      2-1 (0-1)
+           Defensa y Justicia      v Godoy Cruz               2-0 (1-0)
+    19.40  Rosario Central         v Boca Juniors             1-0 (1-0)
+    21.45  River Plate             v San Lorenzo              0-1 (0-1)
+  Mon Dec/9
+    19.00  Patronato de Paraná     v Vélez Sarsfield          0-1 (0-1)
+    21.10  Argentinos Juniors      v Estudiantes              1-1 (1-0)
 
 
-Matchday 13
-[Thu Dec/12]
-  21.00  Arsenal de Sarandí       2-1 (0-0)  Colón de Santa Fe
+» Matchday 17
+  Fri Jan/24 2020
+    17.35  Aldosivi                v Lanús                    2-0 (1-0)
+    19.40  Gimnasia de La Plata    v Vélez Sarsfield          0-0
+    21.45  Rosario Central         v Huracán                  2-1 (0-0)
+           Unión de Santa Fe       v Argentinos Juniors       1-0 (1-0)
+  Sat Jan/25
+    17.35  Arsenal de Sarandí      v Newell's Old Boys        1-1 (1-1)
+    19.40  San Lorenzo             v Estudiantes              1-1 (0-0)
+           Central Córdoba SdE     v Colón de Santa Fe        1-0 (0-0)
+    21.45  Godoy Cruz              v River Plate              0-1 (0-1)
+  Sun Jan/26
+    17.35  Banfield                v Patronato de Paraná      3-3 (0-1)
+           Defensa y Justicia      v Talleres de Córdoba      4-1 (1-0)
+    19.40  Racing Club             v Atlético Tucumán         1-1 (1-0)
+    21.45  Boca Juniors            v Independiente            0-0
 
 
-Matchday 2
-[Fri Dec/13]
-  17.10  Independiente            2-3 (2-1)  Newell's Old Boys
+» Matchday 18
+  Thu Jan/30
+    21.10  Vélez Sarsfield         v Aldosivi                 1-1 (1-0)
+  Fri Jan/31
+    21.10  Huracán                 v Gimnasia de La Plata     1-1 (1-1)
+  Sat Feb/1
+    17.35  Independiente           v Rosario Central          5-0 (3-0)
+    19.40  Estudiantes             v Unión de Santa Fe        3-1 (1-0)
+           Atlético Tucumán        v Defensa y Justicia       1-1 (1-0)
+    21.45  Argentinos Juniors      v Racing Club              1-1 (1-0)
+  Sun Feb/2
+    17.35  River Plate             v Central Córdoba SdE      2-0 (1-0)
+    19.40  Lanús                   v Godoy Cruz               2-0 (0-0)
+           Colón de Santa Fe       v Banfield                 0-1 (0-0)
+    21.45  Talleres de Córdoba     v Boca Juniors             1-2 (0-1)
+  Mon Feb/3
+    19.00  Patronato de Paraná     v Arsenal de Sarandí       2-2 (0-2)
+    21.10  Newell's Old Boys       v San Lorenzo              1-0 (0-0)
 
 
-Matchday 14
-[Sun Jan/19]
-  19.10  Independiente            1-2 (0-1)  River Plate
+» Matchday 19
+  Fri Feb/7
+    19.00  Aldosivi                v Central Córdoba SdE      0-2 (0-1)
+    21.10  Argentinos Juniors      v Lanús                    0-0
+  Sat Feb/8
+    17.35  Gimnasia de La Plata    v Patronato de Paraná      1-1 (1-0)
+           Defensa y Justicia      v Colón de Santa Fe        0-0
+    19.40  Banfield                v Rosario Central          1-1 (0-0)
+           Newell's Old Boys       v Estudiantes              0-0
+    21.45  Boca Juniors            v Atlético Tucumán         2-0 (1-0)
+  Sun Feb/9
+    17.35  San Lorenzo             v Vélez Sarsfield          1-0 (1-0)
+    19.40  Racing Club             v Independiente            1-0 (0-0)
+    21.45  Unión de Santa Fe       v River Plate              1-2 (0-0)
+  Mon Feb/10
+    19.00  Arsenal de Sarandí      v Talleres de Córdoba      1-1 (0-1)
+    21.10  Godoy Cruz              v Huracán                  2-1 (1-0)
 
 
-Matchday 17
-[Fri Jan/24]
-  19.40  Gimnasia de La Plata     0-0  Vélez Sarsfield
-  21.45  Rosario Central          2-1 (0-0)  Huracán
-         Unión de Santa Fe        1-0 (1-0)  Argentinos Juniors
-  17.35  Aldosivi                 2-0 (1-0)  Lanús
-[Sat Jan/25]
-  17.35  Arsenal de Sarandí       1-1 (1-1)  Newell's Old Boys
-  19.40  San Lorenzo              1-1 (0-0)  Estudiantes
-         Central Córdoba SdE      1-0 (0-0)  Colón de Santa Fe
-  21.45  Godoy Cruz               0-1 (0-1)  River Plate
-[Sun Jan/26]
-  17.35  Defensa y Justicia       4-1 (1-0)  Talleres de Córdoba
-  19.40  Racing Club              1-1 (1-0)  Atlético Tucumán
-  21.45  Boca Juniors             0-0  Independiente
-  17.35  Banfield                 3-3 (0-1)  Patronato de Paraná
+» Matchday 20
+  Fri Feb/14
+    19.00  Patronato de Paraná     v Unión de Santa Fe        1-0 (0-0)
+    21.10  Colón de Santa Fe       v Racing Club              1-1 (0-0)
+  Sat Feb/15
+    17.35  Huracán                 v Aldosivi                 0-2 (0-1)
+    19.40  Atlético Tucumán        v Argentinos Juniors       0-2 (0-0)
+    19.45  Rosario Central         v Gimnasia de La Plata     1-0 (1-0)
+    21.50  Talleres de Córdoba     v San Lorenzo              1-0 (0-0)
+  Sun Feb/16
+    19.40  River Plate             v Banfield                 1-0 (1-0)
+           Lanús                   v Newell's Old Boys        1-1 (0-0)
+    21.50  Central Córdoba SdE     v Boca Juniors             0-4 (0-2)
+  Mon Feb/17
+    19.00  Estudiantes             v Defensa y Justicia       1-2 (0-1)
+    21.10  Independiente           v Arsenal de Sarandí       1-1 (0-1)
+  Wed Mar/4
+    19.00  Vélez Sarsfield         v Godoy Cruz               0-1 (0-1)
 
 
-Matchday 18
-[Thu Jan/30]
-  21.10  Vélez Sarsfield          1-1 (1-0)  Aldosivi
-[Fri Jan/31]
-  21.10  Huracán                  1-1 (1-1)  Gimnasia de La Plata
-[Sat Feb/1]
-  17.35  Independiente            5-0 (3-0)  Rosario Central
-  19.40  Estudiantes              3-1 (1-0)  Unión de Santa Fe
-         Atlético Tucumán         1-1 (1-0)  Defensa y Justicia
-  21.45  Argentinos Juniors       1-1 (1-0)  Racing Club
-[Sun Feb/2]
-  19.40  Lanús                    2-0 (0-0)  Godoy Cruz
-         Colón de Santa Fe        0-1 (0-0)  Banfield
-  21.45  Talleres de Córdoba      1-2 (0-1)  Boca Juniors
-  17.35  River Plate              2-0 (1-0)  Central Córdoba SdE
-[Mon Feb/3]
-  21.10  Newell's Old Boys        1-0 (0-0)  San Lorenzo
-  19.00  Patronato de Paraná      2-2 (0-2)  Arsenal de Sarandí
+» Matchday 21
+  Fri Feb/21
+    19.00  Banfield                v Aldosivi                 0-1 (0-1)
+    21.10  Argentinos Juniors      v Patronato de Paraná      1-1 (1-1)
+  Sat Feb/22
+    17.35  San Lorenzo             v Racing Club              0-1 (0-1)
+    19.40  Independiente           v Gimnasia de La Plata     0-1 (0-0)
+    21.45  Newell's Old Boys       v Colón de Santa Fe        4-0 (2-0)
+    21.50  Atlético Tucumán        v Lanús                    2-2 (1-0)
+  Sun Feb/23
+    17.35  Arsenal de Sarandí      v Vélez Sarsfield          0-4 (0-2)
+    19.40  Boca Juniors            v Godoy Cruz               3-0 (1-0)
+    21.45  Estudiantes             v River Plate              0-2 (0-1)
+  Mon Feb/24
+    19.40  Defensa y Justicia      v Rosario Central          3-0 (2-0)
+    21.45  Unión de Santa Fe       v Central Córdoba SdE      0-0
+    21.50  Talleres de Córdoba     v Huracán                  4-2 (2-1)
 
 
-Matchday 19
-[Fri Feb/7]
-  21.10  Argentinos Juniors       0-0  Lanús
-  19.00  Aldosivi                 0-2 (0-1)  Central Córdoba SdE
-[Sat Feb/8]
-  17.35  Gimnasia de La Plata     1-1 (1-0)  Patronato de Paraná
-         Defensa y Justicia       0-0  Colón de Santa Fe
-  19.40  Banfield                 1-1 (0-0)  Rosario Central
-         Newell's Old Boys        0-0  Estudiantes
-  21.45  Boca Juniors             2-0 (1-0)  Atlético Tucumán
-[Sun Feb/9]
-  19.40  Racing Club              1-0 (0-0)  Independiente
-  21.45  Unión de Santa Fe        1-2 (0-0)  River Plate
-  17.35  San Lorenzo              1-0 (1-0)  Vélez Sarsfield
-[Mon Feb/10]
-  19.00  Arsenal de Sarandí       1-1 (0-1)  Talleres de Córdoba
-  21.10  Godoy Cruz               2-1 (1-0)  Huracán
+» Matchday 22
+  Fri Feb/28
+    19.00  Racing Club             v Newell's Old Boys        1-1 (1-0)
+    21.10  Colón de Santa Fe       v Boca Juniors             0-4 (0-0)
+  Sat Feb/29
+    17.30  Gimnasia de La Plata    v Atlético Tucumán         1-0 (0-0)
+    19.40  River Plate             v Defensa y Justicia       1-1 (0-1)
+    21.50  Central Córdoba SdE     v Banfield                 1-1 (0-1)
+           Godoy Cruz              v Unión de Santa Fe        1-3 (1-1)
+  Sun Mar/1
+    17.35  Aldosivi                v San Lorenzo              1-3 (0-1)
+    19.40  Lanús                   v Estudiantes              1-1 (0-0)
+    19.45  Rosario Central         v Arsenal de Sarandí       3-1 (1-0)
+    21.50  Vélez Sarsfield         v Argentinos Juniors       2-0 (1-0)
+  Mon Mar/2
+    19.00  Patronato de Paraná     v Talleres de Córdoba      3-2 (2-0)
+    21.10  Huracán                 v Independiente            1-0 (0-0)
 
 
-Matchday 20
-[Fri Feb/14]
-  21.10  Colón de Santa Fe        1-1 (0-0)  Racing Club
-  19.00  Patronato de Paraná      1-0 (0-0)  Unión de Santa Fe
-[Sat Feb/15]
-  19.40  Atlético Tucumán         0-2 (0-0)  Argentinos Juniors
-  19.45  Rosario Central          1-0 (1-0)  Gimnasia de La Plata
-  21.50  Talleres de Córdoba      1-0 (0-0)  San Lorenzo
-  17.35  Huracán                  0-2 (0-1)  Aldosivi
-[Sun Feb/16]
-  19.40  River Plate              1-0 (1-0)  Banfield
-         Lanús                    1-1 (0-0)  Newell's Old Boys
-  21.50  Central Córdoba SdE      0-4 (0-2)  Boca Juniors
-[Mon Feb/17]
-  21.10  Independiente            1-1 (0-1)  Arsenal de Sarandí
-  19.00  Estudiantes              1-2 (0-1)  Defensa y Justicia
-
-
-Matchday 21
-[Fri Feb/21]
-  19.00  Banfield                 0-1 (0-1)  Aldosivi
-  21.10  Argentinos Juniors       1-1 (1-1)  Patronato de Paraná
-[Sat Feb/22]
-  21.50  Atlético Tucumán         2-2 (1-0)  Lanús
-  17.35  San Lorenzo              0-1 (0-1)  Racing Club
-  19.40  Independiente            0-1 (0-0)  Gimnasia de La Plata
-  21.45  Newell's Old Boys        4-0 (2-0)  Colón de Santa Fe
-[Sun Feb/23]
-  17.35  Arsenal de Sarandí       0-4 (0-2)  Vélez Sarsfield
-  19.40  Boca Juniors             3-0 (1-0)  Godoy Cruz
-  21.45  Estudiantes              0-2 (0-1)  River Plate
-[Mon Feb/24]
-  21.50  Talleres de Córdoba      4-2 (2-1)  Huracán
-  19.40  Defensa y Justicia       3-0 (2-0)  Rosario Central
-  21.45  Unión de Santa Fe        0-0  Central Córdoba SdE
-
-
-Matchday 22
-[Fri Feb/28]
-  19.00  Racing Club              1-1 (1-0)  Newell's Old Boys
-  21.10  Colón de Santa Fe        0-4 (0-0)  Boca Juniors
-[Sat Feb/29]
-  17.30  Gimnasia de La Plata     1-0 (0-0)  Atlético Tucumán
-  21.50  Central Córdoba SdE      1-1 (0-1)  Banfield
-  19.40  River Plate              1-1 (0-1)  Defensa y Justicia
-  21.50  Godoy Cruz               1-3 (1-1)  Unión de Santa Fe
-[Sun Mar/1]
-  19.45  Rosario Central          3-1 (1-0)  Arsenal de Sarandí
-  17.35  Aldosivi                 1-3 (0-1)  San Lorenzo
-  19.40  Lanús                    1-1 (0-0)  Estudiantes
-  21.50  Vélez Sarsfield          2-0 (1-0)  Argentinos Juniors
-[Mon Mar/2]
-  19.00  Patronato de Paraná      3-2 (2-0)  Talleres de Córdoba
-  21.10  Huracán                  1-0 (0-0)  Independiente
-
-
-Matchday 20
-[Wed Mar/4]
-  19.00  Vélez Sarsfield          0-1 (0-1)  Godoy Cruz
-
-
-Matchday 23
-[Fri Mar/6]
-  21.10  Argentinos Juniors       2-1 (1-1)  Rosario Central
-  19.00  Arsenal de Sarandí       4-0 (2-0)  Aldosivi
-[Sat Mar/7]
-  18.00  Defensa y Justicia       2-0 (0-0)  Patronato de Paraná
-  21.00  Boca Juniors             1-0 (0-0)  Gimnasia de La Plata
-         Atlético Tucumán         1-1 (1-1)  River Plate
-  18.00  Banfield                 0-3 (0-1)  Huracán
-[Sun Mar/8]
-  17.35  San Lorenzo              4-3 (1-1)  Lanús
-  19.40  Independiente            3-0 (0-0)  Central Córdoba SdE
-  21.45  Newell's Old Boys        0-2 (0-0)  Godoy Cruz
-  21.50  Talleres de Córdoba      2-0 (0-0)  Colón de Santa Fe
-[Mon Mar/9]
-  21.10  Estudiantes              1-2 (0-1)  Racing Club
-  19.00  Unión de Santa Fe        0-3 (0-2)  Vélez Sarsfield
+» Matchday 23
+  Fri Mar/6
+    19.00  Arsenal de Sarandí      v Aldosivi                 4-0 (2-0)
+    21.10  Argentinos Juniors      v Rosario Central          2-1 (1-1)
+  Sat Mar/7
+    18.00  Banfield                v Huracán                  0-3 (0-1)
+           Defensa y Justicia      v Patronato de Paraná      2-0 (0-0)
+    21.00  Boca Juniors            v Gimnasia de La Plata     1-0 (0-0)
+           Atlético Tucumán        v River Plate              1-1 (1-1)
+  Sun Mar/8
+    17.35  San Lorenzo             v Lanús                    4-3 (1-1)
+    19.40  Independiente           v Central Córdoba SdE      3-0 (0-0)
+    21.45  Newell's Old Boys       v Godoy Cruz               0-2 (0-0)
+    21.50  Talleres de Córdoba     v Colón de Santa Fe        2-0 (0-0)
+  Mon Mar/9
+    19.00  Unión de Santa Fe       v Vélez Sarsfield          0-3 (0-2)
+    21.10  Estudiantes             v Racing Club              1-2 (0-1)

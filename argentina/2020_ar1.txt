@@ -3,226 +3,283 @@
 # Date       Fri Oct/30 2020 - Wed Mar/31 2021 (152d)
 # Teams      24
 # Matches    135
-# Stages     Regular Season (72)  Fase Complementación (31)  Fase Campeón (31)  Copa Sud (1)
+# Stages     Regular Season (72)  Copa Sud (1)  Fase Campeón (31)  Fase Complementación (31)
 
 
-# Regular Season
 
-Group
-[Fri Oct/30]
-  21.15  Talleres de Córdoba      3-1 (0-0)  Newell's Old Boys
-  19.00  Gimnasia de La Plata     3-0 (1-0)  Patronato de Paraná
-[Sat Oct/31]
-  21.15  Lanús                    1-2 (1-1)  Boca Juniors
-  18.45  Argentinos Juniors       0-0  San Lorenzo
-  14.00  Aldosivi                 0-0  Estudiantes
-  16.15  Vélez Sarsfield          1-1 (0-1)  Huracán
-[Sun Nov/1]
-  16.15  Racing Club              1-4 (0-2)  Atlético Tucumán
-  18.45  Central Córdoba SdE      0-1 (0-1)  Independiente
-  11.00  Defensa y Justicia       0-3 (0-1)  Colón de Santa Fe
-  14.00  Unión de Santa Fe        0-0  Arsenal de Sarandí
-[Mon Nov/2]
-  21.15  Rosario Central          2-1 (1-0)  Godoy Cruz
-[Tue Nov/3]
-  21.00  River Plate              1-3 (1-2)  Banfield
-[Fri Nov/6]
-  19.00  Patronato de Paraná      1-2 (0-1)  Huracán
-  21.15  Argentinos Juniors       0-1 (0-0)  Aldosivi
-[Sat Nov/7]
-  18.30  San Lorenzo              2-0 (1-0)  Estudiantes
-  16.00  Banfield                 1-0 (0-0)  Godoy Cruz
-  21.15  River Plate              2-1 (1-0)  Rosario Central
-[Sun Nov/8]
-  21.15  Newell's Old Boys        0-2 (0-1)  Boca Juniors
-  11.00  Arsenal de Sarandí       1-2 (0-1)  Atlético Tucumán
-  16.15  Gimnasia de La Plata     2-2 (0-1)  Vélez Sarsfield
-  18.45  Unión de Santa Fe        2-0 (1-0)  Racing Club
-[Mon Nov/9]
-  17.00  Independiente            1-1 (0-1)  Colón de Santa Fe
-  21.30  Central Córdoba SdE      2-2 (2-2)  Defensa y Justicia
-  19.15  Talleres de Córdoba      1-1 (0-1)  Lanús
-[Fri Nov/13]
-  21.15  Atlético Tucumán         3-1 (0-0)  Unión de Santa Fe
-  19.00  Rosario Central          2-4 (1-2)  Banfield
-[Sat Nov/14]
-  16.15  Lanús                    2-4 (0-1)  Newell's Old Boys
-  14.00  Aldosivi                 1-4 (0-3)  San Lorenzo
-  18.45  Racing Club              0-2 (0-2)  Arsenal de Sarandí
-  21.15  Godoy Cruz               0-1 (0-0)  River Plate
-[Sun Nov/15]
-  18.45  Defensa y Justicia       0-0  Independiente
-  21.15  Boca Juniors             0-1 (0-0)  Talleres de Córdoba
-  16.15  Estudiantes              0-1 (0-0)  Argentinos Juniors
-  14.00  Huracán                  3-2 (1-1)  Gimnasia de La Plata
-[Mon Nov/16]
-  19.00  Vélez Sarsfield          1-0 (0-0)  Patronato de Paraná
-  21.15  Colón de Santa Fe        2-0 (1-0)  Central Córdoba SdE
-[Thu Nov/19]
-  21.15  Atlético Tucumán         2-0 (1-0)  Racing Club
-[Fri Nov/20]
-  17.10  Arsenal de Sarandí       2-3 (1-1)  Unión de Santa Fe
-  21.30  Banfield                 0-2 (0-0)  River Plate
-  19.20  Boca Juniors             1-2 (0-2)  Lanús
-[Sat Nov/21]
-  17.10  Colón de Santa Fe        2-0 (1-0)  Defensa y Justicia
-  21.30  Independiente            0-0  Central Córdoba SdE
-  19.20  Huracán                  1-2 (1-2)  Vélez Sarsfield
-[Sun Nov/22]
-  17.10  Estudiantes              0-1 (0-1)  Aldosivi
-  21.30  San Lorenzo              2-0 (1-0)  Argentinos Juniors
-  19.20  Patronato de Paraná      0-0  Gimnasia de La Plata
-[Mon Nov/23]
-  21.15  Newell's Old Boys        1-1 (1-0)  Talleres de Córdoba
-  19.00  Godoy Cruz               0-1 (0-1)  Rosario Central
-[Sat Nov/28]
-  21.30  Rosario Central          0-2 (0-1)  River Plate
-         Godoy Cruz               0-0  Banfield
-  19.20  Vélez Sarsfield          0-1 (0-1)  Gimnasia de La Plata
-         Colón de Santa Fe        1-2 (0-0)  Independiente
-  17.10  Racing Club              1-0 (1-0)  Unión de Santa Fe
-[Sun Nov/29]
-  21.30  Lanús                    1-0 (0-0)  Talleres de Córdoba
-  19.20  Boca Juniors             2-0 (2-0)  Newell's Old Boys
-  17.10  Defensa y Justicia       2-3 (1-2)  Central Córdoba SdE
-  21.30  Huracán                  1-0 (1-0)  Patronato de Paraná
-[Mon Nov/30]
-  21.30  Estudiantes              0-0  San Lorenzo
-  17.10  Aldosivi                 1-4 (0-2)  Argentinos Juniors
-  19.20  Atlético Tucumán         3-2 (0-0)  Arsenal de Sarandí
-[Fri Dec/4]
-  19.20  Central Córdoba SdE      0-2 (0-1)  Colón de Santa Fe
-  21.30  Banfield                 1-1 (1-1)  Rosario Central
-[Sat Dec/5]
-  21.30  River Plate              3-1 (2-0)  Godoy Cruz
-  17.10  Unión de Santa Fe        3-5 (1-2)  Atlético Tucumán
-  19.20  Patronato de Paraná      0-0  Vélez Sarsfield
-         Gimnasia de La Plata     0-0  Huracán
-  17.10  Arsenal de Sarandí       1-0 (1-0)  Racing Club
-[Sun Dec/6]
-  21.30  Newell's Old Boys        3-1 (1-1)  Lanús
-  19.10  Independiente            1-0 (1-0)  Defensa y Justicia
-  21.30  Talleres de Córdoba      0-0  Boca Juniors
-[Mon Dec/7]
-  19.10  San Lorenzo              0-0  Aldosivi
-         Argentinos Juniors       1-0 (1-0)  Estudiantes
+» Group A
+  Sun Nov/1 2020
+    14.00  Unión de Santa Fe       v Arsenal de Sarandí       0-0
+    16.15  Racing Club             v Atlético Tucumán         1-4 (0-2)
+  Sun Nov/8
+    11.00  Arsenal de Sarandí      v Atlético Tucumán         1-2 (0-1)
+    18.45  Unión de Santa Fe       v Racing Club              2-0 (1-0)
+  Fri Nov/13
+    21.15  Atlético Tucumán        v Unión de Santa Fe        3-1 (0-0)
+  Sat Nov/14
+    18.45  Racing Club             v Arsenal de Sarandí       0-2 (0-2)
+  Thu Nov/19
+    21.15  Atlético Tucumán        v Racing Club              2-0 (1-0)
+  Fri Nov/20
+    17.10  Arsenal de Sarandí      v Unión de Santa Fe        2-3 (1-1)
+  Sat Nov/28
+    17.10  Racing Club             v Unión de Santa Fe        1-0 (1-0)
+  Mon Nov/30
+    19.20  Atlético Tucumán        v Arsenal de Sarandí       3-2 (0-0)
+  Sat Dec/5
+    17.10  Arsenal de Sarandí      v Racing Club              1-0 (1-0)
+           Unión de Santa Fe       v Atlético Tucumán         3-5 (1-2)
 
 
-== Fase Complementación
-
-Group
-[Fri Dec/11]
-  21.10  Vélez Sarsfield          2-1 (0-0)  Racing Club
-[Sat Dec/12]
-  17.10  Newell's Old Boys        1-0 (1-0)  Estudiantes
-[Sun Dec/13]
-  17.10  Aldosivi                 1-2 (0-1)  Lanús
-         Unión de Santa Fe        1-3 (1-2)  Defensa y Justicia
-[Mon Dec/14]
-  17.10  Rosario Central          4-0 (1-0)  Patronato de Paraná
-  19.20  Central Córdoba SdE      1-1 (1-1)  Godoy Cruz
-[Sat Dec/19]
-  19.10  Godoy Cruz               0-3 (0-2)  Newell's Old Boys
-  17.10  Patronato de Paraná      0-1 (0-0)  Aldosivi
-[Sun Dec/20]
-  17.10  Lanús                    1-1 (1-1)  Defensa y Justicia
-  19.20  Estudiantes              1-1 (0-1)  Racing Club
-[Mon Dec/21]
-  19.20  Central Córdoba SdE      0-2 (0-1)  Vélez Sarsfield
-         Rosario Central          2-2 (2-1)  Unión de Santa Fe
-[Sun Dec/27]
-  17.10  Defensa y Justicia       2-1 (2-1)  Patronato de Paraná
-         Racing Club              6-1 (0-1)  Godoy Cruz
-[Mon Dec/28]
-  19.20  Vélez Sarsfield          2-3 (2-3)  Estudiantes
-  17.10  Newell's Old Boys        3-1 (0-0)  Central Córdoba SdE
-[Tue Dec/29]
-  19.20  Unión de Santa Fe        2-0 (1-0)  Lanús
-  17.10  Aldosivi                 0-1 (0-1)  Rosario Central
-[Sat Jan/2]
-  17.30  Rosario Central          3-0 (1-0)  Defensa y Justicia
-[Sun Jan/3]
-  19.20  Patronato de Paraná      1-1 (0-0)  Lanús
-         Newell's Old Boys        0-1 (0-0)  Vélez Sarsfield
-  21.30  Central Córdoba SdE      2-2 (1-1)  Racing Club
-[Mon Jan/4]
-  17.10  Aldosivi                 1-3 (0-1)  Unión de Santa Fe
-[Tue Jan/5]
-  19.20  Godoy Cruz               1-0 (1-0)  Estudiantes
-[Sat Jan/9]
-  17.10  Lanús                    2-0 (2-0)  Rosario Central
-         Unión de Santa Fe        1-2 (1-2)  Patronato de Paraná
-  19.20  Racing Club              3-1 (2-1)  Newell's Old Boys
-         Vélez Sarsfield          3-2 (2-1)  Godoy Cruz
-[Mon Jan/11]
-  21.30  Estudiantes              1-2 (1-0)  Central Córdoba SdE
-[Thu Jan/14]
-  17.45  Defensa y Justicia       4-4 (3-2)  Aldosivi
+» Group B
+  Sun Nov/1
+    11.00  Defensa y Justicia      v Colón de Santa Fe        0-3 (0-1)
+    18.45  Central Córdoba SdE     v Independiente            0-1 (0-1)
+  Mon Nov/9
+    17.00  Independiente           v Colón de Santa Fe        1-1 (0-1)
+    21.30  Central Córdoba SdE     v Defensa y Justicia       2-2 (2-2)
+  Sun Nov/15
+    18.45  Defensa y Justicia      v Independiente            0-0
+  Mon Nov/16
+    21.15  Colón de Santa Fe       v Central Córdoba SdE      2-0 (1-0)
+  Sat Nov/21
+    17.10  Colón de Santa Fe       v Defensa y Justicia       2-0 (1-0)
+    21.30  Independiente           v Central Córdoba SdE      0-0
+  Sat Nov/28
+    19.20  Colón de Santa Fe       v Independiente            1-2 (0-0)
+  Sun Nov/29
+    17.10  Defensa y Justicia      v Central Córdoba SdE      2-3 (1-2)
+  Fri Dec/4
+    19.20  Central Córdoba SdE     v Colón de Santa Fe        0-2 (0-1)
+  Sun Dec/6
+    19.10  Independiente           v Defensa y Justicia       1-0 (1-0)
 
 
-Final
-[Sat Jan/16]
-  22.10  Rosario Central          1-3 (1-1)  Vélez Sarsfield
+» Group C
+  Mon Nov/2
+    21.15  Rosario Central         v Godoy Cruz               2-1 (1-0)
+  Tue Nov/3
+    21.00  River Plate             v Banfield                 1-3 (1-2)
+  Sat Nov/7
+    16.00  Banfield                v Godoy Cruz               1-0 (0-0)
+    21.15  River Plate             v Rosario Central          2-1 (1-0)
+  Fri Nov/13
+    19.00  Rosario Central         v Banfield                 2-4 (1-2)
+  Sat Nov/14
+    21.15  Godoy Cruz              v River Plate              0-1 (0-0)
+  Fri Nov/20
+    21.30  Banfield                v River Plate              0-2 (0-0)
+  Mon Nov/23
+    19.00  Godoy Cruz              v Rosario Central          0-1 (0-1)
+  Sat Nov/28
+    21.30  Godoy Cruz              v Banfield                 0-0
+           Rosario Central         v River Plate              0-2 (0-1)
+  Fri Dec/4
+    21.30  Banfield                v Rosario Central          1-1 (1-1)
+  Sat Dec/5
+    21.30  River Plate             v Godoy Cruz               3-1 (2-0)
 
 
-== Fase Campeón
-
-Group
-[Sat Dec/12]
-  19.20  Boca Juniors             1-1 (1-0)  Arsenal de Sarandí
-  21.30  San Lorenzo              0-2 (0-1)  Talleres de Córdoba
-  17.10  Colón de Santa Fe        0-2 (0-1)  Gimnasia de La Plata
-[Sun Dec/13]
-  21.30  Huracán                  3-2 (1-2)  Independiente
-  19.20  River Plate              1-1 (1-0)  Argentinos Juniors
-[Mon Dec/14]
-  21.30  Atlético Tucumán         0-2 (0-2)  Banfield
-[Fri Dec/18]
-  21.10  Arsenal de Sarandí       0-1 (0-1)  Argentinos Juniors
-[Sat Dec/19]
-  19.20  San Lorenzo              2-2 (1-0)  Colón de Santa Fe
-  21.30  Talleres de Córdoba      1-1 (0-1)  Atlético Tucumán
-[Sun Dec/20]
-  21.30  Huracán                  1-3 (0-2)  River Plate
-  19.20  Independiente            1-2 (1-0)  Boca Juniors
-[Mon Dec/21]
-  21.30  Banfield                 2-1 (1-0)  Gimnasia de La Plata
-[Sun Dec/27]
-  19.20  Boca Juniors             3-0 (2-0)  Huracán
-  21.30  River Plate              2-1 (0-0)  Arsenal de Sarandí
-[Mon Dec/28]
-  21.30  Gimnasia de La Plata     2-2 (0-1)  Talleres de Córdoba
-         Colón de Santa Fe        1-2 (1-0)  Banfield
-  19.20  Argentinos Juniors       0-2 (0-1)  Independiente
-[Tue Dec/29]
-  21.30  Atlético Tucumán         1-3 (0-1)  San Lorenzo
-[Sat Jan/2]
-  21.30  Boca Juniors             2-2 (1-0)  River Plate
-[Sun Jan/3]
-  17.10  Independiente            3-4 (1-1)  Arsenal de Sarandí
-[Mon Jan/4]
-  21.30  Talleres de Córdoba      3-2 (2-1)  Banfield
-  19.20  San Lorenzo              1-2 (0-0)  Gimnasia de La Plata
-[Tue Jan/5]
-  19.20  Huracán                  0-1 (0-0)  Argentinos Juniors
-  21.30  Atlético Tucumán         0-2 (0-0)  Colón de Santa Fe
-[Sat Jan/9]
-  21.30  River Plate              0-2 (0-2)  Independiente
-         Argentinos Juniors       2-2 (1-1)  Boca Juniors
-[Sun Jan/10]
-  21.30  Banfield                 4-1 (1-0)  San Lorenzo
-         Gimnasia de La Plata     0-1 (0-0)  Atlético Tucumán
-  19.20  Arsenal de Sarandí       1-0 (1-0)  Huracán
-  21.30  Colón de Santa Fe        1-2 (0-1)  Talleres de Córdoba
+» Group D
+  Fri Oct/30
+    21.15  Talleres de Córdoba     v Newell's Old Boys        3-1 (0-0)
+  Sat Oct/31
+    21.15  Lanús                   v Boca Juniors             1-2 (1-1)
+  Sun Nov/8
+    21.15  Newell's Old Boys       v Boca Juniors             0-2 (0-1)
+  Mon Nov/9
+    19.15  Talleres de Córdoba     v Lanús                    1-1 (0-1)
+  Sat Nov/14
+    16.15  Lanús                   v Newell's Old Boys        2-4 (0-1)
+  Sun Nov/15
+    21.15  Boca Juniors            v Talleres de Córdoba      0-1 (0-0)
+  Fri Nov/20
+    19.20  Boca Juniors            v Lanús                    1-2 (0-2)
+  Mon Nov/23
+    21.15  Newell's Old Boys       v Talleres de Córdoba      1-1 (1-0)
+  Sun Nov/29
+    19.20  Boca Juniors            v Newell's Old Boys        2-0 (2-0)
+    21.30  Lanús                   v Talleres de Córdoba      1-0 (0-0)
+  Sun Dec/6
+    21.30  Talleres de Córdoba     v Boca Juniors             0-0
+           Newell's Old Boys       v Lanús                    3-1 (1-1)
 
 
-Final
-[Sun Jan/17]
-  22.10  Boca Juniors             5-3 pen. (1-1, 0-0)  Banfield
+» Group E
+  Sat Oct/31
+    14.00  Aldosivi                v Estudiantes              0-0
+    18.45  Argentinos Juniors      v San Lorenzo              0-0
+  Fri Nov/6
+    21.15  Argentinos Juniors      v Aldosivi                 0-1 (0-0)
+  Sat Nov/7
+    18.30  San Lorenzo             v Estudiantes              2-0 (1-0)
+  Sat Nov/14
+    14.00  Aldosivi                v San Lorenzo              1-4 (0-3)
+  Sun Nov/15
+    16.15  Estudiantes             v Argentinos Juniors       0-1 (0-0)
+  Sun Nov/22
+    17.10  Estudiantes             v Aldosivi                 0-1 (0-1)
+    21.30  San Lorenzo             v Argentinos Juniors       2-0 (1-0)
+  Mon Nov/30
+    17.10  Aldosivi                v Argentinos Juniors       1-4 (0-2)
+    21.30  Estudiantes             v San Lorenzo              0-0
+  Mon Dec/7
+    19.10  San Lorenzo             v Aldosivi                 0-0
+           Argentinos Juniors      v Estudiantes              1-0 (1-0)
 
 
-== Copa Sud
+» Group F
+  Fri Oct/30
+    19.00  Gimnasia de La Plata    v Patronato de Paraná      3-0 (1-0)
+  Sat Oct/31
+    16.15  Vélez Sarsfield         v Huracán                  1-1 (0-1)
+  Fri Nov/6
+    19.00  Patronato de Paraná     v Huracán                  1-2 (0-1)
+  Sun Nov/8
+    16.15  Gimnasia de La Plata    v Vélez Sarsfield          2-2 (0-1)
+  Sun Nov/15
+    14.00  Huracán                 v Gimnasia de La Plata     3-2 (1-1)
+  Mon Nov/16
+    19.00  Vélez Sarsfield         v Patronato de Paraná      1-0 (0-0)
+  Sat Nov/21
+    19.20  Huracán                 v Vélez Sarsfield          1-2 (1-2)
+  Sun Nov/22
+    19.20  Patronato de Paraná     v Gimnasia de La Plata     0-0
+  Sat Nov/28
+    19.20  Vélez Sarsfield         v Gimnasia de La Plata     0-1 (0-1)
+  Sun Nov/29
+    21.30  Huracán                 v Patronato de Paraná      1-0 (1-0)
+  Sat Dec/5
+    19.20  Gimnasia de La Plata    v Huracán                  0-0
+           Patronato de Paraná     v Vélez Sarsfield          0-0
 
-Final
-[Wed Mar/31]
-  20.15  Vélez Sarsfield          2-3 (1-2)  Banfield
+
+» Copa Sud, Final
+  Wed Mar/31 2021
+    20.15  Vélez Sarsfield         v Banfield                 2-3 (1-2)
+
+
+» Fase Campeón, Gruppe 1
+  Sat Dec/12 2020
+    19.20  Boca Juniors            v Arsenal de Sarandí       1-1 (1-0)
+  Sun Dec/13
+    19.20  River Plate             v Argentinos Juniors       1-1 (1-0)
+    21.30  Huracán                 v Independiente            3-2 (1-2)
+  Fri Dec/18
+    21.10  Arsenal de Sarandí      v Argentinos Juniors       0-1 (0-1)
+  Sun Dec/20
+    19.20  Independiente           v Boca Juniors             1-2 (1-0)
+    21.30  Huracán                 v River Plate              1-3 (0-2)
+  Sun Dec/27
+    19.20  Boca Juniors            v Huracán                  3-0 (2-0)
+    21.30  River Plate             v Arsenal de Sarandí       2-1 (0-0)
+  Mon Dec/28
+    19.20  Argentinos Juniors      v Independiente            0-2 (0-1)
+  Sat Jan/2 2021
+    21.30  Boca Juniors            v River Plate              2-2 (1-0)
+  Sun Jan/3
+    17.10  Independiente           v Arsenal de Sarandí       3-4 (1-1)
+  Tue Jan/5
+    19.20  Huracán                 v Argentinos Juniors       0-1 (0-0)
+  Sat Jan/9
+    21.30  River Plate             v Independiente            0-2 (0-2)
+           Argentinos Juniors      v Boca Juniors             2-2 (1-1)
+  Sun Jan/10
+    19.20  Arsenal de Sarandí      v Huracán                  1-0 (1-0)
+
+
+» Fase Campeón, Gruppe 2
+  Sat Dec/12 2020
+    17.10  Colón de Santa Fe       v Gimnasia de La Plata     0-2 (0-1)
+    21.30  San Lorenzo             v Talleres de Córdoba      0-2 (0-1)
+  Mon Dec/14
+    21.30  Atlético Tucumán        v Banfield                 0-2 (0-2)
+  Sat Dec/19
+    19.20  San Lorenzo             v Colón de Santa Fe        2-2 (1-0)
+    21.30  Talleres de Córdoba     v Atlético Tucumán         1-1 (0-1)
+  Mon Dec/21
+    21.30  Banfield                v Gimnasia de La Plata     2-1 (1-0)
+  Mon Dec/28
+    21.30  Colón de Santa Fe       v Banfield                 1-2 (1-0)
+           Gimnasia de La Plata    v Talleres de Córdoba      2-2 (0-1)
+  Tue Dec/29
+    21.30  Atlético Tucumán        v San Lorenzo              1-3 (0-1)
+  Mon Jan/4 2021
+    19.20  San Lorenzo             v Gimnasia de La Plata     1-2 (0-0)
+    21.30  Talleres de Córdoba     v Banfield                 3-2 (2-1)
+  Tue Jan/5
+    21.30  Atlético Tucumán        v Colón de Santa Fe        0-2 (0-0)
+  Sun Jan/10
+    21.30  Colón de Santa Fe       v Talleres de Córdoba      1-2 (0-1)
+           Banfield                v San Lorenzo              4-1 (1-0)
+           Gimnasia de La Plata    v Atlético Tucumán         0-1 (0-0)
+
+
+» Fase Campeón, Final
+  Sun Jan/17
+    22.10  Boca Juniors            v Banfield                 5-3 pen. (1-1, 0-0)
+
+
+» Fase Complementación, Gruppe 1
+  Sun Dec/13 2020
+    17.10  Unión de Santa Fe       v Defensa y Justicia       1-3 (1-2)
+           Aldosivi                v Lanús                    1-2 (0-1)
+  Mon Dec/14
+    17.10  Rosario Central         v Patronato de Paraná      4-0 (1-0)
+  Sat Dec/19
+    17.10  Patronato de Paraná     v Aldosivi                 0-1 (0-0)
+  Sun Dec/20
+    17.10  Lanús                   v Defensa y Justicia       1-1 (1-1)
+  Mon Dec/21
+    19.20  Rosario Central         v Unión de Santa Fe        2-2 (2-1)
+  Sun Dec/27
+    17.10  Defensa y Justicia      v Patronato de Paraná      2-1 (2-1)
+  Tue Dec/29
+    17.10  Aldosivi                v Rosario Central          0-1 (0-1)
+    19.20  Unión de Santa Fe       v Lanús                    2-0 (1-0)
+  Sat Jan/2 2021
+    17.30  Rosario Central         v Defensa y Justicia       3-0 (1-0)
+  Sun Jan/3
+    19.20  Patronato de Paraná     v Lanús                    1-1 (0-0)
+  Mon Jan/4
+    17.10  Aldosivi                v Unión de Santa Fe        1-3 (0-1)
+  Sat Jan/9
+    17.10  Unión de Santa Fe       v Patronato de Paraná      1-2 (1-2)
+           Lanús                   v Rosario Central          2-0 (2-0)
+  Thu Jan/14
+    17.45  Defensa y Justicia      v Aldosivi                 4-4 (3-2)
+
+
+» Fase Complementación, Gruppe 2
+  Fri Dec/11 2020
+    21.10  Vélez Sarsfield         v Racing Club              2-1 (0-0)
+  Sat Dec/12
+    17.10  Newell's Old Boys       v Estudiantes              1-0 (1-0)
+  Mon Dec/14
+    19.20  Central Córdoba SdE     v Godoy Cruz               1-1 (1-1)
+  Sat Dec/19
+    19.10  Godoy Cruz              v Newell's Old Boys        0-3 (0-2)
+  Sun Dec/20
+    19.20  Estudiantes             v Racing Club              1-1 (0-1)
+  Mon Dec/21
+    19.20  Central Córdoba SdE     v Vélez Sarsfield          0-2 (0-1)
+  Sun Dec/27
+    17.10  Racing Club             v Godoy Cruz               6-1 (0-1)
+  Mon Dec/28
+    17.10  Newell's Old Boys       v Central Córdoba SdE      3-1 (0-0)
+    19.20  Vélez Sarsfield         v Estudiantes              2-3 (2-3)
+  Sun Jan/3 2021
+    19.20  Newell's Old Boys       v Vélez Sarsfield          0-1 (0-0)
+    21.30  Central Córdoba SdE     v Racing Club              2-2 (1-1)
+  Tue Jan/5
+    19.20  Godoy Cruz              v Estudiantes              1-0 (1-0)
+  Sat Jan/9
+    19.20  Vélez Sarsfield         v Godoy Cruz               3-2 (2-1)
+           Racing Club             v Newell's Old Boys        3-1 (2-1)
+  Mon Jan/11
+    21.30  Estudiantes             v Central Córdoba SdE      1-2 (1-0)
+
+
+» Fase Complementación, Final
+  Sat Jan/16
+    22.10  Rosario Central         v Vélez Sarsfield          1-3 (1-1)

@@ -6,658 +6,634 @@
 
 
 
-Matchday 1
-[Fri Aug/7]
-  21.30  Confiança SE             2-2 (0-1)  Paraná Clube
-  19.15  Cuiabá MT                0-0  Brasil de Pelotas RS
-[Sat Aug/8]
-  11.00  Juventude RS             2-1 (1-1)  CR Brasil AL
-  16.00  Operário Ferroviário PR  3-1 (1-0)  Figueirense SC
-  19.00  Cruzeiro                 2-1 (0-0)  Botafogo SP
-         Avaí SC                  3-1 (2-0)  Náutico PE
-         Vitória BA               1-0 (1-0)  Sampaio Corrêa MA
-  21.00  CSA AL                   1-0 (1-0)  Guarani SP
-         Ponte Preta              0-1 (0-1)  América MG
-[Sun Aug/9]
-  11.00  Oeste SP                 0-0  Chapecoense
-
-
-Matchday 2
-[Tue Aug/11]
-  19.15  Botafogo SP              2-0 (1-0)  Confiança SE
-         Brasil de Pelotas RS     1-1 (0-0)  Ponte Preta
-         Sampaio Corrêa MA        0-1 (0-0)  Juventude RS
-  20.30  Guarani SP               2-3 (1-2)  Cruzeiro
-         Paraná Clube             1-0 (0-0)  Avaí SC
-  21.30  América MG               0-1 (0-0)  Cuiabá MT
-         Figueirense SC           0-0  Vitória BA
-         Náutico PE               0-0  Operário Ferroviário PR
-[Wed Aug/12]
-  17.00  CR Brasil AL             1-0 (0-0)  Oeste SP
-
-
-Matchday 3
-[Fri Aug/14]
-  21.30  Paraná Clube             3-1 (2-1)  Juventude RS
-  19.15  América MG               1-1 (1-0)  Operário Ferroviário PR
-  20.30  Ponte Preta              3-3 (2-2)  Vitória BA
-[Sat Aug/15]
-  11.00  Botafogo SP              0-1 (0-1)  Guarani SP
-  16.30  Brasil de Pelotas RS     1-1 (0-0)  Oeste SP
-  19.00  Náutico PE               1-1 (1-0)  CR Brasil AL
-[Sun Aug/16]
-  16.00  Figueirense SC           0-1 (0-1)  Cruzeiro
-  11.00  Chapecoense              1-0 (1-0)  Sampaio Corrêa MA
-
-
-Matchday 4
-[Mon Aug/17]
-  20.00  Juventude RS             0-0  América MG
-[Tue Aug/18]
-  21.30  Guarani SP               1-2 (1-0)  Paraná Clube
-  20.30  Oeste SP                 1-3 (1-1)  Ponte Preta
-  21.30  Cuiabá MT                1-0 (0-0)  Confiança SE
-  19.15  Avaí SC                  0-1 (0-0)  Botafogo SP
-         Operário Ferroviário PR  3-0 (0-0)  CSA AL
-  21.30  CR Brasil AL             1-0 (0-0)  Brasil de Pelotas RS
-[Wed Aug/19]
-  21.30  Vitória BA               0-0  Náutico PE
-[Thu Aug/20]
-  21.00  Cruzeiro                 0-1 (0-1)  Chapecoense
-
-
-Matchday 5
-[Fri Aug/21]
-  19.15  América MG               2-1 (1-1)  Oeste SP
-  21.30  Ponte Preta              2-1 (1-1)  CSA AL
-[Sat Aug/22]
-  16.30  Náutico PE               3-3 (2-2)  Juventude RS
-  11.00  Avaí SC                  0-2 (0-0)  Cuiabá MT
-  19.00  CR Brasil AL             2-2 (1-0)  Vitória BA
-  16.30  Botafogo SP              0-1 (0-0)  Figueirense SC
-[Sun Aug/23]
-  18.00  Confiança SE             1-1 (1-1)  Cruzeiro
-  11.00  Paraná Clube             0-0  Operário Ferroviário PR
-[Mon Aug/24]
-  20.00  Chapecoense              2-0 (2-0)  Guarani SP
-
-
-Matchday 6
-[Fri Aug/28]
-  19.15  Oeste SP                 0-2 (0-1)  Avaí SC
-  20.30  Cuiabá MT                2-1 (0-1)  Chapecoense
-  21.30  Guarani SP               1-2 (1-0)  Náutico PE
-[Sat Aug/29]
-  11.00  Juventude RS             0-0  Botafogo SP
-  19.00  Cruzeiro                 1-2 (0-2)  América MG
-         Figueirense SC           0-0  Confiança SE
-  21.00  Sampaio Corrêa MA        1-2 (0-2)  Ponte Preta
-  16.30  Vitória BA               1-0 (0-0)  Paraná Clube
-[Sun Aug/30]
-  19.00  Operário Ferroviário PR  2-1 (1-1)  Brasil de Pelotas RS
-         CSA AL                   0-2 (0-2)  CR Brasil AL
-
-
-Matchday 7
-[Mon Aug/31]
-  20.00  Guarani SP               1-1 (0-0)  Oeste SP
-[Tue Sep/1]
-  20.30  Chapecoense              1-0 (0-0)  Juventude RS
-  19.15  Paraná Clube             2-1 (1-1)  Ponte Preta
-  17.00  Botafogo SP              1-1 (0-1)  Cuiabá MT
-  21.30  Náutico PE               1-0 (0-0)  Figueirense SC
-         Confiança SE             1-0 (0-0)  Vitória BA
-[Wed Sep/2]
-  16.30  Avaí SC                  2-0 (2-0)  Operário Ferroviário PR
-  19.00  CR Brasil AL             2-2 (0-1)  Sampaio Corrêa MA
-  21.30  Brasil de Pelotas RS     1-0 (0-0)  Cruzeiro
-  16.30  América MG               2-1 (1-0)  CSA AL
-
-
-Matchday 8
-[Fri Sep/4]
-  19.15  Figueirense SC           0-1 (0-0)  Paraná Clube
-  21.30  Ponte Preta              1-0 (0-0)  Botafogo SP
-[Sat Sep/5]
-  16.30  Vitória BA               4-2 (2-1)  Cuiabá MT
-         CSA AL                   1-1 (1-0)  Confiança SE
-  19.00  Operário Ferroviário PR  1-2 (1-1)  Guarani SP
-         Sampaio Corrêa MA        1-0 (0-0)  América MG
-  21.00  Brasil de Pelotas RS     2-1 (1-0)  Náutico PE
-  11.00  Oeste SP                 1-3 (0-1)  Juventude RS
-[Sun Sep/6]
-  11.00  Chapecoense              1-0 (0-0)  Avaí SC
-[Mon Sep/7]
-  20.00  Cruzeiro                 1-1 (1-0)  CR Brasil AL
-
-
-Matchday 9
-[Tue Sep/8]
-  21.30  Cuiabá MT                0-0  Figueirense SC
-  19.15  Juventude RS             3-1 (0-1)  Confiança SE
-[Wed Sep/9]
-  19.15  Paraná Clube             0-1 (0-0)  América MG
-[Fri Sep/11]
-  19.15  Avaí SC                  0-1 (0-0)  Ponte Preta
-  21.30  Cruzeiro                 1-0 (0-0)  Vitória BA
-[Sat Sep/12]
-  16.30  Sampaio Corrêa MA        0-1 (0-0)  Operário Ferroviário PR
-  19.00  Náutico PE               3-1 (3-0)  Botafogo SP
-  11.00  Guarani SP               0-0  Brasil de Pelotas RS
-[Sun Sep/13]
-  11.00  Oeste SP                 2-1 (1-1)  CSA AL
-
-
-Matchday 10
-[Mon Sep/14]
-  20.00  Juventude RS             1-1 (1-0)  Vitória BA
-         Paraná Clube             2-0 (1-0)  CR Brasil AL
-
-
-Matchday 3
-[Tue Sep/15]
-  19.15  Confiança SE             2-2 (0-1)  Avaí SC
-[Wed Sep/16]
-  19.15  CSA AL                   1-2 (1-1)  Cuiabá MT
-
-
-Matchday 10
-[Fri Sep/18]
-  19.15  Confiança SE             1-0 (0-0)  Guarani SP
-  21.30  Náutico PE               1-1 (0-0)  Chapecoense
-[Sat Sep/19]
-  19.00  Ponte Preta              1-1 (1-0)  Operário Ferroviário PR
-  21.00  Cuiabá MT                3-0 (2-0)  Oeste SP
-         CSA AL                   3-1 (2-0)  Cruzeiro
-  16.30  América MG               0-1 (0-0)  Figueirense SC
-[Sun Sep/20]
-  11.00  Avaí SC                  2-5 (1-3)  Sampaio Corrêa MA
-[Mon Sep/21]
-  20.00  Botafogo SP              0-1 (0-0)  Brasil de Pelotas RS
-
-
-Matchday 11
-[Tue Sep/22]
-  20.00  Operário Ferroviário PR  1-1 (1-0)  Cuiabá MT
-[Fri Sep/25]
-  19.15  Chapecoense              0-0  América MG
-         Botafogo SP              1-2 (1-1)  CR Brasil AL
-  21.30  Cruzeiro                 0-1 (0-0)  Avaí SC
-[Sat Sep/26]
-  18.30  Brasil de Pelotas RS     1-1 (0-0)  Paraná Clube
-  16.30  Vitória BA               3-1 (1-1)  Oeste SP
-  16.00  CSA AL                   3-2 (2-0)  Juventude RS
-  11.00  Figueirense SC           2-2 (1-2)  Guarani SP
-[Sun Sep/27]
-  20.30  Ponte Preta              2-1 (0-0)  Confiança SE
-
-
-Matchday 12
-[Mon Sep/28]
-  20.00  CR Brasil AL             0-0  América MG
-[Tue Sep/29]
-  22.30  Cuiabá MT                1-0 (0-0)  Náutico PE
-  21.30  Paraná Clube             1-1 (0-0)  Chapecoense
-  19.15  Vitória BA               0-1 (0-1)  CSA AL
-  21.30  Guarani SP               1-1 (1-0)  Sampaio Corrêa MA
-  20.30  Oeste SP                 0-1 (0-0)  Botafogo SP
-  19.15  Avaí SC                  1-0 (0-0)  Figueirense SC
-         Juventude RS             1-0 (0-0)  Operário Ferroviário PR
-[Wed Sep/30]
-  16.30  Confiança SE             1-1 (0-1)  Brasil de Pelotas RS
-  19.15  Cruzeiro                 3-0 (2-0)  Ponte Preta
-
-
-Matchday 13
-[Fri Oct/2]
-  19.15  Operário Ferroviário PR  1-1 (0-0)  Vitória BA
-  21.30  Botafogo SP              1-0 (1-0)  Paraná Clube
-  19.15  CR Brasil AL             3-1 (1-0)  Avaí SC
-  16.30  Figueirense SC           4-1 (2-1)  Oeste SP
-[Sat Oct/3]
-  22.00  Cuiabá MT                1-0 (0-0)  Cruzeiro
-  19.00  Ponte Preta              1-3 (0-1)  Juventude RS
-  16.30  Sampaio Corrêa MA        1-0 (1-0)  CSA AL
-         Brasil de Pelotas RS     0-1 (0-0)  Chapecoense
-  16.00  Náutico PE               0-1 (0-1)  Confiança SE
-  11.00  América MG               0-0  Guarani SP
-
-
-Matchday 14
-[Mon Oct/5]
-  20.00  Oeste SP                 0-1 (0-1)  Operário Ferroviário PR
-[Tue Oct/6]
-  19.15  Juventude RS             1-1 (0-1)  Cuiabá MT
-         Vitória BA               1-2 (0-2)  América MG
-  21.30  Ponte Preta              2-0 (1-0)  Guarani SP
-  19.15  Paraná Clube             0-0  Náutico PE
-         CSA AL                   3-0 (2-0)  Figueirense SC
-  17.00  Confiança SE             1-0 (0-0)  CR Brasil AL
-         Chapecoense              1-0 (0-0)  Botafogo SP
-  19.15  Avaí SC                  2-1 (1-0)  Brasil de Pelotas RS
-[Thu Oct/8]
-  18.30  Cruzeiro                 1-2 (1-1)  Sampaio Corrêa MA
-
-
-Matchday 15
-[Fri Oct/9]
-  16.30  Operário Ferroviário PR  1-1 (1-1)  Confiança SE
-  16.00  Figueirense SC           0-0  Chapecoense
-  18.30  Cuiabá MT                2-1 (1-0)  Ponte Preta
-  19.15  América MG               2-0 (1-0)  Náutico PE
-[Sat Oct/10]
-  16.00  Vitória BA               1-2 (1-2)  Avaí SC
-  18.30  CSA AL                   4-0 (3-0)  Paraná Clube
-  16.30  Guarani SP               3-1 (2-1)  CR Brasil AL
-  11.00  Juventude RS             1-2 (0-2)  Brasil de Pelotas RS
-[Sun Oct/11]
-  16.00  Oeste SP                 0-0  Cruzeiro
-  20.30  Sampaio Corrêa MA        2-0 (1-0)  Botafogo SP
-
-
-Matchday 16
-[Mon Oct/12]
-  20.00  Náutico PE               0-2 (0-0)  Ponte Preta
-[Tue Oct/13]
-  19.15  Avaí SC                  1-1 (1-1)  CSA AL
-  21.30  Guarani SP               1-0 (1-0)  Cuiabá MT
-
-
-Matchday 4
-[Wed Oct/14]
-  16.00  Sampaio Corrêa MA        3-0 (1-0)  Figueirense SC
-
-
-Matchday 9
-[Wed Oct/14]
-  19.15  CR Brasil AL             0-1 (0-0)  Chapecoense
-
-
-Matchday 16
-[Fri Oct/16]
-  19.15  Botafogo SP              1-2 (0-0)  América MG
-  21.30  Cruzeiro                 0-0  Juventude RS
-[Sat Oct/17]
-  18.30  CR Brasil AL             4-1 (1-1)  Operário Ferroviário PR
-  16.30  Confiança SE             3-1 (3-1)  Oeste SP
-  16.00  Chapecoense              1-1 (1-0)  Vitória BA
-  18.30  Brasil de Pelotas RS     0-0  Figueirense SC
-[Sun Oct/18]
-  20.30  Paraná Clube             0-0  Sampaio Corrêa MA
-
-
-Matchday 17
-[Tue Oct/20]
-  19.15  CSA AL                   1-0 (0-0)  Botafogo SP
-  21.30  Ponte Preta              0-5 (0-2)  Chapecoense
-  19.15  Juventude RS             3-0 (1-0)  Avaí SC
-  16.30  América MG               3-1 (2-1)  Brasil de Pelotas RS
-  21.30  Operário Ferroviário PR  0-1 (0-0)  Cruzeiro
-  19.15  Oeste SP                 0-1 (0-0)  Náutico PE
-[Wed Oct/21]
-  19.00  Sampaio Corrêa MA        1-3 (0-2)  Confiança SE
-  16.30  Figueirense SC           2-0 (1-0)  CR Brasil AL
-  19.00  Cuiabá MT                3-3 (1-1)  Paraná Clube
-[Thu Oct/22]
-  21.30  Vitória BA               1-1 (1-0)  Guarani SP
-
-
-Matchday 18
-[Fri Oct/23]
-  21.30  Chapecoense              1-0 (0-0)  Operário Ferroviário PR
-  19.15  Brasil de Pelotas RS     1-1 (1-1)  CSA AL
-[Sat Oct/24]
-  18.30  Sampaio Corrêa MA        3-0 (2-0)  Cuiabá MT
-  16.00  CR Brasil AL             1-0 (1-0)  Ponte Preta
-  21.00  América MG               2-1 (1-0)  Confiança SE
-[Sun Oct/25]
-  18.15  Figueirense SC           1-1 (0-1)  Juventude RS
-         Guarani SP               2-1 (1-0)  Avaí SC
-  20.30  Botafogo SP              2-1 (1-0)  Vitória BA
-  16.00  Náutico PE               1-1 (1-0)  Cruzeiro
-[Mon Oct/26]
-  20.00  Paraná Clube             4-0 (1-0)  Oeste SP
-
-
-Matchday 2
-[Tue Oct/27]
-  19.00  Chapecoense              0-0  CSA AL
-
-
-Matchday 19
-[Fri Oct/30]
-  19.15  Vitória BA               0-0  Brasil de Pelotas RS
-  21.30  Cruzeiro                 2-0 (2-0)  Paraná Clube
-[Sat Oct/31]
-  22.00  Cuiabá MT                3-0 (0-0)  CR Brasil AL
-  21.00  CSA AL                   3-1 (2-1)  Náutico PE
-  16.30  Oeste SP                 0-3 (0-2)  Sampaio Corrêa MA
-         Confiança SE             0-2 (0-1)  Chapecoense
-  19.00  Avaí SC                  1-0 (0-0)  América MG
-         Operário Ferroviário PR  0-0  Botafogo SP
-[Sun Nov/1]
-  18.15  Juventude RS             1-0 (1-0)  Guarani SP
-[Mon Nov/2]
-  17.30  Ponte Preta              2-1 (0-1)  Figueirense SC
-
-
-Matchday 5
-[Tue Nov/3]
-  19.15  Brasil de Pelotas RS     0-0  Sampaio Corrêa MA
-
-
-Matchday 20
-[Fri Nov/6]
-  21.30  Paraná Clube             1-1 (0-0)  Confiança SE
-  19.15  Guarani SP               2-1 (1-1)  CSA AL
-         Botafogo SP              0-1 (0-0)  Cruzeiro
-         Náutico PE               2-2 (0-1)  Avaí SC
-[Sat Nov/7]
-  16.00  Brasil de Pelotas RS     3-0 (2-0)  Cuiabá MT
-  16.30  Figueirense SC           0-1 (0-0)  Operário Ferroviário PR
-  18.30  América MG               1-1 (1-0)  Ponte Preta
-  21.00  Chapecoense              0-0  Oeste SP
-[Sun Nov/8]
-  16.00  Sampaio Corrêa MA        2-1 (0-1)  Vitória BA
-  18.15  CR Brasil AL             0-1 (0-0)  Juventude RS
-
-
-Matchday 21
-[Mon Nov/9]
-  20.00  Cruzeiro                 3-3 (2-2)  Guarani SP
-[Tue Nov/10]
-  19.00  CSA AL                   0-1 (0-0)  Chapecoense
-  21.30  Confiança SE             1-0 (0-0)  Botafogo SP
-[Thu Nov/12]
-  21.30  Vitória BA               3-0 (2-0)  Figueirense SC
-[Fri Nov/13]
-  16.00  Ponte Preta              1-1 (1-1)  Brasil de Pelotas RS
-  16.30  Operário Ferroviário PR  3-1 (1-0)  Náutico PE
-  18.30  Avaí SC                  2-1 (1-1)  Paraná Clube
-  19.15  Oeste SP                 1-2 (0-1)  CR Brasil AL
-[Sat Nov/14]
-  21.30  Cuiabá MT                0-0  América MG
-  19.00  Juventude RS             2-3 (1-2)  Sampaio Corrêa MA
-
-
-Matchday 11
-[Tue Nov/17]
-  18.00  Sampaio Corrêa MA        2-1 (0-0)  Náutico PE
-
-
-Matchday 22
-[Fri Nov/20]
-  16.30  Avaí SC                  1-0 (1-0)  Confiança SE
-         Vitória BA               0-0  Ponte Preta
-  19.15  Guarani SP               2-1 (1-1)  Botafogo SP
-         Juventude RS             5-0 (3-0)  Paraná Clube
-         Sampaio Corrêa MA        1-3 (1-1)  Chapecoense
-  21.30  Cruzeiro                 1-1 (1-1)  Figueirense SC
-[Sat Nov/21]
-  16.30  Operário Ferroviário PR  0-1 (0-1)  América MG
-  19.00  CR Brasil AL             2-1 (1-0)  Náutico PE
-         Cuiabá MT                0-1 (0-1)  CSA AL
-  16.30  Oeste SP                 2-1 (2-0)  Brasil de Pelotas RS
-
-
-Matchday 23
-[Mon Nov/23]
-  20.00  Botafogo SP              0-1 (0-1)  Avaí SC
-  17.30  Figueirense SC           1-2 (1-0)  Sampaio Corrêa MA
-[Tue Nov/24]
-  16.30  Paraná Clube             1-2 (0-1)  Guarani SP
-  19.15  CSA AL                   1-0 (0-0)  Operário Ferroviário PR
-         Ponte Preta              1-0 (0-0)  Oeste SP
-         Confiança SE             2-0 (0-0)  Cuiabá MT
-  21.30  América MG               2-1 (2-1)  Juventude RS
-         Brasil de Pelotas RS     2-1 (0-0)  CR Brasil AL
-         Chapecoense              0-1 (0-0)  Cruzeiro
-[Wed Nov/25]
-  19.00  Náutico PE               0-0  Vitória BA
-
-
-Matchday 24
-[Thu Nov/26]
-  21.30  Figueirense SC           0-0  Botafogo SP
-[Fri Nov/27]
-  19.15  Operário Ferroviário PR  1-0 (0-0)  Paraná Clube
-         Sampaio Corrêa MA        0-1 (0-0)  Brasil de Pelotas RS
-  21.30  Cruzeiro                 1-2 (0-2)  Confiança SE
-  22.30  Cuiabá MT                2-1 (1-0)  Avaí SC
-  19.15  Oeste SP                 1-1 (1-1)  América MG
-[Sat Nov/28]
-  16.00  CSA AL                   2-1 (0-1)  Ponte Preta
-  18.30  Vitória BA               2-1 (2-1)  CR Brasil AL
-  21.00  Guarani SP               2-0 (2-0)  Chapecoense
-         Juventude RS             1-0 (0-0)  Náutico PE
-
-
-Matchday 25
-[Mon Nov/30]
-  20.00  Avaí SC                  0-3 (0-0)  Oeste SP
-  17.00  Brasil de Pelotas RS     0-0  Operário Ferroviário PR
-[Tue Dec/1]
-  19.00  Chapecoense              1-0 (0-0)  Cuiabá MT
-  19.15  CR Brasil AL             0-0  CSA AL
-         Náutico PE               2-0 (1-0)  Guarani SP
-         Confiança SE             1-1 (1-0)  Figueirense SC
-  21.30  Ponte Preta              1-1 (0-1)  Sampaio Corrêa MA
-         Paraná Clube             1-4 (0-1)  Vitória BA
-[Wed Dec/2]
-  21.30  América MG               1-2 (0-1)  Cruzeiro
-  19.00  Botafogo SP              1-1 (0-0)  Juventude RS
-
-
-Matchday 26
-[Thu Dec/3]
-  21.30  Operário Ferroviário PR  1-1 (0-0)  Avaí SC
-[Fri Dec/4]
-  19.15  Vitória BA               2-3 (1-1)  Confiança SE
-  21.30  Ponte Preta              2-1 (1-1)  Paraná Clube
-  16.00  Oeste SP                 0-1 (0-0)  Guarani SP
-[Sat Dec/5]
-  16.00  Juventude RS             1-1 (0-0)  Chapecoense
-  18.30  CSA AL                   0-1 (0-1)  América MG
-  19.00  Sampaio Corrêa MA        3-0 (2-0)  CR Brasil AL
-  21.00  Cruzeiro                 4-1 (3-1)  Brasil de Pelotas RS
-  22.00  Cuiabá MT                2-0 (0-0)  Botafogo SP
-[Sun Dec/6]
-  18.15  Figueirense SC           2-0 (0-0)  Náutico PE
-
-
-Matchday 27
-[Tue Dec/8]
-  16.00  Juventude RS             2-2 (1-1)  Oeste SP
-  16.30  Guarani SP               3-0 (3-0)  Operário Ferroviário PR
-  19.15  América MG               2-1 (1-1)  Sampaio Corrêa MA
-         Botafogo SP              2-1 (1-0)  Ponte Preta
-  21.30  Avaí SC                  0-2 (0-1)  Chapecoense
-         CR Brasil AL             0-0  Cruzeiro
-         Confiança SE             1-5 (1-2)  CSA AL
-         Cuiabá MT                3-3 (1-1)  Vitória BA
-[Wed Dec/9]
-  19.15  Paraná Clube             0-2 (0-0)  Figueirense SC
-[Thu Dec/10]
-  21.30  Náutico PE               1-0 (1-0)  Brasil de Pelotas RS
-
-
-Matchday 28
-[Fri Dec/11]
-  19.15  CSA AL                   2-1 (2-0)  Oeste SP
-         Ponte Preta              1-2 (1-1)  Avaí SC
-  21.30  Vitória BA               0-1 (0-1)  Cruzeiro
-  16.00  Operário Ferroviário PR  1-1 (1-0)  Sampaio Corrêa MA
-[Sat Dec/12]
-  16.00  Figueirense SC           1-0 (0-0)  Cuiabá MT
-  18.30  América MG               1-0 (0-0)  Paraná Clube
-  19.00  Confiança SE             0-1 (0-1)  Juventude RS
-  21.00  Chapecoense              3-2 (2-0)  CR Brasil AL
-[Sun Dec/13]
-  20.30  Brasil de Pelotas RS     3-1 (1-0)  Guarani SP
-  18.15  Botafogo SP              1-1 (1-0)  Náutico PE
-
-
-Matchday 29
-[Mon Dec/14]
-  20.00  Operário Ferroviário PR  1-0 (1-0)  Ponte Preta
-[Tue Dec/15]
-  19.15  Sampaio Corrêa MA        0-1 (0-1)  Avaí SC
-  21.30  Cruzeiro                 1-1 (0-1)  CSA AL
-         Vitória BA               1-0 (1-0)  Juventude RS
-  16.00  Oeste SP                 0-2 (0-1)  Cuiabá MT
-[Wed Dec/16]
-  16.30  Brasil de Pelotas RS     0-0  Botafogo SP
-  19.15  Guarani SP               1-0 (1-0)  Confiança SE
-         Chapecoense              0-0  Náutico PE
-[Thu Dec/17]
-  21.30  CR Brasil AL             0-2 (0-1)  Paraná Clube
-  19.15  Figueirense SC           1-2 (1-1)  América MG
-
-
-Matchday 30
-[Fri Dec/18]
-  16.00  Oeste SP                 2-1 (1-0)  Vitória BA
-  18.00  Juventude RS             1-0 (1-0)  CSA AL
-  20.15  Avaí SC                  1-1 (0-1)  Cruzeiro
-  22.30  Cuiabá MT                2-0 (1-0)  Operário Ferroviário PR
-[Sat Dec/19]
-  19.00  Confiança SE             1-2 (1-1)  Ponte Preta
-  16.30  Náutico PE               1-0 (0-0)  Sampaio Corrêa MA
-[Sun Dec/20]
-  18.15  CR Brasil AL             1-0 (0-0)  Botafogo SP
-         Guarani SP               2-2 (2-1)  Figueirense SC
-  16.00  América MG               2-2 (0-1)  Chapecoense
-[Mon Dec/21]
-  17.30  Paraná Clube             0-1 (0-0)  Brasil de Pelotas RS
-
-
-Matchday 31
-[Tue Dec/22]
-  19.15  CSA AL                   3-0 (2-0)  Vitória BA
-  21.30  Ponte Preta              2-1 (0-1)  Cruzeiro
-         Náutico PE               2-0 (0-0)  Cuiabá MT
-  16.00  Operário Ferroviário PR  3-0 (1-0)  Juventude RS
-[Wed Dec/23]
-  19.00  Sampaio Corrêa MA        0-1 (0-0)  Guarani SP
-  19.15  Botafogo SP              1-1 (1-0)  Oeste SP
-[Sat Dec/26]
-  18.30  América MG               1-0 (1-0)  CR Brasil AL
-  16.00  Figueirense SC           2-0 (2-0)  Avaí SC
-[Mon Dec/28]
-  20.00  Chapecoense              2-0 (2-0)  Paraná Clube
-  17.00  Brasil de Pelotas RS     1-0 (1-0)  Confiança SE
-
-
-Matchday 32
-[Tue Dec/29]
-  19.15  Avaí SC                  0-1 (0-0)  CR Brasil AL
-  21.30  Cruzeiro                 0-0  Cuiabá MT
-[Wed Dec/30]
-  17.00  Juventude RS             2-1 (0-0)  Ponte Preta
-[Sat Jan/2]
-  18.45  Oeste SP                 2-1 (2-0)  Figueirense SC
-  21.00  Guarani SP               0-1 (0-1)  América MG
-  16.30  CSA AL                   2-1 (0-0)  Sampaio Corrêa MA
-[Sun Jan/3]
-  16.00  Chapecoense              0-0  Brasil de Pelotas RS
-  18.15  Vitória BA               1-1 (1-1)  Operário Ferroviário PR
-[Mon Jan/4]
-  20.00  Confiança SE             2-0 (0-0)  Náutico PE
-  17.00  Paraná Clube             1-1 (0-1)  Botafogo SP
-
-
-Matchday 33
-[Tue Jan/5]
-  21.30  Cuiabá MT                1-0 (1-0)  Juventude RS
-  19.15  Guarani SP               1-1 (0-1)  Ponte Preta
-[Fri Jan/8]
-  16.00  Brasil de Pelotas RS     0-1 (0-0)  Avaí SC
-  19.15  CR Brasil AL             2-0 (0-0)  Confiança SE
-         Operário Ferroviário PR  2-0 (0-0)  Oeste SP
-         Náutico PE               2-1 (1-1)  Paraná Clube
-  21.30  Figueirense SC           0-0  CSA AL
-         Sampaio Corrêa MA        0-1 (0-1)  Cruzeiro
-[Sat Jan/9]
-  21.00  Botafogo SP              3-0 (2-0)  Chapecoense
-  19.00  América MG               4-0 (2-0)  Vitória BA
-
-
-Matchday 34
-[Mon Jan/11]
-  20.00  CR Brasil AL             2-0 (0-0)  Guarani SP
-         Confiança SE             1-2 (1-0)  Operário Ferroviário PR
-  17.30  Ponte Preta              2-2 (1-0)  Cuiabá MT
-[Tue Jan/12]
-  19.15  Botafogo SP              2-1 (0-1)  Sampaio Corrêa MA
-         Paraná Clube             2-0 (2-0)  CSA AL
-         Brasil de Pelotas RS     2-1 (2-1)  Juventude RS
-         Náutico PE               0-0  América MG
-  21.30  Chapecoense              2-1 (1-0)  Figueirense SC
-[Wed Jan/13]
-  21.30  Cruzeiro                 0-1 (0-1)  Oeste SP
-  19.00  Avaí SC                  2-2 (1-0)  Vitória BA
-
-
-Matchday 35
-[Thu Jan/14]
-  21.30  Cuiabá MT                4-0 (2-0)  Guarani SP
-  19.15  Operário Ferroviário PR  3-2 (1-1)  CR Brasil AL
-[Fri Jan/15]
-  17.30  Figueirense SC           3-0 (3-0)  Brasil de Pelotas RS
-  19.15  Sampaio Corrêa MA        2-1 (1-0)  Paraná Clube
-  21.30  América MG               1-1 (0-1)  Botafogo SP
-[Sat Jan/16]
-  19.00  Juventude RS             1-0 (1-0)  Cruzeiro
-  21.00  Oeste SP                 0-1 (0-1)  Confiança SE
-  16.30  CSA AL                   1-1 (1-0)  Avaí SC
-[Sun Jan/17]
-  16.00  Ponte Preta              2-0 (2-0)  Náutico PE
-         Vitória BA               0-0  Chapecoense
-
-
-Matchday 36
-[Tue Jan/19]
-  16.00  Brasil de Pelotas RS     0-0  América MG
-  19.15  Avaí SC                  5-2 (4-2)  Juventude RS
-         CR Brasil AL             5-1 (3-0)  Figueirense SC
-         Botafogo SP              1-3 (0-1)  CSA AL
-         Confiança SE             0-1 (0-0)  Sampaio Corrêa MA
-  21.30  Paraná Clube             0-2 (0-1)  Cuiabá MT
-[Wed Jan/20]
-  19.15  Náutico PE               4-1 (3-0)  Oeste SP
-  21.30  Cruzeiro                 2-1 (1-0)  Operário Ferroviário PR
-  16.00  Guarani SP               1-2 (1-1)  Vitória BA
-[Thu Jan/21]
-  17.45  Chapecoense              1-0 (0-0)  Ponte Preta
-
-
-Matchday 37
-[Fri Jan/22]
-  19.15  CSA AL                   1-1 (0-1)  Brasil de Pelotas RS
-  21.30  Cuiabá MT                1-3 (0-2)  Sampaio Corrêa MA
-  16.00  Juventude RS             2-1 (0-0)  Figueirense SC
-[Sat Jan/23]
-  18.30  Avaí SC                  2-1 (1-0)  Guarani SP
-  16.15  Confiança SE             0-0  América MG
-[Sun Jan/24]
-  16.00  Cruzeiro                 0-0  Náutico PE
-  18.15  Ponte Preta              3-1 (2-0)  CR Brasil AL
-[Mon Jan/25]
-  17.00  Operário Ferroviário PR  2-0 (1-0)  Chapecoense
-[Tue Jan/26]
-  21.30  Vitória BA               1-0 (0-0)  Botafogo SP
-  19.15  Oeste SP                 1-0 (0-0)  Paraná Clube
-
-
-Matchday 38
-[Fri Jan/29]
-  16.00  Figueirense SC           2-7 (1-4)  Ponte Preta
-  17.00  Sampaio Corrêa MA        1-0 (0-0)  Oeste SP
-  19.15  CR Brasil AL             4-1 (2-0)  Cuiabá MT
-         Botafogo SP              0-1 (0-1)  Operário Ferroviário PR
-  21.30  América MG               2-1 (2-0)  Avaí SC
-         Guarani SP               0-1 (0-1)  Juventude RS
-         Paraná Clube             0-0  Cruzeiro
-         Brasil de Pelotas RS     0-1 (0-0)  Vitória BA
-         Náutico PE               1-1 (1-0)  CSA AL
-         Chapecoense              3-1 (1-0)  Confiança SE
+» Matchday 1
+  Fri Aug/7 2020
+    19.15  Cuiabá MT               v Brasil de Pelotas RS     0-0
+    21.30  Confiança SE            v Paraná Clube             2-2 (0-1)
+  Sat Aug/8
+    11.00  Juventude RS            v CR Brasil AL             2-1 (1-1)
+    16.00  Operário Ferroviário PR v Figueirense SC           3-1 (1-0)
+    19.00  Cruzeiro                v Botafogo SP              2-1 (0-0)
+           Avaí SC                 v Náutico PE               3-1 (2-0)
+           Vitória BA              v Sampaio Corrêa MA        1-0 (1-0)
+    21.00  CSA AL                  v Guarani SP               1-0 (1-0)
+           Ponte Preta             v América MG               0-1 (0-1)
+  Sun Aug/9
+    11.00  Oeste SP                v Chapecoense              0-0
+
+
+» Matchday 2
+  Tue Aug/11
+    19.15  Botafogo SP             v Confiança SE             2-0 (1-0)
+           Brasil de Pelotas RS    v Ponte Preta              1-1 (0-0)
+           Sampaio Corrêa MA       v Juventude RS             0-1 (0-0)
+    20.30  Guarani SP              v Cruzeiro                 2-3 (1-2)
+           Paraná Clube            v Avaí SC                  1-0 (0-0)
+    21.30  América MG              v Cuiabá MT                0-1 (0-0)
+           Figueirense SC          v Vitória BA               0-0
+           Náutico PE              v Operário Ferroviário PR  0-0
+  Wed Aug/12
+    17.00  CR Brasil AL            v Oeste SP                 1-0 (0-0)
+  Tue Oct/27
+    19.00  Chapecoense             v CSA AL                   0-0
+
+
+» Matchday 3
+  Fri Aug/14
+    19.15  América MG              v Operário Ferroviário PR  1-1 (1-0)
+    20.30  Ponte Preta             v Vitória BA               3-3 (2-2)
+    21.30  Paraná Clube            v Juventude RS             3-1 (2-1)
+  Sat Aug/15
+    11.00  Botafogo SP             v Guarani SP               0-1 (0-1)
+    16.30  Brasil de Pelotas RS    v Oeste SP                 1-1 (0-0)
+    19.00  Náutico PE              v CR Brasil AL             1-1 (1-0)
+  Sun Aug/16
+    11.00  Chapecoense             v Sampaio Corrêa MA        1-0 (1-0)
+    16.00  Figueirense SC          v Cruzeiro                 0-1 (0-1)
+  Tue Sep/15
+    19.15  Confiança SE            v Avaí SC                  2-2 (0-1)
+  Wed Sep/16
+    19.15  CSA AL                  v Cuiabá MT                1-2 (1-1)
+
+
+» Matchday 4
+  Mon Aug/17
+    20.00  Juventude RS            v América MG               0-0
+  Tue Aug/18
+    19.15  Avaí SC                 v Botafogo SP              0-1 (0-0)
+           Operário Ferroviário PR v CSA AL                   3-0 (0-0)
+    20.30  Oeste SP                v Ponte Preta              1-3 (1-1)
+    21.30  CR Brasil AL            v Brasil de Pelotas RS     1-0 (0-0)
+           Guarani SP              v Paraná Clube             1-2 (1-0)
+           Cuiabá MT               v Confiança SE             1-0 (0-0)
+  Wed Aug/19
+    21.30  Vitória BA              v Náutico PE               0-0
+  Thu Aug/20
+    21.00  Cruzeiro                v Chapecoense              0-1 (0-1)
+  Wed Oct/14
+    16.00  Sampaio Corrêa MA       v Figueirense SC           3-0 (1-0)
+
+
+» Matchday 5
+  Fri Aug/21
+    19.15  América MG              v Oeste SP                 2-1 (1-1)
+    21.30  Ponte Preta             v CSA AL                   2-1 (1-1)
+  Sat Aug/22
+    11.00  Avaí SC                 v Cuiabá MT                0-2 (0-0)
+    16.30  Botafogo SP             v Figueirense SC           0-1 (0-0)
+           Náutico PE              v Juventude RS             3-3 (2-2)
+    19.00  CR Brasil AL            v Vitória BA               2-2 (1-0)
+  Sun Aug/23
+    11.00  Paraná Clube            v Operário Ferroviário PR  0-0
+    18.00  Confiança SE            v Cruzeiro                 1-1 (1-1)
+  Mon Aug/24
+    20.00  Chapecoense             v Guarani SP               2-0 (2-0)
+  Tue Nov/3
+    19.15  Brasil de Pelotas RS    v Sampaio Corrêa MA        0-0
+
+
+» Matchday 6
+  Fri Aug/28
+    19.15  Oeste SP                v Avaí SC                  0-2 (0-1)
+    20.30  Cuiabá MT               v Chapecoense              2-1 (0-1)
+    21.30  Guarani SP              v Náutico PE               1-2 (1-0)
+  Sat Aug/29
+    11.00  Juventude RS            v Botafogo SP              0-0
+    16.30  Vitória BA              v Paraná Clube             1-0 (0-0)
+    19.00  Cruzeiro                v América MG               1-2 (0-2)
+           Figueirense SC          v Confiança SE             0-0
+    21.00  Sampaio Corrêa MA       v Ponte Preta              1-2 (0-2)
+  Sun Aug/30
+    19.00  CSA AL                  v CR Brasil AL             0-2 (0-2)
+           Operário Ferroviário PR v Brasil de Pelotas RS     2-1 (1-1)
+
+
+» Matchday 7
+  Mon Aug/31
+    20.00  Guarani SP              v Oeste SP                 1-1 (0-0)
+  Tue Sep/1
+    17.00  Botafogo SP             v Cuiabá MT                1-1 (0-1)
+    19.15  Paraná Clube            v Ponte Preta              2-1 (1-1)
+    20.30  Chapecoense             v Juventude RS             1-0 (0-0)
+    21.30  Náutico PE              v Figueirense SC           1-0 (0-0)
+           Confiança SE            v Vitória BA               1-0 (0-0)
+  Wed Sep/2
+    16.30  América MG              v CSA AL                   2-1 (1-0)
+           Avaí SC                 v Operário Ferroviário PR  2-0 (2-0)
+    19.00  CR Brasil AL            v Sampaio Corrêa MA        2-2 (0-1)
+    21.30  Brasil de Pelotas RS    v Cruzeiro                 1-0 (0-0)
+
+
+» Matchday 8
+  Fri Sep/4
+    19.15  Figueirense SC          v Paraná Clube             0-1 (0-0)
+    21.30  Ponte Preta             v Botafogo SP              1-0 (0-0)
+  Sat Sep/5
+    11.00  Oeste SP                v Juventude RS             1-3 (0-1)
+    16.30  CSA AL                  v Confiança SE             1-1 (1-0)
+           Vitória BA              v Cuiabá MT                4-2 (2-1)
+    19.00  Operário Ferroviário PR v Guarani SP               1-2 (1-1)
+           Sampaio Corrêa MA       v América MG               1-0 (0-0)
+    21.00  Brasil de Pelotas RS    v Náutico PE               2-1 (1-0)
+  Sun Sep/6
+    11.00  Chapecoense             v Avaí SC                  1-0 (0-0)
+  Mon Sep/7
+    20.00  Cruzeiro                v CR Brasil AL             1-1 (1-0)
+
+
+» Matchday 9
+  Tue Sep/8
+    19.15  Juventude RS            v Confiança SE             3-1 (0-1)
+    21.30  Cuiabá MT               v Figueirense SC           0-0
+  Wed Sep/9
+    19.15  Paraná Clube            v América MG               0-1 (0-0)
+  Fri Sep/11
+    19.15  Avaí SC                 v Ponte Preta              0-1 (0-0)
+    21.30  Cruzeiro                v Vitória BA               1-0 (0-0)
+  Sat Sep/12
+    11.00  Guarani SP              v Brasil de Pelotas RS     0-0
+    16.30  Sampaio Corrêa MA       v Operário Ferroviário PR  0-1 (0-0)
+    19.00  Náutico PE              v Botafogo SP              3-1 (3-0)
+  Sun Sep/13
+    11.00  Oeste SP                v CSA AL                   2-1 (1-1)
+  Wed Oct/14
+    19.15  CR Brasil AL            v Chapecoense              0-1 (0-0)
+
+
+» Matchday 10
+  Mon Sep/14
+    20.00  Paraná Clube            v CR Brasil AL             2-0 (1-0)
+           Juventude RS            v Vitória BA               1-1 (1-0)
+  Fri Sep/18
+    19.15  Confiança SE            v Guarani SP               1-0 (0-0)
+    21.30  Náutico PE              v Chapecoense              1-1 (0-0)
+  Sat Sep/19
+    16.30  América MG              v Figueirense SC           0-1 (0-0)
+    19.00  Ponte Preta             v Operário Ferroviário PR  1-1 (1-0)
+    21.00  CSA AL                  v Cruzeiro                 3-1 (2-0)
+           Cuiabá MT               v Oeste SP                 3-0 (2-0)
+  Sun Sep/20
+    11.00  Avaí SC                 v Sampaio Corrêa MA        2-5 (1-3)
+  Mon Sep/21
+    20.00  Botafogo SP             v Brasil de Pelotas RS     0-1 (0-0)
+
+
+» Matchday 11
+  Tue Sep/22
+    20.00  Operário Ferroviário PR v Cuiabá MT                1-1 (1-0)
+  Fri Sep/25
+    19.15  Botafogo SP             v CR Brasil AL             1-2 (1-1)
+           Chapecoense             v América MG               0-0
+    21.30  Cruzeiro                v Avaí SC                  0-1 (0-0)
+  Sat Sep/26
+    11.00  Figueirense SC          v Guarani SP               2-2 (1-2)
+    16.00  CSA AL                  v Juventude RS             3-2 (2-0)
+    16.30  Vitória BA              v Oeste SP                 3-1 (1-1)
+    18.30  Brasil de Pelotas RS    v Paraná Clube             1-1 (0-0)
+  Sun Sep/27
+    20.30  Ponte Preta             v Confiança SE             2-1 (0-0)
+  Tue Nov/17
+    18.00  Sampaio Corrêa MA       v Náutico PE               2-1 (0-0)
+
+
+» Matchday 12
+  Mon Sep/28
+    20.00  CR Brasil AL            v América MG               0-0
+  Tue Sep/29
+    19.15  Avaí SC                 v Figueirense SC           1-0 (0-0)
+           Juventude RS            v Operário Ferroviário PR  1-0 (0-0)
+           Vitória BA              v CSA AL                   0-1 (0-1)
+    20.30  Oeste SP                v Botafogo SP              0-1 (0-0)
+    21.30  Guarani SP              v Sampaio Corrêa MA        1-1 (1-0)
+           Paraná Clube            v Chapecoense              1-1 (0-0)
+    22.30  Cuiabá MT               v Náutico PE               1-0 (0-0)
+  Wed Sep/30
+    16.30  Confiança SE            v Brasil de Pelotas RS     1-1 (0-1)
+    19.15  Cruzeiro                v Ponte Preta              3-0 (2-0)
+
+
+» Matchday 13
+  Fri Oct/2
+    16.30  Figueirense SC          v Oeste SP                 4-1 (2-1)
+    19.15  CR Brasil AL            v Avaí SC                  3-1 (1-0)
+           Operário Ferroviário PR v Vitória BA               1-1 (0-0)
+    21.30  Botafogo SP             v Paraná Clube             1-0 (1-0)
+  Sat Oct/3
+    11.00  América MG              v Guarani SP               0-0
+    16.00  Náutico PE              v Confiança SE             0-1 (0-1)
+    16.30  Brasil de Pelotas RS    v Chapecoense              0-1 (0-0)
+           Sampaio Corrêa MA       v CSA AL                   1-0 (1-0)
+    19.00  Ponte Preta             v Juventude RS             1-3 (0-1)
+    22.00  Cuiabá MT               v Cruzeiro                 1-0 (0-0)
+
+
+» Matchday 14
+  Mon Oct/5
+    20.00  Oeste SP                v Operário Ferroviário PR  0-1 (0-1)
+  Tue Oct/6
+    17.00  Confiança SE            v CR Brasil AL             1-0 (0-0)
+           Chapecoense             v Botafogo SP              1-0 (0-0)
+    19.15  Avaí SC                 v Brasil de Pelotas RS     2-1 (1-0)
+           CSA AL                  v Figueirense SC           3-0 (2-0)
+           Paraná Clube            v Náutico PE               0-0
+           Juventude RS            v Cuiabá MT                1-1 (0-1)
+           Vitória BA              v América MG               1-2 (0-2)
+    21.30  Ponte Preta             v Guarani SP               2-0 (1-0)
+  Thu Oct/8
+    18.30  Cruzeiro                v Sampaio Corrêa MA        1-2 (1-1)
+
+
+» Matchday 15
+  Fri Oct/9
+    16.00  Figueirense SC          v Chapecoense              0-0
+    16.30  Operário Ferroviário PR v Confiança SE             1-1 (1-1)
+    18.30  Cuiabá MT               v Ponte Preta              2-1 (1-0)
+    19.15  América MG              v Náutico PE               2-0 (1-0)
+  Sat Oct/10
+    11.00  Juventude RS            v Brasil de Pelotas RS     1-2 (0-2)
+    16.00  Vitória BA              v Avaí SC                  1-2 (1-2)
+    16.30  Guarani SP              v CR Brasil AL             3-1 (2-1)
+    18.30  CSA AL                  v Paraná Clube             4-0 (3-0)
+  Sun Oct/11
+    16.00  Oeste SP                v Cruzeiro                 0-0
+    20.30  Sampaio Corrêa MA       v Botafogo SP              2-0 (1-0)
+
+
+» Matchday 16
+  Mon Oct/12
+    20.00  Náutico PE              v Ponte Preta              0-2 (0-0)
+  Tue Oct/13
+    19.15  Avaí SC                 v CSA AL                   1-1 (1-1)
+    21.30  Guarani SP              v Cuiabá MT                1-0 (1-0)
+  Fri Oct/16
+    19.15  Botafogo SP             v América MG               1-2 (0-0)
+    21.30  Cruzeiro                v Juventude RS             0-0
+  Sat Oct/17
+    16.00  Chapecoense             v Vitória BA               1-1 (1-0)
+    16.30  Confiança SE            v Oeste SP                 3-1 (3-1)
+    18.30  CR Brasil AL            v Operário Ferroviário PR  4-1 (1-1)
+           Brasil de Pelotas RS    v Figueirense SC           0-0
+  Sun Oct/18
+    20.30  Paraná Clube            v Sampaio Corrêa MA        0-0
+
+
+» Matchday 17
+  Tue Oct/20
+    16.30  América MG              v Brasil de Pelotas RS     3-1 (2-1)
+    19.15  CSA AL                  v Botafogo SP              1-0 (0-0)
+           Oeste SP                v Náutico PE               0-1 (0-0)
+           Juventude RS            v Avaí SC                  3-0 (1-0)
+    21.30  Ponte Preta             v Chapecoense              0-5 (0-2)
+           Operário Ferroviário PR v Cruzeiro                 0-1 (0-0)
+  Wed Oct/21
+    16.30  Figueirense SC          v CR Brasil AL             2-0 (1-0)
+    19.00  Sampaio Corrêa MA       v Confiança SE             1-3 (0-2)
+           Cuiabá MT               v Paraná Clube             3-3 (1-1)
+  Thu Oct/22
+    21.30  Vitória BA              v Guarani SP               1-1 (1-0)
+
+
+» Matchday 18
+  Fri Oct/23
+    19.15  Brasil de Pelotas RS    v CSA AL                   1-1 (1-1)
+    21.30  Chapecoense             v Operário Ferroviário PR  1-0 (0-0)
+  Sat Oct/24
+    16.00  CR Brasil AL            v Ponte Preta              1-0 (1-0)
+    18.30  Sampaio Corrêa MA       v Cuiabá MT                3-0 (2-0)
+    21.00  América MG              v Confiança SE             2-1 (1-0)
+  Sun Oct/25
+    16.00  Náutico PE              v Cruzeiro                 1-1 (1-0)
+    18.15  Figueirense SC          v Juventude RS             1-1 (0-1)
+           Guarani SP              v Avaí SC                  2-1 (1-0)
+    20.30  Botafogo SP             v Vitória BA               2-1 (1-0)
+  Mon Oct/26
+    20.00  Paraná Clube            v Oeste SP                 4-0 (1-0)
+
+
+» Matchday 19
+  Fri Oct/30
+    19.15  Vitória BA              v Brasil de Pelotas RS     0-0
+    21.30  Cruzeiro                v Paraná Clube             2-0 (2-0)
+  Sat Oct/31
+    16.30  Oeste SP                v Sampaio Corrêa MA        0-3 (0-2)
+           Confiança SE            v Chapecoense              0-2 (0-1)
+    19.00  Avaí SC                 v América MG               1-0 (0-0)
+           Operário Ferroviário PR v Botafogo SP              0-0
+    21.00  CSA AL                  v Náutico PE               3-1 (2-1)
+    22.00  Cuiabá MT               v CR Brasil AL             3-0 (0-0)
+  Sun Nov/1
+    18.15  Juventude RS            v Guarani SP               1-0 (1-0)
+  Mon Nov/2
+    17.30  Ponte Preta             v Figueirense SC           2-1 (0-1)
+
+
+» Matchday 20
+  Fri Nov/6
+    19.15  Guarani SP              v CSA AL                   2-1 (1-1)
+           Botafogo SP             v Cruzeiro                 0-1 (0-0)
+           Náutico PE              v Avaí SC                  2-2 (0-1)
+    21.30  Paraná Clube            v Confiança SE             1-1 (0-0)
+  Sat Nov/7
+    16.00  Brasil de Pelotas RS    v Cuiabá MT                3-0 (2-0)
+    16.30  Figueirense SC          v Operário Ferroviário PR  0-1 (0-0)
+    18.30  América MG              v Ponte Preta              1-1 (1-0)
+    21.00  Chapecoense             v Oeste SP                 0-0
+  Sun Nov/8
+    16.00  Sampaio Corrêa MA       v Vitória BA               2-1 (0-1)
+    18.15  CR Brasil AL            v Juventude RS             0-1 (0-0)
+
+
+» Matchday 21
+  Mon Nov/9
+    20.00  Cruzeiro                v Guarani SP               3-3 (2-2)
+  Tue Nov/10
+    19.00  CSA AL                  v Chapecoense              0-1 (0-0)
+    21.30  Confiança SE            v Botafogo SP              1-0 (0-0)
+  Thu Nov/12
+    21.30  Vitória BA              v Figueirense SC           3-0 (2-0)
+  Fri Nov/13
+    16.00  Ponte Preta             v Brasil de Pelotas RS     1-1 (1-1)
+    16.30  Operário Ferroviário PR v Náutico PE               3-1 (1-0)
+    18.30  Avaí SC                 v Paraná Clube             2-1 (1-1)
+    19.15  Oeste SP                v CR Brasil AL             1-2 (0-1)
+  Sat Nov/14
+    19.00  Juventude RS            v Sampaio Corrêa MA        2-3 (1-2)
+    21.30  Cuiabá MT               v América MG               0-0
+
+
+» Matchday 22
+  Fri Nov/20
+    16.30  Avaí SC                 v Confiança SE             1-0 (1-0)
+           Vitória BA              v Ponte Preta              0-0
+    19.15  Guarani SP              v Botafogo SP              2-1 (1-1)
+           Juventude RS            v Paraná Clube             5-0 (3-0)
+           Sampaio Corrêa MA       v Chapecoense              1-3 (1-1)
+    21.30  Cruzeiro                v Figueirense SC           1-1 (1-1)
+  Sat Nov/21
+    16.30  Oeste SP                v Brasil de Pelotas RS     2-1 (2-0)
+           Operário Ferroviário PR v América MG               0-1 (0-1)
+    19.00  CR Brasil AL            v Náutico PE               2-1 (1-0)
+           Cuiabá MT               v CSA AL                   0-1 (0-1)
+
+
+» Matchday 23
+  Mon Nov/23
+    17.30  Figueirense SC          v Sampaio Corrêa MA        1-2 (1-0)
+    20.00  Botafogo SP             v Avaí SC                  0-1 (0-1)
+  Tue Nov/24
+    16.30  Paraná Clube            v Guarani SP               1-2 (0-1)
+    19.15  CSA AL                  v Operário Ferroviário PR  1-0 (0-0)
+           Ponte Preta             v Oeste SP                 1-0 (0-0)
+           Confiança SE            v Cuiabá MT                2-0 (0-0)
+    21.30  América MG              v Juventude RS             2-1 (2-1)
+           Brasil de Pelotas RS    v CR Brasil AL             2-1 (0-0)
+           Chapecoense             v Cruzeiro                 0-1 (0-0)
+  Wed Nov/25
+    19.00  Náutico PE              v Vitória BA               0-0
+
+
+» Matchday 24
+  Thu Nov/26
+    21.30  Figueirense SC          v Botafogo SP              0-0
+  Fri Nov/27
+    19.15  Oeste SP                v América MG               1-1 (1-1)
+           Operário Ferroviário PR v Paraná Clube             1-0 (0-0)
+           Sampaio Corrêa MA       v Brasil de Pelotas RS     0-1 (0-0)
+    21.30  Cruzeiro                v Confiança SE             1-2 (0-2)
+    22.30  Cuiabá MT               v Avaí SC                  2-1 (1-0)
+  Sat Nov/28
+    16.00  CSA AL                  v Ponte Preta              2-1 (0-1)
+    18.30  Vitória BA              v CR Brasil AL             2-1 (2-1)
+    21.00  Guarani SP              v Chapecoense              2-0 (2-0)
+           Juventude RS            v Náutico PE               1-0 (0-0)
+
+
+» Matchday 25
+  Mon Nov/30
+    17.00  Brasil de Pelotas RS    v Operário Ferroviário PR  0-0
+    20.00  Avaí SC                 v Oeste SP                 0-3 (0-0)
+  Tue Dec/1
+    19.00  Chapecoense             v Cuiabá MT                1-0 (0-0)
+    19.15  CR Brasil AL            v CSA AL                   0-0
+           Náutico PE              v Guarani SP               2-0 (1-0)
+           Confiança SE            v Figueirense SC           1-1 (1-0)
+    21.30  Ponte Preta             v Sampaio Corrêa MA        1-1 (0-1)
+           Paraná Clube            v Vitória BA               1-4 (0-1)
+  Wed Dec/2
+    19.00  Botafogo SP             v Juventude RS             1-1 (0-0)
+    21.30  América MG              v Cruzeiro                 1-2 (0-1)
+
+
+» Matchday 26
+  Thu Dec/3
+    21.30  Operário Ferroviário PR v Avaí SC                  1-1 (0-0)
+  Fri Dec/4
+    16.00  Oeste SP                v Guarani SP               0-1 (0-0)
+    19.15  Vitória BA              v Confiança SE             2-3 (1-1)
+    21.30  Ponte Preta             v Paraná Clube             2-1 (1-1)
+  Sat Dec/5
+    16.00  Juventude RS            v Chapecoense              1-1 (0-0)
+    18.30  CSA AL                  v América MG               0-1 (0-1)
+    19.00  Sampaio Corrêa MA       v CR Brasil AL             3-0 (2-0)
+    21.00  Cruzeiro                v Brasil de Pelotas RS     4-1 (3-1)
+    22.00  Cuiabá MT               v Botafogo SP              2-0 (0-0)
+  Sun Dec/6
+    18.15  Figueirense SC          v Náutico PE               2-0 (0-0)
+
+
+» Matchday 27
+  Tue Dec/8
+    16.00  Juventude RS            v Oeste SP                 2-2 (1-1)
+    16.30  Guarani SP              v Operário Ferroviário PR  3-0 (3-0)
+    19.15  América MG              v Sampaio Corrêa MA        2-1 (1-1)
+           Botafogo SP             v Ponte Preta              2-1 (1-0)
+    21.30  Avaí SC                 v Chapecoense              0-2 (0-1)
+           CR Brasil AL            v Cruzeiro                 0-0
+           Confiança SE            v CSA AL                   1-5 (1-2)
+           Cuiabá MT               v Vitória BA               3-3 (1-1)
+  Wed Dec/9
+    19.15  Paraná Clube            v Figueirense SC           0-2 (0-0)
+  Thu Dec/10
+    21.30  Náutico PE              v Brasil de Pelotas RS     1-0 (1-0)
+
+
+» Matchday 28
+  Fri Dec/11
+    16.00  Operário Ferroviário PR v Sampaio Corrêa MA        1-1 (1-0)
+    19.15  CSA AL                  v Oeste SP                 2-1 (2-0)
+           Ponte Preta             v Avaí SC                  1-2 (1-1)
+    21.30  Vitória BA              v Cruzeiro                 0-1 (0-1)
+  Sat Dec/12
+    16.00  Figueirense SC          v Cuiabá MT                1-0 (0-0)
+    18.30  América MG              v Paraná Clube             1-0 (0-0)
+    19.00  Confiança SE            v Juventude RS             0-1 (0-1)
+    21.00  Chapecoense             v CR Brasil AL             3-2 (2-0)
+  Sun Dec/13
+    18.15  Botafogo SP             v Náutico PE               1-1 (1-0)
+    20.30  Brasil de Pelotas RS    v Guarani SP               3-1 (1-0)
+
+
+» Matchday 29
+  Mon Dec/14
+    20.00  Operário Ferroviário PR v Ponte Preta              1-0 (1-0)
+  Tue Dec/15
+    16.00  Oeste SP                v Cuiabá MT                0-2 (0-1)
+    19.15  Sampaio Corrêa MA       v Avaí SC                  0-1 (0-1)
+    21.30  Cruzeiro                v CSA AL                   1-1 (0-1)
+           Vitória BA              v Juventude RS             1-0 (1-0)
+  Wed Dec/16
+    16.30  Brasil de Pelotas RS    v Botafogo SP              0-0
+    19.15  Guarani SP              v Confiança SE             1-0 (1-0)
+           Chapecoense             v Náutico PE               0-0
+  Thu Dec/17
+    19.15  Figueirense SC          v América MG               1-2 (1-1)
+    21.30  CR Brasil AL            v Paraná Clube             0-2 (0-1)
+
+
+» Matchday 30
+  Fri Dec/18
+    16.00  Oeste SP                v Vitória BA               2-1 (1-0)
+    18.00  Juventude RS            v CSA AL                   1-0 (1-0)
+    20.15  Avaí SC                 v Cruzeiro                 1-1 (0-1)
+    22.30  Cuiabá MT               v Operário Ferroviário PR  2-0 (1-0)
+  Sat Dec/19
+    16.30  Náutico PE              v Sampaio Corrêa MA        1-0 (0-0)
+    19.00  Confiança SE            v Ponte Preta              1-2 (1-1)
+  Sun Dec/20
+    16.00  América MG              v Chapecoense              2-2 (0-1)
+    18.15  CR Brasil AL            v Botafogo SP              1-0 (0-0)
+           Guarani SP              v Figueirense SC           2-2 (2-1)
+  Mon Dec/21
+    17.30  Paraná Clube            v Brasil de Pelotas RS     0-1 (0-0)
+
+
+» Matchday 31
+  Tue Dec/22
+    16.00  Operário Ferroviário PR v Juventude RS             3-0 (1-0)
+    19.15  CSA AL                  v Vitória BA               3-0 (2-0)
+    21.30  Ponte Preta             v Cruzeiro                 2-1 (0-1)
+           Náutico PE              v Cuiabá MT                2-0 (0-0)
+  Wed Dec/23
+    19.00  Sampaio Corrêa MA       v Guarani SP               0-1 (0-0)
+    19.15  Botafogo SP             v Oeste SP                 1-1 (1-0)
+  Sat Dec/26
+    16.00  Figueirense SC          v Avaí SC                  2-0 (2-0)
+    18.30  América MG              v CR Brasil AL             1-0 (1-0)
+  Mon Dec/28
+    17.00  Brasil de Pelotas RS    v Confiança SE             1-0 (1-0)
+    20.00  Chapecoense             v Paraná Clube             2-0 (2-0)
+
+
+» Matchday 32
+  Tue Dec/29
+    19.15  Avaí SC                 v CR Brasil AL             0-1 (0-0)
+    21.30  Cruzeiro                v Cuiabá MT                0-0
+  Wed Dec/30
+    17.00  Juventude RS            v Ponte Preta              2-1 (0-0)
+  Sat Jan/2 2021
+    16.30  CSA AL                  v Sampaio Corrêa MA        2-1 (0-0)
+    18.45  Oeste SP                v Figueirense SC           2-1 (2-0)
+    21.00  Guarani SP              v América MG               0-1 (0-1)
+  Sun Jan/3
+    16.00  Chapecoense             v Brasil de Pelotas RS     0-0
+    18.15  Vitória BA              v Operário Ferroviário PR  1-1 (1-1)
+  Mon Jan/4
+    17.00  Paraná Clube            v Botafogo SP              1-1 (0-1)
+    20.00  Confiança SE            v Náutico PE               2-0 (0-0)
+
+
+» Matchday 33
+  Tue Jan/5
+    19.15  Guarani SP              v Ponte Preta              1-1 (0-1)
+    21.30  Cuiabá MT               v Juventude RS             1-0 (1-0)
+  Fri Jan/8
+    16.00  Brasil de Pelotas RS    v Avaí SC                  0-1 (0-0)
+    19.15  CR Brasil AL            v Confiança SE             2-0 (0-0)
+           Operário Ferroviário PR v Oeste SP                 2-0 (0-0)
+           Náutico PE              v Paraná Clube             2-1 (1-1)
+    21.30  Figueirense SC          v CSA AL                   0-0
+           Sampaio Corrêa MA       v Cruzeiro                 0-1 (0-1)
+  Sat Jan/9
+    19.00  América MG              v Vitória BA               4-0 (2-0)
+    21.00  Botafogo SP             v Chapecoense              3-0 (2-0)
+
+
+» Matchday 34
+  Mon Jan/11
+    17.30  Ponte Preta             v Cuiabá MT                2-2 (1-0)
+    20.00  CR Brasil AL            v Guarani SP               2-0 (0-0)
+           Confiança SE            v Operário Ferroviário PR  1-2 (1-0)
+  Tue Jan/12
+    19.15  Botafogo SP             v Sampaio Corrêa MA        2-1 (0-1)
+           Paraná Clube            v CSA AL                   2-0 (2-0)
+           Brasil de Pelotas RS    v Juventude RS             2-1 (2-1)
+           Náutico PE              v América MG               0-0
+    21.30  Chapecoense             v Figueirense SC           2-1 (1-0)
+  Wed Jan/13
+    19.00  Avaí SC                 v Vitória BA               2-2 (1-0)
+    21.30  Cruzeiro                v Oeste SP                 0-1 (0-1)
+
+
+» Matchday 35
+  Thu Jan/14
+    19.15  Operário Ferroviário PR v CR Brasil AL             3-2 (1-1)
+    21.30  Cuiabá MT               v Guarani SP               4-0 (2-0)
+  Fri Jan/15
+    17.30  Figueirense SC          v Brasil de Pelotas RS     3-0 (3-0)
+    19.15  Sampaio Corrêa MA       v Paraná Clube             2-1 (1-0)
+    21.30  América MG              v Botafogo SP              1-1 (0-1)
+  Sat Jan/16
+    16.30  CSA AL                  v Avaí SC                  1-1 (1-0)
+    19.00  Juventude RS            v Cruzeiro                 1-0 (1-0)
+    21.00  Oeste SP                v Confiança SE             0-1 (0-1)
+  Sun Jan/17
+    16.00  Ponte Preta             v Náutico PE               2-0 (2-0)
+           Vitória BA              v Chapecoense              0-0
+
+
+» Matchday 36
+  Tue Jan/19
+    16.00  Brasil de Pelotas RS    v América MG               0-0
+    19.15  Avaí SC                 v Juventude RS             5-2 (4-2)
+           CR Brasil AL            v Figueirense SC           5-1 (3-0)
+           Botafogo SP             v CSA AL                   1-3 (0-1)
+           Confiança SE            v Sampaio Corrêa MA        0-1 (0-0)
+    21.30  Paraná Clube            v Cuiabá MT                0-2 (0-1)
+  Wed Jan/20
+    16.00  Guarani SP              v Vitória BA               1-2 (1-1)
+    19.15  Náutico PE              v Oeste SP                 4-1 (3-0)
+    21.30  Cruzeiro                v Operário Ferroviário PR  2-1 (1-0)
+  Thu Jan/21
+    17.45  Chapecoense             v Ponte Preta              1-0 (0-0)
+
+
+» Matchday 37
+  Fri Jan/22
+    16.00  Juventude RS            v Figueirense SC           2-1 (0-0)
+    19.15  CSA AL                  v Brasil de Pelotas RS     1-1 (0-1)
+    21.30  Cuiabá MT               v Sampaio Corrêa MA        1-3 (0-2)
+  Sat Jan/23
+    16.15  Confiança SE            v América MG               0-0
+    18.30  Avaí SC                 v Guarani SP               2-1 (1-0)
+  Sun Jan/24
+    16.00  Cruzeiro                v Náutico PE               0-0
+    18.15  Ponte Preta             v CR Brasil AL             3-1 (2-0)
+  Mon Jan/25
+    17.00  Operário Ferroviário PR v Chapecoense              2-0 (1-0)
+  Tue Jan/26
+    19.15  Oeste SP                v Paraná Clube             1-0 (0-0)
+    21.30  Vitória BA              v Botafogo SP              1-0 (0-0)
+
+
+» Matchday 38
+  Fri Jan/29
+    16.00  Figueirense SC          v Ponte Preta              2-7 (1-4)
+    17.00  Sampaio Corrêa MA       v Oeste SP                 1-0 (0-0)
+    19.15  CR Brasil AL            v Cuiabá MT                4-1 (2-0)
+           Botafogo SP             v Operário Ferroviário PR  0-1 (0-1)
+    21.30  América MG              v Avaí SC                  2-1 (2-0)
+           Guarani SP              v Juventude RS             0-1 (0-1)
+           Paraná Clube            v Cruzeiro                 0-0
+           Brasil de Pelotas RS    v Vitória BA               0-1 (0-0)
+           Náutico PE              v CSA AL                   1-1 (1-0)
+           Chapecoense             v Confiança SE             3-1 (1-0)

@@ -1,0 +1,262 @@
+= Copa Libertadores 2024
+
+# Date       Tue Feb/6 - Sat Nov/30 2024 (298d)
+# Teams      47
+# Matches    155
+# Stages     Qualifying (30)  Group (96)  Finals (29)
+
+
+
+» Qualifying, Round 1
+  Tue Feb/6 2024
+    21.30  Academia Puerto Cabello (VEN) v Defensor SC (URU)        3-2 (2-1)
+  Wed Feb/7
+    21.30  Club Aurora (BOL)       v FBC Melgar (PER)         1-0 (1-0)
+  Thu Feb/8
+    21.30  SD Aucas (ECU)          v Club Nacional (PAR)      1-0 (0-0)
+  Tue Feb/13
+    21.30  Defensor SC (URU)       v Academia Puerto Cabello (VEN)  2-4 (1-0)
+  Wed Feb/14
+    21.30  FBC Melgar (PER)        v Club Aurora (BOL)        1-1 (1-1)
+  Thu Feb/15
+    21.30  Club Nacional (PAR)     v SD Aucas (ECU)           3-0 (2-0)
+
+
+» Qualifying, Round 2
+  Tue Feb/20
+    19.00  Portuguesa FC (VEN)     v CD Palestino (CHI)       1-2 (1-2)
+    21.30  Rionegro Águilas (COL)  v RB Bragantino (BRA)      0-0
+           Club Always Ready (BOL) v CS Cristal (PER)         6-1 (1-1)
+  Wed Feb/21
+    19.00  Academia Puerto Cabello (VEN) v Club Nacional de Football (URU)  0-2 (0-2)
+    21.30  Club Nacional (PAR)     v CDC Atlético Nacional (COL)  1-0 (0-0)
+           Club Aurora (BOL)       v Botafogo FR (BRA)        1-1 (0-1)
+  Thu Feb/22
+    19.00  Sportivo Trinidense (PAR) v CSCyD El Nacional (ECU)  1-1 (1-0)
+    21.30  CD Godoy Cruz Antonio Tomba (ARG) v CSD Colo-Colo (CHI)      0-1 (0-0)
+  Tue Feb/27
+    19.00  CD Palestino (CHI)      v Portuguesa FC (VEN)      2-1 (1-0)
+    21.30  RB Bragantino (BRA)     v Rionegro Águilas (COL)   4-3 (0-0)
+           CS Cristal (PER)        v Club Always Ready (BOL)  3-1 (1-1)
+  Wed Feb/28
+    19.00  Club Nacional de Football (URU) v Academia Puerto Cabello (VEN)  2-0 (0-0)
+    21.30  CDC Atlético Nacional (COL) v Club Nacional (PAR)      0-3 (0-1)
+           Botafogo FR (BRA)       v Club Aurora (BOL)        6-0 (3-0)
+  Thu Feb/29
+    19.00  CSCyD El Nacional (ECU) v Sportivo Trinidense (PAR)  0-1 (0-0)
+    21.30  CSD Colo-Colo (CHI)     v CD Godoy Cruz Antonio Tomba (ARG)  0-0
+
+
+» Qualifying, Round 3
+  Tue Mar/5
+    21.30  Club Nacional (PAR)     v CD Palestino (CHI)       0-2 (0-0)
+  Wed Mar/6
+    21.30  Botafogo FR (BRA)       v RB Bragantino (BRA)      2-1 (1-1)
+           Sportivo Trinidense (PAR) v CSD Colo-Colo (CHI)      1-1 (1-0)
+  Thu Mar/7
+    21.30  Club Always Ready (BOL) v Club Nacional de Football (URU)  1-0 (1-0)
+  Tue Mar/12
+    21.30  CD Palestino (CHI)      v Club Nacional (PAR)      3-1 (0-1)
+  Wed Mar/13
+    21.30  RB Bragantino (BRA)     v Botafogo FR (BRA)        1-1 (0-0)
+           CSD Colo-Colo (CHI)     v Sportivo Trinidense (PAR)  2-1 (2-1)
+  Thu Mar/14
+    21.30  Club Nacional de Football (URU) v Club Always Ready (BOL)  5-4 (1-1)
+
+
+» Group, Matchday 1
+  Tue Apr/2
+    19.00  CD Cobresal (CHI)       v Barcelona SC (ECU)       1-1 (0-0)
+           Millonarios FC (COL)    v CR Flamengo (BRA)        1-1 (0-0)
+    21.00  Club The Strongest (BOL) v Grêmio FBPA (BRA)        2-0 (1-0)
+    21.30  Deportivo Táchira FC (VEN) v CA River Plate (ARG)     0-2 (0-0)
+    23.00  Club Universitario de Deportes (PER) v LDU de Quito (ECU)       2-1 (0-1)
+  Wed Apr/3
+    19.00  Club Nacional de Football (URU) v Club Libertad Asuncion (PAR)  2-0 (1-0)
+           CD Huachipato (CHI)     v Estudiantes de La Plata (ARG)  1-1 (0-1)
+           Botafogo FR (BRA)       v CDP Junior FC (COL)      1-3 (1-3)
+    21.00  CSD Colo-Colo (CHI)     v Club Cerro Porteño (PAR)  1-0 (0-0)
+    21.30  CA San Lorenzo de Almagro (ARG) v SE Palmeiras (BRA)       1-1 (1-0)
+           Club Alianza Lima (PER) v Fluminense FC (BRA)      1-1 (1-0)
+  Thu Apr/4
+    19.00  Caracas FC (VEN)        v CA Mineiro (BRA)         1-4 (0-3)
+           CA Rosario Central (ARG) v CA Peñarol (URU)         1-0 (1-0)
+    21.00  Liverpool FC (URU)      v CAR Independiente del Valle (ECU)  1-1 (0-1)
+           CA Talleres (ARG)       v São Paulo FC (BRA)       2-1 (1-0)
+           CD Palestino (CHI)      v Club Bolívar (BOL)       0-4 (0-2)
+
+
+» Group, Matchday 2
+  Tue Apr/9
+    19.00  Estudiantes de La Plata (ARG) v Club The Strongest (BOL)  2-1 (0-1)
+           Grêmio FBPA (BRA)       v CD Huachipato (CHI)      0-2 (0-2)
+    21.00  Club Libertad Asuncion (PAR) v Deportivo Táchira FC (VEN)  3-0 (2-0)
+           Fluminense FC (BRA)     v CSD Colo-Colo (CHI)      2-1 (1-1)
+    23.00  CDP Junior FC (COL)     v Club Universitario de Deportes (PER)  1-1 (1-1)
+  Wed Apr/10
+    19.00  CAR Independiente del Valle (ECU) v CA San Lorenzo de Almagro (ARG)  2-0 (2-0)
+           CA Mineiro (BRA)        v CA Rosario Central (ARG)  2-1 (1-0)
+           Club Cerro Porteño (PAR) v Club Alianza Lima (PER)  1-0 (0-0)
+    21.00  CA Peñarol (URU)        v Caracas FC (VEN)         5-0 (4-0)
+    21.30  São Paulo FC (BRA)      v CD Cobresal (CHI)        2-0 (0-0)
+           CR Flamengo (BRA)       v CD Palestino (CHI)       2-0 (1-0)
+    23.00  Barcelona SC (ECU)      v CA Talleres (ARG)        2-2 (1-1)
+  Thu Apr/11
+    19.00  LDU de Quito (ECU)      v Botafogo FR (BRA)        1-0 (1-0)
+           Club Bolívar (BOL)      v Millonarios FC (COL)     3-2 (3-1)
+    21.00  SE Palmeiras (BRA)      v Liverpool FC (URU)       3-1 (1-1)
+           CA River Plate (ARG)    v Club Nacional de Football (URU)  2-0 (1-0)
+
+
+» Group, Matchday 3
+  Tue Apr/23
+    19.00  Caracas FC (VEN)        v CA Rosario Central (ARG)  1-1 (1-0)
+           Estudiantes de La Plata (ARG) v Grêmio FBPA (BRA)        0-1 (0-0)
+    21.00  Liverpool FC (URU)      v CA San Lorenzo de Almagro (ARG)  1-0 (0-0)
+           CA Mineiro (BRA)        v CA Peñarol (URU)         3-2 (2-0)
+    21.30  CSD Colo-Colo (CHI)     v Club Alianza Lima (PER)  0-0
+    23.00  CDP Junior FC (COL)     v LDU de Quito (ECU)       1-1 (1-1)
+  Wed Apr/24
+    19.00  Club Nacional de Football (URU) v Deportivo Táchira FC (VEN)  2-1 (2-1)
+           CD Huachipato (CHI)     v Club The Strongest (BOL)  0-0
+           Botafogo FR (BRA)       v Club Universitario de Deportes (PER)  3-1 (0-0)
+    21.30  CAR Independiente del Valle (ECU) v SE Palmeiras (BRA)       2-3 (2-1)
+           Club Libertad Asuncion (PAR) v CA River Plate (ARG)     1-2 (1-1)
+           Club Bolívar (BOL)      v CR Flamengo (BRA)        2-1 (1-1)
+  Thu Apr/25
+    19.00  Club Cerro Porteño (PAR) v Fluminense FC (BRA)      0-0
+           CD Cobresal (CHI)       v CA Talleres (ARG)        0-2 (0-2)
+    21.00  CD Palestino (CHI)      v Millonarios FC (COL)     3-1 (2-1)
+           Barcelona SC (ECU)      v São Paulo FC (BRA)       0-2 (0-1)
+
+
+» Group, Matchday 4
+  Tue May/7
+    19.00  CA Rosario Central (ARG) v CA Mineiro (BRA)         0-1 (0-0)
+           Caracas FC (VEN)        v CA Peñarol (URU)         0-1 (0-1)
+    21.00  CD Palestino (CHI)      v CR Flamengo (BRA)        1-0 (0-0)
+           Deportivo Táchira FC (VEN) v Club Libertad Asuncion (PAR)  1-1 (1-0)
+           Club Nacional de Football (URU) v CA River Plate (ARG)     2-2 (0-2)
+    23.00  Club Universitario de Deportes (PER) v CDP Junior FC (COL)      1-1 (1-1)
+  Wed May/8
+    19.00  CA Talleres (ARG)       v Barcelona SC (ECU)       3-1 (2-0)
+    21.00  Club Alianza Lima (PER) v Club Cerro Porteño (PAR)  1-1 (0-1)
+    21.30  CD Cobresal (CHI)       v São Paulo FC (BRA)       1-3 (1-1)
+           Botafogo FR (BRA)       v LDU de Quito (ECU)       2-1 (1-1)
+    23.00  Millonarios FC (COL)    v Club Bolívar (BOL)       1-1 (1-0)
+  Thu May/9
+    19.00  CA San Lorenzo de Almagro (ARG) v CAR Independiente del Valle (ECU)  2-0 (2-0)
+           Liverpool FC (URU)      v SE Palmeiras (BRA)       0-5 (0-1)
+    21.00  CSD Colo-Colo (CHI)     v Fluminense FC (BRA)      0-1 (0-0)
+           Club The Strongest (BOL) v Estudiantes de La Plata (ARG)  1-0 (1-0)
+
+
+» Group, Matchday 5
+  Tue May/14
+    19.00  CA Peñarol (URU)        v CA Mineiro (BRA)         2-0 (0-0)
+           CA Talleres (ARG)       v CD Cobresal (CHI)        1-0 (0-0)
+           LDU de Quito (ECU)      v CDP Junior FC (COL)      0-1 (0-1)
+    21.30  CA River Plate (ARG)    v Club Libertad Asuncion (PAR)  2-0 (1-0)
+    23.00  Millonarios FC (COL)    v CD Palestino (CHI)       1-1 (1-0)
+  Wed May/15
+    19.00  Deportivo Táchira FC (VEN) v Club Nacional de Football (URU)  0-1 (0-0)
+           Club The Strongest (BOL) v CD Huachipato (CHI)      4-0 (1-0)
+    21.00  Club Alianza Lima (PER) v CSD Colo-Colo (CHI)      1-1 (1-0)
+    21.30  CR Flamengo (BRA)       v Club Bolívar (BOL)       4-0 (3-0)
+           SE Palmeiras (BRA)      v CAR Independiente del Valle (ECU)  2-1 (2-0)
+  Thu May/16
+    19.00  CA Rosario Central (ARG) v Caracas FC (VEN)         4-1 (2-0)
+           Fluminense FC (BRA)     v Club Cerro Porteño (PAR)  2-1 (1-1)
+           Club Universitario de Deportes (PER) v Botafogo FR (BRA)        0-1 (0-0)
+    21.00  CA San Lorenzo de Almagro (ARG) v Liverpool FC (URU)       3-2 (2-1)
+           São Paulo FC (BRA)      v Barcelona SC (ECU)       0-0
+
+
+» Group, Matchday 6
+  Tue May/28
+    19.00  CA Mineiro (BRA)        v Caracas FC (VEN)         4-0 (2-0)
+           CA Peñarol (URU)        v CA Rosario Central (ARG)  2-1 (1-0)
+           CDP Junior FC (COL)     v Botafogo FR (BRA)        0-0
+           LDU de Quito (ECU)      v Club Universitario de Deportes (PER)  2-0 (1-0)
+    21.00  Club Bolívar (BOL)      v CD Palestino (CHI)       3-1 (1-0)
+           CR Flamengo (BRA)       v Millonarios FC (COL)     3-0 (3-0)
+  Wed May/29
+    19.00  Estudiantes de La Plata (ARG) v CD Huachipato (CHI)      3-4 (1-2)
+           Grêmio FBPA (BRA)       v Club The Strongest (BOL)  4-0 (1-0)
+    21.30  Fluminense FC (BRA)     v Club Alianza Lima (PER)  3-2 (0-1)
+           Club Cerro Porteño (PAR) v CSD Colo-Colo (CHI)      1-1 (1-1)
+           Barcelona SC (ECU)      v CD Cobresal (CHI)        2-1 (2-0)
+           São Paulo FC (BRA)      v CA Talleres (ARG)        2-0 (1-0)
+  Thu May/30
+    19.00  CAR Independiente del Valle (ECU) v Liverpool FC (URU)       2-1 (1-1)
+           SE Palmeiras (BRA)      v CA San Lorenzo de Almagro (ARG)  0-0
+    21.00  CA River Plate (ARG)    v Deportivo Táchira FC (VEN)  2-0 (0-0)
+           Club Libertad Asuncion (PAR) v Club Nacional de Football (URU)  2-1 (2-1)
+
+
+» Group, Matchday 4
+  Tue Jun/4
+    21.00  CD Huachipato (CHI)     v Grêmio FBPA (BRA)        0-1 (0-1)
+
+
+» Group, Matchday 5
+  Sat Jun/8
+    19.00  Grêmio FBPA (BRA)       v Estudiantes de La Plata (ARG)  1-1 (0-0)
+
+
+» Finals, Round of 16
+  Tue Aug/13
+    19.00  Grêmio FBPA (BRA)       v Fluminense FC (BRA)      2-1 (0-0)
+    21.30  CA San Lorenzo de Almagro (ARG) v CA Mineiro (BRA)         1-1 (1-0)
+           CSD Colo-Colo (CHI)     v CDP Junior FC (COL)      1-0 (0-0)
+  Wed Aug/14
+    19.00  CA Peñarol (URU)        v Club The Strongest (BOL)  4-0 (3-0)
+    21.30  CA Talleres (ARG)       v CA River Plate (ARG)     0-1 (0-0)
+           Botafogo FR (BRA)       v SE Palmeiras (BRA)       2-1 (2-1)
+  Thu Aug/15
+    19.00  Club Nacional de Football (URU) v São Paulo FC (BRA)       0-0
+    21.30  CR Flamengo (BRA)       v Club Bolívar (BOL)       2-0 (1-0)
+  Tue Aug/20
+    19.00  Fluminense FC (BRA)     v Grêmio FBPA (BRA)        4-2 (2-0)
+    21.30  CA Mineiro (BRA)        v CA San Lorenzo de Almagro (ARG)  1-0 (0-0)
+           CDP Junior FC (COL)     v CSD Colo-Colo (CHI)      1-2 (1-1)
+  Wed Aug/21
+    19.00  Club The Strongest (BOL) v CA Peñarol (URU)         1-0 (1-0)
+    21.30  CA River Plate (ARG)    v CA Talleres (ARG)        2-1 (1-0)
+           SE Palmeiras (BRA)      v Botafogo FR (BRA)        2-2 (0-0)
+  Thu Aug/22
+    19.00  São Paulo FC (BRA)      v Club Nacional de Football (URU)  2-0 (1-0)
+    21.30  Club Bolívar (BOL)      v CR Flamengo (BRA)        1-0 (0-0)
+
+
+» Finals, Quarterfinals
+  Tue Sep/17
+    21.30  CSD Colo-Colo (CHI)     v CA River Plate (ARG)     1-1 (0-1)
+  Wed Sep/18
+    19.00  Fluminense FC (BRA)     v CA Mineiro (BRA)         1-0 (0-0)
+    21.30  Botafogo FR (BRA)       v São Paulo FC (BRA)       0-0
+  Thu Sep/19
+    19.00  CR Flamengo (BRA)       v CA Peñarol (URU)         0-1 (0-1)
+  Tue Sep/24
+    21.30  CA River Plate (ARG)    v CSD Colo-Colo (CHI)      1-0 (1-0)
+  Wed Sep/25
+    19.00  CA Mineiro (BRA)        v Fluminense FC (BRA)      2-0 (0-0)
+    21.30  São Paulo FC (BRA)      v Botafogo FR (BRA)        4-5 (0-1)
+  Thu Sep/26
+    19.00  CA Peñarol (URU)        v CR Flamengo (BRA)        0-0
+
+
+» Finals, Semifinals
+  Tue Oct/22
+    21.30  CA Mineiro (BRA)        v CA River Plate (ARG)     3-0 (1-0)
+  Wed Oct/23
+    21.45  Botafogo FR (BRA)       v CA Peñarol (URU)         5-0 (0-0)
+  Tue Oct/29
+    21.45  CA River Plate (ARG)    v CA Mineiro (BRA)         0-0
+  Wed Oct/30
+    21.30  CA Peñarol (URU)        v Botafogo FR (BRA)        3-1 (1-0)
+
+
+» Finals, Final
+  Sat Nov/30
+    17.00  CA Mineiro (BRA)        v Botafogo FR (BRA)        1-3 (0-2)

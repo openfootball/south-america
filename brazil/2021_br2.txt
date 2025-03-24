@@ -6,672 +6,638 @@
 
 
 
-Matchday 1
-[Fri May/28]
-  19.00  Guarani SP               1-1 (1-1)  Vitória BA
-  21.30  Náutico PE               1-0 (1-0)  CSA AL
-         Vila Nova GO             1-1 (0-0)  Botafogo RJ
-  16.00  Brasil de Pelotas RS     0-0  Londrina PR
-[Sat May/29]
-  11.00  Vasco da Gama RJ         0-2 (0-2)  Operário Ferroviário PR
-  16.00  CR Brasil AL             2-2 (1-2)  Remo PA
-  16.30  Confiança SE             3-1 (1-0)  Cruzeiro
-  18.15  Coritiba PR              2-0 (1-0)  Avaí SC
-[Sun May/30]
-  11.00  Brusque SC               2-1 (1-0)  Ponte Preta
-[Mon May/31]
-  20.00  Sampaio Corrêa MA        0-0  Goiás GO
-
-
-Matchday 2
-[Tue Jun/1]
-  19.00  Operário Ferroviário PR  2-5 (1-3)  Guarani SP
-[Fri Jun/4]
-  17.30  Goiás GO                 2-0 (1-0)  Confiança SE
-[Sat Jun/5]
-  16.30  CSA AL                   0-0  Sampaio Corrêa MA
-  19.00  Remo PA                  1-0 (1-0)  Brasil de Pelotas RS
-  21.00  Botafogo RJ              2-0 (0-0)  Coritiba PR
-  11.00  Londrina PR              0-1 (0-1)  Brusque SC
-[Sun Jun/6]
-  16.00  Ponte Preta              1-1 (0-0)  Vasco da Gama RJ
-  18.15  Cruzeiro                 3-4 (1-2)  CR Brasil AL
-  20.30  Avaí SC                  1-1 (0-0)  Vila Nova GO
-[Mon Jun/7]
-  20.00  Vitória BA               0-1 (0-0)  Náutico PE
-
-
-Matchday 3
-[Fri Jun/11]
-  21.30  Guarani SP               1-3 (0-0)  Náutico PE
-  19.00  Sampaio Corrêa MA        1-0 (0-0)  Ponte Preta
-[Sat Jun/12]
-  16.30  CR Brasil AL             3-2 (2-2)  Confiança SE
-  19.00  Brasil de Pelotas RS     1-2 (1-0)  Vasco da Gama RJ
-         Vila Nova GO             1-0 (1-0)  CSA AL
-  21.00  Cruzeiro                 1-1 (0-1)  Goiás GO
-[Sun Jun/13]
-  16.00  Botafogo RJ              3-0 (1-0)  Remo PA
-  20.30  Coritiba PR              1-1 (1-0)  Londrina PR
-         Vitória BA               0-0  Operário Ferroviário PR
-  16.00  Avaí SC                  1-2 (0-0)  Brusque SC
-
-
-Matchday 4
-[Tue Jun/15]
-  19.00  Náutico PE               2-0 (1-0)  Vila Nova GO
-  21.30  Confiança SE             1-1 (1-1)  Brasil de Pelotas RS
-         Goiás GO                 1-0 (1-0)  CR Brasil AL
-  19.00  CSA AL                   1-1 (0-0)  Guarani SP
-[Wed Jun/16]
-  16.00  Remo PA                  0-0  Vitória BA
-  18.00  Operário Ferroviário PR  1-0 (0-0)  Sampaio Corrêa MA
-  19.00  Vasco da Gama RJ         0-2 (0-2)  Avaí SC
-  21.30  Ponte Preta              0-1 (0-0)  Cruzeiro
-[Thu Jun/17]
-  19.00  Londrina PR              2-2 (0-1)  Botafogo RJ
-
-
-Matchday 5
-[Fri Jun/18]
-  21.30  Brasil de Pelotas RS     2-1 (1-1)  Goiás GO
-[Sat Jun/19]
-  21.00  Sampaio Corrêa MA        3-1 (0-1)  Confiança SE
-  16.30  Vasco da Gama RJ         3-0 (1-0)  CR Brasil AL
-  18.30  Guarani SP               1-0 (1-0)  Ponte Preta
-  19.00  Operário Ferroviário PR  2-1 (1-1)  Cruzeiro
-         Vitória BA               3-1 (0-1)  Brusque SC
-  21.00  Vila Nova GO             0-1 (0-0)  Coritiba PR
-[Sun Jun/20]
-  20.30  CSA AL                   1-0 (1-0)  Londrina PR
-  16.00  Náutico PE               3-1 (1-0)  Botafogo RJ
-
-
-Matchday 6
-[Tue Jun/22]
-  21.30  CR Brasil AL             2-1 (1-0)  Brasil de Pelotas RS
-  16.30  Brusque SC               0-0  Sampaio Corrêa MA
-         Confiança SE             1-0 (1-0)  Vila Nova GO
-  19.00  Goiás GO                 3-0 (2-0)  Avaí SC
-         Ponte Preta              0-0  Operário Ferroviário PR
-  21.30  Coritiba PR              1-0 (1-0)  Vitória BA
-         Remo PA                  0-0  Guarani SP
-[Wed Jun/23]
-  16.00  Londrina PR              0-0  Náutico PE
-[Thu Jun/24]
-  21.30  Cruzeiro                 2-1 (2-1)  Vasco da Gama RJ
-
-
-Matchday 7
-[Fri Jun/25]
-  19.00  Operário Ferroviário PR  0-0  Confiança SE
-         Guarani SP               0-2 (0-1)  Coritiba PR
-  16.30  Avaí SC                  1-0 (1-0)  CR Brasil AL
-  19.00  Brasil de Pelotas RS     1-1 (0-0)  Ponte Preta
-  21.30  Vila Nova GO             0-0  Goiás GO
-[Sat Jun/26]
-  16.30  Sampaio Corrêa MA        2-0 (1-0)  Botafogo RJ
-  21.00  Náutico PE               1-1 (0-1)  Remo PA
-  18.30  Vitória BA               1-2 (1-0)  Londrina PR
-[Sun Jun/27]
-  20.30  CSA AL                   2-1 (2-1)  Cruzeiro
-  21.00  Vasco da Gama RJ         2-1 (0-0)  Brusque SC
-
-
-Matchday 8
-[Mon Jun/28]
-  18.00  Operário Ferroviário PR  1-2 (1-1)  Vila Nova GO
-[Tue Jun/29]
-  19.00  Confiança SE             0-1 (0-1)  Coritiba PR
-  21.30  CR Brasil AL             1-1 (0-0)  Náutico PE
-         Remo PA                  0-2 (0-0)  Sampaio Corrêa MA
-[Wed Jun/30]
-  19.00  Goiás GO                 1-0 (0-0)  Vasco da Gama RJ
-  21.30  Botafogo RJ              1-0 (0-0)  Vitória BA
-  16.30  Ponte Preta              2-1 (1-0)  CSA AL
-  17.00  Brusque SC               1-0 (0-0)  Brasil de Pelotas RS
-  19.00  Cruzeiro                 3-3 (3-2)  Guarani SP
-         Londrina PR              1-3 (0-2)  Avaí SC
-
-
-Matchday 9
-[Fri Jul/2]
-  19.00  Coritiba PR              2-1 (0-0)  Remo PA
-         Náutico PE               5-0 (2-0)  Operário Ferroviário PR
-[Sat Jul/3]
-  21.30  Vitória BA               1-1 (0-0)  Goiás GO
-         Vila Nova GO             0-0  Ponte Preta
-  16.30  Vasco da Gama RJ         1-0 (1-0)  Confiança SE
-  18.30  CSA AL                   0-1 (0-0)  CR Brasil AL
-  21.00  Avaí SC                  1-1 (0-0)  Botafogo RJ
-  19.00  Sampaio Corrêa MA        1-0 (1-0)  Londrina PR
-         Brasil de Pelotas RS     0-0  Cruzeiro
-[Sun Jul/4]
-  11.00  Guarani SP               4-1 (3-1)  Brusque SC
-
-
-Matchday 10
-[Tue Jul/6]
-  19.00  Ponte Preta              0-0  Avaí SC
-  21.30  CR Brasil AL             2-1 (0-1)  Botafogo RJ
-  19.00  Cruzeiro                 0-0  Coritiba PR
-[Thu Jul/8]
-  21.00  Remo PA                  0-1 (0-0)  Vila Nova GO
-[Fri Jul/9]
-  19.00  Vasco da Gama RJ         1-0 (1-0)  Sampaio Corrêa MA
-  21.30  Goiás GO                 0-1 (0-0)  Náutico PE
-  19.00  Londrina PR              0-1 (0-0)  Guarani SP
-
-
-Matchday 11
-[Sat Jul/10]
-  16.30  Botafogo RJ              3-3 (1-0)  Cruzeiro
-
-
-Matchday 10
-[Sat Jul/10]
-  11.00  Operário Ferroviário PR  2-1 (0-0)  Brasil de Pelotas RS
-  19.00  Confiança SE             1-1 (1-1)  Vitória BA
-[Sun Jul/11]
-  20.30  Brusque SC               2-3 (0-2)  CSA AL
-
-
-Matchday 11
-[Mon Jul/12]
-  20.00  Náutico PE               1-1 (0-1)  Ponte Preta
-[Tue Jul/13]
-  21.30  Londrina PR              1-2 (0-1)  Operário Ferroviário PR
-         Vitória BA               2-2 (2-0)  Sampaio Corrêa MA
-  19.00  Avaí SC                  2-1 (0-0)  Confiança SE
-  16.00  Vila Nova GO             0-0  Brasil de Pelotas RS
-  21.30  Coritiba PR              1-1 (0-0)  Vasco da Gama RJ
-  19.00  Guarani SP               1-0 (1-0)  CR Brasil AL
-[Wed Jul/14]
-  21.30  Remo PA                  2-1 (0-0)  Brusque SC
-  19.00  CSA AL                   0-1 (0-1)  Goiás GO
-
-
-Matchday 12
-[Fri Jul/16]
-  19.00  Confiança SE             1-4 (0-2)  Guarani SP
-  21.30  Sampaio Corrêa MA        2-3 (1-2)  Coritiba PR
-[Sat Jul/17]
-  19.00  Brusque SC               2-1 (0-1)  Botafogo RJ
-         Operário Ferroviário PR  0-2 (0-1)  CSA AL
-  18.30  Ponte Preta              1-2 (0-1)  Remo PA
-  11.00  Brasil de Pelotas RS     1-0 (1-0)  Vitória BA
-  16.00  Goiás GO                 0-0  Londrina PR
-  16.30  Cruzeiro                 0-3 (0-1)  Avaí SC
-[Sun Jul/18]
-  16.00  Vasco da Gama RJ         1-1 (0-1)  Náutico PE
-  20.30  CR Brasil AL             2-1 (1-0)  Vila Nova GO
-
-
-Matchday 13
-[Tue Jul/20]
-  19.00  Guarani SP               0-0  Sampaio Corrêa MA
-         Londrina PR              0-0  Confiança SE
-         Remo PA                  1-0 (1-0)  Cruzeiro
-         Botafogo RJ              0-2 (0-2)  Goiás GO
-  21.30  Vitória BA               1-0 (0-0)  Ponte Preta
-[Wed Jul/21]
-  21.30  CSA AL                   2-2 (1-1)  Vasco da Gama RJ
-         Náutico PE               2-1 (2-1)  Brasil de Pelotas RS
-  16.00  Vila Nova GO             0-1 (0-0)  Brusque SC
-[Thu Jul/22]
-  21.30  Avaí SC                  1-0 (0-0)  Operário Ferroviário PR
-  19.00  Coritiba PR              1-1 (1-0)  CR Brasil AL
-
-
-Matchday 14
-[Fri Jul/23]
-  16.00  Londrina PR              1-0 (0-0)  Remo PA
-  20.00  Ponte Preta              2-1 (0-0)  Goiás GO
-[Sat Jul/24]
-  21.00  CSA AL                   2-1 (0-0)  Vitória BA
-         Vasco da Gama RJ         4-1 (2-0)  Guarani SP
-  19.30  Náutico PE               1-1 (1-0)  Brusque SC
-  16.30  Confiança SE             0-1 (0-1)  Botafogo RJ
-         Vila Nova GO             0-0  Cruzeiro
-[Sun Jul/25]
-  20.30  Avaí SC                  1-1 (0-1)  Brasil de Pelotas RS
-  18.15  Operário Ferroviário PR  1-0 (1-0)  Coritiba PR
-  20.30  Sampaio Corrêa MA        2-3 (1-2)  CR Brasil AL
-
-
-Matchday 6
-[Tue Jul/27]
-  21.30  Botafogo RJ              2-0 (1-0)  CSA AL
-
-
-Matchday 5
-[Wed Jul/28]
-  19.00  Avaí SC                  1-0 (0-0)  Remo PA
-
-
-Matchday 15
-[Fri Jul/30]
-  21.30  Cruzeiro                 2-2 (1-2)  Londrina PR
-  16.00  Goiás GO                 1-0 (0-0)  Operário Ferroviário PR
-  20.00  Coritiba PR              3-1 (2-0)  Náutico PE
-[Sat Jul/31]
-  11.00  Guarani SP               1-4 (0-3)  Vila Nova GO
-  16.30  Vitória BA               0-0  Avaí SC
-  19.00  Brasil de Pelotas RS     1-2 (1-2)  Sampaio Corrêa MA
-  21.00  Botafogo RJ              2-0 (1-0)  Vasco da Gama RJ
-         Brusque SC               3-0 (3-0)  Confiança SE
-[Sun Aug/1]
-  18.15  CR Brasil AL             1-1 (1-1)  Ponte Preta
-         Remo PA                  1-0 (1-0)  CSA AL
-
-
-Matchday 4
-[Tue Aug/3]
-  19.00  Brusque SC               0-0  Coritiba PR
-
-
-Matchday 16
-[Fri Aug/6]
-  19.00  Guarani SP               2-0 (1-0)  Brasil de Pelotas RS
-  19.30  Coritiba PR              1-1 (0-0)  Goiás GO
-  16.00  Remo PA                  0-1 (0-0)  Operário Ferroviário PR
-[Sat Aug/7]
-  11.00  Brusque SC               1-2 (0-0)  Cruzeiro
-  16.30  Náutico PE               0-4 (0-2)  Confiança SE
-  19.00  CSA AL                   0-0  Avaí SC
-  19.30  Vitória BA               0-1 (0-1)  Vasco da Gama RJ
-  21.30  Vila Nova GO             0-2 (0-2)  Sampaio Corrêa MA
-[Sun Aug/8]
-  20.30  Londrina PR              0-2 (0-1)  CR Brasil AL
-         Botafogo RJ              2-0 (1-0)  Ponte Preta
-
-
-Matchday 17
-[Tue Aug/10]
-  19.00  Confiança SE             0-2 (0-0)  CSA AL
-  21.30  Goiás GO                 1-1 (0-0)  Remo PA
-         Vasco da Gama RJ         1-0 (1-0)  Vila Nova GO
-  19.00  Avaí SC                  0-1 (0-0)  Guarani SP
-[Wed Aug/11]
-  16.00  Brasil de Pelotas RS     0-2 (0-1)  Coritiba PR
-  19.00  Cruzeiro                 2-2 (0-1)  Vitória BA
-         Ponte Preta              2-1 (1-1)  Londrina PR
-  21.30  Sampaio Corrêa MA        2-0 (0-0)  Náutico PE
-[Thu Aug/12]
-  21.30  Operário Ferroviário PR  1-0 (1-0)  Botafogo RJ
-  19.00  CR Brasil AL             3-0 (3-0)  Brusque SC
-
-
-Matchday 18
-[Fri Aug/13]
-  21.30  Remo PA                  2-1 (2-1)  Vasco da Gama RJ
-  19.00  Goiás GO                 2-1 (1-0)  Guarani SP
-[Sat Aug/14]
-  16.30  CSA AL                   3-0 (2-0)  Coritiba PR
-         Ponte Preta              4-2 (2-1)  Confiança SE
-  19.00  Avaí SC                  2-0 (0-0)  Náutico PE
-  16.30  Cruzeiro                 1-1 (0-1)  Sampaio Corrêa MA
-[Sun Aug/15]
-  11.00  Londrina PR              1-0 (0-0)  Vila Nova GO
-  16.00  Vitória BA               1-1 (0-1)  CR Brasil AL
-  18.15  Botafogo RJ              1-0 (1-0)  Brasil de Pelotas RS
-  20.30  Operário Ferroviário PR  1-1 (0-0)  Brusque SC
-
-
-Matchday 19
-[Tue Aug/17]
-  19.00  Náutico PE               0-1 (0-0)  Cruzeiro
-  21.30  Coritiba PR              2-0 (1-0)  Ponte Preta
-         Sampaio Corrêa MA        0-2 (0-1)  Avaí SC
-  19.00  Confiança SE             1-2 (1-1)  Remo PA
-[Wed Aug/18]
-  19.00  Guarani SP               1-1 (0-1)  Botafogo RJ
-         Vila Nova GO             0-0  Vitória BA
-  21.30  CR Brasil AL             0-0  Operário Ferroviário PR
-         Vasco da Gama RJ         1-2 (0-0)  Londrina PR
-[Thu Aug/19]
-  21.30  Brasil de Pelotas RS     0-1 (0-1)  CSA AL
-  19.00  Brusque SC               0-1 (0-0)  Goiás GO
-
-
-Matchday 20
-[Fri Aug/20]
-  19.00  Avaí SC                  1-2 (1-1)  Coritiba PR
-  21.30  Cruzeiro                 1-0 (0-0)  Confiança SE
-[Sat Aug/21]
-  19.00  Operário Ferroviário PR  2-0 (2-0)  Vasco da Gama RJ
-  21.00  Remo PA                  1-2 (0-0)  CR Brasil AL
-  16.30  Vitória BA               1-0 (1-0)  Guarani SP
-[Sun Aug/22]
-  11.00  Botafogo RJ              3-2 (2-0)  Vila Nova GO
-  16.00  Goiás GO                 2-2 (1-1)  Sampaio Corrêa MA
-  18.15  Londrina PR              0-0  Brasil de Pelotas RS
-  20.30  Ponte Preta              3-0 (2-0)  Brusque SC
-
-
-Matchday 21
-[Tue Aug/24]
-  19.00  Guarani SP               3-0 (1-0)  Operário Ferroviário PR
-
-
-Matchday 20
-[Tue Aug/24]
-  21.30  CSA AL                   0-1 (0-0)  Náutico PE
-
-
-Matchday 21
-[Wed Aug/25]
-  16.00  Vila Nova GO             1-0 (0-0)  Avaí SC
-[Thu Aug/26]
-  17.00  Confiança SE             1-2 (0-1)  Goiás GO
-[Fri Aug/27]
-  21.30  Coritiba PR              0-1 (0-1)  Botafogo RJ
-  19.00  Brasil de Pelotas RS     1-1 (1-1)  Remo PA
-[Sat Aug/28]
-  21.00  Sampaio Corrêa MA        2-0 (1-0)  CSA AL
-  18.45  Brusque SC               0-0  Londrina PR
-[Sun Aug/29]
-  16.00  CR Brasil AL             0-0  Cruzeiro
-         Náutico PE               1-1 (0-0)  Vitória BA
-         Vasco da Gama RJ         2-0 (1-0)  Ponte Preta
-
-
-Matchday 22
-[Wed Sep/1]
-  21.30  Londrina PR              2-3 (2-2)  Coritiba PR
-  19.00  Confiança SE             1-2 (0-1)  CR Brasil AL
-[Fri Sep/3]
-  19.00  Brusque SC               0-0  Avaí SC
-         Ponte Preta              3-2 (1-0)  Sampaio Corrêa MA
-         Vasco da Gama RJ         1-1 (0-0)  Brasil de Pelotas RS
-  21.30  CSA AL                   1-1 (0-0)  Vila Nova GO
-[Sat Sep/4]
-  17.15  Náutico PE               1-1 (1-0)  Guarani SP
-  19.30  Remo PA                  0-1 (0-0)  Botafogo RJ
-  11.00  Operário Ferroviário PR  0-1 (0-1)  Vitória BA
-
-
-Matchday 23
-[Mon Sep/6]
-  20.00  Avaí SC                  3-1 (1-1)  Vasco da Gama RJ
-
-
-Matchday 22
-[Tue Sep/7]
-  21.30  Goiás GO                 1-1 (0-0)  Cruzeiro
-
-
-Matchday 23
-[Tue Sep/7]
-  11.00  Brasil de Pelotas RS     1-1 (1-1)  Confiança SE
-  16.00  Guarani SP               1-0 (0-0)  CSA AL
-  19.00  Coritiba PR              4-0 (2-0)  Brusque SC
-[Fri Sep/10]
-  21.30  Vila Nova GO             1-0 (1-0)  Náutico PE
-  19.00  Vitória BA               1-2 (1-0)  Remo PA
-[Sat Sep/11]
-  11.00  Cruzeiro                 1-0 (0-0)  Ponte Preta
-  16.30  Botafogo RJ              4-0 (3-0)  Londrina PR
-         Sampaio Corrêa MA        0-0  Operário Ferroviário PR
-  21.00  CR Brasil AL             0-1 (0-1)  Goiás GO
-
-
-Matchday 24
-[Thu Sep/16]
-  19.00  Cruzeiro                 1-1 (1-1)  Operário Ferroviário PR
-  21.30  Remo PA                  2-1 (1-0)  Avaí SC
-  19.00  CR Brasil AL             1-1 (0-1)  Vasco da Gama RJ
-[Fri Sep/17]
-  19.00  Coritiba PR              1-0 (1-0)  Vila Nova GO
-  20.30  Confiança SE             2-0 (1-0)  Sampaio Corrêa MA
-  21.30  Ponte Preta              0-0  Guarani SP
-  16.00  Brusque SC               0-0  Vitória BA
-[Sat Sep/18]
-  16.30  Botafogo RJ              3-1 (1-1)  Náutico PE
-         Londrina PR              0-2 (0-2)  CSA AL
-  19.00  Goiás GO                 2-1 (1-0)  Brasil de Pelotas RS
-
-
-Matchday 25
-[Sun Sep/19]
-  16.00  Vasco da Gama RJ         1-1 (1-0)  Cruzeiro
-[Tue Sep/21]
-  16.00  Guarani SP               2-0 (2-0)  Remo PA
-  19.00  Avaí SC                  1-0 (0-0)  Goiás GO
-         Brasil de Pelotas RS     0-1 (0-0)  CR Brasil AL
-         Sampaio Corrêa MA        2-2 (2-0)  Brusque SC
-  21.30  Náutico PE               1-2 (0-1)  Londrina PR
-         Vila Nova GO             0-0  Confiança SE
-[Wed Sep/22]
-  21.30  Operário Ferroviário PR  1-2 (1-2)  Ponte Preta
-  19.00  Vitória BA               0-0  Coritiba PR
-[Thu Sep/23]
-  19.00  CSA AL                   2-0 (0-0)  Botafogo RJ
-
-
-Matchday 26
-[Fri Sep/24]
-  19.00  Goiás GO                 1-2 (0-1)  Vila Nova GO
-         Remo PA                  1-0 (0-0)  Náutico PE
-  21.30  Brusque SC               0-1 (0-0)  Vasco da Gama RJ
-[Sat Sep/25]
-  17.30  Confiança SE             1-0 (0-0)  Operário Ferroviário PR
-  18.30  CR Brasil AL             1-2 (1-2)  Avaí SC
-  21.00  Coritiba PR              1-0 (1-0)  Guarani SP
-  16.00  Londrina PR              1-0 (1-0)  Vitória BA
-[Sun Sep/26]
-  18.15  Botafogo RJ              2-0 (1-0)  Sampaio Corrêa MA
-         Ponte Preta              1-0 (0-0)  Brasil de Pelotas RS
-  16.00  Cruzeiro                 1-2 (1-0)  CSA AL
-
-
-Matchday 27
-[Mon Sep/27]
-  20.00  Vasco da Gama RJ         2-0 (1-0)  Goiás GO
-[Tue Sep/28]
-  16.00  Avaí SC                  2-0 (0-0)  Londrina PR
-  19.00  Náutico PE               1-3 (0-2)  CR Brasil AL
-  21.30  Coritiba PR              1-1 (0-1)  Confiança SE
-         Vila Nova GO             2-1 (1-0)  Operário Ferroviário PR
-[Wed Sep/29]
-  19.00  Guarani SP               1-1 (0-1)  Cruzeiro
-  21.30  CSA AL                   2-1 (1-1)  Ponte Preta
-         Vitória BA               0-0  Botafogo RJ
-  19.00  Brasil de Pelotas RS     0-2 (0-0)  Brusque SC
-[Thu Sep/30]
-  21.30  Sampaio Corrêa MA        1-1 (1-0)  Remo PA
-
-
-Matchday 28
-[Fri Oct/1]
-  21.30  Operário Ferroviário PR  1-2 (1-0)  Náutico PE
-[Sat Oct/2]
-  16.00  Brusque SC               2-0 (0-0)  Guarani SP
-         Goiás GO                 3-0 (2-0)  Vitória BA
-  18.30  CR Brasil AL             0-0  CSA AL
-  19.00  Botafogo RJ              1-2 (0-0)  Avaí SC
-  21.00  Ponte Preta              1-1 (0-0)  Vila Nova GO
-[Sun Oct/3]
-  18.15  Confiança SE             1-2 (0-0)  Vasco da Gama RJ
-  20.30  Londrina PR              3-1 (3-1)  Sampaio Corrêa MA
-  11.00  Cruzeiro                 2-0 (2-0)  Brasil de Pelotas RS
-[Mon Oct/4]
-  20.00  Remo PA                  0-0  Coritiba PR
-
-
-Matchday 29
-[Tue Oct/5]
-  19.00  Avaí SC                  1-1 (1-0)  Ponte Preta
-  21.30  Náutico PE               3-2 (2-1)  Goiás GO
-[Wed Oct/6]
-  16.00  Brasil de Pelotas RS     1-0 (1-0)  Operário Ferroviário PR
-[Fri Oct/8]
-  19.00  Vila Nova GO             1-0 (1-0)  Remo PA
-  21.30  Coritiba PR              0-3 (0-2)  Cruzeiro
-  19.00  Botafogo RJ              2-0 (1-0)  CR Brasil AL
-[Sat Oct/9]
-  16.30  Guarani SP               3-0 (0-0)  Londrina PR
-  19.00  Vitória BA               0-1 (0-1)  Confiança SE
-  21.00  CSA AL                   4-1 (2-1)  Brusque SC
-         Sampaio Corrêa MA        1-0 (0-0)  Vasco da Gama RJ
-
-
-Matchday 30
-[Tue Oct/12]
-  21.30  Cruzeiro                 0-0  Botafogo RJ
-  19.00  Sampaio Corrêa MA        0-1 (0-1)  Vitória BA
-[Fri Oct/15]
-  16.00  Brusque SC               3-1 (0-1)  Remo PA
-  19.00  CR Brasil AL             2-2 (0-1)  Guarani SP
-  21.30  Brasil de Pelotas RS     2-2 (1-2)  Vila Nova GO
-         Goiás GO                 3-1 (2-0)  CSA AL
-[Sat Oct/16]
-  16.30  Vasco da Gama RJ         2-1 (1-0)  Coritiba PR
-  18.30  Operário Ferroviário PR  0-0  Londrina PR
-  21.00  Confiança SE             3-1 (1-0)  Avaí SC
-  16.00  Ponte Preta              2-3 (2-1)  Náutico PE
-
-
-Matchday 31
-[Mon Oct/18]
-  20.00  Vila Nova GO             0-0  CR Brasil AL
-[Tue Oct/19]
-  21.30  Coritiba PR              3-0 (0-0)  Sampaio Corrêa MA
-  19.00  Londrina PR              0-0  Goiás GO
-[Wed Oct/20]
-  20.30  Botafogo RJ              3-0 (1-0)  Brusque SC
-[Fri Oct/22]
-  21.30  Avaí SC                  1-0 (0-0)  Cruzeiro
-  19.00  Guarani SP               1-2 (1-0)  Confiança SE
-[Sat Oct/23]
-  16.30  Vitória BA               4-0 (3-0)  Brasil de Pelotas RS
-  19.00  CSA AL                   2-4 (2-1)  Operário Ferroviário PR
-[Sun Oct/24]
-  16.00  Remo PA                  0-1 (0-1)  Ponte Preta
-
-
-Matchday 32
-[Sun Oct/24]
-  20.30  Brusque SC               2-3 (1-2)  Vila Nova GO
-
-
-Matchday 31
-[Sun Oct/24]
-  16.00  Náutico PE               2-2 (1-2)  Vasco da Gama RJ
-
-
-Matchday 32
-[Tue Oct/26]
-  19.00  CR Brasil AL             1-1 (0-0)  Coritiba PR
-  21.30  Goiás GO                 1-1 (1-1)  Botafogo RJ
-[Thu Oct/28]
-  21.30  Brasil de Pelotas RS     3-2 (1-1)  Náutico PE
-         Cruzeiro                 1-3 (1-1)  Remo PA
-  19.00  Sampaio Corrêa MA        0-1 (0-0)  Guarani SP
-[Fri Oct/29]
-  21.30  Vasco da Gama RJ         1-3 (1-1)  CSA AL
-  19.00  Operário Ferroviário PR  2-1 (0-0)  Avaí SC
-[Sat Oct/30]
-  18.45  Confiança SE             0-2 (0-2)  Londrina PR
-  16.00  Ponte Preta              0-0  Vitória BA
-
-
-Matchday 33
-[Mon Nov/1]
-  19.00  Cruzeiro                 1-1 (1-1)  Vila Nova GO
-[Tue Nov/2]
-  16.00  Brasil de Pelotas RS     0-1 (0-0)  Avaí SC
-         Vitória BA               0-1 (0-1)  CSA AL
-  19.00  Brusque SC               4-3 (3-2)  Náutico PE
-         Remo PA                  0-1 (0-1)  Londrina PR
-  21.30  Goiás GO                 2-2 (0-2)  Ponte Preta
-[Wed Nov/3]
-  19.00  Botafogo RJ              1-0 (0-0)  Confiança SE
-  18.30  Coritiba PR              3-1 (0-0)  Operário Ferroviário PR
-[Thu Nov/4]
-  21.30  CR Brasil AL             1-0 (0-0)  Sampaio Corrêa MA
-  19.00  Guarani SP               1-0 (0-0)  Vasco da Gama RJ
-
-
-Matchday 34
-[Fri Nov/5]
-  19.00  Avaí SC                  1-1 (1-0)  Vitória BA
-  21.30  Londrina PR              0-1 (0-0)  Cruzeiro
-  17.00  CSA AL                   2-0 (1-0)  Remo PA
-[Sat Nov/6]
-  16.15  Náutico PE               2-1 (1-0)  Coritiba PR
-  18.30  Operário Ferroviário PR  1-1 (0-0)  Goiás GO
-  19.00  Confiança SE             3-2 (0-1)  Brusque SC
-[Sun Nov/7]
-  18.15  Sampaio Corrêa MA        2-1 (0-0)  Brasil de Pelotas RS
-         Vila Nova GO             2-2 (1-0)  Guarani SP
-  20.30  Ponte Preta              1-0 (1-0)  CR Brasil AL
-  16.00  Vasco da Gama RJ         0-4 (0-3)  Botafogo RJ
-
-
-Matchday 35
-[Mon Nov/8]
-  20.00  Avaí SC                  1-1 (0-1)  CSA AL
-[Tue Nov/9]
-  19.00  Operário Ferroviário PR  2-1 (0-0)  Remo PA
-  21.30  Cruzeiro                 2-0 (1-0)  Brusque SC
-  19.00  Confiança SE             0-0  Náutico PE
-[Wed Nov/10]
-  19.00  Brasil de Pelotas RS     0-1 (0-0)  Guarani SP
-  21.30  CR Brasil AL             1-0 (0-0)  Londrina PR
-         Goiás GO                 2-1 (0-0)  Coritiba PR
-         Vasco da Gama RJ         0-3 (0-1)  Vitória BA
-[Thu Nov/11]
-  19.00  Sampaio Corrêa MA        3-0 (1-0)  Vila Nova GO
-         Ponte Preta              0-0  Botafogo RJ
-
-
-Matchday 36
-[Fri Nov/12]
-  21.30  CSA AL                   0-0  Confiança SE
-[Sat Nov/13]
-  16.00  Guarani SP               4-0 (2-0)  Avaí SC
-[Sun Nov/14]
-  19.00  Vitória BA               3-0 (3-0)  Cruzeiro
-  18.15  Coritiba PR              2-1 (0-0)  Brasil de Pelotas RS
-[Mon Nov/15]
-  16.00  Botafogo RJ              2-1 (0-0)  Operário Ferroviário PR
-         Brusque SC               1-0 (0-0)  CR Brasil AL
-         Londrina PR              2-1 (1-1)  Ponte Preta
-  18.00  Náutico PE               2-1 (0-0)  Sampaio Corrêa MA
-         Vila Nova GO             2-2 (1-0)  Vasco da Gama RJ
-  20.00  Remo PA                  0-1 (0-0)  Goiás GO
-
-
-Matchday 37
-[Thu Nov/18]
-  21.00  Sampaio Corrêa MA        1-1 (1-1)  Cruzeiro
-[Fri Nov/19]
-  19.00  Vasco da Gama RJ         2-2 (1-2)  Remo PA
-  21.30  Vila Nova GO             2-1 (2-0)  Londrina PR
-  19.00  Brusque SC               2-0 (1-0)  Operário Ferroviário PR
-[Sat Nov/20]
-  16.30  Confiança SE             0-1 (0-0)  Ponte Preta
-[Sun Nov/21]
-  16.00  Brasil de Pelotas RS     0-1 (0-1)  Botafogo RJ
-         Coritiba PR              0-1 (0-0)  CSA AL
-  19.00  Náutico PE               1-2 (0-1)  Avaí SC
-[Mon Nov/22]
-  20.00  Guarani SP               0-2 (0-2)  Goiás GO
-  18.00  CR Brasil AL             3-1 (1-1)  Vitória BA
-
-
-Matchday 38
-[Thu Nov/25]
-  20.00  Cruzeiro                 0-0  Náutico PE
-[Fri Nov/26]
-  19.00  Ponte Preta              3-2 (0-2)  Coritiba PR
-[Sun Nov/28]
-  16.00  Avaí SC                  2-1 (0-1)  Sampaio Corrêa MA
-         Botafogo RJ              2-2 (0-0)  Guarani SP
-         CSA AL                   4-0 (3-0)  Brasil de Pelotas RS
-         Goiás GO                 2-2 (0-1)  Brusque SC
-         Londrina PR              3-0 (2-0)  Vasco da Gama RJ
-         Operário Ferroviário PR  2-1 (2-0)  CR Brasil AL
-         Remo PA                  0-0  Confiança SE
-         Vitória BA               0-1 (0-0)  Vila Nova GO
+» Matchday 1
+  Fri May/28 2021
+    16.00  Brasil de Pelotas RS    v Londrina PR              0-0
+    19.00  Guarani SP              v Vitória BA               1-1 (1-1)
+    21.30  Náutico PE              v CSA AL                   1-0 (1-0)
+           Vila Nova GO            v Botafogo RJ              1-1 (0-0)
+  Sat May/29
+    11.00  Vasco da Gama RJ        v Operário Ferroviário PR  0-2 (0-2)
+    16.00  CR Brasil AL            v Remo PA                  2-2 (1-2)
+    16.30  Confiança SE            v Cruzeiro                 3-1 (1-0)
+    18.15  Coritiba PR             v Avaí SC                  2-0 (1-0)
+  Sun May/30
+    11.00  Brusque SC              v Ponte Preta              2-1 (1-0)
+  Mon May/31
+    20.00  Sampaio Corrêa MA       v Goiás GO                 0-0
+
+
+» Matchday 2
+  Tue Jun/1
+    19.00  Operário Ferroviário PR v Guarani SP               2-5 (1-3)
+  Fri Jun/4
+    17.30  Goiás GO                v Confiança SE             2-0 (1-0)
+  Sat Jun/5
+    11.00  Londrina PR             v Brusque SC               0-1 (0-1)
+    16.30  CSA AL                  v Sampaio Corrêa MA        0-0
+    19.00  Remo PA                 v Brasil de Pelotas RS     1-0 (1-0)
+    21.00  Botafogo RJ             v Coritiba PR              2-0 (0-0)
+  Sun Jun/6
+    16.00  Ponte Preta             v Vasco da Gama RJ         1-1 (0-0)
+    18.15  Cruzeiro                v CR Brasil AL             3-4 (1-2)
+    20.30  Avaí SC                 v Vila Nova GO             1-1 (0-0)
+  Mon Jun/7
+    20.00  Vitória BA              v Náutico PE               0-1 (0-0)
+
+
+» Matchday 3
+  Fri Jun/11
+    19.00  Sampaio Corrêa MA       v Ponte Preta              1-0 (0-0)
+    21.30  Guarani SP              v Náutico PE               1-3 (0-0)
+  Sat Jun/12
+    16.30  CR Brasil AL            v Confiança SE             3-2 (2-2)
+    19.00  Brasil de Pelotas RS    v Vasco da Gama RJ         1-2 (1-0)
+           Vila Nova GO            v CSA AL                   1-0 (1-0)
+    21.00  Cruzeiro                v Goiás GO                 1-1 (0-1)
+  Sun Jun/13
+    16.00  Avaí SC                 v Brusque SC               1-2 (0-0)
+           Botafogo RJ             v Remo PA                  3-0 (1-0)
+    20.30  Coritiba PR             v Londrina PR              1-1 (1-0)
+           Vitória BA              v Operário Ferroviário PR  0-0
+
+
+» Matchday 4
+  Tue Jun/15
+    19.00  CSA AL                  v Guarani SP               1-1 (0-0)
+           Náutico PE              v Vila Nova GO             2-0 (1-0)
+    21.30  Confiança SE            v Brasil de Pelotas RS     1-1 (1-1)
+           Goiás GO                v CR Brasil AL             1-0 (1-0)
+  Wed Jun/16
+    16.00  Remo PA                 v Vitória BA               0-0
+    18.00  Operário Ferroviário PR v Sampaio Corrêa MA        1-0 (0-0)
+    19.00  Vasco da Gama RJ        v Avaí SC                  0-2 (0-2)
+    21.30  Ponte Preta             v Cruzeiro                 0-1 (0-0)
+  Thu Jun/17
+    19.00  Londrina PR             v Botafogo RJ              2-2 (0-1)
+  Tue Aug/3
+    19.00  Brusque SC              v Coritiba PR              0-0
+
+
+» Matchday 5
+  Fri Jun/18
+    21.30  Brasil de Pelotas RS    v Goiás GO                 2-1 (1-1)
+  Sat Jun/19
+    16.30  Vasco da Gama RJ        v CR Brasil AL             3-0 (1-0)
+    18.30  Guarani SP              v Ponte Preta              1-0 (1-0)
+    19.00  Operário Ferroviário PR v Cruzeiro                 2-1 (1-1)
+           Vitória BA              v Brusque SC               3-1 (0-1)
+    21.00  Sampaio Corrêa MA       v Confiança SE             3-1 (0-1)
+           Vila Nova GO            v Coritiba PR              0-1 (0-0)
+  Sun Jun/20
+    16.00  Náutico PE              v Botafogo RJ              3-1 (1-0)
+    20.30  CSA AL                  v Londrina PR              1-0 (1-0)
+  Wed Jul/28
+    19.00  Avaí SC                 v Remo PA                  1-0 (0-0)
+
+
+» Matchday 6
+  Tue Jun/22
+    16.30  Brusque SC              v Sampaio Corrêa MA        0-0
+           Confiança SE            v Vila Nova GO             1-0 (1-0)
+    19.00  Goiás GO                v Avaí SC                  3-0 (2-0)
+           Ponte Preta             v Operário Ferroviário PR  0-0
+    21.30  Coritiba PR             v Vitória BA               1-0 (1-0)
+           CR Brasil AL            v Brasil de Pelotas RS     2-1 (1-0)
+           Remo PA                 v Guarani SP               0-0
+  Wed Jun/23
+    16.00  Londrina PR             v Náutico PE               0-0
+  Thu Jun/24
+    21.30  Cruzeiro                v Vasco da Gama RJ         2-1 (2-1)
+  Tue Jul/27
+    21.30  Botafogo RJ             v CSA AL                   2-0 (1-0)
+
+
+» Matchday 7
+  Fri Jun/25
+    16.30  Avaí SC                 v CR Brasil AL             1-0 (1-0)
+    19.00  Brasil de Pelotas RS    v Ponte Preta              1-1 (0-0)
+           Guarani SP              v Coritiba PR              0-2 (0-1)
+           Operário Ferroviário PR v Confiança SE             0-0
+    21.30  Vila Nova GO            v Goiás GO                 0-0
+  Sat Jun/26
+    16.30  Sampaio Corrêa MA       v Botafogo RJ              2-0 (1-0)
+    18.30  Vitória BA              v Londrina PR              1-2 (1-0)
+    21.00  Náutico PE              v Remo PA                  1-1 (0-1)
+  Sun Jun/27
+    20.30  CSA AL                  v Cruzeiro                 2-1 (2-1)
+    21.00  Vasco da Gama RJ        v Brusque SC               2-1 (0-0)
+
+
+» Matchday 8
+  Mon Jun/28
+    18.00  Operário Ferroviário PR v Vila Nova GO             1-2 (1-1)
+  Tue Jun/29
+    19.00  Confiança SE            v Coritiba PR              0-1 (0-1)
+    21.30  CR Brasil AL            v Náutico PE               1-1 (0-0)
+           Remo PA                 v Sampaio Corrêa MA        0-2 (0-0)
+  Wed Jun/30
+    16.30  Ponte Preta             v CSA AL                   2-1 (1-0)
+    17.00  Brusque SC              v Brasil de Pelotas RS     1-0 (0-0)
+    19.00  Cruzeiro                v Guarani SP               3-3 (3-2)
+           Goiás GO                v Vasco da Gama RJ         1-0 (0-0)
+           Londrina PR             v Avaí SC                  1-3 (0-2)
+    21.30  Botafogo RJ             v Vitória BA               1-0 (0-0)
+
+
+» Matchday 9
+  Fri Jul/2
+    19.00  Coritiba PR             v Remo PA                  2-1 (0-0)
+           Náutico PE              v Operário Ferroviário PR  5-0 (2-0)
+  Sat Jul/3
+    16.30  Vasco da Gama RJ        v Confiança SE             1-0 (1-0)
+    18.30  CSA AL                  v CR Brasil AL             0-1 (0-0)
+    19.00  Brasil de Pelotas RS    v Cruzeiro                 0-0
+           Sampaio Corrêa MA       v Londrina PR              1-0 (1-0)
+    21.00  Avaí SC                 v Botafogo RJ              1-1 (0-0)
+    21.30  Vila Nova GO            v Ponte Preta              0-0
+           Vitória BA              v Goiás GO                 1-1 (0-0)
+  Sun Jul/4
+    11.00  Guarani SP              v Brusque SC               4-1 (3-1)
+
+
+» Matchday 10
+  Tue Jul/6
+    19.00  Cruzeiro                v Coritiba PR              0-0
+           Ponte Preta             v Avaí SC                  0-0
+    21.30  CR Brasil AL            v Botafogo RJ              2-1 (0-1)
+  Thu Jul/8
+    21.00  Remo PA                 v Vila Nova GO             0-1 (0-0)
+  Fri Jul/9
+    19.00  Londrina PR             v Guarani SP               0-1 (0-0)
+           Vasco da Gama RJ        v Sampaio Corrêa MA        1-0 (1-0)
+    21.30  Goiás GO                v Náutico PE               0-1 (0-0)
+  Sat Jul/10
+    11.00  Operário Ferroviário PR v Brasil de Pelotas RS     2-1 (0-0)
+    19.00  Confiança SE            v Vitória BA               1-1 (1-1)
+  Sun Jul/11
+    20.30  Brusque SC              v CSA AL                   2-3 (0-2)
+
+
+» Matchday 11
+  Sat Jul/10
+    16.30  Botafogo RJ             v Cruzeiro                 3-3 (1-0)
+  Mon Jul/12
+    20.00  Náutico PE              v Ponte Preta              1-1 (0-1)
+  Tue Jul/13
+    16.00  Vila Nova GO            v Brasil de Pelotas RS     0-0
+    19.00  Avaí SC                 v Confiança SE             2-1 (0-0)
+           Guarani SP              v CR Brasil AL             1-0 (1-0)
+    21.30  Coritiba PR             v Vasco da Gama RJ         1-1 (0-0)
+           Londrina PR             v Operário Ferroviário PR  1-2 (0-1)
+           Vitória BA              v Sampaio Corrêa MA        2-2 (2-0)
+  Wed Jul/14
+    19.00  CSA AL                  v Goiás GO                 0-1 (0-1)
+    21.30  Remo PA                 v Brusque SC               2-1 (0-0)
+
+
+» Matchday 12
+  Fri Jul/16
+    19.00  Confiança SE            v Guarani SP               1-4 (0-2)
+    21.30  Sampaio Corrêa MA       v Coritiba PR              2-3 (1-2)
+  Sat Jul/17
+    11.00  Brasil de Pelotas RS    v Vitória BA               1-0 (1-0)
+    16.00  Goiás GO                v Londrina PR              0-0
+    16.30  Cruzeiro                v Avaí SC                  0-3 (0-1)
+    18.30  Ponte Preta             v Remo PA                  1-2 (0-1)
+    19.00  Brusque SC              v Botafogo RJ              2-1 (0-1)
+           Operário Ferroviário PR v CSA AL                   0-2 (0-1)
+  Sun Jul/18
+    16.00  Vasco da Gama RJ        v Náutico PE               1-1 (0-1)
+    20.30  CR Brasil AL            v Vila Nova GO             2-1 (1-0)
+
+
+» Matchday 13
+  Tue Jul/20
+    19.00  Botafogo RJ             v Goiás GO                 0-2 (0-2)
+           Guarani SP              v Sampaio Corrêa MA        0-0
+           Londrina PR             v Confiança SE             0-0
+           Remo PA                 v Cruzeiro                 1-0 (1-0)
+    21.30  Vitória BA              v Ponte Preta              1-0 (0-0)
+  Wed Jul/21
+    16.00  Vila Nova GO            v Brusque SC               0-1 (0-0)
+    21.30  CSA AL                  v Vasco da Gama RJ         2-2 (1-1)
+           Náutico PE              v Brasil de Pelotas RS     2-1 (2-1)
+  Thu Jul/22
+    19.00  Coritiba PR             v CR Brasil AL             1-1 (1-0)
+    21.30  Avaí SC                 v Operário Ferroviário PR  1-0 (0-0)
+
+
+» Matchday 14
+  Fri Jul/23
+    16.00  Londrina PR             v Remo PA                  1-0 (0-0)
+    20.00  Ponte Preta             v Goiás GO                 2-1 (0-0)
+  Sat Jul/24
+    16.30  Confiança SE            v Botafogo RJ              0-1 (0-1)
+           Vila Nova GO            v Cruzeiro                 0-0
+    19.30  Náutico PE              v Brusque SC               1-1 (1-0)
+    21.00  CSA AL                  v Vitória BA               2-1 (0-0)
+           Vasco da Gama RJ        v Guarani SP               4-1 (2-0)
+  Sun Jul/25
+    18.15  Operário Ferroviário PR v Coritiba PR              1-0 (1-0)
+    20.30  Avaí SC                 v Brasil de Pelotas RS     1-1 (0-1)
+           Sampaio Corrêa MA       v CR Brasil AL             2-3 (1-2)
+
+
+» Matchday 15
+  Fri Jul/30
+    16.00  Goiás GO                v Operário Ferroviário PR  1-0 (0-0)
+    20.00  Coritiba PR             v Náutico PE               3-1 (2-0)
+    21.30  Cruzeiro                v Londrina PR              2-2 (1-2)
+  Sat Jul/31
+    11.00  Guarani SP              v Vila Nova GO             1-4 (0-3)
+    16.30  Vitória BA              v Avaí SC                  0-0
+    19.00  Brasil de Pelotas RS    v Sampaio Corrêa MA        1-2 (1-2)
+    21.00  Botafogo RJ             v Vasco da Gama RJ         2-0 (1-0)
+           Brusque SC              v Confiança SE             3-0 (3-0)
+  Sun Aug/1
+    18.15  CR Brasil AL            v Ponte Preta              1-1 (1-1)
+           Remo PA                 v CSA AL                   1-0 (1-0)
+
+
+» Matchday 16
+  Fri Aug/6
+    16.00  Remo PA                 v Operário Ferroviário PR  0-1 (0-0)
+    19.00  Guarani SP              v Brasil de Pelotas RS     2-0 (1-0)
+    19.30  Coritiba PR             v Goiás GO                 1-1 (0-0)
+  Sat Aug/7
+    11.00  Brusque SC              v Cruzeiro                 1-2 (0-0)
+    16.30  Náutico PE              v Confiança SE             0-4 (0-2)
+    19.00  CSA AL                  v Avaí SC                  0-0
+    19.30  Vitória BA              v Vasco da Gama RJ         0-1 (0-1)
+    21.30  Vila Nova GO            v Sampaio Corrêa MA        0-2 (0-2)
+  Sun Aug/8
+    20.30  Botafogo RJ             v Ponte Preta              2-0 (1-0)
+           Londrina PR             v CR Brasil AL             0-2 (0-1)
+
+
+» Matchday 17
+  Tue Aug/10
+    19.00  Avaí SC                 v Guarani SP               0-1 (0-0)
+           Confiança SE            v CSA AL                   0-2 (0-0)
+    21.30  Goiás GO                v Remo PA                  1-1 (0-0)
+           Vasco da Gama RJ        v Vila Nova GO             1-0 (1-0)
+  Wed Aug/11
+    16.00  Brasil de Pelotas RS    v Coritiba PR              0-2 (0-1)
+    19.00  Cruzeiro                v Vitória BA               2-2 (0-1)
+           Ponte Preta             v Londrina PR              2-1 (1-1)
+    21.30  Sampaio Corrêa MA       v Náutico PE               2-0 (0-0)
+  Thu Aug/12
+    19.00  CR Brasil AL            v Brusque SC               3-0 (3-0)
+    21.30  Operário Ferroviário PR v Botafogo RJ              1-0 (1-0)
+
+
+» Matchday 18
+  Fri Aug/13
+    19.00  Goiás GO                v Guarani SP               2-1 (1-0)
+    21.30  Remo PA                 v Vasco da Gama RJ         2-1 (2-1)
+  Sat Aug/14
+    16.30  Cruzeiro                v Sampaio Corrêa MA        1-1 (0-1)
+           CSA AL                  v Coritiba PR              3-0 (2-0)
+           Ponte Preta             v Confiança SE             4-2 (2-1)
+    19.00  Avaí SC                 v Náutico PE               2-0 (0-0)
+  Sun Aug/15
+    11.00  Londrina PR             v Vila Nova GO             1-0 (0-0)
+    16.00  Vitória BA              v CR Brasil AL             1-1 (0-1)
+    18.15  Botafogo RJ             v Brasil de Pelotas RS     1-0 (1-0)
+    20.30  Operário Ferroviário PR v Brusque SC               1-1 (0-0)
+
+
+» Matchday 19
+  Tue Aug/17
+    19.00  Confiança SE            v Remo PA                  1-2 (1-1)
+           Náutico PE              v Cruzeiro                 0-1 (0-0)
+    21.30  Coritiba PR             v Ponte Preta              2-0 (1-0)
+           Sampaio Corrêa MA       v Avaí SC                  0-2 (0-1)
+  Wed Aug/18
+    19.00  Guarani SP              v Botafogo RJ              1-1 (0-1)
+           Vila Nova GO            v Vitória BA               0-0
+    21.30  CR Brasil AL            v Operário Ferroviário PR  0-0
+           Vasco da Gama RJ        v Londrina PR              1-2 (0-0)
+  Thu Aug/19
+    19.00  Brusque SC              v Goiás GO                 0-1 (0-0)
+    21.30  Brasil de Pelotas RS    v CSA AL                   0-1 (0-1)
+
+
+» Matchday 20
+  Fri Aug/20
+    19.00  Avaí SC                 v Coritiba PR              1-2 (1-1)
+    21.30  Cruzeiro                v Confiança SE             1-0 (0-0)
+  Sat Aug/21
+    16.30  Vitória BA              v Guarani SP               1-0 (1-0)
+    19.00  Operário Ferroviário PR v Vasco da Gama RJ         2-0 (2-0)
+    21.00  Remo PA                 v CR Brasil AL             1-2 (0-0)
+  Sun Aug/22
+    11.00  Botafogo RJ             v Vila Nova GO             3-2 (2-0)
+    16.00  Goiás GO                v Sampaio Corrêa MA        2-2 (1-1)
+    18.15  Londrina PR             v Brasil de Pelotas RS     0-0
+    20.30  Ponte Preta             v Brusque SC               3-0 (2-0)
+  Tue Aug/24
+    21.30  CSA AL                  v Náutico PE               0-1 (0-0)
+
+
+» Matchday 21
+  Tue Aug/24
+    19.00  Guarani SP              v Operário Ferroviário PR  3-0 (1-0)
+  Wed Aug/25
+    16.00  Vila Nova GO            v Avaí SC                  1-0 (0-0)
+  Thu Aug/26
+    17.00  Confiança SE            v Goiás GO                 1-2 (0-1)
+  Fri Aug/27
+    19.00  Brasil de Pelotas RS    v Remo PA                  1-1 (1-1)
+    21.30  Coritiba PR             v Botafogo RJ              0-1 (0-1)
+  Sat Aug/28
+    18.45  Brusque SC              v Londrina PR              0-0
+    21.00  Sampaio Corrêa MA       v CSA AL                   2-0 (1-0)
+  Sun Aug/29
+    16.00  CR Brasil AL            v Cruzeiro                 0-0
+           Náutico PE              v Vitória BA               1-1 (0-0)
+           Vasco da Gama RJ        v Ponte Preta              2-0 (1-0)
+
+
+» Matchday 22
+  Wed Sep/1
+    19.00  Confiança SE            v CR Brasil AL             1-2 (0-1)
+    21.30  Londrina PR             v Coritiba PR              2-3 (2-2)
+  Fri Sep/3
+    19.00  Brusque SC              v Avaí SC                  0-0
+           Ponte Preta             v Sampaio Corrêa MA        3-2 (1-0)
+           Vasco da Gama RJ        v Brasil de Pelotas RS     1-1 (0-0)
+    21.30  CSA AL                  v Vila Nova GO             1-1 (0-0)
+  Sat Sep/4
+    11.00  Operário Ferroviário PR v Vitória BA               0-1 (0-1)
+    17.15  Náutico PE              v Guarani SP               1-1 (1-0)
+    19.30  Remo PA                 v Botafogo RJ              0-1 (0-0)
+  Tue Sep/7
+    21.30  Goiás GO                v Cruzeiro                 1-1 (0-0)
+
+
+» Matchday 23
+  Mon Sep/6
+    20.00  Avaí SC                 v Vasco da Gama RJ         3-1 (1-1)
+  Tue Sep/7
+    11.00  Brasil de Pelotas RS    v Confiança SE             1-1 (1-1)
+    16.00  Guarani SP              v CSA AL                   1-0 (0-0)
+    19.00  Coritiba PR             v Brusque SC               4-0 (2-0)
+  Fri Sep/10
+    19.00  Vitória BA              v Remo PA                  1-2 (1-0)
+    21.30  Vila Nova GO            v Náutico PE               1-0 (1-0)
+  Sat Sep/11
+    11.00  Cruzeiro                v Ponte Preta              1-0 (0-0)
+    16.30  Botafogo RJ             v Londrina PR              4-0 (3-0)
+           Sampaio Corrêa MA       v Operário Ferroviário PR  0-0
+    21.00  CR Brasil AL            v Goiás GO                 0-1 (0-1)
+
+
+» Matchday 24
+  Thu Sep/16
+    19.00  CR Brasil AL            v Vasco da Gama RJ         1-1 (0-1)
+           Cruzeiro                v Operário Ferroviário PR  1-1 (1-1)
+    21.30  Remo PA                 v Avaí SC                  2-1 (1-0)
+  Fri Sep/17
+    16.00  Brusque SC              v Vitória BA               0-0
+    19.00  Coritiba PR             v Vila Nova GO             1-0 (1-0)
+    20.30  Confiança SE            v Sampaio Corrêa MA        2-0 (1-0)
+    21.30  Ponte Preta             v Guarani SP               0-0
+  Sat Sep/18
+    16.30  Botafogo RJ             v Náutico PE               3-1 (1-1)
+           Londrina PR             v CSA AL                   0-2 (0-2)
+    19.00  Goiás GO                v Brasil de Pelotas RS     2-1 (1-0)
+
+
+» Matchday 25
+  Sun Sep/19
+    16.00  Vasco da Gama RJ        v Cruzeiro                 1-1 (1-0)
+  Tue Sep/21
+    16.00  Guarani SP              v Remo PA                  2-0 (2-0)
+    19.00  Avaí SC                 v Goiás GO                 1-0 (0-0)
+           Brasil de Pelotas RS    v CR Brasil AL             0-1 (0-0)
+           Sampaio Corrêa MA       v Brusque SC               2-2 (2-0)
+    21.30  Náutico PE              v Londrina PR              1-2 (0-1)
+           Vila Nova GO            v Confiança SE             0-0
+  Wed Sep/22
+    19.00  Vitória BA              v Coritiba PR              0-0
+    21.30  Operário Ferroviário PR v Ponte Preta              1-2 (1-2)
+  Thu Sep/23
+    19.00  CSA AL                  v Botafogo RJ              2-0 (0-0)
+
+
+» Matchday 26
+  Fri Sep/24
+    19.00  Goiás GO                v Vila Nova GO             1-2 (0-1)
+           Remo PA                 v Náutico PE               1-0 (0-0)
+    21.30  Brusque SC              v Vasco da Gama RJ         0-1 (0-0)
+  Sat Sep/25
+    16.00  Londrina PR             v Vitória BA               1-0 (1-0)
+    17.30  Confiança SE            v Operário Ferroviário PR  1-0 (0-0)
+    18.30  CR Brasil AL            v Avaí SC                  1-2 (1-2)
+    21.00  Coritiba PR             v Guarani SP               1-0 (1-0)
+  Sun Sep/26
+    16.00  Cruzeiro                v CSA AL                   1-2 (1-0)
+    18.15  Botafogo RJ             v Sampaio Corrêa MA        2-0 (1-0)
+           Ponte Preta             v Brasil de Pelotas RS     1-0 (0-0)
+
+
+» Matchday 27
+  Mon Sep/27
+    20.00  Vasco da Gama RJ        v Goiás GO                 2-0 (1-0)
+  Tue Sep/28
+    16.00  Avaí SC                 v Londrina PR              2-0 (0-0)
+    19.00  Náutico PE              v CR Brasil AL             1-3 (0-2)
+    21.30  Coritiba PR             v Confiança SE             1-1 (0-1)
+           Vila Nova GO            v Operário Ferroviário PR  2-1 (1-0)
+  Wed Sep/29
+    19.00  Brasil de Pelotas RS    v Brusque SC               0-2 (0-0)
+           Guarani SP              v Cruzeiro                 1-1 (0-1)
+    21.30  CSA AL                  v Ponte Preta              2-1 (1-1)
+           Vitória BA              v Botafogo RJ              0-0
+  Thu Sep/30
+    21.30  Sampaio Corrêa MA       v Remo PA                  1-1 (1-0)
+
+
+» Matchday 28
+  Fri Oct/1
+    21.30  Operário Ferroviário PR v Náutico PE               1-2 (1-0)
+  Sat Oct/2
+    16.00  Brusque SC              v Guarani SP               2-0 (0-0)
+           Goiás GO                v Vitória BA               3-0 (2-0)
+    18.30  CR Brasil AL            v CSA AL                   0-0
+    19.00  Botafogo RJ             v Avaí SC                  1-2 (0-0)
+    21.00  Ponte Preta             v Vila Nova GO             1-1 (0-0)
+  Sun Oct/3
+    11.00  Cruzeiro                v Brasil de Pelotas RS     2-0 (2-0)
+    18.15  Confiança SE            v Vasco da Gama RJ         1-2 (0-0)
+    20.30  Londrina PR             v Sampaio Corrêa MA        3-1 (3-1)
+  Mon Oct/4
+    20.00  Remo PA                 v Coritiba PR              0-0
+
+
+» Matchday 29
+  Tue Oct/5
+    19.00  Avaí SC                 v Ponte Preta              1-1 (1-0)
+    21.30  Náutico PE              v Goiás GO                 3-2 (2-1)
+  Wed Oct/6
+    16.00  Brasil de Pelotas RS    v Operário Ferroviário PR  1-0 (1-0)
+  Fri Oct/8
+    19.00  Botafogo RJ             v CR Brasil AL             2-0 (1-0)
+           Vila Nova GO            v Remo PA                  1-0 (1-0)
+    21.30  Coritiba PR             v Cruzeiro                 0-3 (0-2)
+  Sat Oct/9
+    16.30  Guarani SP              v Londrina PR              3-0 (0-0)
+    19.00  Vitória BA              v Confiança SE             0-1 (0-1)
+    21.00  CSA AL                  v Brusque SC               4-1 (2-1)
+           Sampaio Corrêa MA       v Vasco da Gama RJ         1-0 (0-0)
+
+
+» Matchday 30
+  Tue Oct/12
+    19.00  Sampaio Corrêa MA       v Vitória BA               0-1 (0-1)
+    21.30  Cruzeiro                v Botafogo RJ              0-0
+  Fri Oct/15
+    16.00  Brusque SC              v Remo PA                  3-1 (0-1)
+    19.00  CR Brasil AL            v Guarani SP               2-2 (0-1)
+    21.30  Brasil de Pelotas RS    v Vila Nova GO             2-2 (1-2)
+           Goiás GO                v CSA AL                   3-1 (2-0)
+  Sat Oct/16
+    16.00  Ponte Preta             v Náutico PE               2-3 (2-1)
+    16.30  Vasco da Gama RJ        v Coritiba PR              2-1 (1-0)
+    18.30  Operário Ferroviário PR v Londrina PR              0-0
+    21.00  Confiança SE            v Avaí SC                  3-1 (1-0)
+
+
+» Matchday 31
+  Mon Oct/18
+    20.00  Vila Nova GO            v CR Brasil AL             0-0
+  Tue Oct/19
+    19.00  Londrina PR             v Goiás GO                 0-0
+    21.30  Coritiba PR             v Sampaio Corrêa MA        3-0 (0-0)
+  Wed Oct/20
+    20.30  Botafogo RJ             v Brusque SC               3-0 (1-0)
+  Fri Oct/22
+    19.00  Guarani SP              v Confiança SE             1-2 (1-0)
+    21.30  Avaí SC                 v Cruzeiro                 1-0 (0-0)
+  Sat Oct/23
+    16.30  Vitória BA              v Brasil de Pelotas RS     4-0 (3-0)
+    19.00  CSA AL                  v Operário Ferroviário PR  2-4 (2-1)
+  Sun Oct/24
+    16.00  Náutico PE              v Vasco da Gama RJ         2-2 (1-2)
+           Remo PA                 v Ponte Preta              0-1 (0-1)
+
+
+» Matchday 32
+  Sun Oct/24
+    20.30  Brusque SC              v Vila Nova GO             2-3 (1-2)
+  Tue Oct/26
+    19.00  CR Brasil AL            v Coritiba PR              1-1 (0-0)
+    21.30  Goiás GO                v Botafogo RJ              1-1 (1-1)
+  Thu Oct/28
+    19.00  Sampaio Corrêa MA       v Guarani SP               0-1 (0-0)
+    21.30  Brasil de Pelotas RS    v Náutico PE               3-2 (1-1)
+           Cruzeiro                v Remo PA                  1-3 (1-1)
+  Fri Oct/29
+    19.00  Operário Ferroviário PR v Avaí SC                  2-1 (0-0)
+    21.30  Vasco da Gama RJ        v CSA AL                   1-3 (1-1)
+  Sat Oct/30
+    16.00  Ponte Preta             v Vitória BA               0-0
+    18.45  Confiança SE            v Londrina PR              0-2 (0-2)
+
+
+» Matchday 33
+  Mon Nov/1
+    19.00  Cruzeiro                v Vila Nova GO             1-1 (1-1)
+  Tue Nov/2
+    16.00  Brasil de Pelotas RS    v Avaí SC                  0-1 (0-0)
+           Vitória BA              v CSA AL                   0-1 (0-1)
+    19.00  Brusque SC              v Náutico PE               4-3 (3-2)
+           Remo PA                 v Londrina PR              0-1 (0-1)
+    21.30  Goiás GO                v Ponte Preta              2-2 (0-2)
+  Wed Nov/3
+    18.30  Coritiba PR             v Operário Ferroviário PR  3-1 (0-0)
+    19.00  Botafogo RJ             v Confiança SE             1-0 (0-0)
+  Thu Nov/4
+    19.00  Guarani SP              v Vasco da Gama RJ         1-0 (0-0)
+    21.30  CR Brasil AL            v Sampaio Corrêa MA        1-0 (0-0)
+
+
+» Matchday 34
+  Fri Nov/5
+    17.00  CSA AL                  v Remo PA                  2-0 (1-0)
+    19.00  Avaí SC                 v Vitória BA               1-1 (1-0)
+    21.30  Londrina PR             v Cruzeiro                 0-1 (0-0)
+  Sat Nov/6
+    16.15  Náutico PE              v Coritiba PR              2-1 (1-0)
+    18.30  Operário Ferroviário PR v Goiás GO                 1-1 (0-0)
+    19.00  Confiança SE            v Brusque SC               3-2 (0-1)
+  Sun Nov/7
+    16.00  Vasco da Gama RJ        v Botafogo RJ              0-4 (0-3)
+    18.15  Sampaio Corrêa MA       v Brasil de Pelotas RS     2-1 (0-0)
+           Vila Nova GO            v Guarani SP               2-2 (1-0)
+    20.30  Ponte Preta             v CR Brasil AL             1-0 (1-0)
+
+
+» Matchday 35
+  Mon Nov/8
+    20.00  Avaí SC                 v CSA AL                   1-1 (0-1)
+  Tue Nov/9
+    19.00  Confiança SE            v Náutico PE               0-0
+           Operário Ferroviário PR v Remo PA                  2-1 (0-0)
+    21.30  Cruzeiro                v Brusque SC               2-0 (1-0)
+  Wed Nov/10
+    19.00  Brasil de Pelotas RS    v Guarani SP               0-1 (0-0)
+    21.30  CR Brasil AL            v Londrina PR              1-0 (0-0)
+           Goiás GO                v Coritiba PR              2-1 (0-0)
+           Vasco da Gama RJ        v Vitória BA               0-3 (0-1)
+  Thu Nov/11
+    19.00  Ponte Preta             v Botafogo RJ              0-0
+           Sampaio Corrêa MA       v Vila Nova GO             3-0 (1-0)
+
+
+» Matchday 36
+  Fri Nov/12
+    21.30  CSA AL                  v Confiança SE             0-0
+  Sat Nov/13
+    16.00  Guarani SP              v Avaí SC                  4-0 (2-0)
+  Sun Nov/14
+    18.15  Coritiba PR             v Brasil de Pelotas RS     2-1 (0-0)
+    19.00  Vitória BA              v Cruzeiro                 3-0 (3-0)
+  Mon Nov/15
+    16.00  Botafogo RJ             v Operário Ferroviário PR  2-1 (0-0)
+           Brusque SC              v CR Brasil AL             1-0 (0-0)
+           Londrina PR             v Ponte Preta              2-1 (1-1)
+    18.00  Náutico PE              v Sampaio Corrêa MA        2-1 (0-0)
+           Vila Nova GO            v Vasco da Gama RJ         2-2 (1-0)
+    20.00  Remo PA                 v Goiás GO                 0-1 (0-0)
+
+
+» Matchday 37
+  Thu Nov/18
+    21.00  Sampaio Corrêa MA       v Cruzeiro                 1-1 (1-1)
+  Fri Nov/19
+    19.00  Brusque SC              v Operário Ferroviário PR  2-0 (1-0)
+           Vasco da Gama RJ        v Remo PA                  2-2 (1-2)
+    21.30  Vila Nova GO            v Londrina PR              2-1 (2-0)
+  Sat Nov/20
+    16.30  Confiança SE            v Ponte Preta              0-1 (0-0)
+  Sun Nov/21
+    16.00  Brasil de Pelotas RS    v Botafogo RJ              0-1 (0-1)
+           Coritiba PR             v CSA AL                   0-1 (0-0)
+    19.00  Náutico PE              v Avaí SC                  1-2 (0-1)
+  Mon Nov/22
+    18.00  CR Brasil AL            v Vitória BA               3-1 (1-1)
+    20.00  Guarani SP              v Goiás GO                 0-2 (0-2)
+
+
+» Matchday 38
+  Thu Nov/25
+    20.00  Cruzeiro                v Náutico PE               0-0
+  Fri Nov/26
+    19.00  Ponte Preta             v Coritiba PR              3-2 (0-2)
+  Sun Nov/28
+    16.00  Avaí SC                 v Sampaio Corrêa MA        2-1 (0-1)
+           Botafogo RJ             v Guarani SP               2-2 (0-0)
+           CSA AL                  v Brasil de Pelotas RS     4-0 (3-0)
+           Goiás GO                v Brusque SC               2-2 (0-1)
+           Londrina PR             v Vasco da Gama RJ         3-0 (2-0)
+           Operário Ferroviário PR v CR Brasil AL             2-1 (2-0)
+           Remo PA                 v Confiança SE             0-0
+           Vitória BA              v Vila Nova GO             0-1 (0-0)

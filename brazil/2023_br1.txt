@@ -6,630 +6,630 @@
 
 
 
-Matchday 1
-[Sat Apr/15]
-  16.00  SE Palmeiras             2-1 (1-1)  Cuiabá EC
-         América Mineiro          0-3 (0-0)  Fluminense FC
-  18.30  Fortaleza EC             1-1 (0-0)  SC Internacional
-         CA Paranaense            2-0 (1-0)  Goiás EC
-         RB Bragantino            2-1 (0-1)  EC Bahia
-         Botafogo FR              2-1 (1-1)  São Paulo FC
-  21.00  CA Mineiro               1-2 (1-2)  CR Vasco da Gama
-[Sun Apr/16]
-  16.00  SC Corinthians Paulista  2-1 (0-0)  Cruzeiro EC
-         CR Flamengo              3-0 (1-0)  Coritiba FBC
-  18.30  Grêmio FBPA              1-0 (1-0)  Santos FC
-
-
-Matchday 2
-[Sat Apr/22]
-  16.00  Fluminense FC            2-0 (1-0)  CA Paranaense
-  18.30  Cuiabá EC                1-1 (0-0)  RB Bragantino
-         São Paulo FC             3-0 (1-0)  América Mineiro
-  21.00  Cruzeiro EC              1-0 (0-0)  Grêmio FBPA
-[Sun Apr/23]
-  11.00  SC Internacional         2-1 (0-0)  CR Flamengo
-  16.00  Santos FC                0-0  CA Mineiro
-         CR Vasco da Gama         2-2 (2-1)  SE Palmeiras
-  18.30  Coritiba FBC             0-3 (0-0)  Fortaleza EC
-  19.00  Goiás EC                 3-1 (1-1)  SC Corinthians Paulista
-[Mon Apr/24]
-  20.00  EC Bahia                 1-2 (1-1)  Botafogo FR
-
-
-Matchday 3
-[Sat Apr/29]
-  16.30  Coritiba FBC             1-1 (1-0)  São Paulo FC
-         Fortaleza EC             4-2 (2-1)  Fluminense FC
-  18.30  RB Bragantino            0-3 (0-1)  Cruzeiro EC
-         Santos FC                3-2 (2-1)  América Mineiro
-         SE Palmeiras             2-1 (2-0)  SC Corinthians Paulista
-  21.00  CA Mineiro               2-1 (1-0)  CA Paranaense
-[Sun Apr/30]
-  16.00  CR Flamengo              2-3 (0-2)  Botafogo FR
-  18.30  SC Internacional         1-0 (0-0)  Goiás EC
-         Cuiabá EC                1-2 (1-1)  Grêmio FBPA
-[Mon May/1]
-  20.00  CR Vasco da Gama         0-1 (0-1)  EC Bahia
-
-
-Matchday 4
-[Sat May/6]
-  16.00  Cruzeiro EC              2-1 (1-0)  Santos FC
-  21.00  Fluminense FC            1-1 (0-1)  CR Vasco da Gama
-[Sun May/7]
-  11.00  América Mineiro          1-2 (1-0)  Cuiabá EC
-  16.00  CA Paranaense            2-1 (1-1)  CR Flamengo
-         EC Bahia                 3-1 (1-0)  Coritiba FBC
-         São Paulo FC             2-0 (1-0)  SC Internacional
-  18.30  Grêmio FBPA              3-3 (1-1)  RB Bragantino
-         Goiás EC                 0-5 (0-1)  SE Palmeiras
-         Botafogo FR              2-0 (1-0)  CA Mineiro
-[Mon May/8]
-  20.00  SC Corinthians Paulista  1-1 (0-0)  Fortaleza EC
-
-
-Matchday 5
-[Wed May/10]
-  19.00  Santos FC                3-0 (2-0)  EC Bahia
-         RB Bragantino            2-2 (2-1)  América Mineiro
-         SC Internacional         0-2 (0-0)  CA Paranaense
-  20.00  CR Flamengo              2-0 (1-0)  Goiás EC
-         Cuiabá EC                0-4 (0-1)  CA Mineiro
-  21.30  SE Palmeiras             4-1 (1-1)  Grêmio FBPA
-         Cruzeiro EC              0-2 (0-1)  Fluminense FC
-[Thu May/11]
-  19.00  Coritiba FBC             1-1 (1-0)  CR Vasco da Gama
-  19.30  Botafogo FR              3-0 (1-0)  SC Corinthians Paulista
-  20.00  Fortaleza EC             0-0  São Paulo FC
-
-
-Matchday 6
-[Sat May/13]
-  16.00  EC Bahia                 2-3 (1-3)  CR Flamengo
-  18.30  Fluminense FC            2-0 (1-0)  Cuiabá EC
-         SE Palmeiras             1-1 (0-0)  RB Bragantino
-  21.00  CA Mineiro               2-0 (1-0)  SC Internacional
-[Sun May/14]
-  16.00  Grêmio FBPA              0-0  Fortaleza EC
-         CR Vasco da Gama         0-1 (0-1)  Santos FC
-         SC Corinthians Paulista  1-1 (1-1)  São Paulo FC
-  18.30  América Mineiro          0-4 (0-1)  Cruzeiro EC
-         CA Paranaense            3-2 (0-1)  Coritiba FBC
-         Goiás EC                 2-1 (1-1)  Botafogo FR
-
-
-Matchday 7
-[Sat May/20]
-  16.00  EC Bahia                 1-1 (1-1)  Goiás EC
-  18.30  RB Bragantino            2-0 (1-0)  CA Paranaense
-         América Mineiro          2-1 (2-1)  Fortaleza EC
-         Coritiba FBC             1-2 (1-1)  CA Mineiro
-         Botafogo FR              1-0 (0-0)  Fluminense FC
-         São Paulo FC             4-2 (2-1)  CR Vasco da Gama
-  21.00  Santos FC                0-0  SE Palmeiras
-[Sun May/21]
-  16.00  CR Flamengo              1-0 (0-0)  SC Corinthians Paulista
-  18.30  Grêmio FBPA              3-1 (2-0)  SC Internacional
-[Mon May/22]
-  20.00  Cruzeiro EC              0-1 (0-1)  Cuiabá EC
-
-
-Matchday 8
-[Sat May/27]
-  16.00  Fortaleza EC             2-0 (0-0)  CR Vasco da Gama
-         CA Paranaense            1-2 (1-1)  Grêmio FBPA
-  18.30  Cuiabá EC                1-1 (1-0)  Coritiba FBC
-         CR Flamengo              1-1 (1-1)  Cruzeiro EC
-  21.00  São Paulo FC             2-1 (0-1)  Goiás EC
-[Sun May/28]
-  16.00  SC Internacional         2-0 (0-0)  EC Bahia
-         SC Corinthians Paulista  2-0 (0-0)  Fluminense FC
-  18.30  CA Mineiro               1-1 (1-0)  SE Palmeiras
-         RB Bragantino            2-0 (1-0)  Santos FC
-  19.00  Botafogo FR              2-0 (1-0)  América Mineiro
-
-
-Matchday 9
-[Sat Jun/3]
-  16.00  Fortaleza EC             0-0  EC Bahia
-  18.30  Cruzeiro EC              0-1 (0-1)  CA Mineiro
-         América Mineiro          2-0 (0-0)  SC Corinthians Paulista
-         CA Paranaense            1-0 (1-0)  Botafogo FR
-  21.00  Santos FC                1-1 (1-1)  SC Internacional
-[Sun Jun/4]
-  16.00  Fluminense FC            2-1 (2-0)  RB Bragantino
-         Grêmio FBPA              2-1 (2-1)  São Paulo FC
-  18.30  SE Palmeiras             3-1 (2-0)  Coritiba FBC
-         Goiás EC                 0-1 (0-0)  Cuiabá EC
-[Mon Jun/5]
-  20.00  CR Vasco da Gama         1-4 (0-4)  CR Flamengo
-
-
-Matchday 10
-[Sat Jun/10]
-  16.00  Coritiba FBC             0-0  Santos FC
-  18.30  EC Bahia                 2-2 (1-2)  Cruzeiro EC
-         CA Mineiro               1-1 (1-1)  RB Bragantino
-         SC Corinthians Paulista  1-1 (0-0)  Cuiabá EC
-  21.00  Botafogo FR              2-0 (1-0)  Fortaleza EC
-[Sun Jun/11]
-  11.00  América Mineiro          2-2 (0-1)  CA Paranaense
-  16.00  SC Internacional         2-1 (2-1)  CR Vasco da Gama
-         São Paulo FC             0-2 (0-1)  SE Palmeiras
-  18.30  Goiás EC                 2-2 (1-1)  Fluminense FC
-         CR Flamengo              3-0 (1-0)  Grêmio FBPA
-
-
-Matchday 11
-[Wed Jun/21]
-  19.00  Cruzeiro EC              0-1 (0-0)  Fortaleza EC
-         São Paulo FC             2-1 (1-1)  CA Paranaense
-  20.00  Santos FC                0-2 (0-2)  SC Corinthians Paulista
-  21.30  EC Bahia                 1-0 (0-0)  SE Palmeiras
-         Fluminense FC            1-1 (1-1)  CA Mineiro
-[Thu Jun/22]
-  19.00  Grêmio FBPA              3-1 (1-1)  América Mineiro
-  20.00  Cuiabá EC                0-1 (0-0)  Botafogo FR
-         Coritiba FBC             0-1 (0-0)  SC Internacional
-         CR Vasco da Gama         0-1 (0-0)  Goiás EC
-  21.30  RB Bragantino            4-0 (1-0)  CR Flamengo
-
-
-Matchday 12
-[Sat Jun/24]
-  16.00  CA Paranaense            1-0 (1-0)  SC Corinthians Paulista
-  18.30  Fortaleza EC             2-1 (0-0)  CA Mineiro
-         Fluminense FC            2-1 (0-1)  EC Bahia
-  21.00  Cruzeiro EC              1-0 (1-0)  São Paulo FC
-[Sun Jun/25]
-  16.00  Grêmio FBPA              5-1 (1-1)  Coritiba FBC
-         SE Palmeiras             0-1 (0-1)  Botafogo FR
-  18.30  América Mineiro          1-2 (1-0)  SC Internacional
-         RB Bragantino            2-0 (2-0)  Goiás EC
-         Santos FC                2-3 (1-1)  CR Flamengo
-[Mon Jun/26]
-  21.00  CR Vasco da Gama         1-0 (0-0)  Cuiabá EC
-
-
-Matchday 13
-[Sat Jul/1]
-  16.00  São Paulo FC             1-0 (0-0)  Fluminense FC
-  18.30  CR Flamengo              2-0 (1-0)  Fortaleza EC
-         EC Bahia                 1-2 (1-1)  Grêmio FBPA
-  21.00  SC Internacional         0-0  Cruzeiro EC
-[Sun Jul/2]
-  11.00  SC Corinthians Paulista  0-1 (0-1)  RB Bragantino
-  16.00  Botafogo FR              2-0 (0-0)  CR Vasco da Gama
-         CA Paranaense            2-2 (0-1)  SE Palmeiras
-         CA Mineiro               2-2 (2-0)  América Mineiro
-  18.30  Cuiabá EC                3-0 (0-0)  Santos FC
-[Mon Jul/3]
-  20.00  Goiás EC                 1-2 (0-2)  Coritiba FBC
-
-
-Matchday 14
-[Sat Jul/8]
-  16.00  Cuiabá EC                1-1 (1-0)  EC Bahia
-         CR Vasco da Gama         0-1 (0-1)  Cruzeiro EC
-  18.30  CA Mineiro               0-1 (0-1)  SC Corinthians Paulista
-         Coritiba FBC             3-1 (2-1)  América Mineiro
-  21.00  SE Palmeiras             1-1 (1-0)  CR Flamengo
-[Sun Jul/9]
-  11.00  Santos FC                4-3 (3-1)  Goiás EC
-  16.00  RB Bragantino            0-0  São Paulo FC
-         Fluminense FC            2-0 (2-0)  SC Internacional
-  18.30  Grêmio FBPA              0-2 (0-0)  Botafogo FR
-         Fortaleza EC             1-0 (0-0)  CA Paranaense
-
-
-Matchday 15
-[Sat Jul/15]
-  21.00  Botafogo FR              2-0 (0-0)  RB Bragantino
-[Sun Jul/16]
-  11.00  Cruzeiro EC              0-0  Coritiba FBC
-  16.00  Fortaleza EC             0-1 (0-1)  Cuiabá EC
-         São Paulo FC             4-1 (2-0)  Santos FC
-         Fluminense FC            0-0  CR Flamengo
-  18.30  CA Paranaense            2-0 (2-0)  EC Bahia
-         SC Internacional         0-0  SE Palmeiras
-[Mon Jul/17]
-  20.00  Goiás EC                 0-0  CA Mineiro
-
-
-Matchday 16
-[Sat Jul/22]
-  16.00  SE Palmeiras             3-1 (1-1)  Fortaleza EC
-         CR Flamengo              1-1 (0-0)  América Mineiro
-  18.30  EC Bahia                 0-0  SC Corinthians Paulista
-         Cuiabá EC                2-1 (0-0)  São Paulo FC
-  21.00  Grêmio FBPA              1-0 (1-0)  CA Mineiro
-[Sun Jul/23]
-  16.00  Cruzeiro EC              0-1 (0-1)  Goiás EC
-         Santos FC                2-2 (1-0)  Botafogo FR
-         RB Bragantino            0-0  SC Internacional
-  18.30  CR Vasco da Gama         0-2 (0-0)  CA Paranaense
-[Mon Jul/24]
-  19.00  Coritiba FBC             2-0 (2-0)  Fluminense FC
-
-
-Matchday 17
-[Sat Jul/29]
-  16.00  CA Paranaense            3-3 (1-2)  Cruzeiro EC
-         SC Internacional         1-2 (1-1)  Cuiabá EC
-         Fluminense FC            1-0 (0-0)  Santos FC
-  18.30  Fortaleza EC             0-3 (0-1)  RB Bragantino
-         SC Corinthians Paulista  3-1 (1-0)  CR Vasco da Gama
-  21.00  CA Mineiro               1-2 (1-0)  CR Flamengo
-[Sun Jul/30]
-  11.00  São Paulo FC             0-0  EC Bahia
-  16.00  América Mineiro          1-4 (1-2)  SE Palmeiras
-         Botafogo FR              4-1 (3-1)  Coritiba FBC
-  18.30  Goiás EC                 1-1 (0-0)  Grêmio FBPA
-
-
-Matchday 18
-[Sat Aug/5]
-  16.00  Santos FC                1-1 (0-1)  CA Paranaense
-  18.30  SC Internacional         2-2 (1-1)  SC Corinthians Paulista
-         Goiás EC                 1-0 (0-0)  Fortaleza EC
-  21.00  Fluminense FC            2-1 (1-0)  SE Palmeiras
-[Sun Aug/6]
-  16.00  São Paulo FC             0-2 (0-1)  CA Mineiro
-         CR Vasco da Gama         1-0 (0-0)  Grêmio FBPA
-  18.30  EC Bahia                 3-1 (1-0)  América Mineiro
-         Coritiba FBC             0-1 (0-1)  RB Bragantino
-         Cruzeiro EC              0-0  Botafogo FR
-  20.00  Cuiabá EC                3-0 (0-0)  CR Flamengo
-
-
-Matchday 19
-[Sat Aug/12]
-  21.00  Botafogo FR              3-1 (0-1)  SC Internacional
-[Sun Aug/13]
-  11.00  CA Mineiro               1-0 (0-0)  EC Bahia
-  16.00  SC Corinthians Paulista  3-1 (0-1)  Coritiba FBC
-         Grêmio FBPA              2-1 (2-1)  Fluminense FC
-         América Mineiro          0-1 (0-1)  Goiás EC
-  18.30  CR Flamengo              1-1 (0-1)  São Paulo FC
-         Fortaleza EC             4-0 (0-0)  Santos FC
-[Mon Aug/14]
-  19.00  SE Palmeiras             1-0 (0-0)  Cruzeiro EC
-  21.00  RB Bragantino            1-1 (1-1)  CR Vasco da Gama
-[Tue Aug/15]
-  20.00  CA Paranaense            2-0 (1-0)  Cuiabá EC
-
-
-Matchday 20
-[Sat Aug/19]
-  16.00  SC Internacional         0-1 (0-1)  Fortaleza EC
-         São Paulo FC             0-0  Botafogo FR
-  18.30  Cuiabá EC                0-2 (0-1)  SE Palmeiras
-         Fluminense FC            3-1 (0-0)  América Mineiro
-  21.00  Cruzeiro EC              1-1 (1-0)  SC Corinthians Paulista
-[Sun Aug/20]
-  11.00  CR Vasco da Gama         1-0 (1-0)  CA Mineiro
-  16.00  EC Bahia                 4-0 (2-0)  RB Bragantino
-         Coritiba FBC             2-3 (1-2)  CR Flamengo
-         Santos FC                2-1 (0-0)  Grêmio FBPA
-[Mon Aug/21]
-  20.00  Goiás EC                 1-1 (0-1)  CA Paranaense
-
-
-Matchday 21
-[Sat Aug/26]
-  18.30  CR Flamengo              0-0  SC Internacional
-  21.00  SC Corinthians Paulista  1-1 (0-0)  Goiás EC
-[Sun Aug/27]
-  11.00  RB Bragantino            2-0 (0-0)  Cuiabá EC
-  16.00  América Mineiro          2-1 (0-0)  São Paulo FC
-         CA Mineiro               2-0 (1-0)  Santos FC
-         Botafogo FR              3-0 (1-0)  EC Bahia
-  18.30  Fortaleza EC             3-1 (2-0)  Coritiba FBC
-         CA Paranaense            2-2 (1-0)  Fluminense FC
-         SE Palmeiras             1-0 (0-0)  CR Vasco da Gama
-  19.00  Grêmio FBPA              3-0 (1-0)  Cruzeiro EC
-
-
-Matchday 22
-[Sat Sep/2]
-  16.00  Goiás EC                 0-0  SC Internacional
-         CA Paranaense            1-1 (0-1)  CA Mineiro
-  21.00  Botafogo FR              1-2 (1-1)  CR Flamengo
-[Sun Sep/3]
-  11.00  Grêmio FBPA              2-0 (1-0)  Cuiabá EC
-  16.00  Fluminense FC            1-0 (0-0)  Fortaleza EC
-         SC Corinthians Paulista  0-0  SE Palmeiras
-  18.30  Cruzeiro EC              0-0  RB Bragantino
-         EC Bahia                 1-1 (1-0)  CR Vasco da Gama
-         América Mineiro          2-0 (1-0)  Santos FC
-
-
-Matchday 23
-[Wed Sep/13]
-  21.30  SC Internacional         2-1 (0-1)  São Paulo FC
-         CR Flamengo              0-3 (0-1)  CA Paranaense
-[Thu Sep/14]
-  19.00  Fortaleza EC             2-1 (1-1)  SC Corinthians Paulista
-         Santos FC                0-3 (0-1)  Cruzeiro EC
-  20.00  Coritiba FBC             2-4 (1-3)  EC Bahia
-  21.30  RB Bragantino            2-0 (2-0)  Grêmio FBPA
-[Fri Sep/15]
-  20.00  Cuiabá EC                2-2 (2-2)  América Mineiro
-  21.30  SE Palmeiras             1-0 (0-0)  Goiás EC
-[Sat Sep/16]
-  16.00  CR Vasco da Gama         4-2 (1-0)  Fluminense FC
-  21.00  CA Mineiro               1-0 (0-0)  Botafogo FR
-
-
-Matchday 24
-[Mon Sep/18]
-  20.00  EC Bahia                 1-2 (0-0)  Santos FC
-
-
-Matchday 15
-[Mon Sep/18]
-  21.00  SC Corinthians Paulista  4-4 (3-2)  Grêmio FBPA
-
-
-Matchday 24
-[Tue Sep/19]
-  21.30  América Mineiro          0-2 (0-1)  RB Bragantino
-[Wed Sep/20]
-  19.00  Goiás EC                 0-0  CR Flamengo
-  21.30  São Paulo FC             1-2 (0-1)  Fortaleza EC
-         Fluminense FC            1-0 (0-0)  Cruzeiro EC
-[Thu Sep/21]
-  19.00  CR Vasco da Gama         5-1 (2-0)  Coritiba FBC
-  19.30  CA Paranaense            2-1 (1-1)  SC Internacional
-  21.30  Grêmio FBPA              1-0 (1-0)  SE Palmeiras
-[Fri Sep/22]
-  20.00  SC Corinthians Paulista  1-0 (0-0)  Botafogo FR
-[Sat Sep/23]
-  21.00  CA Mineiro               1-0 (1-0)  Cuiabá EC
-
-
-Matchday 15
-[Mon Sep/25]
-  20.00  América Mineiro          0-1 (0-0)  CR Vasco da Gama
-
-
-Matchday 22
-[Wed Sep/27]
-  19.00  São Paulo FC             2-1 (2-1)  Coritiba FBC
-
-
-Matchday 25
-[Sat Sep/30]
-  16.00  Fortaleza EC             1-1 (1-0)  Grêmio FBPA
-         CR Flamengo              1-0 (0-0)  EC Bahia
-  18.30  Cuiabá EC                3-0 (0-0)  Fluminense FC
-         São Paulo FC             2-1 (2-1)  SC Corinthians Paulista
-  21.00  SC Internacional         0-2 (0-0)  CA Mineiro
-[Sun Oct/1]
-  16.00  Coritiba FBC             2-0 (2-0)  CA Paranaense
-         Cruzeiro EC              1-1 (1-1)  América Mineiro
-         Santos FC                4-1 (3-1)  CR Vasco da Gama
-  18.30  RB Bragantino            2-1 (0-1)  SE Palmeiras
-[Mon Oct/2]
-  20.00  Botafogo FR              1-1 (0-1)  Goiás EC
-
-
-Matchday 26
-[Sat Oct/7]
-  16.00  Goiás EC                 4-6 (3-3)  EC Bahia
-  18.30  CR Vasco da Gama         0-0  São Paulo FC
-  21.00  SC Corinthians Paulista  1-1 (0-0)  CR Flamengo
-[Sun Oct/8]
-  16.00  SE Palmeiras             1-2 (1-1)  Santos FC
-         Fluminense FC            0-2 (0-2)  Botafogo FR
-         SC Internacional         3-2 (1-0)  Grêmio FBPA
-  18.30  CA Mineiro               1-2 (0-0)  Coritiba FBC
-         Fortaleza EC             3-2 (1-2)  América Mineiro
-         CA Paranaense            1-1 (1-1)  RB Bragantino
-[Sat Oct/14]
-  21.00  Cuiabá EC                0-0  Cruzeiro EC
-
-
-Matchday 27
-[Wed Oct/18]
-  19.00  Grêmio FBPA              1-2 (1-1)  CA Paranaense
-  20.00  América Mineiro          1-2 (1-1)  Botafogo FR
-         Coritiba FBC             0-3 (0-1)  Cuiabá EC
-  21.30  EC Bahia                 1-0 (1-0)  SC Internacional
-         Goiás EC                 2-0 (2-0)  São Paulo FC
-         CR Vasco da Gama         1-0 (0-0)  Fortaleza EC
-[Thu Oct/19]
-  19.00  Cruzeiro EC              0-2 (0-2)  CR Flamengo
-         SE Palmeiras             0-2 (0-1)  CA Mineiro
-  20.00  Santos FC                1-3 (0-2)  RB Bragantino
-  21.30  Fluminense FC            3-3 (1-3)  SC Corinthians Paulista
-
-
-Matchday 28
-[Sat Oct/21]
-  18.30  São Paulo FC             3-0 (1-0)  Grêmio FBPA
-         Cuiabá EC                1-1 (0-1)  Goiás EC
-         EC Bahia                 2-0 (1-0)  Fortaleza EC
-  21.00  Botafogo FR              1-1 (1-1)  CA Paranaense
-[Sun Oct/22]
-  16.00  CR Flamengo              1-0 (0-0)  CR Vasco da Gama
-         CA Mineiro               0-1 (0-0)  Cruzeiro EC
-         SC Internacional         7-1 (4-0)  Santos FC
-  18.30  RB Bragantino            1-0 (1-0)  Fluminense FC
-         SC Corinthians Paulista  1-1 (0-1)  América Mineiro
-         Coritiba FBC             0-2 (0-2)  SE Palmeiras
-
-
-Matchday 29
-[Wed Oct/25]
-  19.00  CA Paranaense            3-2 (3-1)  América Mineiro
-         RB Bragantino            1-2 (0-1)  CA Mineiro
-         Fluminense FC            5-3 (2-2)  Goiás EC
-  20.00  Cruzeiro EC              3-0 (1-0)  EC Bahia
-         SE Palmeiras             5-0 (3-0)  São Paulo FC
-  21.30  Cuiabá EC                0-1 (0-0)  SC Corinthians Paulista
-         Grêmio FBPA              3-2 (0-1)  CR Flamengo
-[Thu Oct/26]
-  19.00  CR Vasco da Gama         1-2 (0-1)  SC Internacional
-  21.30  Santos FC                2-1 (1-1)  Coritiba FBC
-
-
-Matchday 30
-[Sat Oct/28]
-  19.00  SE Palmeiras             1-0 (1-0)  EC Bahia
-         América Mineiro          3-4 (2-2)  Grêmio FBPA
-  22.00  CA Mineiro               2-0 (0-0)  Fluminense FC
-[Sun Oct/29]
-  16.00  Goiás EC                 1-1 (0-0)  CR Vasco da Gama
-         CA Paranaense            1-1 (1-1)  São Paulo FC
-  18.30  SC Corinthians Paulista  1-1 (0-0)  Santos FC
-         SC Internacional         3-4 (1-2)  Coritiba FBC
-  20.00  Botafogo FR              0-1 (0-0)  Cuiabá EC
-
-
-Matchday 31
-[Tue Oct/31]
-  19.00  EC Bahia                 1-0 (1-0)  Fluminense FC
-[Wed Nov/1]
-  19.00  SC Corinthians Paulista  1-0 (0-0)  CA Paranaense
-         SC Internacional         1-1 (1-0)  América Mineiro
-  20.00  Coritiba FBC             1-2 (0-1)  Grêmio FBPA
-         CR Flamengo              1-2 (1-1)  Santos FC
-  21.30  CA Mineiro               3-1 (1-1)  Fortaleza EC
-         Botafogo FR              3-4 (3-0)  SE Palmeiras
-[Thu Nov/2]
-  17.00  Cuiabá EC                0-2 (0-0)  CR Vasco da Gama
-  18.00  Goiás EC                 0-2 (0-1)  RB Bragantino
-  20.00  São Paulo FC             1-0 (0-0)  Cruzeiro EC
-
-
-Matchday 32
-[Sat Nov/4]
-  19.30  Grêmio FBPA              1-0 (0-0)  EC Bahia
-         América Mineiro          1-1 (0-0)  CA Mineiro
-  21.30  SE Palmeiras             1-0 (1-0)  CA Paranaense
-[Sun Nov/5]
-  16.00  RB Bragantino            1-0 (1-0)  SC Corinthians Paulista
-         Cruzeiro EC              1-2 (0-1)  SC Internacional
-         Fortaleza EC             0-2 (0-1)  CR Flamengo
-  18.30  Coritiba FBC             0-1 (0-0)  Goiás EC
-[Mon Nov/6]
-  19.00  CR Vasco da Gama         1-0 (1-0)  Botafogo FR
-  21.00  Santos FC                0-0  Cuiabá EC
-
-
-Matchday 33
-[Wed Nov/8]
-  19.00  SC Internacional         0-0  Fluminense FC
-         América Mineiro          0-3 (0-2)  Coritiba FBC
-  20.00  São Paulo FC             1-0 (0-0)  RB Bragantino
-         CA Paranaense            1-1 (0-0)  Fortaleza EC
-  21.30  CR Flamengo              3-0 (2-0)  SE Palmeiras
-[Thu Nov/9]
-  19.00  SC Corinthians Paulista  1-1 (1-0)  CA Mineiro
-         Goiás EC                 0-1 (0-0)  Santos FC
-  20.00  EC Bahia                 0-3 (0-1)  Cuiabá EC
-         Botafogo FR              3-4 (2-1)  Grêmio FBPA
-
-
-Matchday 34
-[Sat Nov/11]
-  16.00  Coritiba FBC             1-0 (0-0)  Cruzeiro EC
-  18.30  CR Flamengo              1-1 (1-0)  Fluminense FC
-  21.00  SE Palmeiras             3-0 (1-0)  SC Internacional
-[Sun Nov/12]
-  16.00  Grêmio FBPA              0-1 (0-1)  SC Corinthians Paulista
-         RB Bragantino            2-2 (1-2)  Botafogo FR
-  18.30  Cuiabá EC                2-1 (1-0)  Fortaleza EC
-         EC Bahia                 1-1 (0-0)  CA Paranaense
-         CA Mineiro               2-1 (1-0)  Goiás EC
-         Santos FC                0-0  São Paulo FC
-         CR Vasco da Gama         2-1 (1-1)  América Mineiro
-
-
-Matchday 30
-[Sat Nov/18]
-  18.30  Fortaleza EC             0-1 (0-0)  Cruzeiro EC
-
-
-Matchday 33
-[Wed Nov/22]
-  19.00  Cruzeiro EC              2-2 (2-1)  CR Vasco da Gama
-
-
-Matchday 32
-[Wed Nov/22]
-  21.30  Fluminense FC            1-0 (0-0)  São Paulo FC
-
-
-Matchday 29
-[Thu Nov/23]
-  19.00  Fortaleza EC             2-2 (2-1)  Botafogo FR
-
-
-Matchday 30
-[Thu Nov/23]
-  21.30  CR Flamengo              1-0 (0-0)  RB Bragantino
-
-
-Matchday 35
-[Fri Nov/24]
-  21.00  SC Corinthians Paulista  1-5 (0-3)  EC Bahia
-[Sat Nov/25]
-  19.30  CA Paranaense            0-0  CR Vasco da Gama
-  21.00  Fluminense FC            2-1 (1-0)  Coritiba FBC
-[Sun Nov/26]
-  16.00  Botafogo FR              1-1 (1-0)  Santos FC
-         CA Mineiro               3-0 (1-0)  Grêmio FBPA
-  18.30  São Paulo FC             0-0  Cuiabá EC
-         América Mineiro          0-3 (0-1)  CR Flamengo
-         Fortaleza EC             2-2 (1-0)  SE Palmeiras
-         SC Internacional         1-0 (1-0)  RB Bragantino
-[Mon Nov/27]
-  21.00  Goiás EC                 0-1 (0-0)  Cruzeiro EC
-
-
-Matchday 36
-[Tue Nov/28]
-  21.30  CR Vasco da Gama         2-4 (2-2)  SC Corinthians Paulista
-[Wed Nov/29]
-  19.00  Santos FC                0-3 (0-2)  Fluminense FC
-  19.30  CR Flamengo              0-3 (0-1)  CA Mineiro
-  20.00  EC Bahia                 0-1 (0-0)  São Paulo FC
-         Cuiabá EC                0-2 (0-0)  SC Internacional
-  21.30  Coritiba FBC             1-1 (0-0)  Botafogo FR
-         SE Palmeiras             4-0 (2-0)  América Mineiro
-[Thu Nov/30]
-  19.00  Grêmio FBPA              2-1 (0-1)  Goiás EC
-  20.00  Cruzeiro EC              1-1 (0-0)  CA Paranaense
-  20.30  RB Bragantino            1-2 (1-2)  Fortaleza EC
-
-
-Matchday 37
-[Sat Dec/2]
-  18.00  SC Corinthians Paulista  1-2 (0-1)  SC Internacional
-  21.00  CA Mineiro               2-1 (0-0)  São Paulo FC
-[Sun Dec/3]
-  16.00  CR Flamengo              2-1 (2-0)  Cuiabá EC
-         SE Palmeiras             1-0 (1-0)  Fluminense FC
-  18.30  Botafogo FR              0-0  Cruzeiro EC
-         RB Bragantino            1-0 (0-0)  Coritiba FBC
-         Grêmio FBPA              1-0 (0-0)  CR Vasco da Gama
-         CA Paranaense            3-0 (1-0)  Santos FC
-         Fortaleza EC             1-0 (1-0)  Goiás EC
-         América Mineiro          3-2 (2-1)  EC Bahia
-
-
-Matchday 38
-[Wed Dec/6]
-  19.00  Goiás EC                 1-0 (1-0)  América Mineiro
-  21.30  Cuiabá EC                3-0 (2-0)  CA Paranaense
-         EC Bahia                 4-1 (2-1)  CA Mineiro
-         Coritiba FBC             0-2 (0-2)  SC Corinthians Paulista
-         SC Internacional         3-1 (1-0)  Botafogo FR
-         Cruzeiro EC              1-1 (0-1)  SE Palmeiras
-         Fluminense FC            2-3 (1-2)  Grêmio FBPA
-         CR Vasco da Gama         2-1 (1-0)  RB Bragantino
-         São Paulo FC             1-0 (1-0)  CR Flamengo
-         Santos FC                1-2 (0-1)  Fortaleza EC
+» Matchday 1
+  Sat Apr/15 2023
+    16.00  SE Palmeiras            v Cuiabá EC                2-1 (1-1)
+           América Mineiro         v Fluminense FC            0-3 (0-0)
+    18.30  Fortaleza EC            v SC Internacional         1-1 (0-0)
+           CA Paranaense           v Goiás EC                 2-0 (1-0)
+           RB Bragantino           v EC Bahia                 2-1 (0-1)
+           Botafogo FR             v São Paulo FC             2-1 (1-1)
+    21.00  CA Mineiro              v CR Vasco da Gama         1-2 (1-2)
+  Sun Apr/16
+    16.00  SC Corinthians Paulista v Cruzeiro EC              2-1 (0-0)
+           CR Flamengo             v Coritiba FBC             3-0 (1-0)
+    18.30  Grêmio FBPA             v Santos FC                1-0 (1-0)
+
+
+» Matchday 2
+  Sat Apr/22
+    16.00  Fluminense FC           v CA Paranaense            2-0 (1-0)
+    18.30  Cuiabá EC               v RB Bragantino            1-1 (0-0)
+           São Paulo FC            v América Mineiro          3-0 (1-0)
+    21.00  Cruzeiro EC             v Grêmio FBPA              1-0 (0-0)
+  Sun Apr/23
+    11.00  SC Internacional        v CR Flamengo              2-1 (0-0)
+    16.00  Santos FC               v CA Mineiro               0-0
+           CR Vasco da Gama        v SE Palmeiras             2-2 (2-1)
+    18.30  Coritiba FBC            v Fortaleza EC             0-3 (0-0)
+    19.00  Goiás EC                v SC Corinthians Paulista  3-1 (1-1)
+  Mon Apr/24
+    20.00  EC Bahia                v Botafogo FR              1-2 (1-1)
+
+
+» Matchday 3
+  Sat Apr/29
+    16.30  Coritiba FBC            v São Paulo FC             1-1 (1-0)
+           Fortaleza EC            v Fluminense FC            4-2 (2-1)
+    18.30  RB Bragantino           v Cruzeiro EC              0-3 (0-1)
+           Santos FC               v América Mineiro          3-2 (2-1)
+           SE Palmeiras            v SC Corinthians Paulista  2-1 (2-0)
+    21.00  CA Mineiro              v CA Paranaense            2-1 (1-0)
+  Sun Apr/30
+    16.00  CR Flamengo             v Botafogo FR              2-3 (0-2)
+    18.30  SC Internacional        v Goiás EC                 1-0 (0-0)
+           Cuiabá EC               v Grêmio FBPA              1-2 (1-1)
+  Mon May/1
+    20.00  CR Vasco da Gama        v EC Bahia                 0-1 (0-1)
+
+
+» Matchday 4
+  Sat May/6
+    16.00  Cruzeiro EC             v Santos FC                2-1 (1-0)
+    21.00  Fluminense FC           v CR Vasco da Gama         1-1 (0-1)
+  Sun May/7
+    11.00  América Mineiro         v Cuiabá EC                1-2 (1-0)
+    16.00  CA Paranaense           v CR Flamengo              2-1 (1-1)
+           EC Bahia                v Coritiba FBC             3-1 (1-0)
+           São Paulo FC            v SC Internacional         2-0 (1-0)
+    18.30  Grêmio FBPA             v RB Bragantino            3-3 (1-1)
+           Goiás EC                v SE Palmeiras             0-5 (0-1)
+           Botafogo FR             v CA Mineiro               2-0 (1-0)
+  Mon May/8
+    20.00  SC Corinthians Paulista v Fortaleza EC             1-1 (0-0)
+
+
+» Matchday 5
+  Wed May/10
+    19.00  Santos FC               v EC Bahia                 3-0 (2-0)
+           RB Bragantino           v América Mineiro          2-2 (2-1)
+           SC Internacional        v CA Paranaense            0-2 (0-0)
+    20.00  CR Flamengo             v Goiás EC                 2-0 (1-0)
+           Cuiabá EC               v CA Mineiro               0-4 (0-1)
+    21.30  SE Palmeiras            v Grêmio FBPA              4-1 (1-1)
+           Cruzeiro EC             v Fluminense FC            0-2 (0-1)
+  Thu May/11
+    19.00  Coritiba FBC            v CR Vasco da Gama         1-1 (1-0)
+    19.30  Botafogo FR             v SC Corinthians Paulista  3-0 (1-0)
+    20.00  Fortaleza EC            v São Paulo FC             0-0
+
+
+» Matchday 6
+  Sat May/13
+    16.00  EC Bahia                v CR Flamengo              2-3 (1-3)
+    18.30  Fluminense FC           v Cuiabá EC                2-0 (1-0)
+           SE Palmeiras            v RB Bragantino            1-1 (0-0)
+    21.00  CA Mineiro              v SC Internacional         2-0 (1-0)
+  Sun May/14
+    16.00  Grêmio FBPA             v Fortaleza EC             0-0
+           CR Vasco da Gama        v Santos FC                0-1 (0-1)
+           SC Corinthians Paulista v São Paulo FC             1-1 (1-1)
+    18.30  América Mineiro         v Cruzeiro EC              0-4 (0-1)
+           CA Paranaense           v Coritiba FBC             3-2 (0-1)
+           Goiás EC                v Botafogo FR              2-1 (1-1)
+
+
+» Matchday 7
+  Sat May/20
+    16.00  EC Bahia                v Goiás EC                 1-1 (1-1)
+    18.30  RB Bragantino           v CA Paranaense            2-0 (1-0)
+           América Mineiro         v Fortaleza EC             2-1 (2-1)
+           Coritiba FBC            v CA Mineiro               1-2 (1-1)
+           Botafogo FR             v Fluminense FC            1-0 (0-0)
+           São Paulo FC            v CR Vasco da Gama         4-2 (2-1)
+    21.00  Santos FC               v SE Palmeiras             0-0
+  Sun May/21
+    16.00  CR Flamengo             v SC Corinthians Paulista  1-0 (0-0)
+    18.30  Grêmio FBPA             v SC Internacional         3-1 (2-0)
+  Mon May/22
+    20.00  Cruzeiro EC             v Cuiabá EC                0-1 (0-1)
+
+
+» Matchday 8
+  Sat May/27
+    16.00  Fortaleza EC            v CR Vasco da Gama         2-0 (0-0)
+           CA Paranaense           v Grêmio FBPA              1-2 (1-1)
+    18.30  Cuiabá EC               v Coritiba FBC             1-1 (1-0)
+           CR Flamengo             v Cruzeiro EC              1-1 (1-1)
+    21.00  São Paulo FC            v Goiás EC                 2-1 (0-1)
+  Sun May/28
+    16.00  SC Internacional        v EC Bahia                 2-0 (0-0)
+           SC Corinthians Paulista v Fluminense FC            2-0 (0-0)
+    18.30  CA Mineiro              v SE Palmeiras             1-1 (1-0)
+           RB Bragantino           v Santos FC                2-0 (1-0)
+    19.00  Botafogo FR             v América Mineiro          2-0 (1-0)
+
+
+» Matchday 9
+  Sat Jun/3
+    16.00  Fortaleza EC            v EC Bahia                 0-0
+    18.30  Cruzeiro EC             v CA Mineiro               0-1 (0-1)
+           América Mineiro         v SC Corinthians Paulista  2-0 (0-0)
+           CA Paranaense           v Botafogo FR              1-0 (1-0)
+    21.00  Santos FC               v SC Internacional         1-1 (1-1)
+  Sun Jun/4
+    16.00  Fluminense FC           v RB Bragantino            2-1 (2-0)
+           Grêmio FBPA             v São Paulo FC             2-1 (2-1)
+    18.30  SE Palmeiras            v Coritiba FBC             3-1 (2-0)
+           Goiás EC                v Cuiabá EC                0-1 (0-0)
+  Mon Jun/5
+    20.00  CR Vasco da Gama        v CR Flamengo              1-4 (0-4)
+
+
+» Matchday 10
+  Sat Jun/10
+    16.00  Coritiba FBC            v Santos FC                0-0
+    18.30  EC Bahia                v Cruzeiro EC              2-2 (1-2)
+           CA Mineiro              v RB Bragantino            1-1 (1-1)
+           SC Corinthians Paulista v Cuiabá EC                1-1 (0-0)
+    21.00  Botafogo FR             v Fortaleza EC             2-0 (1-0)
+  Sun Jun/11
+    11.00  América Mineiro         v CA Paranaense            2-2 (0-1)
+    16.00  SC Internacional        v CR Vasco da Gama         2-1 (2-1)
+           São Paulo FC            v SE Palmeiras             0-2 (0-1)
+    18.30  Goiás EC                v Fluminense FC            2-2 (1-1)
+           CR Flamengo             v Grêmio FBPA              3-0 (1-0)
+
+
+» Matchday 11
+  Wed Jun/21
+    19.00  Cruzeiro EC             v Fortaleza EC             0-1 (0-0)
+           São Paulo FC            v CA Paranaense            2-1 (1-1)
+    20.00  Santos FC               v SC Corinthians Paulista  0-2 (0-2)
+    21.30  EC Bahia                v SE Palmeiras             1-0 (0-0)
+           Fluminense FC           v CA Mineiro               1-1 (1-1)
+  Thu Jun/22
+    19.00  Grêmio FBPA             v América Mineiro          3-1 (1-1)
+    20.00  Cuiabá EC               v Botafogo FR              0-1 (0-0)
+           Coritiba FBC            v SC Internacional         0-1 (0-0)
+           CR Vasco da Gama        v Goiás EC                 0-1 (0-0)
+    21.30  RB Bragantino           v CR Flamengo              4-0 (1-0)
+
+
+» Matchday 12
+  Sat Jun/24
+    16.00  CA Paranaense           v SC Corinthians Paulista  1-0 (1-0)
+    18.30  Fortaleza EC            v CA Mineiro               2-1 (0-0)
+           Fluminense FC           v EC Bahia                 2-1 (0-1)
+    21.00  Cruzeiro EC             v São Paulo FC             1-0 (1-0)
+  Sun Jun/25
+    16.00  Grêmio FBPA             v Coritiba FBC             5-1 (1-1)
+           SE Palmeiras            v Botafogo FR              0-1 (0-1)
+    18.30  América Mineiro         v SC Internacional         1-2 (1-0)
+           RB Bragantino           v Goiás EC                 2-0 (2-0)
+           Santos FC               v CR Flamengo              2-3 (1-1)
+  Mon Jun/26
+    21.00  CR Vasco da Gama        v Cuiabá EC                1-0 (0-0)
+
+
+» Matchday 13
+  Sat Jul/1
+    16.00  São Paulo FC            v Fluminense FC            1-0 (0-0)
+    18.30  CR Flamengo             v Fortaleza EC             2-0 (1-0)
+           EC Bahia                v Grêmio FBPA              1-2 (1-1)
+    21.00  SC Internacional        v Cruzeiro EC              0-0
+  Sun Jul/2
+    11.00  SC Corinthians Paulista v RB Bragantino            0-1 (0-1)
+    16.00  Botafogo FR             v CR Vasco da Gama         2-0 (0-0)
+           CA Paranaense           v SE Palmeiras             2-2 (0-1)
+           CA Mineiro              v América Mineiro          2-2 (2-0)
+    18.30  Cuiabá EC               v Santos FC                3-0 (0-0)
+  Mon Jul/3
+    20.00  Goiás EC                v Coritiba FBC             1-2 (0-2)
+
+
+» Matchday 14
+  Sat Jul/8
+    16.00  Cuiabá EC               v EC Bahia                 1-1 (1-0)
+           CR Vasco da Gama        v Cruzeiro EC              0-1 (0-1)
+    18.30  CA Mineiro              v SC Corinthians Paulista  0-1 (0-1)
+           Coritiba FBC            v América Mineiro          3-1 (2-1)
+    21.00  SE Palmeiras            v CR Flamengo              1-1 (1-0)
+  Sun Jul/9
+    11.00  Santos FC               v Goiás EC                 4-3 (3-1)
+    16.00  RB Bragantino           v São Paulo FC             0-0
+           Fluminense FC           v SC Internacional         2-0 (2-0)
+    18.30  Grêmio FBPA             v Botafogo FR              0-2 (0-0)
+           Fortaleza EC            v CA Paranaense            1-0 (0-0)
+
+
+» Matchday 15
+  Sat Jul/15
+    21.00  Botafogo FR             v RB Bragantino            2-0 (0-0)
+  Sun Jul/16
+    11.00  Cruzeiro EC             v Coritiba FBC             0-0
+    16.00  Fortaleza EC            v Cuiabá EC                0-1 (0-1)
+           São Paulo FC            v Santos FC                4-1 (2-0)
+           Fluminense FC           v CR Flamengo              0-0
+    18.30  CA Paranaense           v EC Bahia                 2-0 (2-0)
+           SC Internacional        v SE Palmeiras             0-0
+  Mon Jul/17
+    20.00  Goiás EC                v CA Mineiro               0-0
+
+
+» Matchday 16
+  Sat Jul/22
+    16.00  SE Palmeiras            v Fortaleza EC             3-1 (1-1)
+           CR Flamengo             v América Mineiro          1-1 (0-0)
+    18.30  EC Bahia                v SC Corinthians Paulista  0-0
+           Cuiabá EC               v São Paulo FC             2-1 (0-0)
+    21.00  Grêmio FBPA             v CA Mineiro               1-0 (1-0)
+  Sun Jul/23
+    16.00  Cruzeiro EC             v Goiás EC                 0-1 (0-1)
+           Santos FC               v Botafogo FR              2-2 (1-0)
+           RB Bragantino           v SC Internacional         0-0
+    18.30  CR Vasco da Gama        v CA Paranaense            0-2 (0-0)
+  Mon Jul/24
+    19.00  Coritiba FBC            v Fluminense FC            2-0 (2-0)
+
+
+» Matchday 17
+  Sat Jul/29
+    16.00  CA Paranaense           v Cruzeiro EC              3-3 (1-2)
+           SC Internacional        v Cuiabá EC                1-2 (1-1)
+           Fluminense FC           v Santos FC                1-0 (0-0)
+    18.30  Fortaleza EC            v RB Bragantino            0-3 (0-1)
+           SC Corinthians Paulista v CR Vasco da Gama         3-1 (1-0)
+    21.00  CA Mineiro              v CR Flamengo              1-2 (1-0)
+  Sun Jul/30
+    11.00  São Paulo FC            v EC Bahia                 0-0
+    16.00  América Mineiro         v SE Palmeiras             1-4 (1-2)
+           Botafogo FR             v Coritiba FBC             4-1 (3-1)
+    18.30  Goiás EC                v Grêmio FBPA              1-1 (0-0)
+
+
+» Matchday 18
+  Sat Aug/5
+    16.00  Santos FC               v CA Paranaense            1-1 (0-1)
+    18.30  SC Internacional        v SC Corinthians Paulista  2-2 (1-1)
+           Goiás EC                v Fortaleza EC             1-0 (0-0)
+    21.00  Fluminense FC           v SE Palmeiras             2-1 (1-0)
+  Sun Aug/6
+    16.00  São Paulo FC            v CA Mineiro               0-2 (0-1)
+           CR Vasco da Gama        v Grêmio FBPA              1-0 (0-0)
+    18.30  EC Bahia                v América Mineiro          3-1 (1-0)
+           Coritiba FBC            v RB Bragantino            0-1 (0-1)
+           Cruzeiro EC             v Botafogo FR              0-0
+    20.00  Cuiabá EC               v CR Flamengo              3-0 (0-0)
+
+
+» Matchday 19
+  Sat Aug/12
+    21.00  Botafogo FR             v SC Internacional         3-1 (0-1)
+  Sun Aug/13
+    11.00  CA Mineiro              v EC Bahia                 1-0 (0-0)
+    16.00  SC Corinthians Paulista v Coritiba FBC             3-1 (0-1)
+           Grêmio FBPA             v Fluminense FC            2-1 (2-1)
+           América Mineiro         v Goiás EC                 0-1 (0-1)
+    18.30  CR Flamengo             v São Paulo FC             1-1 (0-1)
+           Fortaleza EC            v Santos FC                4-0 (0-0)
+  Mon Aug/14
+    19.00  SE Palmeiras            v Cruzeiro EC              1-0 (0-0)
+    21.00  RB Bragantino           v CR Vasco da Gama         1-1 (1-1)
+  Tue Aug/15
+    20.00  CA Paranaense           v Cuiabá EC                2-0 (1-0)
+
+
+» Matchday 20
+  Sat Aug/19
+    16.00  SC Internacional        v Fortaleza EC             0-1 (0-1)
+           São Paulo FC            v Botafogo FR              0-0
+    18.30  Cuiabá EC               v SE Palmeiras             0-2 (0-1)
+           Fluminense FC           v América Mineiro          3-1 (0-0)
+    21.00  Cruzeiro EC             v SC Corinthians Paulista  1-1 (1-0)
+  Sun Aug/20
+    11.00  CR Vasco da Gama        v CA Mineiro               1-0 (1-0)
+    16.00  EC Bahia                v RB Bragantino            4-0 (2-0)
+           Coritiba FBC            v CR Flamengo              2-3 (1-2)
+           Santos FC               v Grêmio FBPA              2-1 (0-0)
+  Mon Aug/21
+    20.00  Goiás EC                v CA Paranaense            1-1 (0-1)
+
+
+» Matchday 21
+  Sat Aug/26
+    18.30  CR Flamengo             v SC Internacional         0-0
+    21.00  SC Corinthians Paulista v Goiás EC                 1-1 (0-0)
+  Sun Aug/27
+    11.00  RB Bragantino           v Cuiabá EC                2-0 (0-0)
+    16.00  América Mineiro         v São Paulo FC             2-1 (0-0)
+           CA Mineiro              v Santos FC                2-0 (1-0)
+           Botafogo FR             v EC Bahia                 3-0 (1-0)
+    18.30  Fortaleza EC            v Coritiba FBC             3-1 (2-0)
+           CA Paranaense           v Fluminense FC            2-2 (1-0)
+           SE Palmeiras            v CR Vasco da Gama         1-0 (0-0)
+    19.00  Grêmio FBPA             v Cruzeiro EC              3-0 (1-0)
+
+
+» Matchday 22
+  Sat Sep/2
+    16.00  Goiás EC                v SC Internacional         0-0
+           CA Paranaense           v CA Mineiro               1-1 (0-1)
+    21.00  Botafogo FR             v CR Flamengo              1-2 (1-1)
+  Sun Sep/3
+    11.00  Grêmio FBPA             v Cuiabá EC                2-0 (1-0)
+    16.00  Fluminense FC           v Fortaleza EC             1-0 (0-0)
+           SC Corinthians Paulista v SE Palmeiras             0-0
+    18.30  Cruzeiro EC             v RB Bragantino            0-0
+           EC Bahia                v CR Vasco da Gama         1-1 (1-0)
+           América Mineiro         v Santos FC                2-0 (1-0)
+
+
+» Matchday 23
+  Wed Sep/13
+    21.30  SC Internacional        v São Paulo FC             2-1 (0-1)
+           CR Flamengo             v CA Paranaense            0-3 (0-1)
+  Thu Sep/14
+    19.00  Fortaleza EC            v SC Corinthians Paulista  2-1 (1-1)
+           Santos FC               v Cruzeiro EC              0-3 (0-1)
+    20.00  Coritiba FBC            v EC Bahia                 2-4 (1-3)
+    21.30  RB Bragantino           v Grêmio FBPA              2-0 (2-0)
+  Fri Sep/15
+    20.00  Cuiabá EC               v América Mineiro          2-2 (2-2)
+    21.30  SE Palmeiras            v Goiás EC                 1-0 (0-0)
+  Sat Sep/16
+    16.00  CR Vasco da Gama        v Fluminense FC            4-2 (1-0)
+    21.00  CA Mineiro              v Botafogo FR              1-0 (0-0)
+
+
+» Matchday 24
+  Mon Sep/18
+    20.00  EC Bahia                v Santos FC                1-2 (0-0)
+
+
+» Matchday 15
+  Mon Sep/18
+    21.00  SC Corinthians Paulista v Grêmio FBPA              4-4 (3-2)
+
+
+» Matchday 24
+  Tue Sep/19
+    21.30  América Mineiro         v RB Bragantino            0-2 (0-1)
+  Wed Sep/20
+    19.00  Goiás EC                v CR Flamengo              0-0
+    21.30  São Paulo FC            v Fortaleza EC             1-2 (0-1)
+           Fluminense FC           v Cruzeiro EC              1-0 (0-0)
+  Thu Sep/21
+    19.00  CR Vasco da Gama        v Coritiba FBC             5-1 (2-0)
+    19.30  CA Paranaense           v SC Internacional         2-1 (1-1)
+    21.30  Grêmio FBPA             v SE Palmeiras             1-0 (1-0)
+  Fri Sep/22
+    20.00  SC Corinthians Paulista v Botafogo FR              1-0 (0-0)
+  Sat Sep/23
+    21.00  CA Mineiro              v Cuiabá EC                1-0 (1-0)
+
+
+» Matchday 15
+  Mon Sep/25
+    20.00  América Mineiro         v CR Vasco da Gama         0-1 (0-0)
+
+
+» Matchday 22
+  Wed Sep/27
+    19.00  São Paulo FC            v Coritiba FBC             2-1 (2-1)
+
+
+» Matchday 25
+  Sat Sep/30
+    16.00  Fortaleza EC            v Grêmio FBPA              1-1 (1-0)
+           CR Flamengo             v EC Bahia                 1-0 (0-0)
+    18.30  Cuiabá EC               v Fluminense FC            3-0 (0-0)
+           São Paulo FC            v SC Corinthians Paulista  2-1 (2-1)
+    21.00  SC Internacional        v CA Mineiro               0-2 (0-0)
+  Sun Oct/1
+    16.00  Coritiba FBC            v CA Paranaense            2-0 (2-0)
+           Cruzeiro EC             v América Mineiro          1-1 (1-1)
+           Santos FC               v CR Vasco da Gama         4-1 (3-1)
+    18.30  RB Bragantino           v SE Palmeiras             2-1 (0-1)
+  Mon Oct/2
+    20.00  Botafogo FR             v Goiás EC                 1-1 (0-1)
+
+
+» Matchday 26
+  Sat Oct/7
+    16.00  Goiás EC                v EC Bahia                 4-6 (3-3)
+    18.30  CR Vasco da Gama        v São Paulo FC             0-0
+    21.00  SC Corinthians Paulista v CR Flamengo              1-1 (0-0)
+  Sun Oct/8
+    16.00  SE Palmeiras            v Santos FC                1-2 (1-1)
+           Fluminense FC           v Botafogo FR              0-2 (0-2)
+           SC Internacional        v Grêmio FBPA              3-2 (1-0)
+    18.30  CA Mineiro              v Coritiba FBC             1-2 (0-0)
+           Fortaleza EC            v América Mineiro          3-2 (1-2)
+           CA Paranaense           v RB Bragantino            1-1 (1-1)
+  Sat Oct/14
+    21.00  Cuiabá EC               v Cruzeiro EC              0-0
+
+
+» Matchday 27
+  Wed Oct/18
+    19.00  Grêmio FBPA             v CA Paranaense            1-2 (1-1)
+    20.00  América Mineiro         v Botafogo FR              1-2 (1-1)
+           Coritiba FBC            v Cuiabá EC                0-3 (0-1)
+    21.30  EC Bahia                v SC Internacional         1-0 (1-0)
+           Goiás EC                v São Paulo FC             2-0 (2-0)
+           CR Vasco da Gama        v Fortaleza EC             1-0 (0-0)
+  Thu Oct/19
+    19.00  Cruzeiro EC             v CR Flamengo              0-2 (0-2)
+           SE Palmeiras            v CA Mineiro               0-2 (0-1)
+    20.00  Santos FC               v RB Bragantino            1-3 (0-2)
+    21.30  Fluminense FC           v SC Corinthians Paulista  3-3 (1-3)
+
+
+» Matchday 28
+  Sat Oct/21
+    18.30  São Paulo FC            v Grêmio FBPA              3-0 (1-0)
+           Cuiabá EC               v Goiás EC                 1-1 (0-1)
+           EC Bahia                v Fortaleza EC             2-0 (1-0)
+    21.00  Botafogo FR             v CA Paranaense            1-1 (1-1)
+  Sun Oct/22
+    16.00  CR Flamengo             v CR Vasco da Gama         1-0 (0-0)
+           CA Mineiro              v Cruzeiro EC              0-1 (0-0)
+           SC Internacional        v Santos FC                7-1 (4-0)
+    18.30  RB Bragantino           v Fluminense FC            1-0 (1-0)
+           SC Corinthians Paulista v América Mineiro          1-1 (0-1)
+           Coritiba FBC            v SE Palmeiras             0-2 (0-2)
+
+
+» Matchday 29
+  Wed Oct/25
+    19.00  CA Paranaense           v América Mineiro          3-2 (3-1)
+           RB Bragantino           v CA Mineiro               1-2 (0-1)
+           Fluminense FC           v Goiás EC                 5-3 (2-2)
+    20.00  Cruzeiro EC             v EC Bahia                 3-0 (1-0)
+           SE Palmeiras            v São Paulo FC             5-0 (3-0)
+    21.30  Cuiabá EC               v SC Corinthians Paulista  0-1 (0-0)
+           Grêmio FBPA             v CR Flamengo              3-2 (0-1)
+  Thu Oct/26
+    19.00  CR Vasco da Gama        v SC Internacional         1-2 (0-1)
+    21.30  Santos FC               v Coritiba FBC             2-1 (1-1)
+
+
+» Matchday 30
+  Sat Oct/28
+    19.00  SE Palmeiras            v EC Bahia                 1-0 (1-0)
+           América Mineiro         v Grêmio FBPA              3-4 (2-2)
+    22.00  CA Mineiro              v Fluminense FC            2-0 (0-0)
+  Sun Oct/29
+    16.00  Goiás EC                v CR Vasco da Gama         1-1 (0-0)
+           CA Paranaense           v São Paulo FC             1-1 (1-1)
+    18.30  SC Corinthians Paulista v Santos FC                1-1 (0-0)
+           SC Internacional        v Coritiba FBC             3-4 (1-2)
+    20.00  Botafogo FR             v Cuiabá EC                0-1 (0-0)
+
+
+» Matchday 31
+  Tue Oct/31
+    19.00  EC Bahia                v Fluminense FC            1-0 (1-0)
+  Wed Nov/1
+    19.00  SC Corinthians Paulista v CA Paranaense            1-0 (0-0)
+           SC Internacional        v América Mineiro          1-1 (1-0)
+    20.00  Coritiba FBC            v Grêmio FBPA              1-2 (0-1)
+           CR Flamengo             v Santos FC                1-2 (1-1)
+    21.30  CA Mineiro              v Fortaleza EC             3-1 (1-1)
+           Botafogo FR             v SE Palmeiras             3-4 (3-0)
+  Thu Nov/2
+    17.00  Cuiabá EC               v CR Vasco da Gama         0-2 (0-0)
+    18.00  Goiás EC                v RB Bragantino            0-2 (0-1)
+    20.00  São Paulo FC            v Cruzeiro EC              1-0 (0-0)
+
+
+» Matchday 32
+  Sat Nov/4
+    19.30  Grêmio FBPA             v EC Bahia                 1-0 (0-0)
+           América Mineiro         v CA Mineiro               1-1 (0-0)
+    21.30  SE Palmeiras            v CA Paranaense            1-0 (1-0)
+  Sun Nov/5
+    16.00  RB Bragantino           v SC Corinthians Paulista  1-0 (1-0)
+           Cruzeiro EC             v SC Internacional         1-2 (0-1)
+           Fortaleza EC            v CR Flamengo              0-2 (0-1)
+    18.30  Coritiba FBC            v Goiás EC                 0-1 (0-0)
+  Mon Nov/6
+    19.00  CR Vasco da Gama        v Botafogo FR              1-0 (1-0)
+    21.00  Santos FC               v Cuiabá EC                0-0
+
+
+» Matchday 33
+  Wed Nov/8
+    19.00  SC Internacional        v Fluminense FC            0-0
+           América Mineiro         v Coritiba FBC             0-3 (0-2)
+    20.00  São Paulo FC            v RB Bragantino            1-0 (0-0)
+           CA Paranaense           v Fortaleza EC             1-1 (0-0)
+    21.30  CR Flamengo             v SE Palmeiras             3-0 (2-0)
+  Thu Nov/9
+    19.00  SC Corinthians Paulista v CA Mineiro               1-1 (1-0)
+           Goiás EC                v Santos FC                0-1 (0-0)
+    20.00  EC Bahia                v Cuiabá EC                0-3 (0-1)
+           Botafogo FR             v Grêmio FBPA              3-4 (2-1)
+
+
+» Matchday 34
+  Sat Nov/11
+    16.00  Coritiba FBC            v Cruzeiro EC              1-0 (0-0)
+    18.30  CR Flamengo             v Fluminense FC            1-1 (1-0)
+    21.00  SE Palmeiras            v SC Internacional         3-0 (1-0)
+  Sun Nov/12
+    16.00  Grêmio FBPA             v SC Corinthians Paulista  0-1 (0-1)
+           RB Bragantino           v Botafogo FR              2-2 (1-2)
+    18.30  Cuiabá EC               v Fortaleza EC             2-1 (1-0)
+           EC Bahia                v CA Paranaense            1-1 (0-0)
+           CA Mineiro              v Goiás EC                 2-1 (1-0)
+           Santos FC               v São Paulo FC             0-0
+           CR Vasco da Gama        v América Mineiro          2-1 (1-1)
+
+
+» Matchday 30
+  Sat Nov/18
+    18.30  Fortaleza EC            v Cruzeiro EC              0-1 (0-0)
+
+
+» Matchday 33
+  Wed Nov/22
+    19.00  Cruzeiro EC             v CR Vasco da Gama         2-2 (2-1)
+
+
+» Matchday 32
+  Wed Nov/22
+    21.30  Fluminense FC           v São Paulo FC             1-0 (0-0)
+
+
+» Matchday 29
+  Thu Nov/23
+    19.00  Fortaleza EC            v Botafogo FR              2-2 (2-1)
+
+
+» Matchday 30
+  Thu Nov/23
+    21.30  CR Flamengo             v RB Bragantino            1-0 (0-0)
+
+
+» Matchday 35
+  Fri Nov/24
+    21.00  SC Corinthians Paulista v EC Bahia                 1-5 (0-3)
+  Sat Nov/25
+    19.30  CA Paranaense           v CR Vasco da Gama         0-0
+    21.00  Fluminense FC           v Coritiba FBC             2-1 (1-0)
+  Sun Nov/26
+    16.00  Botafogo FR             v Santos FC                1-1 (1-0)
+           CA Mineiro              v Grêmio FBPA              3-0 (1-0)
+    18.30  São Paulo FC            v Cuiabá EC                0-0
+           América Mineiro         v CR Flamengo              0-3 (0-1)
+           Fortaleza EC            v SE Palmeiras             2-2 (1-0)
+           SC Internacional        v RB Bragantino            1-0 (1-0)
+  Mon Nov/27
+    21.00  Goiás EC                v Cruzeiro EC              0-1 (0-0)
+
+
+» Matchday 36
+  Tue Nov/28
+    21.30  CR Vasco da Gama        v SC Corinthians Paulista  2-4 (2-2)
+  Wed Nov/29
+    19.00  Santos FC               v Fluminense FC            0-3 (0-2)
+    19.30  CR Flamengo             v CA Mineiro               0-3 (0-1)
+    20.00  EC Bahia                v São Paulo FC             0-1 (0-0)
+           Cuiabá EC               v SC Internacional         0-2 (0-0)
+    21.30  Coritiba FBC            v Botafogo FR              1-1 (0-0)
+           SE Palmeiras            v América Mineiro          4-0 (2-0)
+  Thu Nov/30
+    19.00  Grêmio FBPA             v Goiás EC                 2-1 (0-1)
+    20.00  Cruzeiro EC             v CA Paranaense            1-1 (0-0)
+    20.30  RB Bragantino           v Fortaleza EC             1-2 (1-2)
+
+
+» Matchday 37
+  Sat Dec/2
+    18.00  SC Corinthians Paulista v SC Internacional         1-2 (0-1)
+    21.00  CA Mineiro              v São Paulo FC             2-1 (0-0)
+  Sun Dec/3
+    16.00  CR Flamengo             v Cuiabá EC                2-1 (2-0)
+           SE Palmeiras            v Fluminense FC            1-0 (1-0)
+    18.30  Botafogo FR             v Cruzeiro EC              0-0
+           RB Bragantino           v Coritiba FBC             1-0 (0-0)
+           Grêmio FBPA             v CR Vasco da Gama         1-0 (0-0)
+           CA Paranaense           v Santos FC                3-0 (1-0)
+           Fortaleza EC            v Goiás EC                 1-0 (1-0)
+           América Mineiro         v EC Bahia                 3-2 (2-1)
+
+
+» Matchday 38
+  Wed Dec/6
+    19.00  Goiás EC                v América Mineiro          1-0 (1-0)
+    21.30  Cuiabá EC               v CA Paranaense            3-0 (2-0)
+           EC Bahia                v CA Mineiro               4-1 (2-1)
+           Coritiba FBC            v SC Corinthians Paulista  0-2 (0-2)
+           SC Internacional        v Botafogo FR              3-1 (1-0)
+           Cruzeiro EC             v SE Palmeiras             1-1 (0-1)
+           Fluminense FC           v Grêmio FBPA              2-3 (1-2)
+           CR Vasco da Gama        v RB Bragantino            2-1 (1-0)
+           São Paulo FC            v CR Flamengo              1-0 (1-0)
+           Santos FC               v Fortaleza EC             1-2 (0-1)
