@@ -8,533 +8,533 @@
 
 » Matchday 1
   Sat Mar/29 2025
-    18.30  São Paulo FC            v Sport Recife PE
-           Cruzeiro                v Mirassol SP
-           Grêmio Porto Alegre     v Atlético Mineiro
-           Fortaleza CE            v Fluminense RJ
-           Juventude RS            v Vitória BA
-    21.00  Flamengo RJ             v Internacional
+    18.30  São Paulo FC            v SC Recife
+           Cruzeiro EC             v Mirassol FC
+           Grêmio FBPA             v CA Mineiro
+           Fortaleza EC            v Fluminense FC
+           EC Juventude            v EC Vitória
+    21.00  CR Flamengo             v SC Internacional
   Sun Mar/30
-    16.00  Palmeiras               v Botafogo RJ
-    18.30  Vasco da Gama RJ        v Santos FC
-    20.00  Bahia BA                v Corinthians SP
+    16.00  SE Palmeiras            v Botafogo FR
+    18.30  CR Vasco da Gama        v Santos FC
+    20.00  EC Bahia                v SC Corinthians Paulista
   Mon Mar/31
-    20.00  Red Bull Bragantino     v Ceará CE
+    20.00  RB Bragantino           v Ceará SC
 
 
 » Matchday 2
   Sun Apr/6
-           Fluminense RJ           v Red Bull Bragantino
-           Botafogo RJ             v Juventude RS
-           Corinthians SP          v Vasco da Gama RJ
-           Santos FC               v Bahia BA
-           Mirassol SP             v Fortaleza CE
-           Atlético Mineiro        v São Paulo FC
-           Internacional           v Cruzeiro
-           Vitória BA              v Flamengo RJ
-           Ceará CE                v Grêmio Porto Alegre
-           Sport Recife PE         v Palmeiras
+           Fluminense FC           v RB Bragantino
+           Botafogo FR             v EC Juventude
+           SC Corinthians Paulista v CR Vasco da Gama
+           Santos FC               v EC Bahia
+           Mirassol FC             v Fortaleza EC
+           CA Mineiro              v São Paulo FC
+           SC Internacional        v Cruzeiro EC
+           EC Vitória              v CR Flamengo
+           Ceará SC                v Grêmio FBPA
+           SC Recife               v SE Palmeiras
 
 
 » Matchday 3
   Sun Apr/13
-           Fluminense RJ           v Santos FC
-           Vasco da Gama RJ        v Sport Recife PE
-           Palmeiras               v Corinthians SP
-           São Paulo FC            v Cruzeiro
-           Red Bull Bragantino     v Botafogo RJ
-           Atlético Mineiro        v Vitória BA
-           Grêmio Porto Alegre     v Flamengo RJ
-           Bahia BA                v Mirassol SP
-           Fortaleza CE            v Internacional
-           Juventude RS            v Ceará CE
+           Fluminense FC           v Santos FC
+           CR Vasco da Gama        v SC Recife
+           SE Palmeiras            v SC Corinthians Paulista
+           São Paulo FC            v Cruzeiro EC
+           RB Bragantino           v Botafogo FR
+           CA Mineiro              v EC Vitória
+           Grêmio FBPA             v CR Flamengo
+           EC Bahia                v Mirassol FC
+           Fortaleza EC            v SC Internacional
+           EC Juventude            v Ceará SC
 
 
 » Matchday 4
   Wed Apr/16
-           Flamengo RJ             v Juventude RS
-           Botafogo RJ             v São Paulo FC
-           Corinthians SP          v Fluminense RJ
-           Santos FC               v Atlético Mineiro
-           Mirassol SP             v Grêmio Porto Alegre
-           Cruzeiro                v Bahia BA
-           Internacional           v Palmeiras
-           Vitória BA              v Fortaleza CE
-           Ceará CE                v Vasco da Gama RJ
-           Sport Recife PE         v Red Bull Bragantino
+           CR Flamengo             v EC Juventude
+           Botafogo FR             v São Paulo FC
+           SC Corinthians Paulista v Fluminense FC
+           Santos FC               v CA Mineiro
+           Mirassol FC             v Grêmio FBPA
+           Cruzeiro EC             v EC Bahia
+           SC Internacional        v SE Palmeiras
+           EC Vitória              v Fortaleza EC
+           Ceará SC                v CR Vasco da Gama
+           SC Recife               v RB Bragantino
 
 
 » Matchday 5
   Sat Apr/19
-           Fluminense RJ           v Vitória BA
-           Vasco da Gama RJ        v Flamengo RJ
-           Corinthians SP          v Sport Recife PE
+           Fluminense FC           v EC Vitória
+           CR Vasco da Gama        v CR Flamengo
+           SC Corinthians Paulista v SC Recife
            São Paulo FC            v Santos FC
-           Red Bull Bragantino     v Cruzeiro
-           Atlético Mineiro        v Botafogo RJ
-           Grêmio Porto Alegre     v Internacional
-           Bahia BA                v Ceará CE
-           Fortaleza CE            v Palmeiras
-           Juventude RS            v Mirassol SP
+           RB Bragantino           v Cruzeiro EC
+           CA Mineiro              v Botafogo FR
+           Grêmio FBPA             v SC Internacional
+           EC Bahia                v Ceará SC
+           Fortaleza EC            v SE Palmeiras
+           EC Juventude            v Mirassol FC
 
 
 » Matchday 6
   Sat Apr/26
-           Flamengo RJ             v Corinthians SP
-           Botafogo RJ             v Fluminense RJ
-           Palmeiras               v Bahia BA
-           Santos FC               v Red Bull Bragantino
-           Mirassol SP             v Atlético Mineiro
-           Cruzeiro                v Vasco da Gama RJ
-           Internacional           v Juventude RS
-           Vitória BA              v Grêmio Porto Alegre
-           Ceará CE                v São Paulo FC
-           Sport Recife PE         v Fortaleza CE
+           CR Flamengo             v SC Corinthians Paulista
+           Botafogo FR             v Fluminense FC
+           SE Palmeiras            v EC Bahia
+           Santos FC               v RB Bragantino
+           Mirassol FC             v CA Mineiro
+           Cruzeiro EC             v CR Vasco da Gama
+           SC Internacional        v EC Juventude
+           EC Vitória              v Grêmio FBPA
+           Ceará SC                v São Paulo FC
+           SC Recife               v Fortaleza EC
 
 
 » Matchday 7
   Sat May/3
-           Fluminense RJ           v Sport Recife PE
-           Vasco da Gama RJ        v Palmeiras
-           Corinthians SP          v Internacional
-           São Paulo FC            v Fortaleza CE
-           Red Bull Bragantino     v Mirassol SP
-           Cruzeiro                v Flamengo RJ
-           Grêmio Porto Alegre     v Santos FC
-           Bahia BA                v Botafogo RJ
-           Ceará CE                v Vitória BA
-           Juventude RS            v Atlético Mineiro
+           Fluminense FC           v SC Recife
+           CR Vasco da Gama        v SE Palmeiras
+           SC Corinthians Paulista v SC Internacional
+           São Paulo FC            v Fortaleza EC
+           RB Bragantino           v Mirassol FC
+           Cruzeiro EC             v CR Flamengo
+           Grêmio FBPA             v Santos FC
+           EC Bahia                v Botafogo FR
+           Ceará SC                v EC Vitória
+           EC Juventude            v CA Mineiro
 
 
 » Matchday 8
   Sat May/10
-           Flamengo RJ             v Bahia BA
-           Botafogo RJ             v Internacional
-           Palmeiras               v São Paulo FC
-           Santos FC               v Ceará CE
-           Mirassol SP             v Corinthians SP
-           Atlético Mineiro        v Fluminense RJ
-           Grêmio Porto Alegre     v Red Bull Bragantino
-           Vitória BA              v Vasco da Gama RJ
-           Fortaleza CE            v Juventude RS
-           Sport Recife PE         v Cruzeiro
+           CR Flamengo             v EC Bahia
+           Botafogo FR             v SC Internacional
+           SE Palmeiras            v São Paulo FC
+           Santos FC               v Ceará SC
+           Mirassol FC             v SC Corinthians Paulista
+           CA Mineiro              v Fluminense FC
+           Grêmio FBPA             v RB Bragantino
+           EC Vitória              v CR Vasco da Gama
+           Fortaleza EC            v EC Juventude
+           SC Recife               v Cruzeiro EC
 
 
 » Matchday 9
   Sat May/17
-           Flamengo RJ             v Botafogo RJ
-           Vasco da Gama RJ        v Fortaleza CE
-           Corinthians SP          v Santos FC
-           São Paulo FC            v Grêmio Porto Alegre
-           Red Bull Bragantino     v Palmeiras
-           Cruzeiro                v Atlético Mineiro
-           Internacional           v Mirassol SP
-           Bahia BA                v Vitória BA
-           Ceará CE                v Sport Recife PE
-           Juventude RS            v Fluminense RJ
+           CR Flamengo             v Botafogo FR
+           CR Vasco da Gama        v Fortaleza EC
+           SC Corinthians Paulista v Santos FC
+           São Paulo FC            v Grêmio FBPA
+           RB Bragantino           v SE Palmeiras
+           Cruzeiro EC             v CA Mineiro
+           SC Internacional        v Mirassol FC
+           EC Bahia                v EC Vitória
+           Ceará SC                v SC Recife
+           EC Juventude            v Fluminense FC
 
 
 » Matchday 10
   Sat May/24
-           Fluminense RJ           v Vasco da Gama RJ
-           Botafogo RJ             v Ceará CE
-           Palmeiras               v Flamengo RJ
-           São Paulo FC            v Mirassol SP
-           Red Bull Bragantino     v Juventude RS
-           Atlético Mineiro        v Corinthians SP
-           Grêmio Porto Alegre     v Bahia BA
-           Vitória BA              v Santos FC
-           Fortaleza CE            v Cruzeiro
-           Sport Recife PE         v Internacional
+           Fluminense FC           v CR Vasco da Gama
+           Botafogo FR             v Ceará SC
+           SE Palmeiras            v CR Flamengo
+           São Paulo FC            v Mirassol FC
+           RB Bragantino           v EC Juventude
+           CA Mineiro              v SC Corinthians Paulista
+           Grêmio FBPA             v EC Bahia
+           EC Vitória              v Santos FC
+           Fortaleza EC            v Cruzeiro EC
+           SC Recife               v SC Internacional
 
 
 » Matchday 11
   Fri May/30
-           Flamengo RJ             v Fortaleza CE
-           Vasco da Gama RJ        v Red Bull Bragantino
-           Corinthians SP          v Vitória BA
-           Santos FC               v Botafogo RJ
-           Mirassol SP             v Sport Recife PE
-           Cruzeiro                v Palmeiras
-           Internacional           v Fluminense RJ
-           Bahia BA                v São Paulo FC
-           Ceará CE                v Atlético Mineiro
-           Juventude RS            v Grêmio Porto Alegre
+           Cruzeiro EC             v SE Palmeiras
+           SC Internacional        v Fluminense FC
+           EC Bahia                v São Paulo FC
+           Ceará SC                v CA Mineiro
+           EC Juventude            v Grêmio FBPA
+           CR Flamengo             v Fortaleza EC
+           CR Vasco da Gama        v RB Bragantino
+           SC Corinthians Paulista v EC Vitória
+           Santos FC               v Botafogo FR
+           Mirassol FC             v SC Recife
 
 
 » Matchday 12
   Wed Jun/11
-           Fluminense RJ           v Ceará CE
-           Botafogo RJ             v Mirassol SP
-           Palmeiras               v Juventude RS
-           São Paulo FC            v Vasco da Gama RJ
-           Red Bull Bragantino     v Bahia BA
-           Atlético Mineiro        v Internacional
-           Grêmio Porto Alegre     v Corinthians SP
-           Vitória BA              v Cruzeiro
-           Fortaleza CE            v Santos FC
-           Sport Recife PE         v Flamengo RJ
+           Fluminense FC           v Ceará SC
+           Botafogo FR             v Mirassol FC
+           SE Palmeiras            v EC Juventude
+           São Paulo FC            v CR Vasco da Gama
+           RB Bragantino           v EC Bahia
+           CA Mineiro              v SC Internacional
+           Grêmio FBPA             v SC Corinthians Paulista
+           EC Vitória              v Cruzeiro EC
+           Fortaleza EC            v Santos FC
+           SC Recife               v CR Flamengo
 
 
 » Matchday 13
   Sat Jul/12
-           Flamengo RJ             v São Paulo FC
-           Vasco da Gama RJ        v Botafogo RJ
-           Corinthians SP          v Red Bull Bragantino
-           Santos FC               v Palmeiras
-           Mirassol SP             v Fluminense RJ
-           Cruzeiro                v Grêmio Porto Alegre
-           Internacional           v Vitória BA
-           Bahia BA                v Atlético Mineiro
-           Fortaleza CE            v Ceará CE
-           Juventude RS            v Sport Recife PE
+           CR Flamengo             v São Paulo FC
+           CR Vasco da Gama        v Botafogo FR
+           SC Corinthians Paulista v RB Bragantino
+           Santos FC               v SE Palmeiras
+           Mirassol FC             v Fluminense FC
+           Cruzeiro EC             v Grêmio FBPA
+           SC Internacional        v EC Vitória
+           EC Bahia                v CA Mineiro
+           Fortaleza EC            v Ceará SC
+           EC Juventude            v SC Recife
 
 
 » Matchday 14
   Wed Jul/16
-           Fluminense RJ           v Cruzeiro
-           Botafogo RJ             v Vitória BA
-           Palmeiras               v Mirassol SP
-           Santos FC               v Flamengo RJ
-           Red Bull Bragantino     v São Paulo FC
-           Atlético Mineiro        v Sport Recife PE
-           Grêmio Porto Alegre     v Fortaleza CE
-           Bahia BA                v Internacional
-           Ceará CE                v Corinthians SP
-           Juventude RS            v Vasco da Gama RJ
+           Fluminense FC           v Cruzeiro EC
+           Botafogo FR             v EC Vitória
+           SE Palmeiras            v Mirassol FC
+           Santos FC               v CR Flamengo
+           RB Bragantino           v São Paulo FC
+           CA Mineiro              v SC Recife
+           Grêmio FBPA             v Fortaleza EC
+           EC Bahia                v SC Internacional
+           Ceará SC                v SC Corinthians Paulista
+           EC Juventude            v CR Vasco da Gama
 
 
 » Matchday 15
   Sat Jul/19
-           Flamengo RJ             v Fluminense RJ
-           Vasco da Gama RJ        v Grêmio Porto Alegre
-           Palmeiras               v Atlético Mineiro
-           São Paulo FC            v Corinthians SP
-           Mirassol SP             v Santos FC
-           Cruzeiro                v Juventude RS
-           Internacional           v Ceará CE
-           Vitória BA              v Red Bull Bragantino
-           Fortaleza CE            v Bahia BA
-           Sport Recife PE         v Botafogo RJ
+           CR Flamengo             v Fluminense FC
+           CR Vasco da Gama        v Grêmio FBPA
+           SE Palmeiras            v CA Mineiro
+           São Paulo FC            v SC Corinthians Paulista
+           Mirassol FC             v Santos FC
+           Cruzeiro EC             v EC Juventude
+           SC Internacional        v Ceará SC
+           EC Vitória              v RB Bragantino
+           Fortaleza EC            v EC Bahia
+           SC Recife               v Botafogo FR
 
 
 » Matchday 16
   Wed Jul/23
-           Fluminense RJ           v Palmeiras
-           Vasco da Gama RJ        v Bahia BA
-           Corinthians SP          v Cruzeiro
-           Santos FC               v Internacional
-           Red Bull Bragantino     v Flamengo RJ
-           Atlético Mineiro        v Fortaleza CE
-           Grêmio Porto Alegre     v Botafogo RJ
-           Vitória BA              v Sport Recife PE
-           Ceará CE                v Mirassol SP
-           Juventude RS            v São Paulo FC
+           Fluminense FC           v SE Palmeiras
+           CR Vasco da Gama        v EC Bahia
+           SC Corinthians Paulista v Cruzeiro EC
+           Santos FC               v SC Internacional
+           RB Bragantino           v CR Flamengo
+           CA Mineiro              v Fortaleza EC
+           Grêmio FBPA             v Botafogo FR
+           EC Vitória              v SC Recife
+           Ceará SC                v Mirassol FC
+           EC Juventude            v São Paulo FC
 
 
 » Matchday 17
   Sat Jul/26
-           Flamengo RJ             v Atlético Mineiro
-           Botafogo RJ             v Corinthians SP
-           Palmeiras               v Grêmio Porto Alegre
-           São Paulo FC            v Fluminense RJ
-           Mirassol SP             v Vitória BA
-           Cruzeiro                v Ceará CE
-           Internacional           v Vasco da Gama RJ
-           Bahia BA                v Juventude RS
-           Fortaleza CE            v Red Bull Bragantino
-           Sport Recife PE         v Santos FC
+           CR Flamengo             v CA Mineiro
+           Botafogo FR             v SC Corinthians Paulista
+           SE Palmeiras            v Grêmio FBPA
+           São Paulo FC            v Fluminense FC
+           Mirassol FC             v EC Vitória
+           Cruzeiro EC             v Ceará SC
+           SC Internacional        v CR Vasco da Gama
+           EC Bahia                v EC Juventude
+           Fortaleza EC            v RB Bragantino
+           SC Recife               v Santos FC
 
 
 » Matchday 18
   Sat Aug/2
-           Fluminense RJ           v Grêmio Porto Alegre
-           Botafogo RJ             v Cruzeiro
-           Corinthians SP          v Fortaleza CE
-           Santos FC               v Juventude RS
-           Mirassol SP             v Vasco da Gama RJ
-           Atlético Mineiro        v Red Bull Bragantino
-           Internacional           v São Paulo FC
-           Vitória BA              v Palmeiras
-           Ceará CE                v Flamengo RJ
-           Sport Recife PE         v Bahia BA
+           Fluminense FC           v Grêmio FBPA
+           Botafogo FR             v Cruzeiro EC
+           SC Corinthians Paulista v Fortaleza EC
+           Santos FC               v EC Juventude
+           Mirassol FC             v CR Vasco da Gama
+           CA Mineiro              v RB Bragantino
+           SC Internacional        v São Paulo FC
+           EC Vitória              v SE Palmeiras
+           Ceará SC                v CR Flamengo
+           SC Recife               v EC Bahia
 
 
 » Matchday 19
   Sat Aug/9
-           Flamengo RJ             v Mirassol SP
-           Vasco da Gama RJ        v Atlético Mineiro
-           Palmeiras               v Ceará CE
-           São Paulo FC            v Vitória BA
-           Red Bull Bragantino     v Internacional
-           Cruzeiro                v Santos FC
-           Grêmio Porto Alegre     v Sport Recife PE
-           Bahia BA                v Fluminense RJ
-           Fortaleza CE            v Botafogo RJ
-           Juventude RS            v Corinthians SP
+           CR Flamengo             v Mirassol FC
+           CR Vasco da Gama        v CA Mineiro
+           SE Palmeiras            v Ceará SC
+           São Paulo FC            v EC Vitória
+           RB Bragantino           v SC Internacional
+           Cruzeiro EC             v Santos FC
+           Grêmio FBPA             v SC Recife
+           EC Bahia                v Fluminense FC
+           Fortaleza EC            v Botafogo FR
+           EC Juventude            v SC Corinthians Paulista
 
 
 » Matchday 20
   Sat Aug/16
-           Fluminense RJ           v Fortaleza CE
-           Botafogo RJ             v Palmeiras
-           Corinthians SP          v Bahia BA
-           Santos FC               v Vasco da Gama RJ
-           Mirassol SP             v Cruzeiro
-           Atlético Mineiro        v Grêmio Porto Alegre
-           Internacional           v Flamengo RJ
-           Vitória BA              v Juventude RS
-           Ceará CE                v Red Bull Bragantino
-           Sport Recife PE         v São Paulo FC
+           Fluminense FC           v Fortaleza EC
+           Botafogo FR             v SE Palmeiras
+           SC Corinthians Paulista v EC Bahia
+           Santos FC               v CR Vasco da Gama
+           Mirassol FC             v Cruzeiro EC
+           CA Mineiro              v Grêmio FBPA
+           SC Internacional        v CR Flamengo
+           EC Vitória              v EC Juventude
+           Ceará SC                v RB Bragantino
+           SC Recife               v São Paulo FC
 
 
 » Matchday 21
   Sat Aug/23
-           Flamengo RJ             v Vitória BA
-           Vasco da Gama RJ        v Corinthians SP
-           Palmeiras               v Sport Recife PE
-           São Paulo FC            v Atlético Mineiro
-           Red Bull Bragantino     v Fluminense RJ
-           Cruzeiro                v Internacional
-           Grêmio Porto Alegre     v Ceará CE
-           Bahia BA                v Santos FC
-           Fortaleza CE            v Mirassol SP
-           Juventude RS            v Botafogo RJ
+           CR Flamengo             v EC Vitória
+           CR Vasco da Gama        v SC Corinthians Paulista
+           SE Palmeiras            v SC Recife
+           São Paulo FC            v CA Mineiro
+           RB Bragantino           v Fluminense FC
+           Cruzeiro EC             v SC Internacional
+           Grêmio FBPA             v Ceará SC
+           EC Bahia                v Santos FC
+           Fortaleza EC            v Mirassol FC
+           EC Juventude            v Botafogo FR
 
 
 » Matchday 22
   Sat Aug/30
-           Flamengo RJ             v Grêmio Porto Alegre
-           Botafogo RJ             v Red Bull Bragantino
-           Corinthians SP          v Palmeiras
-           Santos FC               v Fluminense RJ
-           Mirassol SP             v Bahia BA
-           Cruzeiro                v São Paulo FC
-           Internacional           v Fortaleza CE
-           Vitória BA              v Atlético Mineiro
-           Ceará CE                v Juventude RS
-           Sport Recife PE         v Vasco da Gama RJ
+           CR Flamengo             v Grêmio FBPA
+           Botafogo FR             v RB Bragantino
+           SC Corinthians Paulista v SE Palmeiras
+           Santos FC               v Fluminense FC
+           Mirassol FC             v EC Bahia
+           Cruzeiro EC             v São Paulo FC
+           SC Internacional        v Fortaleza EC
+           EC Vitória              v CA Mineiro
+           Ceará SC                v EC Juventude
+           SC Recife               v CR Vasco da Gama
 
 
 » Matchday 23
   Sat Sep/13
-           Fluminense RJ           v Corinthians SP
-           Vasco da Gama RJ        v Ceará CE
-           Palmeiras               v Internacional
-           São Paulo FC            v Botafogo RJ
-           Red Bull Bragantino     v Sport Recife PE
-           Atlético Mineiro        v Santos FC
-           Grêmio Porto Alegre     v Mirassol SP
-           Bahia BA                v Cruzeiro
-           Fortaleza CE            v Vitória BA
-           Juventude RS            v Flamengo RJ
+           Fluminense FC           v SC Corinthians Paulista
+           CR Vasco da Gama        v Ceará SC
+           SE Palmeiras            v SC Internacional
+           São Paulo FC            v Botafogo FR
+           RB Bragantino           v SC Recife
+           CA Mineiro              v Santos FC
+           Grêmio FBPA             v Mirassol FC
+           EC Bahia                v Cruzeiro EC
+           Fortaleza EC            v EC Vitória
+           EC Juventude            v CR Flamengo
 
 
 » Matchday 24
   Sat Sep/20
-           Flamengo RJ             v Vasco da Gama RJ
-           Botafogo RJ             v Atlético Mineiro
-           Palmeiras               v Fortaleza CE
+           CR Flamengo             v CR Vasco da Gama
+           Botafogo FR             v CA Mineiro
+           SE Palmeiras            v Fortaleza EC
            Santos FC               v São Paulo FC
-           Mirassol SP             v Juventude RS
-           Cruzeiro                v Red Bull Bragantino
-           Internacional           v Grêmio Porto Alegre
-           Vitória BA              v Fluminense RJ
-           Ceará CE                v Bahia BA
-           Sport Recife PE         v Corinthians SP
+           Mirassol FC             v EC Juventude
+           Cruzeiro EC             v RB Bragantino
+           SC Internacional        v Grêmio FBPA
+           EC Vitória              v Fluminense FC
+           Ceará SC                v EC Bahia
+           SC Recife               v SC Corinthians Paulista
 
 
 » Matchday 25
   Sat Sep/27
-           Fluminense RJ           v Botafogo RJ
-           Vasco da Gama RJ        v Cruzeiro
-           Corinthians SP          v Flamengo RJ
-           São Paulo FC            v Ceará CE
-           Red Bull Bragantino     v Santos FC
-           Atlético Mineiro        v Mirassol SP
-           Grêmio Porto Alegre     v Vitória BA
-           Bahia BA                v Palmeiras
-           Fortaleza CE            v Sport Recife PE
-           Juventude RS            v Internacional
+           Fluminense FC           v Botafogo FR
+           CR Vasco da Gama        v Cruzeiro EC
+           SC Corinthians Paulista v CR Flamengo
+           São Paulo FC            v Ceará SC
+           RB Bragantino           v Santos FC
+           CA Mineiro              v Mirassol FC
+           Grêmio FBPA             v EC Vitória
+           EC Bahia                v SE Palmeiras
+           Fortaleza EC            v SC Recife
+           EC Juventude            v SC Internacional
 
 
 » Matchday 26
   Wed Oct/1
-           Flamengo RJ             v Cruzeiro
-           Botafogo RJ             v Bahia BA
-           Palmeiras               v Vasco da Gama RJ
-           Santos FC               v Grêmio Porto Alegre
-           Mirassol SP             v Red Bull Bragantino
-           Atlético Mineiro        v Juventude RS
-           Internacional           v Corinthians SP
-           Vitória BA              v Ceará CE
-           Fortaleza CE            v São Paulo FC
-           Sport Recife PE         v Fluminense RJ
+           CR Flamengo             v Cruzeiro EC
+           Botafogo FR             v EC Bahia
+           SE Palmeiras            v CR Vasco da Gama
+           Santos FC               v Grêmio FBPA
+           Mirassol FC             v RB Bragantino
+           CA Mineiro              v EC Juventude
+           SC Internacional        v SC Corinthians Paulista
+           EC Vitória              v Ceará SC
+           Fortaleza EC            v São Paulo FC
+           SC Recife               v Fluminense FC
 
 
 » Matchday 27
   Thu Oct/16
-           Fluminense RJ           v Atlético Mineiro
-           Vasco da Gama RJ        v Vitória BA
-           Corinthians SP          v Mirassol SP
-           São Paulo FC            v Palmeiras
-           Red Bull Bragantino     v Grêmio Porto Alegre
-           Cruzeiro                v Sport Recife PE
-           Internacional           v Botafogo RJ
-           Bahia BA                v Flamengo RJ
-           Ceará CE                v Santos FC
-           Juventude RS            v Fortaleza CE
+           Fluminense FC           v CA Mineiro
+           CR Vasco da Gama        v EC Vitória
+           SC Corinthians Paulista v Mirassol FC
+           São Paulo FC            v SE Palmeiras
+           RB Bragantino           v Grêmio FBPA
+           Cruzeiro EC             v SC Recife
+           SC Internacional        v Botafogo FR
+           EC Bahia                v CR Flamengo
+           Ceará SC                v Santos FC
+           EC Juventude            v Fortaleza EC
 
 
 » Matchday 28
   Sat Oct/25
-           Fluminense RJ           v Juventude RS
-           Botafogo RJ             v Flamengo RJ
-           Palmeiras               v Red Bull Bragantino
-           Santos FC               v Corinthians SP
-           Mirassol SP             v Internacional
-           Atlético Mineiro        v Cruzeiro
-           Grêmio Porto Alegre     v São Paulo FC
-           Vitória BA              v Bahia BA
-           Fortaleza CE            v Vasco da Gama RJ
-           Sport Recife PE         v Ceará CE
+           Fluminense FC           v EC Juventude
+           Botafogo FR             v CR Flamengo
+           SE Palmeiras            v RB Bragantino
+           Santos FC               v SC Corinthians Paulista
+           Mirassol FC             v SC Internacional
+           CA Mineiro              v Cruzeiro EC
+           Grêmio FBPA             v São Paulo FC
+           EC Vitória              v EC Bahia
+           Fortaleza EC            v CR Vasco da Gama
+           SC Recife               v Ceará SC
 
 
 » Matchday 29
   Wed Nov/5
-           Flamengo RJ             v Palmeiras
-           Vasco da Gama RJ        v Fluminense RJ
-           Corinthians SP          v Atlético Mineiro
-           Santos FC               v Vitória BA
-           Mirassol SP             v São Paulo FC
-           Cruzeiro                v Fortaleza CE
-           Internacional           v Sport Recife PE
-           Bahia BA                v Grêmio Porto Alegre
-           Ceará CE                v Botafogo RJ
-           Juventude RS            v Red Bull Bragantino
+           CR Flamengo             v SE Palmeiras
+           CR Vasco da Gama        v Fluminense FC
+           SC Corinthians Paulista v CA Mineiro
+           Santos FC               v EC Vitória
+           Mirassol FC             v São Paulo FC
+           Cruzeiro EC             v Fortaleza EC
+           SC Internacional        v SC Recife
+           EC Bahia                v Grêmio FBPA
+           Ceará SC                v Botafogo FR
+           EC Juventude            v RB Bragantino
 
 
 » Matchday 30
   Wed Nov/19
-           Fluminense RJ           v Internacional
-           Botafogo RJ             v Santos FC
-           Palmeiras               v Cruzeiro
-           São Paulo FC            v Bahia BA
-           Red Bull Bragantino     v Vasco da Gama RJ
-           Atlético Mineiro        v Ceará CE
-           Grêmio Porto Alegre     v Juventude RS
-           Vitória BA              v Corinthians SP
-           Fortaleza CE            v Flamengo RJ
-           Sport Recife PE         v Mirassol SP
+           Fluminense FC           v SC Internacional
+           Botafogo FR             v Santos FC
+           SE Palmeiras            v Cruzeiro EC
+           São Paulo FC            v EC Bahia
+           RB Bragantino           v CR Vasco da Gama
+           CA Mineiro              v Ceará SC
+           Grêmio FBPA             v EC Juventude
+           EC Vitória              v SC Corinthians Paulista
+           Fortaleza EC            v CR Flamengo
+           SC Recife               v Mirassol FC
 
 
 » Matchday 31
   Sat Nov/22
-           Flamengo RJ             v Sport Recife PE
-           Vasco da Gama RJ        v São Paulo FC
-           Corinthians SP          v Grêmio Porto Alegre
-           Santos FC               v Fortaleza CE
-           Mirassol SP             v Botafogo RJ
-           Cruzeiro                v Vitória BA
-           Internacional           v Atlético Mineiro
-           Bahia BA                v Red Bull Bragantino
-           Ceará CE                v Fluminense RJ
-           Juventude RS            v Palmeiras
+           CR Flamengo             v SC Recife
+           CR Vasco da Gama        v São Paulo FC
+           SC Corinthians Paulista v Grêmio FBPA
+           Santos FC               v Fortaleza EC
+           Mirassol FC             v Botafogo FR
+           Cruzeiro EC             v EC Vitória
+           SC Internacional        v CA Mineiro
+           EC Bahia                v RB Bragantino
+           Ceará SC                v Fluminense FC
+           EC Juventude            v SE Palmeiras
 
 
 » Matchday 32
   Sat Nov/29
-           Fluminense RJ           v Mirassol SP
-           Botafogo RJ             v Vasco da Gama RJ
-           Palmeiras               v Santos FC
-           São Paulo FC            v Flamengo RJ
-           Red Bull Bragantino     v Corinthians SP
-           Atlético Mineiro        v Bahia BA
-           Grêmio Porto Alegre     v Cruzeiro
-           Vitória BA              v Internacional
-           Ceará CE                v Fortaleza CE
-           Sport Recife PE         v Juventude RS
+           Fluminense FC           v Mirassol FC
+           Botafogo FR             v CR Vasco da Gama
+           SE Palmeiras            v Santos FC
+           São Paulo FC            v CR Flamengo
+           RB Bragantino           v SC Corinthians Paulista
+           CA Mineiro              v EC Bahia
+           Grêmio FBPA             v Cruzeiro EC
+           EC Vitória              v SC Internacional
+           Ceará SC                v Fortaleza EC
+           SC Recife               v EC Juventude
 
 
 » Matchday 33
   Wed Dec/3
-           Flamengo RJ             v Santos FC
-           Vasco da Gama RJ        v Juventude RS
-           Corinthians SP          v Ceará CE
-           São Paulo FC            v Red Bull Bragantino
-           Mirassol SP             v Palmeiras
-           Cruzeiro                v Fluminense RJ
-           Internacional           v Bahia BA
-           Vitória BA              v Botafogo RJ
-           Fortaleza CE            v Grêmio Porto Alegre
-           Sport Recife PE         v Atlético Mineiro
+           CR Flamengo             v Santos FC
+           CR Vasco da Gama        v EC Juventude
+           SC Corinthians Paulista v Ceará SC
+           São Paulo FC            v RB Bragantino
+           Mirassol FC             v SE Palmeiras
+           Cruzeiro EC             v Fluminense FC
+           SC Internacional        v EC Bahia
+           EC Vitória              v Botafogo FR
+           Fortaleza EC            v Grêmio FBPA
+           SC Recife               v CA Mineiro
 
 
 » Matchday 34
   Sat Dec/6
-           Fluminense RJ           v Flamengo RJ
-           Botafogo RJ             v Sport Recife PE
-           Corinthians SP          v São Paulo FC
-           Santos FC               v Mirassol SP
-           Red Bull Bragantino     v Vitória BA
-           Atlético Mineiro        v Palmeiras
-           Grêmio Porto Alegre     v Vasco da Gama RJ
-           Bahia BA                v Fortaleza CE
-           Ceará CE                v Internacional
-           Juventude RS            v Cruzeiro
+           Fluminense FC           v CR Flamengo
+           Botafogo FR             v SC Recife
+           SC Corinthians Paulista v São Paulo FC
+           Santos FC               v Mirassol FC
+           RB Bragantino           v EC Vitória
+           CA Mineiro              v SE Palmeiras
+           Grêmio FBPA             v CR Vasco da Gama
+           EC Bahia                v Fortaleza EC
+           Ceará SC                v SC Internacional
+           EC Juventude            v Cruzeiro EC
 
 
 » Matchday 35
   Wed Dec/10
-           Flamengo RJ             v Red Bull Bragantino
-           Botafogo RJ             v Grêmio Porto Alegre
-           Palmeiras               v Fluminense RJ
-           São Paulo FC            v Juventude RS
-           Mirassol SP             v Ceará CE
-           Cruzeiro                v Corinthians SP
-           Internacional           v Santos FC
-           Bahia BA                v Vasco da Gama RJ
-           Fortaleza CE            v Atlético Mineiro
-           Sport Recife PE         v Vitória BA
+           CR Flamengo             v RB Bragantino
+           Botafogo FR             v Grêmio FBPA
+           SE Palmeiras            v Fluminense FC
+           São Paulo FC            v EC Juventude
+           Mirassol FC             v Ceará SC
+           Cruzeiro EC             v SC Corinthians Paulista
+           SC Internacional        v Santos FC
+           EC Bahia                v CR Vasco da Gama
+           Fortaleza EC            v CA Mineiro
+           SC Recife               v EC Vitória
 
 
 » Matchday 36
   Sat Dec/13
-           Fluminense RJ           v São Paulo FC
-           Vasco da Gama RJ        v Internacional
-           Corinthians SP          v Botafogo RJ
-           Santos FC               v Sport Recife PE
-           Red Bull Bragantino     v Fortaleza CE
-           Atlético Mineiro        v Flamengo RJ
-           Grêmio Porto Alegre     v Palmeiras
-           Vitória BA              v Mirassol SP
-           Ceará CE                v Cruzeiro
-           Juventude RS            v Bahia BA
+           Fluminense FC           v São Paulo FC
+           CR Vasco da Gama        v SC Internacional
+           SC Corinthians Paulista v Botafogo FR
+           Santos FC               v SC Recife
+           RB Bragantino           v Fortaleza EC
+           CA Mineiro              v CR Flamengo
+           Grêmio FBPA             v SE Palmeiras
+           EC Vitória              v Mirassol FC
+           Ceará SC                v Cruzeiro EC
+           EC Juventude            v EC Bahia
 
 
 » Matchday 37
   Wed Dec/17
-           Flamengo RJ             v Ceará CE
-           Vasco da Gama RJ        v Mirassol SP
-           Palmeiras               v Vitória BA
-           São Paulo FC            v Internacional
-           Red Bull Bragantino     v Atlético Mineiro
-           Cruzeiro                v Botafogo RJ
-           Grêmio Porto Alegre     v Fluminense RJ
-           Bahia BA                v Sport Recife PE
-           Fortaleza CE            v Corinthians SP
-           Juventude RS            v Santos FC
+           CR Vasco da Gama        v Mirassol FC
+           SE Palmeiras            v EC Vitória
+           São Paulo FC            v SC Internacional
+           RB Bragantino           v CA Mineiro
+           Cruzeiro EC             v Botafogo FR
+           Grêmio FBPA             v Fluminense FC
+           EC Bahia                v SC Recife
+           Fortaleza EC            v SC Corinthians Paulista
+           EC Juventude            v Santos FC
+           CR Flamengo             v Ceará SC
 
 
 » Matchday 38
   Sun Dec/21
-           Fluminense RJ           v Bahia BA
-           Botafogo RJ             v Fortaleza CE
-           Corinthians SP          v Juventude RS
-           Santos FC               v Cruzeiro
-           Mirassol SP             v Flamengo RJ
-           Atlético Mineiro        v Vasco da Gama RJ
-           Internacional           v Red Bull Bragantino
-           Vitória BA              v São Paulo FC
-           Ceará CE                v Palmeiras
-           Sport Recife PE         v Grêmio Porto Alegre
+           Fluminense FC           v EC Bahia
+           Botafogo FR             v Fortaleza EC
+           SC Corinthians Paulista v EC Juventude
+           Santos FC               v Cruzeiro EC
+           Mirassol FC             v CR Flamengo
+           CA Mineiro              v CR Vasco da Gama
+           SC Internacional        v RB Bragantino
+           EC Vitória              v São Paulo FC
+           Ceará SC                v SE Palmeiras
+           SC Recife               v Grêmio FBPA
