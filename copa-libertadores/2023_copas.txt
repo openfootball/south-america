@@ -1,0 +1,308 @@
+= Copa Sudamericana 2023
+
+# Date       Tue Mar/7 - Sat Oct/28 2023 (235d)
+# Teams      56
+# Matches    157
+
+
+
+» Preliminary round
+  Tue Mar/7 2023
+    19.00  Audax Italiano (CHI)    v Universidad Católica (CHI)  3-2 (1-2)
+           Tacuary (PAR)           v General Caballero DJLM (PAR)  4-2 pen. (2-2, 1-0)
+    21.00  River Plate (URU)       v Peñarol (URU)            0-4 (0-3)
+           Caracas FC (VEN)        v Academia Puerto Cabello (VEN)  0-1 (0-0)
+    23.00  LDU Quito (ECU)         v Delfín SC (ECU)          4-0 (2-0)
+  Wed Mar/8
+    19.00  CD Guabirá (BOL)        v Oriente Petrolero (BOL)  0-1 (0-0)
+           Guaraní (PAR)           v Sportivo Ameliano (PAR)  3-1 (1-0)
+           Defensor Sporting (URU) v Danubio (URU)            3-4 pen. (0-0)
+    21.00  Águilas Doradas (COL)   v Santa Fe (COL)           1-2 (0-1)
+           Estudiantes de Mérida (VEN) v Deportivo Táchira (VEN)  3-1 pen. (1-1, 0-1)
+    23.00  Universidad Cesar Vallejo (PER) v Deportivo Binacional (PER)  3-1 (1-1)
+  Thu Mar/9
+    19.00  Blooming (BOL)          v Atlético Palmaflor (BOL)  6-0 (3-0)
+           Cobresal (CHI)          v Palestino (CHI)          0-1 (0-1)
+    21.00  Deportes Tolima (COL)   v Atlético Junior (COL)    1-0 (1-0)
+           Emelec (ECU)            v Deportivo Cuenca (ECU)   2-1 (1-0)
+    23.00  Universitario de Deportes (PER) v Cienciano (PER)          2-0 (1-0)
+
+
+» Group A
+  Tue Apr/4
+    21.00  Universidad Cesar Vallejo (PER) v LDU Quito (ECU)          1-2 (0-0)
+  Thu Apr/6
+    21.00  CD Magallanes (CHI)     v Botafogo RJ (BRA)        2-2 (1-1)
+  Wed Apr/19
+    23.00  LDU Quito (ECU)         v CD Magallanes (CHI)      4-0 (0-0)
+  Thu Apr/20
+    21.00  Botafogo RJ (BRA)       v Universidad Cesar Vallejo (PER)  4-0 (2-0)
+  Tue May/2
+    21.00  CD Magallanes (CHI)     v Universidad Cesar Vallejo (PER)  2-2 (2-1)
+  Thu May/4
+    21.00  Botafogo RJ (BRA)       v LDU Quito (ECU)          0-0
+  Tue May/23
+    21.00  CD Magallanes (CHI)     v LDU Quito (ECU)          1-1 (1-1)
+  Thu May/25
+    21.00  Universidad Cesar Vallejo (PER) v Botafogo RJ (BRA)        2-3 (0-3)
+  Tue Jun/6
+    23.00  LDU Quito (ECU)         v Botafogo RJ (BRA)        0-0
+  Thu Jun/8
+    23.00  Universidad Cesar Vallejo (PER) v CD Magallanes (CHI)      3-2 (2-1)
+  Thu Jun/29
+    21.00  Botafogo RJ (BRA)       v CD Magallanes (CHI)      1-1 (1-0)
+           LDU Quito (ECU)         v Universidad Cesar Vallejo (PER)  3-0 (1-0)
+
+
+» Group B
+  Wed Apr/5
+    19.00  Danubio (URU)           v Emelec (ECU)             2-0 (1-0)
+  Thu Apr/6
+    19.00  Huracán (ARG)           v Guaraní (PAR)            4-1 (2-1)
+  Wed Apr/19
+    19.00  Guaraní (PAR)           v Danubio (URU)            2-1 (0-1)
+  Thu Apr/20
+    23.00  Emelec (ECU)            v Huracán (ARG)            1-0 (1-0)
+  Tue May/2
+    19.00  Huracán (ARG)           v Danubio (URU)            1-1 (0-1)
+  Wed May/3
+    21.00  Guaraní (PAR)           v Emelec (ECU)             1-1 (0-0)
+  Thu May/25
+    19.00  Danubio (URU)           v Guaraní (PAR)            0-2 (0-0)
+    21.00  Huracán (ARG)           v Emelec (ECU)             2-2 (1-1)
+  Wed Jun/7
+    23.00  Emelec (ECU)            v Guaraní (PAR)            1-1 (1-1)
+  Thu Jun/8
+    19.00  Danubio (URU)           v Huracán (ARG)            1-0 (0-0)
+  Wed Jun/28
+    21.00  Guaraní (PAR)           v Huracán (ARG)            2-0 (2-0)
+           Emelec (ECU)            v Danubio (URU)            2-1 (1-0)
+
+
+» Group C
+  Wed Apr/5
+    19.00  Oriente Petrolero (BOL) v Estudiantes (ARG)        0-1 (0-0)
+  Thu Apr/6
+    21.00  Tacuary (PAR)           v Red Bull Bragantino (BRA)  1-4 (1-1)
+  Tue Apr/18
+    19.00  Red Bull Bragantino (BRA) v Oriente Petrolero (BOL)  5-0 (3-0)
+    21.00  Estudiantes (ARG)       v Tacuary (PAR)            4-0 (0-0)
+  Tue May/2
+    19.00  Tacuary (PAR)           v Oriente Petrolero (BOL)  3-1 (1-1)
+    21.00  Red Bull Bragantino (BRA) v Estudiantes (ARG)        0-0
+  Thu May/25
+    19.00  Tacuary (PAR)           v Estudiantes (ARG)        0-4 (0-0)
+    21.00  Oriente Petrolero (BOL) v Red Bull Bragantino (BRA)  0-4 (0-2)
+  Wed Jun/7
+    21.00  Estudiantes (ARG)       v Red Bull Bragantino (BRA)  1-1 (0-1)
+  Thu Jun/8
+    19.00  Oriente Petrolero (BOL) v Tacuary (PAR)            1-3 (0-2)
+  Wed Jun/28
+    19.00  Red Bull Bragantino (BRA) v Tacuary (PAR)            7-1 (4-1)
+           Estudiantes (ARG)       v Oriente Petrolero (BOL)  4-0 (2-0)
+
+
+» Group D
+  Thu Apr/6
+    21.00  Academia Puerto Cabello (VEN) v Deportes Tolima (COL)    0-2 (0-1)
+           Tigre (ARG)             v São Paulo FC (BRA)       0-2 (0-0)
+  Tue Apr/18
+    21.30  São Paulo FC (BRA)      v Academia Puerto Cabello (VEN)  2-0 (0-0)
+  Thu Apr/20
+    23.00  Deportes Tolima (COL)   v Tigre (ARG)              1-2 (0-0)
+  Tue May/2
+    19.00  Deportes Tolima (COL)   v São Paulo FC (BRA)       0-0
+  Wed May/3
+    21.00  Academia Puerto Cabello (VEN) v Tigre (ARG)              0-3 (0-1)
+  Tue May/23
+    21.30  Academia Puerto Cabello (VEN) v São Paulo FC (BRA)       0-2 (0-1)
+  Wed May/24
+    21.00  Tigre (ARG)             v Deportes Tolima (COL)    0-0
+  Tue Jun/6
+    21.00  Tigre (ARG)             v Academia Puerto Cabello (VEN)  2-1 (1-0)
+  Thu Jun/8
+    19.00  São Paulo FC (BRA)      v Deportes Tolima (COL)    5-0 (3-0)
+  Tue Jun/27
+    21.30  Deportes Tolima (COL)   v Academia Puerto Cabello (VEN)  3-1 (3-1)
+           São Paulo FC (BRA)      v Tigre (ARG)              2-0 (0-0)
+
+
+» Group E
+  Tue Apr/4
+    19.00  Audax Italiano (CHI)    v Newell's Old Boys (ARG)  0-1 (0-0)
+    21.30  Blooming (BOL)          v Santos FC (BRA)          0-1 (0-0)
+  Tue Apr/18
+    19.00  Newell's Old Boys (ARG) v Blooming (BOL)           3-0 (2-0)
+  Thu Apr/20
+    19.00  Santos FC (BRA)         v Audax Italiano (CHI)     0-0
+  Tue May/2
+    21.30  Newell's Old Boys (ARG) v Santos FC (BRA)          1-0 (0-0)
+  Thu May/4
+    21.00  Audax Italiano (CHI)    v Blooming (BOL)           2-0 (1-0)
+  Wed May/24
+    21.00  Audax Italiano (CHI)    v Santos FC (BRA)          2-1 (1-1)
+    23.00  Blooming (BOL)          v Newell's Old Boys (ARG)  2-3 (1-1)
+  Tue Jun/6
+    21.30  Santos FC (BRA)         v Newell's Old Boys (ARG)  1-2 (0-1)
+  Wed Jun/7
+    21.00  Blooming (BOL)          v Audax Italiano (CHI)     1-2 (1-2)
+  Thu Jun/29
+    19.00  Newell's Old Boys (ARG) v Audax Italiano (CHI)     1-1 (0-1)
+           Santos FC (BRA)         v Blooming (BOL)           0-0
+
+
+» Group F
+  Tue Apr/4
+    23.00  Millonarios (COL)       v Defensa y Justicia (ARG)  3-0 (0-0)
+  Wed Apr/5
+    21.00  América MG (BRA)        v Peñarol (URU)            4-1 (2-0)
+  Wed Apr/19
+    21.00  Defensa y Justicia (ARG) v América MG (BRA)         2-1 (0-0)
+  Thu Apr/20
+    19.00  Peñarol (URU)           v Millonarios (COL)        0-2 (0-0)
+  Wed May/3
+    21.00  Millonarios (COL)       v América MG (BRA)         1-1 (1-1)
+  Thu May/4
+    21.00  Defensa y Justicia (ARG) v Peñarol (URU)            4-1 (2-0)
+  Tue May/23
+    21.00  América MG (BRA)        v Defensa y Justicia (ARG)  2-3 (2-1)
+    23.00  Millonarios (COL)       v Peñarol (URU)            3-1 (3-0)
+  Tue Jun/6
+    19.00  Peñarol (URU)           v Defensa y Justicia (ARG)  0-3 (0-1)
+    21.00  América MG (BRA)        v Millonarios (COL)        2-0 (1-0)
+  Thu Jun/29
+    21.00  Defensa y Justicia (ARG) v Millonarios (COL)        3-1 (2-1)
+           Peñarol (URU)           v América MG (BRA)         1-2 (1-0)
+
+
+» Gruppe G
+  Tue Apr/4
+    19.00  Goiás GO (BRA)          v Santa Fe (COL)           0-0
+  Wed Apr/5
+    21.00  Gimnasia de La Plata (ARG) v Universitario de Deportes (PER)  0-1 (0-0)
+  Tue Apr/18
+    23.00  Santa Fe (COL)          v Gimnasia de La Plata (ARG)  2-1 (0-1)
+  Thu Apr/20
+    23.00  Universitario de Deportes (PER) v Goiás GO (BRA)           2-2 (0-0)
+  Thu May/4
+    19.00  Gimnasia de La Plata (ARG) v Goiás GO (BRA)           0-2 (0-0)
+    23.00  Universitario de Deportes (PER) v Santa Fe (COL)           2-0 (1-0)
+  Tue May/23
+    19.00  Goiás GO (BRA)          v Universitario de Deportes (PER)  1-0 (0-0)
+           Gimnasia de La Plata (ARG) v Santa Fe (COL)           1-0 (0-0)
+  Thu Jun/8
+    19.00  Goiás GO (BRA)          v Gimnasia de La Plata (ARG)  0-0
+    23.00  Santa Fe (COL)          v Universitario de Deportes (PER)  2-0 (1-0)
+  Wed Jun/28
+    23.00  Universitario de Deportes (PER) v Gimnasia de La Plata (ARG)  1-0 (1-0)
+           Santa Fe (COL)          v Goiás GO (BRA)           1-2 (0-1)
+
+
+» Gruppe H
+  Tue Apr/4
+    21.00  Estudiantes de Mérida (VEN) v San Lorenzo (ARG)        0-1 (0-1)
+  Wed Apr/5
+    19.00  Fortaleza CE (BRA)      v Palestino (CHI)          4-0 (1-0)
+  Tue Apr/18
+    21.00  Palestino (CHI)         v Estudiantes de Mérida (VEN)  1-0 (0-0)
+  Thu Apr/20
+    19.00  San Lorenzo (ARG)       v Fortaleza CE (BRA)       0-2 (0-0)
+  Wed May/3
+    19.00  Palestino (CHI)         v San Lorenzo (ARG)        0-0
+  Thu May/4
+    21.00  Fortaleza CE (BRA)      v Estudiantes de Mérida (VEN)  6-1 (2-1)
+  Wed May/24
+    19.00  Fortaleza CE (BRA)      v San Lorenzo (ARG)        3-2 (2-1)
+  Thu May/25
+    21.00  Estudiantes de Mérida (VEN) v Palestino (CHI)          1-5 (1-2)
+  Tue Jun/6
+    19.00  Estudiantes de Mérida (VEN) v Fortaleza CE (BRA)       1-0 (0-0)
+  Thu Jun/8
+    21.00  San Lorenzo (ARG)       v Palestino (CHI)          0-0
+  Tue Jun/27
+    19.00  Palestino (CHI)         v Fortaleza CE (BRA)       1-2 (0-1)
+           San Lorenzo (ARG)       v Estudiantes de Mérida (VEN)  4-1 (1-1)
+
+
+» Playoffs
+  Tue Jul/11
+    19.00  Colo-Colo (CHI)         v América MG (BRA)         2-1 (0-0)
+    21.00  Barcelona (ECU)         v Estudiantes (ARG)        2-1 (1-1)
+    21.30  Corinthians SP (BRA)    v Universitario de Deportes (PER)  1-0 (0-0)
+  Wed Jul/12
+    19.00  Patronato de Paraná (ARG) v Botafogo RJ (BRA)        0-2 (0-0)
+    21.00  Sporting Cristal (PER)  v Emelec (ECU)             0-1 (0-0)
+           Independiente Medellín (COL) v San Lorenzo (ARG)        0-1 (0-0)
+  Thu Jul/13
+    19.00  Ñublense (CHI)          v Audax Italiano (CHI)     0-0
+    21.00  Libertad (PAR)          v Tigre (ARG)              2-1 (0-1)
+  Tue Jul/18
+    19.00  América MG (BRA)        v Colo-Colo (CHI)          5-1 (3-0)
+    21.00  Estudiantes (ARG)       v Barcelona (ECU)          4-0 (3-0)
+    21.30  Universitario de Deportes (PER) v Corinthians SP (BRA)     1-2 (0-0)
+  Wed Jul/19
+    19.00  Botafogo RJ (BRA)       v Patronato de Paraná (ARG)  1-1 (1-0)
+    21.00  Emelec (ECU)            v Sporting Cristal (PER)   0-0
+           San Lorenzo (ARG)       v Independiente Medellín (COL)  2-0 (1-0)
+  Thu Jul/20
+    21.00  Tigre (ARG)             v Libertad (PAR)           0-1 (0-1)
+  Fri Jul/21
+    19.00  Audax Italiano (CHI)    v Ñublense (CHI)           0-1 (0-0)
+
+
+» Round of 16
+  Tue Aug/1
+    19.00  Libertad (PAR)          v Fortaleza CE (BRA)       0-1 (0-1)
+    21.00  Emelec (ECU)            v Defensa y Justicia (ARG)  1-2 (1-0)
+    21.30  Corinthians SP (BRA)    v Newell's Old Boys (ARG)  2-1 (0-1)
+  Wed Aug/2
+    19.00  Botafogo RJ (BRA)       v Guaraní (PAR)            2-1 (0-1)
+           Estudiantes (ARG)       v Goiás GO (BRA)           3-0 (0-0)
+  Thu Aug/3
+    19.00  San Lorenzo (ARG)       v São Paulo FC (BRA)       1-0 (0-0)
+    21.00  Ñublense (CHI)          v LDU Quito (ECU)          0-1 (0-0)
+           América MG (BRA)        v Red Bull Bragantino (BRA)  1-1 (0-1)
+  Tue Aug/8
+    19.00  Fortaleza CE (BRA)      v Libertad (PAR)           1-1 (0-1)
+    21.00  Defensa y Justicia (ARG) v Emelec (ECU)             1-0 (0-0)
+    21.30  Newell's Old Boys (ARG) v Corinthians SP (BRA)     0-0
+  Wed Aug/9
+    19.00  Guaraní (PAR)           v Botafogo RJ (BRA)        0-0
+           Goiás GO (BRA)          v Estudiantes (ARG)        0-2 (0-1)
+  Thu Aug/10
+    19.00  São Paulo FC (BRA)      v San Lorenzo (ARG)        2-0 (1-0)
+    21.00  LDU Quito (ECU)         v Ñublense (CHI)           4-3 pen. (2-3, 1-1)
+           Red Bull Bragantino (BRA) v América MG (BRA)         3-4 pen. (3-3, 2-2)
+
+
+» Quarterfinals
+  Tue Aug/22
+    21.30  Corinthians SP (BRA)    v Estudiantes (ARG)        1-0 (1-0)
+  Wed Aug/23
+    19.00  Botafogo RJ (BRA)       v Defensa y Justicia (ARG)  1-1 (0-0)
+  Thu Aug/24
+    19.00  América MG (BRA)        v Fortaleza CE (BRA)       1-3 (0-3)
+           LDU Quito (ECU)         v São Paulo FC (BRA)       2-1 (2-0)
+  Tue Aug/29
+    21.30  Estudiantes (ARG)       v Corinthians SP (BRA)     2-3 pen. (1-0, 1-0)
+  Wed Aug/30
+    19.00  Defensa y Justicia (ARG) v Botafogo RJ (BRA)        2-1 (1-1)
+  Thu Aug/31
+    19.00  Fortaleza CE (BRA)      v América MG (BRA)         2-1 (1-0)
+           São Paulo FC (BRA)      v LDU Quito (ECU)          4-5 pen. (1-0, 0-0)
+
+
+» Semifinals
+  Tue Sep/26
+    21.30  Corinthians SP (BRA)    v Fortaleza CE (BRA)       1-1 (1-1)
+  Wed Sep/27
+    19.00  LDU Quito (ECU)         v Defensa y Justicia (ARG)  3-0 (2-0)
+  Tue Oct/3
+    21.30  Fortaleza CE (BRA)      v Corinthians SP (BRA)     2-0 (0-0)
+  Wed Oct/4
+    19.00  Defensa y Justicia (ARG) v LDU Quito (ECU)          0-0
+
+
+» Final
+  Sat Oct/28
+    17.00  Fortaleza CE (BRA)      v LDU Quito (ECU)          3-4 pen. 1-1 a.e.t. (1-1, 0-0)

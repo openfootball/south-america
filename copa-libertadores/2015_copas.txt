@@ -1,0 +1,151 @@
+= Copa Sudamericana 2015
+
+# Date       Tue Aug/11 - Wed Dec/9 2015 (120d)
+# Teams      47
+# Matches    92
+
+
+
+» Round 1
+  Tue Aug/11 2015
+    18.45  Universidad Catolica (ECU) v Deportivo La Guaira (VEN)  1-1 (1-0)
+    19.00  Universidad Católica (CHI) v Danubio (URU)            1-0 (0-0)
+    21.00  Carabobo FC (VEN)       v Deportes Tolima (COL)    0-0
+    21.15  Oriente Petrolero (BOL) v Nacional (URU)           0-3 (0-2)
+    23.15  Universitario de Deportes (PER) v Deportivo Anzoátegui (VEN)  3-1 (2-0)
+  Wed Aug/12
+    18.45  Santiago Wanderers (CHI) v Libertad (PAR)           0-0
+           Liga de Loja (ECU)      v Santa Fe (COL)           0-0
+    21.00  Defensor Sporting (URU) v Bolívar (BOL)            3-0 (1-0)
+           Club Olimpia (PAR)      v Huachipato (CHI)         2-0 (0-0)
+    23.15  Atlético Junior (COL)   v FBC Melgar (PER)         5-0 (4-0)
+  Thu Aug/13
+    16.15  León de Huánuco (PER)   v Emelec (ECU)             1-3 (0-1)
+    18.30  Juventud de Las Piedras (URU) v Real Potosí (BOL)        4-1 (1-0)
+    18.45  Club Nacional (PAR)     v Universidad de Concepción (CHI)  2-1 (0-1)
+    20.45  Zamora FC (VEN)         v LDU Quito (ECU)          1-1 (1-0)
+    21.00  Club Aurora (BOL)       v Sportivo Luqueño (PAR)   1-2 (0-1)
+    23.00  Águilas Pereira (COL)   v Unión Comercio (PER)     2-0 (0-0)
+  Tue Aug/18
+    18.30  Bolívar (BOL)           v Defensor Sporting (URU)  2-0 (0-0)
+           FBC Melgar (PER)        v Atlético Junior (COL)    4-0 (2-0)
+    21.00  Libertad (PAR)          v Santiago Wanderers (CHI)  2-1 (1-1)
+           Deportivo La Guaira (VEN) v Universidad Catolica (ECU)  1-0 (1-0)
+  Wed Aug/19
+    18.30  Huachipato (CHI)        v Club Olimpia (PAR)       0-2 (0-2)
+           LDU Quito (ECU)         v Zamora FC (VEN)          2-0 (1-0)
+    21.00  Danubio (URU)           v Universidad Católica (CHI)  1-2 (0-1)
+           Sportivo Luqueño (PAR)  v Club Aurora (BOL)        5-1 (2-0)
+           Deportes Tolima (COL)   v Carabobo FC (VEN)        3-1 pen. 0-0 a.e.t. (0-0)
+  Thu Aug/20
+    16.00  Real Potosí (BOL)       v Juventud de Las Piedras (URU)  2-0 (1-0)
+           Unión Comercio (PER)    v Águilas Pereira (COL)    1-1 (0-0)
+    18.30  Universidad de Concepción (CHI) v Club Nacional (PAR)      1-3 (0-1)
+           Deportivo Anzoátegui (VEN) v Universitario de Deportes (PER)  1-3 (0-1)
+    21.00  Nacional (URU)          v Oriente Petrolero (BOL)  0-0
+           Emelec (ECU)            v León de Huánuco (PER)    3-0 (1-0)
+           Santa Fe (COL)          v Liga de Loja (ECU)       3-0 (1-0)
+
+
+» Round 2
+  Tue Aug/18
+    21.15  Brasília FC DF (BRA)    v Goiás GO (BRA)           0-0
+  Wed Aug/19
+    22.00  Bahia BA (BRA)          v Sport Recife PE (BRA)    1-0 (1-0)
+           Ponte Preta (BRA)       v Chapecoense (BRA)        1-1 (0-0)
+  Thu Aug/20
+    21.15  Joinville SC (BRA)      v Athletico Paranaense (BRA)  0-2 (0-1)
+  Wed Aug/26
+    16.30  Defensor Sporting (URU) v Universitario de Deportes (PER)  3-0 (0-0)
+    18.45  LDU Quito (ECU)         v Club Nacional (PAR)      1-0 (1-0)
+    19.00  Arsenal de Sarandí (ARG) v Independiente (ARG)      1-1 (1-0)
+    21.00  Tigre (ARG)             v Huracán (ARG)            2-5 (0-3)
+    21.15  Club Olimpia (PAR)      v Águilas Pereira (COL)    1-1 (0-0)
+    23.15  Deportes Tolima (COL)   v Atlético Junior (COL)    0-1 (0-0)
+  Thu Aug/27
+    18.30  Deportivo La Guaira (VEN) v Sportivo Luqueño (PAR)   1-1 (1-1)
+    19.00  Nacional (URU)          v Santa Fe (COL)           0-2 (0-0)
+    20.45  Universidad Católica (CHI) v Libertad (PAR)           2-3 (2-0)
+    21.15  Belgrano de Córdoba (ARG) v Lanús (ARG)              1-1 (1-0)
+    23.00  Emelec (ECU)            v Juventud de Las Piedras (URU)  0-0
+  Tue Aug/25
+    21.15  Goiás GO (BRA)          v Brasília FC DF (BRA)     0-2 (0-0)
+  Wed Aug/26
+    22.00  Sport Recife PE (BRA)   v Bahia BA (BRA)           4-1 (0-0)
+           Chapecoense (BRA)       v Ponte Preta (BRA)        3-0 (1-0)
+  Thu Aug/27
+    21.15  Athletico Paranaense (BRA) v Joinville SC (BRA)       1-0 (1-0)
+  Tue Sep/15
+    19.00  Sportivo Luqueño (PAR)  v Deportivo La Guaira (VEN)  4-0 (2-0)
+    21.00  Águilas Pereira (COL)   v Club Olimpia (PAR)       1-2 (1-2)
+    21.30  Universitario de Deportes (PER) v Defensor Sporting (URU)  0-1 (0-1)
+  Wed Sep/16
+    18.30  Huracán (ARG)           v Tigre (ARG)              1-0 (0-0)
+    19.00  Club Nacional (PAR)     v LDU Quito (ECU)          0-1 (0-0)
+    21.00  Santa Fe (COL)          v Nacional (URU)           0-1 (0-0)
+    21.30  Independiente (ARG)     v Arsenal de Sarandí (ARG)  1-0 (0-0)
+  Thu Sep/17
+    18.30  Atlético Junior (COL)   v Deportes Tolima (COL)    0-2 (0-2)
+           Juventud de Las Piedras (URU) v Emelec (ECU)             2-3 pen. 2-3 a.e.t. (0-0)
+    21.00  Lanús (ARG)             v Belgrano de Córdoba (ARG)  5-1 (2-0)
+           Libertad (PAR)          v Universidad Católica (CHI)  1-0 (1-0)
+
+
+» Round of 16
+  Tue Sep/22
+    21.00  Deportes Tolima (COL)   v Sportivo Luqueño (PAR)   1-1 (1-0)
+  Wed Sep/23
+    19.00  River Plate (ARG)       v LDU Quito (ECU)          2-0 (1-0)
+           Emelec (ECU)            v Santa Fe (COL)           2-1 (0-1)
+    21.15  Independiente (ARG)     v Club Olimpia (PAR)       1-0 (1-0)
+    22.00  Athletico Paranaense (BRA) v Brasília FC DF (BRA)     1-0 (0-0)
+           Sport Recife PE (BRA)   v Huracán (ARG)            1-1 (0-0)
+  Thu Sep/24
+    21.00  Lanús (ARG)             v Defensor Sporting (URU)  0-0
+           Libertad (PAR)          v Chapecoense (BRA)        1-1 (0-1)
+  Tue Sep/29
+    19.00  Sportivo Luqueño (PAR)  v Deportes Tolima (COL)    1-0 (0-0)
+    21.00  Santa Fe (COL)          v Emelec (ECU)             1-0 (1-0)
+  Wed Sep/30
+    19.45  LDU Quito (ECU)         v River Plate (ARG)        1-0 (0-0)
+    21.00  Club Olimpia (PAR)      v Independiente (ARG)      0-0
+    22.00  Brasília FC DF (BRA)    v Athletico Paranaense (BRA)  0-0
+    22.10  Huracán (ARG)           v Sport Recife PE (BRA)    3-0 (0-0)
+  Thu Oct/1
+    21.00  Defensor Sporting (URU) v Lanús (ARG)              5-3 pen. (0-0)
+           Chapecoense (BRA)       v Libertad (PAR)           5-3 pen. (1-1, 1-1)
+
+
+» Quarterfinals
+  Tue Oct/20
+    21.45  Huracán (ARG)           v Defensor Sporting (URU)  1-0 (0-0)
+  Wed Oct/21
+    20.00  Athletico Paranaense (BRA) v Sportivo Luqueño (PAR)   1-0 (0-0)
+    22.00  River Plate (ARG)       v Chapecoense (BRA)        3-1 (1-1)
+  Thu Oct/22
+    21.45  Independiente (ARG)     v Santa Fe (COL)           0-1 (0-0)
+  Tue Oct/27
+    21.45  Defensor Sporting (URU) v Huracán (ARG)            0-0
+  Wed Oct/28
+    20.00  Sportivo Luqueño (PAR)  v Athletico Paranaense (BRA)  2-0 (2-0)
+    22.00  Chapecoense (BRA)       v River Plate (ARG)        2-1 (1-1)
+  Thu Oct/29
+    22.00  Santa Fe (COL)          v Independiente (ARG)      1-1 (1-0)
+
+
+» Semifinals
+  Wed Nov/4
+    21.45  Sportivo Luqueño (PAR)  v Santa Fe (COL)           1-1 (1-0)
+  Thu Nov/5
+    21.45  River Plate (ARG)       v Huracán (ARG)            0-1 (0-1)
+  Wed Nov/25
+    22.00  Santa Fe (COL)          v Sportivo Luqueño (PAR)   0-0
+  Thu Nov/26
+    21.45  Huracán (ARG)           v River Plate (ARG)        2-2 (2-0)
+
+
+» Final
+  Wed Dec/2
+    22.00  Huracán (ARG)           v Santa Fe (COL)           0-0
+  Wed Dec/9
+    22.00  Santa Fe (COL)          v Huracán (ARG)            3-1 pen. 0-0 a.e.t. (0-0)

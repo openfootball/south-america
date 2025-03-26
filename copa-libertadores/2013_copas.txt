@@ -1,0 +1,153 @@
+= Copa Sudamericana 2013
+
+# Date       Tue Jul/30 - Wed Dec/11 2013 (134d)
+# Teams      46
+# Matches    92
+
+
+
+» Round 1
+  Tue Jul/30 2013
+    15.30  Inti Gas (PER)          v Atlético Nacional (COL)  0-1 (0-0)
+           Liga de Loja (ECU)      v Deportivo Lara (VEN)     2-0 (1-0)
+    17.45  Itagüi Ditaires (COL)   v Juan Aurich (PER)        3-0 (3-0)
+    20.30  Real Potosí (BOL)       v Universidad de Chile (CHI)  3-1 (1-1)
+           Club Nacional (PAR)     v The Strongest (BOL)      0-0
+    22.50  Trujillanos FC (VEN)    v La Equidad (COL)         0-1 (0-0)
+  Wed Jul/31
+    16.00  Sport Huancayo (PER)    v Emelec (ECU)             1-3 (0-0)
+    20.30  El Tanque Sisley (URU)  v Colo-Colo (CHI)          0-1 (0-1)
+           Blooming (BOL)          v River Plate (URU)        0-1 (0-0)
+    22.50  Universidad Católica (CHI) v Cerro Porteño (PAR)      1-1 (0-1)
+           Deportivo Pasto (COL)   v FBC Melgar (PER)         3-0 (3-0)
+  Thu Aug/1
+    16.00  Club Social y Deportivo Independiente José Terán (ECU) v Deportivo Anzoátegui (VEN)  0-0
+    18.15  Montevideo Wanderers (URU) v Libertad (PAR)           1-2 (1-0)
+    20.30  Cobreloa (CHI)          v Peñarol (URU)            0-0
+           Mineros de Guayana (VEN) v Barcelona (ECU)          2-2 (1-1)
+    22.50  Guaraní (PAR)           v Oriente Petrolero (BOL)  0-0
+  Tue Aug/6
+    17.10  FBC Melgar (PER)        v Deportivo Pasto (COL)    2-0 (2-0)
+    17.45  River Plate (URU)       v Blooming (BOL)           4-0 (1-0)
+    20.15  Universidad de Chile (CHI) v Real Potosí (BOL)        5-0 (2-0)
+           Deportivo Lara (VEN)    v Liga de Loja (ECU)       1-1 (1-0)
+    22.45  Atlético Nacional (COL) v Inti Gas (PER)           4-0 (2-0)
+  Wed Aug/7
+    17.45  The Strongest (BOL)     v Club Nacional (PAR)      1-1 (0-1)
+           Juan Aurich (PER)       v Itagüi Ditaires (COL)    2-3 (1-2)
+    20.15  Cerro Porteño (PAR)     v Universidad Católica (CHI)  0-1 (0-0)
+           Emelec (ECU)            v Sport Huancayo (PER)     4-0 (1-0)
+    22.45  Colo-Colo (CHI)         v El Tanque Sisley (URU)   2-0 (2-0)
+           La Equidad (COL)        v Trujillanos FC (VEN)     0-0
+  Thu Aug/8
+    20.15  Peñarol (URU)           v Cobreloa (CHI)           0-2 (0-2)
+           Oriente Petrolero (BOL) v Guaraní (PAR)            1-4 (0-2)
+           Deportivo Anzoátegui (VEN) v Club Social y Deportivo Independiente José Terán (ECU)  0-2 (0-1)
+    22.45  Libertad (PAR)          v Montevideo Wanderers (URU)  0-0
+           Barcelona (ECU)         v Mineros de Guayana (VEN)  0-2 (0-2)
+
+
+» Round 2
+  Tue Aug/13
+    21.30  Belgrano de Córdoba (ARG) v Vélez Sarsfield (ARG)    1-0 (1-0)
+  Wed Aug/14
+    21.15  Racing Club (ARG)       v Lanús (ARG)              1-2 (0-2)
+  Tue Aug/20
+    19.30  Sport Recife PE (BRA)   v Náutico PE (BRA)         2-0 (2-0)
+    20.15  Universidad Católica (CHI) v Emelec (ECU)             4-0 (2-0)
+           Guaraní (PAR)           v Atlético Nacional (COL)  0-2 (0-1)
+    22.30  La Equidad (COL)        v Cobreloa (CHI)           0-0
+  Wed Aug/21
+    18.00  Itagüi Ditaires (COL)   v River Plate (URU)        1-0 (0-0)
+    20.15  Libertad (PAR)          v Mineros de Guayana (VEN)  2-0 (2-0)
+    21.50  Vitória BA (BRA)        v Coritiba PR (BRA)        1-0 (0-0)
+           Criciúma SC (BRA)       v Ponte Preta (BRA)        1-2 (0-1)
+    22.30  Universidad de Chile (CHI) v Club Social y Deportivo Independiente José Terán (ECU)  1-1 (1-0)
+  Thu Aug/22
+    19.30  San Lorenzo (ARG)       v River Plate (URU)        0-1 (0-1)
+    19.40  Liga de Loja (ECU)      v Club Nacional (PAR)      0-0
+    21.50  Deportivo Pasto (COL)   v Colo-Colo (CHI)          1-0 (1-0)
+           Portuguesa SP (BRA)     v Bahia BA (BRA)           1-2 (0-1)
+  Tue Aug/27
+    19.30  Emelec (ECU)            v Universidad Católica (CHI)  2-3 (0-1)
+           Ponte Preta (BRA)       v Criciúma SC (BRA)        0-0
+    21.50  Coritiba PR (BRA)       v Vitória BA (BRA)         4-3 pen. 1-0 a.e.t. (1-0, 0-0)
+    22.00  Atlético Nacional (COL) v Guaraní (PAR)            0-0
+  Wed Aug/28
+    19.30  Lanús (ARG)             v Racing Club (ARG)        2-0 (1-0)
+           River Plate (URU)       v Itagüi Ditaires (COL)    0-0
+    21.50  Náutico PE (BRA)        v Sport Recife PE (BRA)    1-3 pen. 2-0 a.e.t. (2-0, 1-0)
+           Bahia BA (BRA)          v Portuguesa SP (BRA)      0-0
+    22.00  Colo-Colo (CHI)         v Deportivo Pasto (COL)    0-2 (0-2)
+           Mineros de Guayana (VEN) v Libertad (PAR)           1-2 (1-2)
+  Thu Aug/29
+    17.00  Club Social y Deportivo Independiente José Terán (ECU) v Universidad de Chile (CHI)  1-3 (1-1)
+    19.30  Cobreloa (CHI)          v La Equidad (COL)         1-1 (1-1)
+           Club Nacional (PAR)     v Liga de Loja (ECU)       0-1 (0-1)
+    21.50  Vélez Sarsfield (ARG)   v Belgrano de Córdoba (ARG)  2-0 (1-0)
+  Thu Sep/5
+    21.15  River Plate (URU)       v San Lorenzo (ARG)        0-0
+
+
+» Round of 16
+  Wed Sep/18
+    20.15  Lanús (ARG)             v Universidad de Chile (CHI)  4-0 (3-0)
+    22.30  La Equidad (COL)        v Vélez Sarsfield (ARG)    1-2 (0-0)
+  Thu Sep/19
+    21.15  Liga de Loja (ECU)      v River Plate (URU)        2-1 (1-0)
+  Tue Sep/24
+    21.00  Coritiba PR (BRA)       v Itagüi Ditaires (COL)    0-1 (0-0)
+  Wed Sep/25
+    19.30  Ponte Preta (BRA)       v Deportivo Pasto (COL)    2-0 (1-0)
+    21.50  Libertad (PAR)          v Sport Recife PE (BRA)    2-0 (2-0)
+  Thu Sep/26
+    22.00  São Paulo FC (BRA)      v Universidad Católica (CHI)  1-1 (1-1)
+           Atlético Nacional (COL) v Bahia BA (BRA)           1-0 (1-0)
+  Wed Sep/25
+    19.30  Universidad de Chile (CHI) v Lanús (ARG)              1-0 (0-0)
+  Thu Sep/26
+    19.30  River Plate (URU)       v Liga de Loja (ECU)       2-0 (1-0)
+  Wed Oct/2
+    21.15  Vélez Sarsfield (ARG)   v La Equidad (COL)         2-1 (0-1)
+  Tue Oct/22
+    22.15  Deportivo Pasto (COL)   v Ponte Preta (BRA)        1-0 (0-0)
+  Wed Oct/23
+    21.50  Universidad Católica (CHI) v São Paulo FC (BRA)       3-4 (2-2)
+    22.10  Sport Recife PE (BRA)   v Libertad (PAR)           1-2 (0-1)
+  Thu Oct/24
+    20.30  Bahia BA (BRA)          v Atlético Nacional (COL)  3-4 pen. 1-0 a.e.t. (1-0, 1-0)
+    23.00  Itagüi Ditaires (COL)   v Coritiba PR (BRA)        2-1 (0-1)
+
+
+» Quarterfinals
+  Tue Oct/29
+    21.15  Lanús (ARG)             v River Plate (URU)        0-0
+  Wed Oct/30
+    21.50  São Paulo FC (BRA)      v Atlético Nacional (COL)  3-2 (1-1)
+  Thu Oct/31
+    20.15  Ponte Preta (BRA)       v Vélez Sarsfield (ARG)    0-0
+    22.30  Libertad (PAR)          v Itagüi Ditaires (COL)    2-0 (2-0)
+  Wed Nov/6
+    21.50  Atlético Nacional (COL) v São Paulo FC (BRA)       0-0
+           River Plate (URU)       v Lanús (ARG)              1-3 (0-2)
+  Thu Nov/7
+    20.45  Vélez Sarsfield (ARG)   v Ponte Preta (BRA)        0-2 (0-0)
+    23.15  Itagüi Ditaires (COL)   v Libertad (PAR)           1-0 (1-0)
+
+
+» Semifinals
+  Wed Nov/20
+    21.50  São Paulo FC (BRA)      v Ponte Preta (BRA)        1-3 (1-1)
+  Thu Nov/21
+    22.15  Libertad (PAR)          v Lanús (ARG)              1-2 (0-0)
+  Wed Nov/27
+    21.50  Ponte Preta (BRA)       v São Paulo FC (BRA)       1-1 (1-0)
+  Thu Nov/28
+    22.15  Lanús (ARG)             v Libertad (PAR)           2-1 (1-0)
+
+
+» Final
+  Wed Dec/4
+    21.50  Ponte Preta (BRA)       v Lanús (ARG)              1-1 (0-0)
+  Wed Dec/11
+    21.50  Lanús (ARG)             v Ponte Preta (BRA)        2-0 (2-0)

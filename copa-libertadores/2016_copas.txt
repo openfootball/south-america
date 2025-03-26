@@ -1,0 +1,147 @@
+= Copa Sudamericana 2016
+
+# Date       Tue Aug/9 - Thu Dec/8 2016 (121d)
+# Teams      47
+# Matches    92
+
+
+
+» Round 1
+  Tue Aug/9 2016
+    19.00  Deportivo Lara (VEN)    v Atlético Junior (COL)    1-3 (1-1)
+    19.15  Sportivo Luqueño (PAR)  v Peñarol (URU)            0-0
+    21.15  Fénix (URU)             v Cerro Porteño (PAR)      1-0 (1-0)
+    21.30  Real Potosí (BOL)       v Universidad Católica (CHI)  3-1 (1-0)
+    23.30  Universitario de Deportes (PER) v Emelec (ECU)             0-3 (0-0)
+  Wed Aug/10
+    19.00  Universidad de Concepción (CHI) v Bolívar (BOL)            2-0 (0-0)
+    21.00  Sol de América (PAR)    v Jorge Wilstermann (BOL)  1-1 (0-0)
+           Montevideo Wanderers (URU) v O'Higgins (CHI)          0-0
+    23.15  Barcelona (ECU)         v Zamora FC (VEN)          1-1 (0-0)
+    23.30  Independiente Medellín (COL) v Universidad Catolica (ECU)  1-1 (1-0)
+  Thu Aug/11
+    18.30  Aucas (ECU)             v Real Garcilaso (PER)     2-1 (2-1)
+           Deportivo Anzoátegui (VEN) v Sport Huancayo (PER)     2-1 (1-1)
+    20.00  Blooming (BOL)          v Plaza Colonia (URU)      1-0 (1-0)
+    20.45  Palestino (CHI)         v Libertad (PAR)           1-0 (1-0)
+    22.15  Deportes Tolima (COL)   v Deportivo La Guaira (VEN)  0-0
+    23.00  Deportivo Municipal (PER) v Atlético Nacional (COL)  0-5 (0-1)
+  Tue Aug/16
+    18.00  Bolívar (BOL)           v Universidad de Concepción (CHI)  3-0 (2-0)
+    20.30  Peñarol (URU)           v Sportivo Luqueño (PAR)   1-1 (0-0)
+           O'Higgins (CHI)         v Montevideo Wanderers (URU)  4-5 pen. (0-0)
+    23.00  Emelec (ECU)            v Universitario de Deportes (PER)  3-1 (2-1)
+           Atlético Junior (COL)   v Deportivo Lara (VEN)     2-1 (1-0)
+  Wed Aug/17
+    18.30  Plaza Colonia (URU)     v Blooming (BOL)           1-4 pen. (1-0, 0-0)
+           Deportivo La Guaira (VEN) v Deportes Tolima (COL)    1-0 (1-0)
+           Universidad Catolica (ECU) v Independiente Medellín (COL)  0-1 (0-1)
+    21.00  Cerro Porteño (PAR)     v Fénix (URU)              2-0 (1-0)
+           Universidad Católica (CHI) v Real Potosí (BOL)        1-1 (1-0)
+    23.15  Real Garcilaso (PER)    v Aucas (ECU)              1-0 (1-0)
+           Atlético Nacional (COL) v Deportivo Municipal (PER)  1-0 (1-0)
+  Thu Aug/18
+    17.00  Sport Huancayo (PER)    v Deportivo Anzoátegui (VEN)  1-0 (0-0)
+    18.30  Jorge Wilstermann (BOL) v Sol de América (PAR)     4-5 pen. (1-1, 0-0)
+    19.00  Zamora FC (VEN)         v Barcelona (ECU)          3-0 pen. (1-1, 0-1)
+    21.30  Libertad (PAR)          v Palestino (CHI)          0-3 (0-0)
+
+
+» Round 2
+  Tue Aug/23
+    19.15  Deportivo La Guaira (VEN) v Emelec (ECU)             4-2 (2-0)
+           Banfield (ARG)          v San Lorenzo (ARG)        2-0 (2-0)
+    21.45  Blooming (BOL)          v Atlético Junior (COL)    0-2 (0-1)
+  Wed Aug/24
+    17.00  Real Garcilaso (PER)    v Palestino (CHI)          2-2 (1-2)
+    19.15  Bolívar (BOL)           v Atlético Nacional (COL)  1-1 (0-0)
+           Cerro Porteño (PAR)     v Real Potosí (BOL)        6-0 (4-0)
+    21.45  Santa Cruz PE (BRA)     v Sport Recife PE (BRA)    0-0
+           Estudiantes (ARG)       v Belgrano de Córdoba (ARG)  1-0 (1-0)
+           Figueirense SC (BRA)    v Flamengo RJ (BRA)        4-2 (3-1)
+           Independiente Medellín (COL) v Sportivo Luqueño (PAR)   3-0 (1-0)
+  Thu Aug/25
+    19.00  Cuiabá MT (BRA)         v Chapecoense (BRA)        1-0 (1-0)
+    19.15  Lanús (ARG)             v Independiente (ARG)      0-2 (0-0)
+    21.45  Zamora FC (VEN)         v Montevideo Wanderers (URU)  0-1 (0-0)
+           Vitória BA (BRA)        v Coritiba PR (BRA)        2-1 (0-1)
+           Sol de América (PAR)    v Sport Huancayo (PER)     1-0 (1-0)
+  Wed Aug/31
+    17.00  Coritiba PR (BRA)       v Vitória BA (BRA)         1-0 (0-0)
+    21.45  Sport Recife PE (BRA)   v Santa Cruz PE (BRA)      0-1 (0-0)
+           Chapecoense (BRA)       v Cuiabá MT (BRA)          3-1 (0-1)
+           Flamengo RJ (BRA)       v Figueirense SC (BRA)     3-1 (2-1)
+  Tue Sep/13
+    19.15  San Lorenzo (ARG)       v Banfield (ARG)           4-1 (4-1)
+    21.45  Atlético Nacional (COL) v Bolívar (BOL)            1-0 (0-0)
+  Wed Sep/14
+    16.00  Montevideo Wanderers (URU) v Zamora FC (VEN)          1-0 (0-0)
+    18.00  Emelec (ECU)            v Deportivo La Guaira (VEN)  0-0
+    19.15  Independiente (ARG)     v Lanús (ARG)              1-0 (1-0)
+    21.45  Atlético Junior (COL)   v Blooming (BOL)           1-1 (1-0)
+  Thu Sep/15
+    16.15  Sport Huancayo (PER)    v Sol de América (PAR)     1-1 (1-0)
+    19.15  Palestino (CHI)         v Real Garcilaso (PER)     1-0 (0-0)
+    19.30  Real Potosí (BOL)       v Cerro Porteño (PAR)      0-1 (0-0)
+    21.45  Belgrano de Córdoba (ARG) v Estudiantes (ARG)        2-0 (0-0)
+           Sportivo Luqueño (PAR)  v Independiente Medellín (COL)  2-0 (2-0)
+
+
+» Round of 16
+  Tue Sep/20
+    20.45  Sol de América (PAR)    v Atlético Nacional (COL)  1-1 (0-1)
+  Wed Sep/21
+    19.15  Independiente (ARG)     v Chapecoense (BRA)        0-0
+           Montevideo Wanderers (URU) v Atlético Junior (COL)    0-0
+    21.45  Independiente Medellín (COL) v Santa Cruz PE (BRA)      2-0 (1-0)
+           Coritiba PR (BRA)       v Belgrano de Córdoba (ARG)  1-2 (0-1)
+           Palestino (CHI)         v Flamengo RJ (BRA)        0-1 (0-0)
+  Thu Sep/22
+    19.15  San Lorenzo (ARG)       v Deportivo La Guaira (VEN)  2-1 (2-0)
+    21.45  Santa Fe (COL)          v Cerro Porteño (PAR)      2-0 (1-0)
+  Tue Sep/27
+    21.45  Atlético Nacional (COL) v Sol de América (PAR)     2-0 (0-0)
+  Wed Sep/28
+    19.15  Chapecoense (BRA)       v Independiente (ARG)      5-4 pen. (0-0)
+           Atlético Junior (COL)   v Montevideo Wanderers (URU)  4-3 pen. (0-0)
+    21.45  Santa Cruz PE (BRA)     v Independiente Medellín (COL)  3-1 (2-0)
+           Belgrano de Córdoba (ARG) v Coritiba PR (BRA)        3-4 pen. (1-2, 1-1)
+           Flamengo RJ (BRA)       v Palestino (CHI)          1-2 (0-2)
+  Thu Sep/29
+    19.15  Deportivo La Guaira (VEN) v San Lorenzo (ARG)        0-2 (0-2)
+    21.45  Cerro Porteño (PAR)     v Santa Fe (COL)           4-1 (3-0)
+
+
+» Quarterfinals
+  Tue Oct/18
+    22.00  Independiente Medellín (COL) v Cerro Porteño (PAR)      0-0
+  Wed Oct/19
+    21.45  Atlético Junior (COL)   v Chapecoense (BRA)        1-0 (1-0)
+           Coritiba PR (BRA)       v Atlético Nacional (COL)  1-1 (0-1)
+  Thu Oct/20
+    22.00  San Lorenzo (ARG)       v Palestino (CHI)          2-0 (2-0)
+  Tue Oct/25
+    22.00  Cerro Porteño (PAR)     v Independiente Medellín (COL)  2-0 (1-0)
+  Wed Oct/26
+    21.45  Chapecoense (BRA)       v Atlético Junior (COL)    3-0 (2-0)
+           Atlético Nacional (COL) v Coritiba PR (BRA)        3-1 (0-1)
+  Thu Oct/27
+    22.00  Palestino (CHI)         v San Lorenzo (ARG)        1-0 (0-0)
+
+
+» Semifinals
+  Tue Nov/1
+    21.45  Cerro Porteño (PAR)     v Atlético Nacional (COL)  1-1 (1-0)
+  Wed Nov/2
+    21.45  San Lorenzo (ARG)       v Chapecoense (BRA)        1-1 (1-0)
+  Wed Nov/23
+    21.45  Chapecoense (BRA)       v San Lorenzo (ARG)        0-0
+  Thu Nov/24
+    22.45  Atlético Nacional (COL) v Cerro Porteño (PAR)      0-0
+
+
+» Final
+  Thu Dec/1
+           Atlético Nacional (COL) v Chapecoense (BRA)        [cancelled]
+  Thu Dec/8
+           Chapecoense (BRA)       v Atlético Nacional (COL)  [cancelled]

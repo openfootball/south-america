@@ -1,0 +1,186 @@
+= Copa Sudamericana 2019
+
+# Date       Tue Feb/5 - Sat Nov/9 2019 (277d)
+# Teams      54
+# Matches    105
+
+
+
+» Round 1
+  Tue Feb/5 2019
+    21.30  Unión La Calera (CHI)   v Chapecoense (BRA)        0-0
+  Wed Feb/6
+    21.30  Botafogo RJ (BRA)       v Defensa y Justicia (ARG)  1-0 (0-0)
+  Thu Feb/7
+    19.15  Bahia BA (BRA)          v Liverpool (URU)          0-1 (0-0)
+    21.30  Deportivo Santaní (PAR) v Once Caldas (COL)        1-1 (1-0)
+  Tue Feb/12
+    19.15  River Plate (URU)       v Santos FC (BRA)          0-0
+    21.30  Macará (ECU)            v CD Guabirá (BOL)         2-1 (2-1)
+  Thu Feb/14
+    19.15  Royal Pari (BOL)        v Monagas (VEN)            2-1 (2-1)
+    21.30  Corinthians SP (BRA)    v Racing Club (ARG)        1-1 (0-1)
+  Tue Feb/26
+    21.30  Fluminense RJ (BRA)     v Antofagasta (CHI)        0-0
+  Tue Mar/19
+    19.15  Unión Española (CHI)    v Mushuc Runa (ECU)        1-1 (0-0)
+    21.30  Deportivo Municipal (PER) v Colón de Santa Fe (ARG)  0-3 (0-1)
+           Nacional Potosí (BOL)   v Zulia FC (VEN)           0-1 (0-0)
+  Wed Mar/20
+    21.30  Independiente CG (PAR)  v La Equidad (COL)         0-0
+           Unión de Santa Fe (ARG) v Independiente del Valle (ECU)  2-0 (1-0)
+  Thu Mar/21
+    19.15  Montevideo Wanderers (URU) v Sport Huancayo (PER)     2-0 (2-0)
+    21.30  Águilas Doradas (COL)   v Oriente Petrolero (BOL)  1-1 (0-1)
+  Tue Apr/2
+    17.00  Mineros de Guayana (VEN) v Sol de América (PAR)     1-0 (0-0)
+    21.30  Universidad Catolica (ECU) v Colo-Colo (CHI)          0-1 (0-1)
+  Wed Apr/3
+    21.30  Independiente (ARG)     v Deportivo Binacional (PER)  4-1 (2-0)
+           Universidad Técnica (PER) v CA Cerro (URU)           1-1 (1-1)
+  Thu Apr/4
+    19.15  Argentinos Juniors (ARG) v Estudiantes de Mérida (VEN)  2-0 (1-0)
+    21.30  Deportivo Cali (COL)    v Guaraní (PAR)            1-0 (1-0)
+  Tue Feb/19
+    21.30  Chapecoense (BRA)       v Unión La Calera (CHI)    1-1 (0-1)
+  Wed Feb/20
+    21.30  Defensa y Justicia (ARG) v Botafogo RJ (BRA)        0-3 (0-0)
+  Thu Feb/21
+    19.15  Liverpool (URU)         v Bahia BA (BRA)           0-0
+    21.30  Once Caldas (COL)       v Deportivo Santaní (PAR)  0-2 (0-1)
+  Tue Feb/26
+    19.15  Santos FC (BRA)         v River Plate (URU)        1-1 (0-0)
+  Wed Feb/27
+    19.15  Monagas (VEN)           v Royal Pari (BOL)         2-4 pen. (2-1, 1-1)
+    21.30  Racing Club (ARG)       v Corinthians SP (BRA)     4-5 pen. (1-1, 1-0)
+  Thu Feb/28
+    21.30  CD Guabirá (BOL)        v Macará (ECU)             0-3 (0-0)
+  Thu Mar/21
+    19.15  Antofagasta (CHI)       v Fluminense RJ (BRA)      1-2 (1-1)
+  Tue Apr/16
+    17.00  Zulia FC (VEN)          v Nacional Potosí (BOL)    2-0 pen. (0-1, 0-1)
+    21.30  Colón de Santa Fe (ARG) v Deportivo Municipal (PER)  2-0 (1-0)
+           La Equidad (COL)        v Independiente CG (PAR)   4-3 pen. (0-0)
+  Wed Apr/17
+    21.30  Independiente del Valle (ECU) v Unión de Santa Fe (ARG)  4-2 pen. (2-0, 1-0)
+           Oriente Petrolero (BOL) v Águilas Doradas (COL)    0-3 pen. (1-1, 1-1)
+  Thu Apr/18
+    21.30  Sport Huancayo (PER)    v Montevideo Wanderers (URU)  1-1 (0-0)
+           Mushuc Runa (ECU)       v Unión Española (CHI)     5-6 pen. (1-1, 1-1)
+  Tue Apr/30
+    19.15  CA Cerro (URU)          v Universidad Técnica (PER)  3-1 (2-0)
+    21.30  Colo-Colo (CHI)         v Universidad Catolica (ECU)  0-3 pen. (0-1, 0-1)
+  Wed May/1
+    19.15  Sol de América (PAR)    v Mineros de Guayana (VEN)  4-3 pen. (1-0, 0-0)
+    21.30  Deportivo Binacional (PER) v Independiente (ARG)      1-2 (0-0)
+  Thu May/2
+    21.30  Guaraní (PAR)           v Deportivo Cali (COL)     1-4 pen. (1-0, 0-0)
+  Wed May/8
+    17.00  Estudiantes de Mérida (VEN) v Argentinos Juniors (ARG)  1-0 (1-0)
+
+
+» Round 2
+  Tue May/21
+    19.15  Universidad Catolica (ECU) v FBC Melgar (PER)         6-0 (3-0)
+           River Plate (URU)       v Colón de Santa Fe (ARG)  0-0
+           Royal Pari (BOL)        v Macará (ECU)             1-0 (0-0)
+    21.30  Unión Española (CHI)    v Sporting Cristal (PER)   0-3 (0-1)
+           Unión La Calera (CHI)   v Atlético Mineiro (BRA)   1-0 (0-0)
+           Águilas Doradas (COL)   v Independiente (ARG)      3-2 (1-1)
+  Wed May/22
+    17.00  Zulia FC (VEN)          v Palestino (CHI)          2-1 (1-0)
+    19.15  Sol de América (PAR)    v Botafogo RJ (BRA)        0-1 (0-0)
+           Deportivo Cali (COL)    v Peñarol (URU)            1-1 (0-0)
+    21.30  La Equidad (COL)        v Deportivo Santaní (PAR)  2-0 (1-0)
+           Liverpool (URU)         v Caracas FC (VEN)         1-0 (0-0)
+  Thu May/23
+    19.15  Montevideo Wanderers (URU) v CA Cerro (URU)           0-0
+           Corinthians SP (BRA)    v Deportivo Lara (VEN)     2-0 (0-0)
+    21.30  Independiente del Valle (ECU) v Universidad Católica (CHI)  5-0 (4-0)
+           Fluminense RJ (BRA)     v Atlético Nacional (COL)  4-1 (4-1)
+           Argentinos Juniors (ARG) v Deportes Tolima (COL)    1-0 (0-0)
+  Tue May/28
+    17.00  Caracas FC (VEN)        v Liverpool (URU)          2-0 (0-0)
+    19.15  FBC Melgar (PER)        v Universidad Catolica (ECU)  0-0
+           Independiente (ARG)     v Águilas Doradas (COL)    2-0 (0-0)
+           Colón de Santa Fe (ARG) v River Plate (URU)        3-1 (2-1)
+    21.30  Sporting Cristal (PER)  v Unión Española (CHI)     3-0 (2-0)
+           Atlético Mineiro (BRA)  v Unión La Calera (CHI)    3-0 pen. (1-0, 0-0)
+  Wed May/29
+    19.15  Botafogo RJ (BRA)       v Sol de América (PAR)     4-0 (2-0)
+           Palestino (CHI)         v Zulia FC (VEN)           0-1 (0-0)
+           Peñarol (URU)           v Deportivo Cali (COL)     2-0 (0-0)
+    21.30  Deportivo Santaní (PAR) v La Equidad (COL)         1-2 (0-0)
+           Atlético Nacional (COL) v Fluminense RJ (BRA)      1-0 (1-0)
+           Macará (ECU)            v Royal Pari (BOL)         3-2 (2-1)
+  Thu May/30
+    17.00  Deportivo Lara (VEN)    v Corinthians SP (BRA)     0-2 (0-1)
+    19.15  Deportes Tolima (COL)   v Argentinos Juniors (ARG)  0-0
+           CA Cerro (URU)          v Montevideo Wanderers (URU)  0-1 (0-1)
+    21.30  Universidad Católica (CHI) v Independiente del Valle (ECU)  3-2 (2-1)
+
+
+» Round of 16
+  Tue Jul/9
+    21.30  Royal Pari (BOL)        v La Equidad (COL)         1-2 (1-0)
+  Wed Jul/10
+    17.00  Caracas FC (VEN)        v Independiente del Valle (ECU)  0-0
+  Thu Jul/11
+    21.30  Colón de Santa Fe (ARG) v Argentinos Juniors (ARG)  0-1 (0-1)
+  Tue Jul/23
+    17.00  Zulia FC (VEN)          v Sporting Cristal (PER)   1-0 (0-0)
+    21.30  Peñarol (URU)           v Fluminense RJ (BRA)      1-2 (0-1)
+  Wed Jul/24
+    21.30  Botafogo RJ (BRA)       v Atlético Mineiro (BRA)   0-1 (0-1)
+  Thu Jul/25
+    21.30  Corinthians SP (BRA)    v Montevideo Wanderers (URU)  2-0 (1-0)
+           Independiente (ARG)     v Universidad Catolica (ECU)  1-0 (0-0)
+  Tue Jul/16
+    21.30  La Equidad (COL)        v Royal Pari (BOL)         2-1 (0-1)
+  Wed Jul/17
+    21.30  Independiente del Valle (ECU) v Caracas FC (VEN)         2-0 (0-0)
+  Thu Jul/18
+    21.30  Argentinos Juniors (ARG) v Colón de Santa Fe (ARG)  3-4 pen. (0-1, 0-0)
+  Tue Jul/30
+    19.15  Sporting Cristal (PER)  v Zulia FC (VEN)           3-2 (0-1)
+    21.30  Fluminense RJ (BRA)     v Peñarol (URU)            3-1 (2-0)
+  Wed Jul/31
+    21.30  Atlético Mineiro (BRA)  v Botafogo RJ (BRA)        2-0 (0-0)
+  Thu Aug/1
+    21.30  Montevideo Wanderers (URU) v Corinthians SP (BRA)     1-2 (0-0)
+           Universidad Catolica (ECU) v Independiente (ARG)      3-2 (1-0)
+
+
+» Quarterfinals
+  Tue Aug/6
+    21.30  Independiente (ARG)     v Independiente del Valle (ECU)  2-1 (0-0)
+  Thu Aug/8
+    17.00  Zulia FC (VEN)          v Colón de Santa Fe (ARG)  1-0 (0-0)
+  Tue Aug/20
+    21.30  Atlético Mineiro (BRA)  v La Equidad (COL)         2-1 (1-1)
+  Thu Aug/22
+    21.30  Corinthians SP (BRA)    v Fluminense RJ (BRA)      0-0
+  Tue Aug/13
+    21.30  Independiente del Valle (ECU) v Independiente (ARG)      1-0 (0-0)
+  Thu Aug/15
+    21.30  Colón de Santa Fe (ARG) v Zulia FC (VEN)           4-0 (0-0)
+  Tue Aug/27
+    21.30  La Equidad (COL)        v Atlético Mineiro (BRA)   1-3 (0-1)
+  Thu Aug/29
+    21.30  Fluminense RJ (BRA)     v Corinthians SP (BRA)     1-1 (0-0)
+
+
+» Semifinals
+  Wed Sep/18
+    21.30  Corinthians SP (BRA)    v Independiente del Valle (ECU)  0-2 (0-1)
+  Thu Sep/19
+    21.30  Colón de Santa Fe (ARG) v Atlético Mineiro (BRA)   2-1 (0-1)
+  Wed Sep/25
+    21.30  Independiente del Valle (ECU) v Corinthians SP (BRA)     2-2 (0-1)
+  Thu Sep/26
+    21.30  Atlético Mineiro (BRA)  v Colón de Santa Fe (ARG)  3-4 pen. (2-1, 1-0)
+
+
+» Final
+  Sat Nov/9
+    17.30  Colón de Santa Fe (ARG) v Independiente del Valle (ECU)  1-3 (0-2)

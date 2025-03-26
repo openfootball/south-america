@@ -1,0 +1,165 @@
+= Copa Sudamericana 2012
+
+# Date       Tue Jul/24 - Wed Dec/12 2012 (141d)
+# Teams      47
+# Matches    92
+
+
+
+» Round 1
+  Tue Jul/24 2012
+    19.15  Danubio (URU)           v Club Olimpia (PAR)       0-0
+    21.30  Tacuary (PAR)           v Cobreloa (CHI)           0-1 (0-0)
+  Wed Jul/25
+    19.15  Liverpool (URU)         v Universitario de Sucre (BOL)  3-0 (3-0)
+    21.30  Deportivo Táchira (VEN) v Barcelona (ECU)          0-0
+  Thu Jul/26
+    19.15  Guaraní (PAR)           v Oriente Petrolero (BOL)  0-1 (0-0)
+    21.30  Club Aurora (BOL)       v Cerro Largo (URU)        2-1 (1-0)
+           O'Higgins (CHI)         v Cerro Porteño (PAR)      3-3 (1-1)
+  Tue Jul/31
+    16.15  Unión Comercio (PER)    v Envigado FC (COL)        0-0
+    19.00  Deportes Iquique (CHI)  v Nacional (URU)           2-0 (1-0)
+    21.15  Emelec (ECU)            v Universidad San Martín (PER)  1-0 (0-0)
+    23.30  Deportes Tolima (COL)   v Deportivo Lara (VEN)     3-1 (2-0)
+  Wed Aug/1
+    19.30  Deportivo Quito (ECU)   v León de Huánuco (PER)    1-0 (0-0)
+  Thu Aug/2
+    16.15  Inti Gas (PER)          v Millonarios (COL)        0-0
+    19.15  La Equidad (COL)        v Mineros de Guayana (VEN)  0-1 (0-1)
+    21.30  Blooming (BOL)          v Universidad Católica (CHI)  1-1 (0-0)
+           Monagas (VEN)           v Liga de Loja (ECU)       0-2 (0-1)
+  Tue Aug/7
+    19.15  Cobreloa (CHI)          v Tacuary (PAR)            2-2 (1-0)
+    21.45  Club Olimpia (PAR)      v Danubio (URU)            2-1 (2-1)
+  Wed Aug/8
+    19.15  Barcelona (ECU)         v Deportivo Táchira (VEN)  5-1 (3-0)
+    21.45  Cerro Porteño (PAR)     v O'Higgins (CHI)          4-0 (2-0)
+  Thu Aug/9
+    19.45  Oriente Petrolero (BOL) v Guaraní (PAR)            1-2 (0-1)
+    22.15  Universidad Católica (CHI) v Blooming (BOL)           3-0 (2-0)
+           Mineros de Guayana (VEN) v La Equidad (COL)         2-1 (1-1)
+  Tue Aug/14
+    18.30  Cerro Largo (URU)       v Club Aurora (BOL)        0-0
+    21.00  Nacional (URU)          v Deportes Iquique (CHI)   4-0 (2-0)
+    23.30  Millonarios (COL)       v Inti Gas (PER)           3-0 (1-0)
+  Wed Aug/15
+    19.15  Liga de Loja (ECU)      v Monagas (VEN)            4-2 (1-1)
+    21.45  Envigado FC (COL)       v Unión Comercio (PER)     2-0 (2-0)
+  Thu Aug/16
+    19.00  Universitario de Sucre (BOL) v Liverpool (URU)          1-2 (0-0)
+    21.30  Deportivo Lara (VEN)    v Deportes Tolima (COL)    0-0
+  Tue Aug/21
+    23.30  Universidad San Martín (PER) v Emelec (ECU)             1-1 (1-0)
+  Thu Aug/23
+    16.00  León de Huánuco (PER)   v Deportivo Quito (ECU)    2-3 (2-2)
+
+
+» Round 2
+  Tue Jul/31
+    21.15  Grêmio Porto Alegre (BRA) v Coritiba PR (BRA)        1-0 (0-0)
+  Wed Aug/1
+    19.30  Atlético Goianiense (BRA) v Figueirense SC (BRA)     1-1 (1-0)
+    21.50  Bahia BA (BRA)          v São Paulo FC (BRA)       0-2 (0-1)
+           Palmeiras (BRA)         v Botafogo RJ (BRA)        2-0 (0-0)
+  Thu Aug/16
+    21.30  Argentinos Juniors (ARG) v Tigre (ARG)              1-2 (0-0)
+  Wed Aug/22
+    19.30  Boca Juniors (ARG)      v Independiente (ARG)      3-3 (2-1)
+  Thu Aug/23
+    21.50  Colón de Santa Fe (ARG) v Racing Club (ARG)        3-1 (0-0)
+  Tue Aug/28
+    19.15  Cobreloa (CHI)          v Barcelona (ECU)          0-0
+    21.45  Envigado FC (COL)       v Liverpool (URU)          1-1 (1-0)
+           Club Olimpia (PAR)      v Emelec (ECU)             0-1 (0-1)
+  Wed Aug/29
+    19.15  Liga de Loja (ECU)      v Nacional (URU)           0-1 (0-0)
+    21.45  Mineros de Guayana (VEN) v Cerro Porteño (PAR)      2-2 (0-1)
+           Universidad Católica (CHI) v Deportes Tolima (COL)    2-0 (1-0)
+  Thu Aug/30
+    19.15  Deportivo Quito (ECU)   v Club Aurora (BOL)        2-1 (2-0)
+    21.45  Guaraní (PAR)           v Millonarios (COL)        2-4 (0-1)
+  Tue Aug/21
+    21.15  São Paulo FC (BRA)      v Bahia BA (BRA)           2-0 (0-0)
+  Wed Aug/22
+    19.30  Coritiba PR (BRA)       v Grêmio Porto Alegre (BRA)  3-2 (1-1)
+    22.00  Botafogo RJ (BRA)       v Palmeiras (BRA)          3-1 (1-1)
+  Thu Aug/23
+    19.30  Figueirense SC (BRA)    v Atlético Goianiense (BRA)  2-4 a.e.t. (1-1, 1-0)
+  Wed Aug/29
+    19.15  Independiente (ARG)     v Boca Juniors (ARG)       0-0
+  Thu Aug/30
+    19.15  Tigre (ARG)             v Argentinos Juniors (ARG)  4-1 (2-0)
+    21.45  Racing Club (ARG)       v Colón de Santa Fe (ARG)  1-2 (1-0)
+  Tue Sep/18
+    20.15  Nacional (URU)          v Liga de Loja (ECU)       1-2 (1-1)
+           Club Aurora (BOL)       v Deportivo Quito (ECU)    1-3 (0-2)
+    22.45  Emelec (ECU)            v Club Olimpia (PAR)       0-0
+           Deportes Tolima (COL)   v Universidad Católica (CHI)  3-1 (2-0)
+  Wed Sep/19
+    20.15  Barcelona (ECU)         v Cobreloa (CHI)           4-3 (3-2)
+    22.45  Cerro Porteño (PAR)     v Mineros de Guayana (VEN)  4-0 (1-0)
+           Millonarios (COL)       v Guaraní (PAR)            1-1 (0-0)
+  Thu Sep/20
+    20.15  Liverpool (URU)         v Envigado FC (COL)        1-0 (1-0)
+
+
+» Round of 16
+  Tue Sep/25
+    19.15  Deportivo Quito (ECU)   v Tigre (ARG)              2-0 (0-0)
+    21.30  Independiente (ARG)     v Liverpool (URU)          2-1 (1-0)
+  Wed Sep/26
+    22.00  Liga de Loja (ECU)      v São Paulo FC (BRA)       1-1 (1-1)
+           Barcelona (ECU)         v Grêmio Porto Alegre (BRA)  0-1 (0-1)
+  Thu Sep/27
+    21.15  Colón de Santa Fe (ARG) v Cerro Porteño (PAR)      1-2 (1-1)
+  Tue Oct/2
+    19.15  Universidad de Chile (CHI) v Emelec (ECU)             2-2 (1-2)
+    21.45  Palmeiras (BRA)         v Millonarios (COL)        3-1 (1-0)
+  Wed Oct/3
+    20.15  Universidad Católica (CHI) v Atlético Goianiense (BRA)  2-0 (0-0)
+  Tue Oct/23
+    20.15  Cerro Porteño (PAR)     v Colón de Santa Fe (ARG)  2-1 (1-1)
+    22.45  Millonarios (COL)       v Palmeiras (BRA)          3-0 (1-0)
+  Wed Oct/24
+    19.30  Atlético Goianiense (BRA) v Universidad Católica (CHI)  3-1 (2-1)
+    22.00  São Paulo FC (BRA)      v Liga de Loja (ECU)       0-0
+           Grêmio Porto Alegre (BRA) v Barcelona (ECU)          2-1 (0-0)
+  Thu Oct/25
+    20.15  Liverpool (URU)         v Independiente (ARG)      1-2 (1-0)
+    22.45  Tigre (ARG)             v Deportivo Quito (ECU)    4-0 (1-0)
+           Emelec (ECU)            v Universidad de Chile (CHI)  0-1 (0-0)
+
+
+» Quarterfinals
+  Tue Oct/30
+    21.50  Grêmio Porto Alegre (BRA) v Millonarios (COL)        1-0 (1-0)
+  Wed Oct/31
+    21.50  Universidad de Chile (CHI) v São Paulo FC (BRA)       0-2 (0-2)
+  Thu Nov/1
+    20.15  Cerro Porteño (PAR)     v Tigre (ARG)              1-0 (1-0)
+    22.45  Independiente (ARG)     v Universidad Católica (CHI)  2-2 (1-1)
+  Wed Nov/7
+    21.50  São Paulo FC (BRA)      v Universidad de Chile (CHI)  5-0 (3-0)
+  Thu Nov/8
+    20.15  Universidad Católica (CHI) v Independiente (ARG)      2-1 (2-1)
+    22.45  Tigre (ARG)             v Cerro Porteño (PAR)      4-2 (2-0)
+  Thu Nov/15
+    22.15  Millonarios (COL)       v Grêmio Porto Alegre (BRA)  3-1 (0-1)
+
+
+» Semifinals
+  Thu Nov/22
+    20.15  Universidad Católica (CHI) v São Paulo FC (BRA)       1-1 (0-1)
+    22.45  Tigre (ARG)             v Millonarios (COL)        0-0
+  Wed Nov/28
+    21.50  São Paulo FC (BRA)      v Universidad Católica (CHI)  0-0
+  Thu Nov/29
+    22.15  Millonarios (COL)       v Tigre (ARG)              1-1 (0-0)
+
+
+» Final
+  Wed Dec/5
+    21.50  Tigre (ARG)             v São Paulo FC (BRA)       0-0
+  Wed Dec/12
+    21.50  São Paulo FC (BRA)      v Tigre (ARG)              2-0 (2-0)

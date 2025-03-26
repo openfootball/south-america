@@ -1,0 +1,302 @@
+= Copa Sudamericana 2024
+
+# Date       Tue Mar/5 - Sat Nov/23 2024 (263d)
+# Teams      56
+# Matches    157
+
+
+
+» Preliminary round
+  Tue Mar/5 2024
+    19.00  Real Tomayapo (BOL)     v Jorge Wilstermann (BOL)  4-3 pen. (0-0)
+           Universidad Católica (CHI) v Coquimbo Unido (CHI)     0-2 (0-0)
+    21.30  Deportivo Garcilaso (PER) v AD Tarma (PER)           4-3 pen. (0-0)
+           Carabobo FC (VEN)       v Metropolitanos FC (VEN)  4-5 pen. (1-1, 0-1)
+    23.00  Deportes Tolima (COL)   v Independiente Medellín (COL)  2-4 pen. (0-0)
+  Wed Mar/6
+    19.00  Universitario de Vinto (BOL) v Nacional Potosí (BOL)    0-2 (0-1)
+           Everton (CHI)           v Unión La Calera (CHI)    0-1 (0-0)
+    21.30  Deportivo Cuenca (ECU)  v Delfín SC (ECU)          2-5 (0-3)
+           Guaraní (PAR)           v Sportivo Luqueño (PAR)   0-1 (0-0)
+           Montevideo Wanderers (URU) v Danubio (URU)            0-1 (0-0)
+    23.00  Alianza FC (COL)        v América de Cali (COL)    2-1 (1-0)
+  Thu Mar/7
+    19.00  Racing (URU)            v Cerro Largo (URU)        2-0 (1-0)
+           Rayo Zuliano (VEN)      v Deportivo La Guaira (VEN)  4-2 pen. (0-0)
+    21.30  Sportivo Ameliano (PAR) v Club Olimpia (PAR)       2-0 (2-0)
+           Universidad Cesar Vallejo (PER) v Sport Huancayo (PER)     2-0 (0-0)
+    23.00  Técnico Universitario (ECU) v Universidad Catolica (ECU)  0-3 (0-2)
+
+
+» Group A
+  Tue Apr/2
+    23.00  Universidad Cesar Vallejo (PER) v Defensa y Justicia (ARG)  0-1 (0-0)
+  Thu Apr/4
+    23.00  Always Ready (BOL)      v Independiente Medellín (COL)  2-0 (1-0)
+  Wed Apr/10
+    19.00  Defensa y Justicia (ARG) v Always Ready (BOL)       1-1 (1-0)
+    23.00  Independiente Medellín (COL) v Universidad Cesar Vallejo (PER)  4-2 (2-0)
+  Thu Apr/25
+    21.00  Always Ready (BOL)      v Universidad Cesar Vallejo (PER)  2-0 (1-0)
+    23.00  Independiente Medellín (COL) v Defensa y Justicia (ARG)  2-1 (2-0)
+  Tue May/7
+    21.00  Universidad Cesar Vallejo (PER) v Independiente Medellín (COL)  1-5 (1-2)
+    23.00  Always Ready (BOL)      v Defensa y Justicia (ARG)  3-0 (1-0)
+  Tue May/14
+    21.00  Defensa y Justicia (ARG) v Independiente Medellín (COL)  1-1 (0-1)
+  Wed May/15
+    23.00  Universidad Cesar Vallejo (PER) v Always Ready (BOL)       2-2 (1-1)
+  Wed May/29
+    21.00  Independiente Medellín (COL) v Always Ready (BOL)       4-0 (0-0)
+           Defensa y Justicia (ARG) v Universidad Cesar Vallejo (PER)  0-1 (0-0)
+
+
+» Group B
+  Wed Apr/3
+    23.00  Alianza FC (COL)        v Unión La Calera (CHI)    0-1 (0-1)
+  Thu Apr/4
+    21.00  Universidad Catolica (ECU) v Cruzeiro (BRA)           0-0
+  Wed Apr/10
+    21.00  Unión La Calera (CHI)   v Universidad Catolica (ECU)  0-1 (0-0)
+  Thu Apr/11
+    21.00  Cruzeiro (BRA)          v Alianza FC (COL)         3-3 (3-0)
+  Tue Apr/23
+    19.00  Unión La Calera (CHI)   v Cruzeiro (BRA)           0-0
+    23.00  Alianza FC (COL)        v Universidad Catolica (ECU)  1-3 (1-0)
+  Tue May/7
+    21.30  Alianza FC (COL)        v Cruzeiro (BRA)           0-3 (0-1)
+  Thu May/9
+    23.00  Universidad Catolica (ECU) v Unión La Calera (CHI)    4-0 (2-0)
+  Thu May/16
+    21.00  Cruzeiro (BRA)          v Unión La Calera (CHI)    1-0 (1-0)
+    23.00  Universidad Catolica (ECU) v Alianza FC (COL)         0-0
+  Thu May/30
+    21.00  Unión La Calera (CHI)   v Alianza FC (COL)         0-1 (0-0)
+           Cruzeiro (BRA)          v Universidad Catolica (ECU)  1-0 (0-0)
+
+
+» Group C
+  Tue Apr/2
+    19.00  Belgrano de Córdoba (ARG) v Internacional (BRA)      0-0
+  Thu Apr/4
+    23.00  Real Tomayapo (BOL)     v Delfín SC (ECU)          0-2 (0-0)
+  Wed Apr/10
+    21.00  Internacional (BRA)     v Real Tomayapo (BOL)      0-0
+  Thu Apr/11
+    23.00  Delfín SC (ECU)         v Belgrano de Córdoba (ARG)  1-1 (0-1)
+  Wed Apr/24
+    21.30  Real Tomayapo (BOL)     v Belgrano de Córdoba (ARG)  0-2 (0-1)
+  Thu Apr/25
+    23.00  Delfín SC (ECU)         v Internacional (BRA)      1-2 (0-1)
+  Thu May/9
+    19.00  Belgrano de Córdoba (ARG) v Delfín SC (ECU)          1-1 (0-0)
+  Wed May/15
+    19.00  Belgrano de Córdoba (ARG) v Real Tomayapo (BOL)      1-0 (1-0)
+  Tue May/28
+    21.30  Internacional (BRA)     v Belgrano de Córdoba (ARG)  1-2 (1-2)
+           Delfín SC (ECU)         v Real Tomayapo (BOL)      4-3 (2-3)
+  Tue Jun/4
+    21.30  Real Tomayapo (BOL)     v Internacional (BRA)      0-2 (0-1)
+  Sat Jun/8
+    21.30  Internacional (BRA)     v Delfín SC (ECU)          1-0 (0-0)
+
+
+» Group D
+  Wed Apr/3
+    21.00  Nacional Potosí (BOL)   v Boca Juniors (ARG)       0-0
+           Sportivo Trinidense (PAR) v Fortaleza CE (BRA)       0-2 (0-1)
+  Tue Apr/9
+    21.00  Boca Juniors (ARG)      v Sportivo Trinidense (PAR)  1-0 (0-0)
+  Wed Apr/10
+    19.00  Fortaleza CE (BRA)      v Nacional Potosí (BOL)    5-0 (3-0)
+  Tue Apr/23
+    21.00  Sportivo Trinidense (PAR) v Nacional Potosí (BOL)    2-0 (1-0)
+  Thu Apr/25
+    21.00  Fortaleza CE (BRA)      v Boca Juniors (ARG)       4-2 (1-1)
+  Wed May/8
+    21.00  Nacional Potosí (BOL)   v Fortaleza CE (BRA)       4-1 (2-1)
+    21.30  Sportivo Trinidense (PAR) v Boca Juniors (ARG)       1-2 (1-0)
+  Tue May/14
+    23.00  Nacional Potosí (BOL)   v Sportivo Trinidense (PAR)  2-1 (0-1)
+  Wed May/15
+    21.00  Boca Juniors (ARG)      v Fortaleza CE (BRA)       1-1 (0-0)
+  Wed May/29
+    21.00  Boca Juniors (ARG)      v Nacional Potosí (BOL)    4-0 (3-0)
+           Fortaleza CE (BRA)      v Sportivo Trinidense (PAR)  2-1 (2-0)
+
+
+» Group E
+  Tue Apr/2
+    21.30  Sportivo Ameliano (PAR) v Athletico Paranaense (BRA)  1-4 (1-3)
+  Wed Apr/3
+    19.00  Rayo Zuliano (VEN)      v Danubio (URU)            0-2 (0-0)
+  Tue Apr/9
+    21.30  Athletico Paranaense (BRA) v Rayo Zuliano (VEN)       6-0 (4-0)
+           Danubio (URU)           v Sportivo Ameliano (PAR)  0-0
+  Wed Apr/24
+    19.00  Danubio (URU)           v Athletico Paranaense (BRA)  0-1 (0-1)
+    23.00  Rayo Zuliano (VEN)      v Sportivo Ameliano (PAR)  0-4 (0-2)
+  Tue May/7
+    21.30  Sportivo Ameliano (PAR) v Danubio (URU)            2-1 (2-1)
+  Wed May/8
+    19.00  Rayo Zuliano (VEN)      v Athletico Paranaense (BRA)  1-5 (0-3)
+  Tue May/14
+    21.00  Sportivo Ameliano (PAR) v Rayo Zuliano (VEN)       1-0 (1-0)
+  Wed May/15
+    19.00  Athletico Paranaense (BRA) v Danubio (URU)            1-2 (0-2)
+  Thu May/30
+    19.00  Athletico Paranaense (BRA) v Sportivo Ameliano (PAR)  0-1 (0-0)
+           Danubio (URU)           v Rayo Zuliano (VEN)       0-0
+
+
+» Group F
+  Tue Apr/2
+    19.00  Club Nacional (PAR)     v Argentinos Juniors (ARG)  2-3 (0-3)
+    21.30  Racing (URU)            v Corinthians SP (BRA)     1-1 (0-0)
+  Tue Apr/9
+    19.00  Argentinos Juniors (ARG) v Racing (URU)             0-3 (0-1)
+           Corinthians SP (BRA)    v Club Nacional (PAR)      4-0 (1-0)
+  Tue Apr/23
+    21.30  Argentinos Juniors (ARG) v Corinthians SP (BRA)     1-0 (1-0)
+  Thu Apr/25
+    19.00  Club Nacional (PAR)     v Racing (URU)             2-2 (1-1)
+  Tue May/7
+    19.00  Racing (URU)            v Argentinos Juniors (ARG)  2-1 (2-1)
+           Club Nacional (PAR)     v Corinthians SP (BRA)     0-2 (0-0)
+  Tue May/14
+    19.00  Racing (URU)            v Club Nacional (PAR)      2-1 (0-0)
+    21.30  Corinthians SP (BRA)    v Argentinos Juniors (ARG)  4-0 (3-0)
+  Tue May/28
+    19.00  Argentinos Juniors (ARG) v Club Nacional (PAR)      2-1 (2-1)
+           Corinthians SP (BRA)    v Racing (URU)             3-0 (2-0)
+
+
+» Gruppe G
+  Wed Apr/3
+    19.00  Cuiabá MT (BRA)         v Lanús (ARG)              1-1 (0-0)
+  Thu Apr/4
+    19.00  Deportivo Garcilaso (PER) v Metropolitanos FC (VEN)  3-2 (1-2)
+  Thu Apr/11
+    19.00  Metropolitanos FC (VEN) v Cuiabá MT (BRA)          0-2 (0-2)
+           Lanús (ARG)             v Deportivo Garcilaso (PER)  2-1 (1-1)
+  Tue Apr/23
+    21.00  Deportivo Garcilaso (PER) v Cuiabá MT (BRA)          1-1 (0-0)
+  Thu Apr/25
+    19.00  Metropolitanos FC (VEN) v Lanús (ARG)              0-2 (0-2)
+  Wed May/8
+    21.00  Cuiabá MT (BRA)         v Metropolitanos FC (VEN)  3-0 (1-0)
+  Thu May/9
+    23.00  Deportivo Garcilaso (PER) v Lanús (ARG)              0-2 (0-1)
+  Wed May/15
+    19.00  Lanús (ARG)             v Metropolitanos FC (VEN)  5-0 (2-0)
+    21.00  Cuiabá MT (BRA)         v Deportivo Garcilaso (PER)  1-1 (0-1)
+  Wed May/29
+    19.00  Lanús (ARG)             v Cuiabá MT (BRA)          0-1 (0-0)
+           Metropolitanos FC (VEN) v Deportivo Garcilaso (PER)  1-1 (1-1)
+
+
+» Gruppe H
+  Wed Apr/3
+    21.00  Red Bull Bragantino (BRA) v Coquimbo Unido (CHI)     1-0 (1-0)
+  Thu Apr/4
+    21.00  Sportivo Luqueño (PAR)  v Racing Club (ARG)        0-2 (0-2)
+  Wed Apr/10
+    21.30  Racing Club (ARG)       v Red Bull Bragantino (BRA)  3-0 (2-0)
+  Thu Apr/11
+    21.00  Coquimbo Unido (CHI)    v Sportivo Luqueño (PAR)   1-0 (1-0)
+  Wed Apr/24
+    19.00  Coquimbo Unido (CHI)    v Racing Club (ARG)        1-2 (1-2)
+    21.00  Red Bull Bragantino (BRA) v Sportivo Luqueño (PAR)   2-1 (1-0)
+  Wed May/8
+    19.00  Sportivo Luqueño (PAR)  v Coquimbo Unido (CHI)     0-0
+  Thu May/9
+    21.00  Red Bull Bragantino (BRA) v Racing Club (ARG)        2-1 (2-1)
+  Thu May/16
+    19.00  Racing Club (ARG)       v Coquimbo Unido (CHI)     3-0 (0-0)
+    21.00  Sportivo Luqueño (PAR)  v Red Bull Bragantino (BRA)  2-3 (2-1)
+  Tue May/28
+    21.30  Coquimbo Unido (CHI)    v Red Bull Bragantino (BRA)  1-1 (1-0)
+           Racing Club (ARG)       v Sportivo Luqueño (PAR)   3-0 (2-0)
+
+
+» Playoffs
+  Tue Jul/16
+    19.00  Huachipato (CHI)        v Racing (URU)             2-3 (1-2)
+    21.30  Rosario Central (ARG)   v Internacional (BRA)      1-0 (0-0)
+  Wed Jul/17
+    19.00  Libertad (PAR)          v Universidad Catolica (ECU)  2-0 (0-0)
+    21.30  Barcelona (ECU)         v Red Bull Bragantino (BRA)  1-1 (1-1)
+           Independiente del Valle (ECU) v Boca Juniors (ARG)       0-0
+  Thu Jul/18
+    19.00  Palestino (CHI)         v Cuiabá MT (BRA)          1-1 (1-0)
+    21.30  Cerro Porteño (PAR)     v Athletico Paranaense (BRA)  1-1 (1-0)
+           LDU Quito (ECU)         v Always Ready (BOL)       3-0 (2-0)
+  Tue Jul/23
+    19.00  Racing (URU)            v Huachipato (CHI)         0-3 pen. (0-1, 0-1)
+    21.30  Internacional (BRA)     v Rosario Central (ARG)    1-1 (0-1)
+  Wed Jul/24
+    19.00  Universidad Catolica (ECU) v Libertad (PAR)           1-1 (1-0)
+    21.30  Red Bull Bragantino (BRA) v Barcelona (ECU)          3-2 (1-2)
+           Boca Juniors (ARG)      v Independiente del Valle (ECU)  1-0 (1-0)
+  Thu Jul/25
+    19.00  Cuiabá MT (BRA)         v Palestino (CHI)          1-2 (0-1)
+    21.30  Athletico Paranaense (BRA) v Cerro Porteño (PAR)      2-1 (1-0)
+           Always Ready (BOL)      v LDU Quito (ECU)          3-1 (1-0)
+
+
+» Round of 16
+  Tue Aug/13
+    19.00  Huachipato (CHI)        v Racing Club (ARG)        0-2 (0-1)
+    21.30  Red Bull Bragantino (BRA) v Corinthians SP (BRA)     1-2 (0-2)
+  Wed Aug/14
+    19.00  Rosario Central (ARG)   v Fortaleza CE (BRA)       1-1 (1-1)
+    21.30  Palestino (CHI)         v Independiente Medellín (COL)  2-2 (0-1)
+           LDU Quito (ECU)         v Lanús (ARG)              1-2 (1-2)
+  Thu Aug/15
+    19.00  Athletico Paranaense (BRA) v Belgrano de Córdoba (ARG)  2-1 (1-1)
+           Libertad (PAR)          v Sportivo Ameliano (PAR)  1-1 (0-1)
+    21.30  Boca Juniors (ARG)      v Cruzeiro (BRA)           1-0 (0-0)
+  Tue Aug/20
+    19.00  Racing Club (ARG)       v Huachipato (CHI)         6-1 (4-0)
+    21.30  Corinthians SP (BRA)    v Red Bull Bragantino (BRA)  5-4 pen. (1-2, 1-0)
+  Wed Aug/21
+    19.00  Fortaleza CE (BRA)      v Rosario Central (ARG)    3-1 (0-0)
+    21.30  Independiente Medellín (COL) v Palestino (CHI)          4-0 (2-0)
+           Lanús (ARG)             v LDU Quito (ECU)          3-1 (1-1)
+  Thu Aug/22
+    19.00  Belgrano de Córdoba (ARG) v Athletico Paranaense (BRA)  0-2 (0-0)
+           Sportivo Ameliano (PAR) v Libertad (PAR)           3-4 pen. (0-0)
+    21.30  Cruzeiro (BRA)          v Boca Juniors (ARG)       5-4 pen. 5-4 a.e.t. (2-1, 2-1)
+
+
+» Quarterfinals
+  Tue Sep/17
+    21.30  Fortaleza CE (BRA)      v Corinthians SP (BRA)     0-2 (0-1)
+  Wed Sep/18
+    21.30  Lanús (ARG)             v Independiente Medellín (COL)  0-0
+  Thu Sep/19
+    21.30  Athletico Paranaense (BRA) v Racing Club (ARG)        1-0 (1-0)
+           Libertad (PAR)          v Cruzeiro (BRA)           0-2 (0-2)
+  Tue Sep/24
+    21.30  Corinthians SP (BRA)    v Fortaleza CE (BRA)       3-0 (0-0)
+  Wed Sep/25
+    21.30  Independiente Medellín (COL) v Lanús (ARG)              5-6 pen. (1-1, 0-1)
+  Thu Sep/26
+    21.30  Racing Club (ARG)       v Athletico Paranaense (BRA)  4-1 (3-0)
+           Cruzeiro (BRA)          v Libertad (PAR)           1-1 (1-0)
+
+
+» Semifinals
+  Wed Oct/23
+    19.00  Cruzeiro (BRA)          v Lanús (ARG)              1-1 (0-0)
+  Thu Oct/24
+    21.30  Corinthians SP (BRA)    v Racing Club (ARG)        2-2 (2-1)
+  Wed Oct/30
+    19.00  Lanús (ARG)             v Cruzeiro (BRA)           0-1 (0-1)
+  Thu Oct/31
+    21.30  Racing Club (ARG)       v Corinthians SP (BRA)     2-1 (2-1)
+
+
+» Final
+  Sat Nov/23
+    17.00  Racing Club (ARG)       v Cruzeiro (BRA)           3-1 (2-0)

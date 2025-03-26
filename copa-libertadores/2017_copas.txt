@@ -1,0 +1,179 @@
+= Copa Sudamericana 2017
+
+# Date       Tue Feb/28 - Wed Dec/13 2017 (288d)
+# Teams      54
+# Matches    106
+
+
+
+» Round 1
+  Tue Feb/28 2017
+    19.15  O'Higgins (CHI)         v Fuerza Amarilla (ECU)    1-0 (0-0)
+           Boston River (URU)      v Comerciantes Unidos (PER)  3-1 (3-1)
+    21.45  Deportivo Cali (COL)    v Sportivo Luqueño (PAR)   1-0 (0-0)
+           LDU Quito (ECU)         v Defensor Sporting (URU)  2-2 (1-1)
+  Wed Mar/1
+    19.15  Nacional Potosí (BOL)   v Sport Huancayo (PER)     3-1 (1-1)
+           Deportivo Anzoátegui (VEN) v Huracán (ARG)            3-0 (3-0)
+    21.45  Palestino (CHI)         v Atlético Venezuela (VEN)  0-1 (0-0)
+           Racing Club (ARG)       v Águilas Doradas (COL)    1-0 (0-0)
+  Thu Mar/2
+    18.00  Juan Aurich (PER)       v Arsenal de Sarandí (ARG)  0-2 (0-2)
+    19.15  Cerro Porteño (PAR)     v Caracas FC (VEN)         1-1 (1-0)
+    21.45  Deportes Tolima (COL)   v Bolívar (BOL)            2-1 (0-1)
+  Tue Apr/4
+    19.15  Petrolero de Yacuiba (BOL) v Universidad Catolica (ECU)  1-3 (1-2)
+    21.45  Cruzeiro (BRA)          v Club Nacional (PAR)      2-1 (1-1)
+           Independiente (ARG)     v Alianza Lima (PER)       0-0
+  Wed Apr/5
+    19.15  Ponte Preta (BRA)       v Gimnasia de La Plata (ARG)  0-0
+           Everton (CHI)           v Patriotas FC (COL)       1-0 (0-0)
+           Defensa y Justicia (ARG) v São Paulo FC (BRA)       0-0
+    21.45  Corinthians SP (BRA)    v Universidad de Chile (CHI)  2-0 (1-0)
+           Fluminense RJ (BRA)     v Liverpool (URU)          2-0 (2-0)
+  Thu Apr/6
+    19.15  Sport Recife PE (BRA)   v Danubio (URU)            3-0 (2-0)
+           Estudiantes de Caracas (VEN) v Sol de América (PAR)     2-3 (1-2)
+    21.45  Oriente Petrolero (BOL) v Deportivo Cuenca (ECU)   1-1 (1-0)
+  Tue May/9
+    19.15  Sport Huancayo (PER)    v Nacional Potosí (BOL)    2-1 (0-1)
+    21.45  Sportivo Luqueño (PAR)  v Deportivo Cali (COL)     2-1 (2-1)
+           Gimnasia de La Plata (ARG) v Ponte Preta (BRA)        1-1 (1-1)
+  Wed May/10
+    19.15  Atlético Venezuela (VEN) v Palestino (CHI)          6-7 pen. (0-1, 0-0)
+           Club Nacional (PAR)     v Cruzeiro (BRA)           3-2 pen. (2-1, 1-1)
+    21.45  Universidad de Chile (CHI) v Corinthians SP (BRA)     1-2 (0-1)
+           Liverpool (URU)         v Fluminense RJ (BRA)      1-0 (1-0)
+  Thu May/11
+    19.15  Arsenal de Sarandí (ARG) v Juan Aurich (PER)        6-1 (2-0)
+           Caracas FC (VEN)        v Cerro Porteño (PAR)      1-2 (0-0)
+    21.45  Danubio (URU)           v Sport Recife PE (BRA)    2-4 pen. (3-0, 2-0)
+           São Paulo FC (BRA)      v Defensa y Justicia (ARG)  1-1 (1-1)
+  Tue May/30
+    19.15  Universidad Catolica (ECU) v Petrolero de Yacuiba (BOL)  3-0 (1-0)
+    21.45  Defensor Sporting (URU) v LDU Quito (ECU)          1-2 (0-1)
+           Patriotas FC (COL)      v Everton (CHI)            4-3 pen. (1-0, 1-0)
+  Wed May/31
+    19.15  Huracán (ARG)           v Deportivo Anzoátegui (VEN)  4-0 (1-0)
+           Sol de América (PAR)    v Estudiantes de Caracas (VEN)  7-1 (4-1)
+    21.45  Fuerza Amarilla (ECU)   v O'Higgins (CHI)          2-0 (1-0)
+           Alianza Lima (PER)      v Independiente (ARG)      0-1 (0-1)
+  Thu Jun/1
+    19.15  Comerciantes Unidos (PER) v Boston River (URU)       1-1 (0-1)
+           Bolívar (BOL)           v Deportes Tolima (COL)    1-0 (1-0)
+    21.45  Águilas Doradas (COL)   v Racing Club (ARG)        1-1 (0-1)
+           Deportivo Cuenca (ECU)  v Oriente Petrolero (BOL)  7-8 pen. (1-1, 1-0)
+
+
+» Round 2
+  Tue Jun/27
+    21.45  Fuerza Amarilla (ECU)   v Santa Fe (COL)           1-1 (1-1)
+  Wed Jun/28
+    19.15  Defensa y Justicia (ARG) v Chapecoense (BRA)        1-0 (0-0)
+    21.45  Patriotas FC (COL)      v Corinthians SP (BRA)     1-1 (1-0)
+  Thu Jun/29
+    19.15  Ponte Preta (BRA)       v Sol de América (PAR)     1-0 (0-0)
+    21.45  Racing Club (ARG)       v Independiente Medellín (COL)  3-1 (2-0)
+           Fluminense RJ (BRA)     v Universidad Catolica (ECU)  4-0 (3-0)
+  Wed Jul/5
+    21.45  Palestino (CHI)         v Flamengo RJ (BRA)        2-5 (0-0)
+  Thu Jul/6
+    21.45  Sport Recife PE (BRA)   v Arsenal de Sarandí (ARG)  2-0 (0-0)
+  Tue Jul/11
+    19.15  Huracán (ARG)           v Libertad (PAR)           1-5 (0-2)
+    21.45  Oriente Petrolero (BOL) v Atlético Tucumán (ARG)   2-3 (1-0)
+           Cerro Porteño (PAR)     v Boston River (URU)       2-1 (0-1)
+  Wed Jul/12
+    19.15  Bolívar (BOL)           v LDU Quito (ECU)          1-0 (0-0)
+    21.45  Independiente (ARG)     v Deportes Iquique (CHI)   4-2 (4-0)
+           Club Nacional (PAR)     v Club Olimpia (PAR)       1-1 (1-1)
+  Thu Jul/13
+    19.15  Nacional Potosí (BOL)   v Estudiantes (ARG)        0-1 (0-0)
+    21.45  Deportivo Cali (COL)    v Atlético Junior (COL)    1-1 (1-0)
+  Tue Jul/25
+    19.15  Chapecoense (BRA)       v Defensa y Justicia (ARG)  4-2 pen. (1-0, 1-0)
+    21.45  Santa Fe (COL)          v Fuerza Amarilla (ECU)    1-0 (0-0)
+  Wed Jul/26
+    19.15  Sol de América (PAR)    v Ponte Preta (BRA)        1-3 (1-2)
+           Universidad Catolica (ECU) v Fluminense RJ (BRA)      1-2 (1-1)
+    21.45  Boston River (URU)      v Cerro Porteño (PAR)      1-4 (0-1)
+           Corinthians SP (BRA)    v Patriotas FC (COL)       2-0 (1-0)
+  Thu Jul/27
+    19.15  Arsenal de Sarandí (ARG) v Sport Recife PE (BRA)    2-1 (1-0)
+    21.45  Independiente Medellín (COL) v Racing Club (ARG)        2-3 (2-1)
+  Tue Aug/1
+    19.15  Libertad (PAR)          v Huracán (ARG)            2-0 (0-0)
+    21.45  Atlético Tucumán (ARG)  v Oriente Petrolero (BOL)  3-0 (1-0)
+  Wed Aug/2
+    19.15  LDU Quito (ECU)         v Bolívar (BOL)            6-5 pen. (1-0, 0-0)
+    21.45  Deportes Iquique (CHI)  v Independiente (ARG)      1-2 (1-1)
+           Club Olimpia (PAR)      v Club Nacional (PAR)      2-2 (1-1)
+  Thu Aug/3
+    19.15  Estudiantes (ARG)       v Nacional Potosí (BOL)    2-0 (1-0)
+    21.45  Atlético Junior (COL)   v Deportivo Cali (COL)     3-2 pen. (1-1, 0-1)
+  Wed Aug/9
+    21.45  Flamengo RJ (BRA)       v Palestino (CHI)          5-0 (4-0)
+
+
+» Round of 16
+  Tue Aug/22
+    21.45  Atlético Tucumán (ARG)  v Independiente (ARG)      1-0 (1-0)
+  Wed Aug/23
+    21.45  Club Nacional (PAR)     v Estudiantes (ARG)        1-0 (0-0)
+  Thu Aug/24
+    21.45  Libertad (PAR)          v Santa Fe (COL)           1-0 (0-0)
+  Tue Sep/12
+    21.45  Cerro Porteño (PAR)     v Atlético Junior (COL)    0-0
+  Wed Sep/13
+    19.15  Chapecoense (BRA)       v Flamengo RJ (BRA)        0-0
+           Sport Recife PE (BRA)   v Ponte Preta (BRA)        3-1 (2-0)
+    21.45  Corinthians SP (BRA)    v Racing Club (ARG)        1-1 (1-0)
+  Thu Sep/14
+    19.15  Fluminense RJ (BRA)     v LDU Quito (ECU)          1-0 (1-0)
+  Tue Sep/12
+    21.45  Independiente (ARG)     v Atlético Tucumán (ARG)   2-0 (1-0)
+  Thu Sep/14
+    21.45  Santa Fe (COL)          v Libertad (PAR)           1-1 (0-1)
+  Tue Sep/19
+    19.15  Estudiantes (ARG)       v Club Nacional (PAR)      0-1 (0-0)
+    21.45  Atlético Junior (COL)   v Cerro Porteño (PAR)      3-1 (1-0)
+  Wed Sep/20
+    19.15  Flamengo RJ (BRA)       v Chapecoense (BRA)        4-0 (2-0)
+           Ponte Preta (BRA)       v Sport Recife PE (BRA)    1-0 (1-0)
+    21.45  Racing Club (ARG)       v Corinthians SP (BRA)     0-0
+  Thu Sep/21
+    19.15  LDU Quito (ECU)         v Fluminense RJ (BRA)      2-1 (0-0)
+
+
+» Quarterfinals
+  Tue Oct/24
+    22.45  Libertad (PAR)          v Racing Club (ARG)        1-0 (1-0)
+  Wed Oct/25
+    20.15  Club Nacional (PAR)     v Independiente (ARG)      1-4 (1-1)
+    21.45  Fluminense RJ (BRA)     v Flamengo RJ (BRA)        0-1 (0-1)
+  Thu Oct/26
+    21.45  Sport Recife PE (BRA)   v Atlético Junior (COL)    0-2 (0-0)
+  Wed Nov/1
+    20.15  Racing Club (ARG)       v Libertad (PAR)           0-0
+    21.45  Flamengo RJ (BRA)       v Fluminense RJ (BRA)      3-3 (1-2)
+  Thu Nov/2
+    20.15  Independiente (ARG)     v Club Nacional (PAR)      2-0 (0-0)
+    22.45  Atlético Junior (COL)   v Sport Recife PE (BRA)    0-0
+
+
+» Semifinals
+  Tue Nov/21
+    22.15  Libertad (PAR)          v Independiente (ARG)      1-0 (1-0)
+  Thu Nov/23
+    21.45  Flamengo RJ (BRA)       v Atlético Junior (COL)    2-1 (0-1)
+  Tue Nov/28
+    22.15  Independiente (ARG)     v Libertad (PAR)           3-1 (3-1)
+  Thu Nov/30
+    22.30  Atlético Junior (COL)   v Flamengo RJ (BRA)        0-2 (0-0)
+
+
+» Final
+  Wed Dec/6
+    21.45  Independiente (ARG)     v Flamengo RJ (BRA)        2-1 (1-1)
+  Wed Dec/13
+    21.45  Flamengo RJ (BRA)       v Independiente (ARG)      1-1 (1-1)

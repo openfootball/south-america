@@ -1,0 +1,187 @@
+= Copa Sudamericana 2018
+
+# Date       Tue Feb/13 - Wed Dec/12 2018 (302d)
+# Teams      54
+# Matches    106
+
+
+
+» Round 1
+  Tue Feb/13 2018
+    20.15  Sportivo Luqueño (PAR)  v Deportivo Cuenca (ECU)   2-0 (2-0)
+           Universidad Técnica (PER) v Rampla Juniors (URU)     2-0 (1-0)
+    22.30  Zamora FC (VEN)         v Colón de Santa Fe (ARG)  0-2 (0-1)
+  Thu Feb/15
+    20.15  Club Nacional (PAR)     v Mineros de Guayana (VEN)  0-0
+    22.30  Defensa y Justicia (ARG) v América de Cali (COL)    0-1 (0-1)
+           Unión Española (CHI)    v Sport Huancayo (PER)     0-0
+  Tue Feb/20
+    19.15  Sport Rosario (PER)     v CA Cerro (URU)           0-0
+    21.30  Barcelona (ECU)         v General Díaz (PAR)       0-0
+  Wed Feb/21
+    19.15  Lanús (ARG)             v Sporting Cristal (PER)   4-2 (3-1)
+  Thu Feb/22
+    19.15  El Nacional (ECU)       v Club San José (BOL)      3-2 (2-1)
+    21.30  Everton (CHI)           v Caracas FC (VEN)         1-2 (0-0)
+  Tue Apr/10
+    19.15  LDU Quito (ECU)         v CD Guabirá (BOL)         2-1 (2-0)
+           Jaguares de Córdoba (COL) v Boston River (URU)       2-1 (0-0)
+    21.30  Deportivo Cali (COL)    v Danubio (URU)            3-0 (1-0)
+  Wed Apr/11
+    19.15  San Lorenzo (ARG)       v Atlético Mineiro (BRA)   1-0 (1-0)
+    21.45  Blooming (BOL)          v Bahia BA (BRA)           1-0 (0-0)
+           Fluminense RJ (BRA)     v Nacional Potosí (BOL)    3-0 (0-0)
+  Thu Apr/12
+    19.15  Athletico Paranaense (BRA) v Newell's Old Boys (ARG)  3-0 (3-0)
+           Audax Italiano (CHI)    v Botafogo RJ (BRA)        1-2 (1-0)
+    21.30  Sol de América (PAR)    v Independiente Medellín (COL)  2-0 (1-0)
+           Rosario Central (ARG)   v São Paulo FC (BRA)       0-0
+  Wed Apr/18
+    19.15  Estudiantes de Mérida (VEN) v Deportes Temuco (CHI)    1-1 (0-0)
+  Tue Mar/6
+    19.15  Club San José (BOL)     v El Nacional (ECU)        1-1 (0-0)
+    21.45  Caracas FC (VEN)        v Everton (CHI)            0-1 (0-0)
+           Colón de Santa Fe (ARG) v Zamora FC (VEN)          1-0 (0-0)
+  Wed Mar/7
+    19.15  CA Cerro (URU)          v Sport Rosario (PER)      2-0 (0-0)
+           General Díaz (PAR)      v Barcelona (ECU)          2-1 (0-0)
+    21.45  Sporting Cristal (PER)  v Lanús (ARG)              2-1 (1-0)
+           Deportivo Cuenca (ECU)  v Sportivo Luqueño (PAR)   6-5 pen. (2-0, 0-0)
+  Thu Mar/8
+    19.15  Mineros de Guayana (VEN) v Club Nacional (PAR)      3-4 pen. (0-0)
+           Rampla Juniors (URU)    v Universidad Técnica (PER)  4-0 (2-0)
+    21.45  América de Cali (COL)   v Defensa y Justicia (ARG)  0-3 (0-1)
+           Sport Huancayo (PER)    v Unión Española (CHI)     3-0 (1-0)
+  Tue May/8
+    19.15  CD Guabirá (BOL)        v LDU Quito (ECU)          3-2 (1-0)
+    21.45  Danubio (URU)           v Deportivo Cali (COL)     3-2 (1-0)
+           Atlético Mineiro (BRA)  v San Lorenzo (ARG)        0-0
+  Wed May/9
+    19.15  Deportes Temuco (CHI)   v Estudiantes de Mérida (VEN)  2-0 (1-0)
+    21.45  São Paulo FC (BRA)      v Rosario Central (ARG)    1-0 (0-0)
+           Botafogo RJ (BRA)       v Audax Italiano (CHI)     1-1 (0-0)
+  Thu May/10
+    19.15  Newell's Old Boys (ARG) v Athletico Paranaense (BRA)  2-1 (1-0)
+           Boston River (URU)      v Jaguares de Córdoba (COL)  3-0 (1-0)
+    21.45  Independiente Medellín (COL) v Sol de América (PAR)     3-1 (1-1)
+           Nacional Potosí (BOL)   v Fluminense RJ (BRA)      2-0 (0-0)
+  Wed May/23
+    21.45  Bahia BA (BRA)          v Blooming (BOL)           4-0 (1-0)
+
+
+» Round 2
+  Tue Jul/17
+    19.30  Caracas FC (VEN)        v Sport Huancayo (PER)     2-0 (1-0)
+    21.45  Lanús (ARG)             v Atlético Junior (COL)    1-0 (1-0)
+  Wed Jul/18
+    19.30  Defensa y Justicia (ARG) v El Nacional (ECU)        2-0 (0-0)
+    21.45  Sol de América (PAR)    v Nacional (URU)           0-0
+           Deportivo Cali (COL)    v Bolívar (BOL)            4-0 (1-0)
+  Thu Jul/19
+    19.30  Deportivo Cuenca (ECU)  v Jorge Wilstermann (BOL)  2-2 (2-0)
+    21.45  Rampla Juniors (URU)    v Santa Fe (COL)           0-0
+  Wed Jul/25
+    19.30  LDU Quito (ECU)         v Vasco da Gama RJ (BRA)   3-1 (2-0)
+    21.45  Boston River (URU)      v Banfield (ARG)           1-0 (0-0)
+           Bahia BA (BRA)          v CA Cerro (URU)           2-0 (0-0)
+  Thu Jul/26
+    19.30  Athletico Paranaense (BRA) v Peñarol (URU)            2-0 (0-0)
+    21.45  General Díaz (PAR)      v Millonarios (COL)        1-1 (0-0)
+           San Lorenzo (ARG)       v Deportes Temuco (CHI)    3-0    [awarded]
+  Wed Aug/1
+    19.30  Club Nacional (PAR)     v Botafogo RJ (BRA)        2-1 (1-1)
+  Thu Aug/2
+    19.30  São Paulo FC (BRA)      v Colón de Santa Fe (ARG)  0-1 (0-0)
+    21.45  Fluminense RJ (BRA)     v Defensor Sporting (URU)  2-0 (0-0)
+  Tue Jul/24
+    19.30  Sport Huancayo (PER)    v Caracas FC (VEN)         3-4 (2-1)
+    21.45  Atlético Junior (COL)   v Lanús (ARG)              3-2 pen. (1-0, 0-0)
+  Tue Jul/31
+    19.30  Jorge Wilstermann (BOL) v Deportivo Cuenca (ECU)   5-6 pen. (2-2, 1-1)
+           El Nacional (ECU)       v Defensa y Justicia (ARG)  1-0 (1-0)
+    21.45  Santa Fe (COL)          v Rampla Juniors (URU)     2-0 (0-0)
+  Wed Aug/1
+    21.45  Banfield (ARG)          v Boston River (URU)       2-0 (0-0)
+  Thu Aug/2
+    21.45  Bolívar (BOL)           v Deportivo Cali (COL)     1-2 (0-0)
+  Tue Aug/7
+    19.30  Peñarol (URU)           v Athletico Paranaense (BRA)  1-4 (0-1)
+  Wed Aug/8
+    21.45  CA Cerro (URU)          v Bahia BA (BRA)           1-1 (0-1)
+  Thu Aug/9
+    19.30  Vasco da Gama RJ (BRA)  v LDU Quito (ECU)          1-0 (0-0)
+  Tue Aug/14
+    21.45  Nacional (URU)          v Sol de América (PAR)     1-0 (1-0)
+  Wed Aug/15
+    19.30  Deportes Temuco (CHI)   v San Lorenzo (ARG)        1-0 (0-0)
+    21.45  Millonarios (COL)       v General Díaz (PAR)       4-0 (2-0)
+  Thu Aug/16
+    19.30  Botafogo RJ (BRA)       v Club Nacional (PAR)      2-0 (1-0)
+    21.45  Colón de Santa Fe (ARG) v São Paulo FC (BRA)       5-3 pen. (0-1, 0-0)
+           Defensor Sporting (URU) v Fluminense RJ (BRA)      0-1 (0-0)
+
+
+» Round of 16
+  Tue Aug/21
+    19.30  Defensa y Justicia (ARG) v Banfield (ARG)           0-0
+  Wed Aug/22
+    19.30  San Lorenzo (ARG)       v Nacional (URU)           3-1 (2-0)
+    21.45  LDU Quito (ECU)         v Deportivo Cali (COL)     1-0 (1-0)
+  Tue Sep/18
+    21.45  Santa Fe (COL)          v Millonarios (COL)        0-0
+  Wed Sep/19
+    19.30  Caracas FC (VEN)        v Athletico Paranaense (BRA)  0-2 (0-1)
+  Thu Sep/20
+    19.30  Deportivo Cuenca (ECU)  v Fluminense RJ (BRA)      0-2 (0-1)
+    21.45  Bahia BA (BRA)          v Botafogo RJ (BRA)        2-1 (1-0)
+  Wed Sep/26
+    21.15  Atlético Junior (COL)   v Colón de Santa Fe (ARG)  1-0 (0-0)
+  Wed Sep/19
+    21.45  Deportivo Cali (COL)    v LDU Quito (ECU)          3-1 pen. (1-0, 1-0)
+  Tue Sep/25
+    21.15  Nacional (URU)          v San Lorenzo (ARG)        2-0 (1-0)
+  Thu Sep/27
+    21.15  Banfield (ARG)          v Defensa y Justicia (ARG)  0-2 (0-0)
+  Tue Oct/2
+    21.45  Millonarios (COL)       v Santa Fe (COL)           3-5 pen. (0-0)
+  Wed Oct/3
+    19.30  Athletico Paranaense (BRA) v Caracas FC (VEN)         2-1 (1-0)
+    21.45  Botafogo RJ (BRA)       v Bahia BA (BRA)           4-5 pen. (2-1, 2-1)
+  Thu Oct/4
+    19.30  Colón de Santa Fe (ARG) v Atlético Junior (COL)    1-1 (0-0)
+           Fluminense RJ (BRA)     v Deportivo Cuenca (ECU)   2-0 (1-0)
+
+
+» Quarterfinals
+  Tue Oct/23
+    21.45  Santa Fe (COL)          v Deportivo Cali (COL)     1-1 (1-1)
+  Wed Oct/24
+    19.30  Fluminense RJ (BRA)     v Nacional (URU)           1-1 (1-0)
+    21.45  Bahia BA (BRA)          v Athletico Paranaense (BRA)  0-1 (0-0)
+  Thu Oct/25
+    21.45  Atlético Junior (COL)   v Defensa y Justicia (ARG)  2-0 (0-0)
+  Tue Oct/30
+    21.45  Deportivo Cali (COL)    v Santa Fe (COL)           1-2 (0-2)
+  Wed Oct/31
+    19.30  Nacional (URU)          v Fluminense RJ (BRA)      0-1 (0-0)
+    21.45  Athletico Paranaense (BRA) v Bahia BA (BRA)           4-1 pen. (0-1, 0-1)
+  Thu Nov/1
+    21.45  Defensa y Justicia (ARG) v Atlético Junior (COL)    3-1 (2-0)
+
+
+» Semifinals
+  Wed Nov/7
+    21.45  Athletico Paranaense (BRA) v Fluminense RJ (BRA)      2-0 (1-0)
+  Thu Nov/8
+    22.45  Santa Fe (COL)          v Atlético Junior (COL)    0-2 (0-1)
+  Wed Nov/28
+    21.45  Fluminense RJ (BRA)     v Athletico Paranaense (BRA)  0-2 (0-1)
+  Thu Nov/29
+    22.45  Atlético Junior (COL)   v Santa Fe (COL)           1-0 (1-0)
+
+
+» Final
+  Wed Dec/5
+    22.45  Atlético Junior (COL)   v Athletico Paranaense (BRA)  1-1 (0-0)
+  Wed Dec/12
+    21.45  Athletico Paranaense (BRA) v Atlético Junior (COL)    4-3 pen. 1-1 a.e.t. (1-1, 1-0)

@@ -1,0 +1,159 @@
+= Copa Sudamericana 2014
+
+# Date       Tue Aug/19 - Wed Dec/10 2014 (113d)
+# Teams      46
+# Matches    92
+
+
+
+» Round 1
+  Tue Aug/19 2014
+    18.00  Universitario de Sucre (BOL) v Deportes Iquique (CHI)   2-0 (1-0)
+           Rentistas (URU)         v Cerro Porteño (PAR)      0-2 (0-1)
+    20.15  Águilas Pereira (COL)   v Emelec (ECU)             1-1 (0-1)
+           Universidad Catolica (ECU) v Deportivo Anzoátegui (VEN)  1-1 (1-0)
+    22.30  Huachipato (CHI)        v Club San José (BOL)      3-1 (1-0)
+  Wed Aug/20
+    18.00  Nacional Potosí (BOL)   v Libertad (PAR)           1-0 (1-0)
+           Universidad Técnica (PER) v Deportivo Cali (COL)     0-0
+    20.15  General Díaz (PAR)      v Cobresal (CHI)           2-1 (1-1)
+           Peñarol (URU)           v Jorge Wilstermann (BOL)  2-0 (1-0)
+    22.30  Deportivo La Guaira (VEN) v Atlético Nacional (COL)  1-1 (0-0)
+  Thu Aug/21
+    15.00  Inti Gas (PER)          v Caracas FC (VEN)         0-1 (0-0)
+    17.15  Deportivo Capiatá (PAR) v Danubio (URU)            3-1 (1-0)
+    19.30  Barcelona (ECU)         v Alianza Lima (PER)       3-0 (1-0)
+           Trujillanos FC (VEN)    v Independiente del Valle (ECU)  0-1 (0-0)
+    21.50  Universidad Católica (CHI) v River Plate (URU)        0-1 (0-0)
+           Millonarios (COL)       v Universidad Cesar Vallejo (PER)  1-2 (1-2)
+  Tue Aug/26
+    17.00  Club San José (BOL)     v Huachipato (CHI)         2-3 (0-2)
+    19.30  Emelec (ECU)            v Águilas Pereira (COL)    2-1 (1-0)
+           Deportivo Anzoátegui (VEN) v Universidad Catolica (ECU)  4-5 pen. (1-1, 1-0)
+    22.00  Deportes Iquique (CHI)  v Universitario de Sucre (BOL)  1-0 (0-0)
+           Cerro Porteño (PAR)     v Rentistas (URU)          0-1 (0-1)
+  Wed Aug/27
+    18.00  Cobresal (CHI)          v General Díaz (PAR)       2-2 (1-2)
+           Independiente del Valle (ECU) v Trujillanos FC (VEN)     1-1 (0-0)
+    20.30  Libertad (PAR)          v Nacional Potosí (BOL)    3-0 (2-0)
+           River Plate (URU)       v Universidad Católica (CHI)  3-0 (0-0)
+    23.00  Alianza Lima (PER)      v Barcelona (ECU)          0-0
+           Atlético Nacional (COL) v Deportivo La Guaira (VEN)  1-0 (0-0)
+  Thu Aug/28
+    17.00  Danubio (URU)           v Deportivo Capiatá (PAR)  2-2 (1-0)
+    19.30  Caracas FC (VEN)        v Inti Gas (PER)           1-0 (1-0)
+           Universidad Cesar Vallejo (PER) v Millonarios (COL)        2-2 (2-1)
+    22.00  Jorge Wilstermann (BOL) v Peñarol (URU)            0-4 (0-1)
+           Deportivo Cali (COL)    v Universidad Técnica (PER)  3-0 (2-0)
+
+
+» Round 2
+  Wed Aug/27
+    22.00  Internacional (BRA)     v Bahia BA (BRA)           0-2 (0-1)
+  Thu Aug/28
+    18.00  Fluminense RJ (BRA)     v Goiás GO (BRA)           2-1 (2-0)
+    20.00  Criciúma SC (BRA)       v São Paulo FC (BRA)       2-1 (2-1)
+    22.00  Sport Recife PE (BRA)   v Vitória BA (BRA)         0-1 (0-1)
+  Wed Sep/3
+    14.00  Gimnasia de La Plata (ARG) v Estudiantes (ARG)        0-0
+    21.15  Godoy Cruz (ARG)        v River Plate (URU)        0-1 (0-0)
+  Thu Sep/4
+    21.15  Rosario Central (ARG)   v Boca Juniors (ARG)       1-1 (0-1)
+  Wed Sep/10
+    21.15  Atlético Nacional (COL) v General Díaz (PAR)       0-2 (0-2)
+  Thu Sep/11
+    21.15  Barcelona (ECU)         v Libertad (PAR)           1-0 (1-0)
+  Tue Sep/16
+    19.00  Independiente del Valle (ECU) v Cerro Porteño (PAR)      1-0 (0-0)
+    21.15  Deportivo Capiatá (PAR) v Caracas FC (VEN)         1-1 (1-0)
+    21.30  Peñarol (URU)           v Deportivo Cali (COL)     2-2 (0-0)
+  Wed Sep/17
+    18.00  Huachipato (CHI)        v Universidad Catolica (ECU)  2-0 (1-0)
+    19.00  Universitario de Sucre (BOL) v Universidad Cesar Vallejo (PER)  2-2 (0-0)
+  Thu Sep/18
+    21.15  Emelec (ECU)            v River Plate (URU)        2-1 (1-0)
+  Wed Sep/3
+    22.00  Goiás GO (BRA)          v Fluminense RJ (BRA)      1-0 (0-0)
+           Vitória BA (BRA)        v Sport Recife PE (BRA)    2-1 (1-0)
+  Thu Sep/4
+    20.00  São Paulo FC (BRA)      v Criciúma SC (BRA)        2-0 (2-0)
+    22.00  Bahia BA (BRA)          v Internacional (BRA)      1-1 (0-1)
+  Tue Sep/16
+    19.00  Estudiantes (ARG)       v Gimnasia de La Plata (ARG)  1-0 (0-0)
+  Wed Sep/17
+    21.15  River Plate (URU)       v Godoy Cruz (ARG)         2-0 (2-0)
+           Libertad (PAR)          v Barcelona (ECU)          2-0 (2-0)
+  Thu Sep/18
+    21.15  Boca Juniors (ARG)      v Rosario Central (ARG)    3-0 (1-0)
+  Tue Sep/23
+    19.00  Universidad Cesar Vallejo (PER) v Universitario de Sucre (BOL)  3-0 (0-0)
+    21.15  Cerro Porteño (PAR)     v Independiente del Valle (ECU)  3-0 (1-0)
+  Wed Sep/24
+    19.00  Caracas FC (VEN)        v Deportivo Capiatá (PAR)  1-3 (0-1)
+           Universidad Catolica (ECU) v Huachipato (CHI)         1-0 (1-0)
+    21.15  Deportivo Cali (COL)    v Peñarol (URU)            0-1 (0-1)
+  Thu Sep/25
+    21.15  River Plate (URU)       v Emelec (ECU)             1-1 (1-1)
+    21.30  General Díaz (PAR)      v Atlético Nacional (COL)  1-3 (0-1)
+
+
+» Round of 16
+  Tue Sep/30
+    20.30  São Paulo FC (BRA)      v Huachipato (CHI)         1-0 (0-0)
+  Wed Oct/1
+    19.30  Bahia BA (BRA)          v Universidad Cesar Vallejo (PER)  2-0 (0-0)
+    22.00  Atlético Nacional (COL) v Vitória BA (BRA)         2-2 (1-1)
+           Emelec (ECU)            v Goiás GO (BRA)           1-0 (0-0)
+  Tue Oct/14
+    19.15  Estudiantes (ARG)       v Peñarol (URU)            2-1 (1-0)
+    21.30  Cerro Porteño (PAR)     v Lanús (ARG)              2-1 (0-0)
+  Wed Oct/15
+    21.15  Boca Juniors (ARG)      v Deportivo Capiatá (PAR)  0-1 (0-1)
+  Thu Oct/16
+    21.30  Libertad (PAR)          v River Plate (URU)        1-3 (1-0)
+  Wed Oct/15
+    19.30  Huachipato (CHI)        v São Paulo FC (BRA)       2-3 (1-2)
+    22.00  Goiás GO (BRA)          v Emelec (ECU)             5-6 pen. (1-0, 1-0)
+           Universidad Cesar Vallejo (PER) v Bahia BA (BRA)           7-6 pen. (2-0, 0-0)
+  Thu Oct/16
+    19.15  Vitória BA (BRA)        v Atlético Nacional (COL)  0-1 (0-0)
+  Tue Oct/21
+    22.15  Lanús (ARG)             v Cerro Porteño (PAR)      1-1 (1-1)
+  Wed Oct/22
+    20.00  Peñarol (URU)           v Estudiantes (ARG)        1-3 pen. (2-1, 2-0)
+    22.30  River Plate (URU)       v Libertad (PAR)           2-0 (1-0)
+  Thu Oct/23
+    22.15  Deportivo Capiatá (PAR) v Boca Juniors (ARG)       3-4 pen. (0-1, 0-0)
+
+
+» Quarterfinals
+  Wed Oct/29
+    21.15  Estudiantes (ARG)       v River Plate (URU)        1-2 (1-0)
+    23.30  Atlético Nacional (COL) v Universidad Cesar Vallejo (PER)  1-0 (0-0)
+  Thu Oct/30
+    20.15  São Paulo FC (BRA)      v Emelec (ECU)             4-2 (3-0)
+    22.30  Boca Juniors (ARG)      v Cerro Porteño (PAR)      1-0 (0-0)
+  Wed Nov/5
+    22.00  Emelec (ECU)            v São Paulo FC (BRA)       3-2 (1-2)
+  Thu Nov/6
+    00.30  Universidad Cesar Vallejo (PER) v Atlético Nacional (COL)  0-1 (0-0)
+    20.00  Cerro Porteño (PAR)     v Boca Juniors (ARG)       1-4 (1-1)
+    22.30  River Plate (URU)       v Estudiantes (ARG)        3-2 (1-1)
+
+
+» Semifinals
+  Wed Nov/19
+    22.00  Atlético Nacional (COL) v São Paulo FC (BRA)       1-0 (1-0)
+  Thu Nov/20
+    21.45  Boca Juniors (ARG)      v River Plate (URU)        0-0
+  Wed Nov/26
+    22.05  São Paulo FC (BRA)      v Atlético Nacional (COL)  2-4 pen. 1-0 a.e.t. (1-0, 0-0)
+  Thu Nov/27
+    21.45  River Plate (URU)       v Boca Juniors (ARG)       1-0 (1-0)
+
+
+» Final
+  Wed Dec/3
+    22.15  Atlético Nacional (COL) v River Plate (URU)        1-1 (1-0)
+  Wed Dec/10
+    22.15  River Plate (URU)       v Atlético Nacional (COL)  2-0 (0-0)

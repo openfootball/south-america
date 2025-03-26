@@ -1,0 +1,292 @@
+= Copa Sudamericana 2022
+
+# Date       Tue Mar/8 - Sat Oct/1 2022 (207d)
+# Teams      56
+# Matches    157
+
+
+
+» Preliminary round
+  Tue Mar/8 2022
+    19.15  Royal Pari (BOL)        v Oriente Petrolero (BOL)  2-3 (1-1)
+           Sol de América (PAR)    v General Caballero DJLM (PAR)  0-3 (0-1)
+           Estudiantes de Mérida (VEN) v Metropolitanos FC (VEN)  0-2 (0-1)
+    21.30  Ñublense (CHI)          v Unión La Calera (CHI)    0-0
+           Cienciano (PER)         v FBC Melgar (PER)         1-1 (0-1)
+  Wed Mar/9
+    19.15  Liverpool (URU)         v River Plate (URU)        0-1 (0-1)
+    21.30  Independiente Medellín (COL) v América de Cali (COL)    2-1 (1-0)
+           Mushuc Runa (ECU)       v LDU Quito (ECU)          0-2 (0-0)
+           Ayacucho FC (PER)       v Sport Boys (PER)         2-0 (1-0)
+  Thu Mar/10
+    19.15  Unión Española (CHI)    v Antofagasta (CHI)        1-2 (1-2)
+           Club Nacional (PAR)     v Guaireña FC (PAR)        0-1 (0-0)
+           Hermanos Colmenarez (VEN) v Deportivo La Guaira (VEN)  2-0 (1-0)
+    21.30  Jorge Wilstermann (BOL) v CD Guabirá (BOL)         4-0 (2-0)
+           La Equidad (COL)        v Atlético Junior (COL)    0-0
+           Delfín SC (ECU)         v 9 de Octubre (ECU)       1-1 (0-1)
+           Montevideo Wanderers (URU) v Cerro Largo (URU)        2-1 (0-0)
+  Tue Mar/15
+    19.15  Oriente Petrolero (BOL) v Royal Pari (BOL)         3-0 (0-0)
+           General Caballero DJLM (PAR) v Sol de América (PAR)     2-1 (1-1)
+           Metropolitanos FC (VEN) v Estudiantes de Mérida (VEN)  4-0 (1-0)
+    21.30  Unión La Calera (CHI)   v Ñublense (CHI)           2-1 (1-0)
+           FBC Melgar (PER)        v Cienciano (PER)          1-0 (1-0)
+  Wed Mar/16
+    19.15  River Plate (URU)       v Liverpool (URU)          2-0 (0-0)
+    21.30  América de Cali (COL)   v Independiente Medellín (COL)  1-3 pen. (2-1, 1-1)
+           LDU Quito (ECU)         v Mushuc Runa (ECU)        1-1 (1-0)
+           Sport Boys (PER)        v Ayacucho FC (PER)        3-2 (2-0)
+  Thu Mar/17
+    19.15  Antofagasta (CHI)       v Unión Española (CHI)     4-1 pen. (0-1, 0-0)
+           Guaireña FC (PAR)       v Club Nacional (PAR)      0-0
+           Deportivo La Guaira (VEN) v Hermanos Colmenarez (VEN)  3-0 (2-0)
+    21.30  CD Guabirá (BOL)        v Jorge Wilstermann (BOL)  3-0 (1-0)
+           Atlético Junior (COL)   v La Equidad (COL)         3-1 (2-1)
+           9 de Octubre (ECU)      v Delfín SC (ECU)          2-0 (2-0)
+           Cerro Largo (URU)       v Montevideo Wanderers (URU)  0-1 (0-0)
+
+
+» Group A
+  Thu Apr/7
+    21.30  Barcelona (ECU)         v Montevideo Wanderers (URU)  4-2 (3-1)
+           Metropolitanos FC (VEN) v Lanús (ARG)              0-0
+  Thu Apr/14
+    19.15  Montevideo Wanderers (URU) v Metropolitanos FC (VEN)  1-1 (1-1)
+    21.30  Lanús (ARG)             v Barcelona (ECU)          3-1 (1-0)
+  Thu Apr/28
+    21.30  Barcelona (ECU)         v Metropolitanos FC (VEN)  1-0 (1-0)
+           Montevideo Wanderers (URU) v Lanús (ARG)              0-1 (0-0)
+  Wed May/4
+    19.15  Metropolitanos FC (VEN) v Montevideo Wanderers (URU)  0-1 (0-1)
+    21.30  Barcelona (ECU)         v Lanús (ARG)              1-1 (1-0)
+  Thu May/19
+    21.30  Metropolitanos FC (VEN) v Barcelona (ECU)          2-2 (1-1)
+           Lanús (ARG)             v Montevideo Wanderers (URU)  1-2 (0-0)
+  Wed May/25
+    19.15  Montevideo Wanderers (URU) v Barcelona (ECU)          0-0
+           Lanús (ARG)             v Metropolitanos FC (VEN)  1-0 (0-0)
+
+
+» Group B
+  Thu Apr/7
+    19.15  Cuiabá MT (BRA)         v FBC Melgar (PER)         2-0 (0-0)
+           River Plate (URU)       v Racing Club (ARG)        0-1 (0-0)
+  Wed Apr/13
+    19.15  Racing Club (ARG)       v Cuiabá MT (BRA)          2-0 (1-0)
+           FBC Melgar (PER)        v River Plate (URU)        2-0 (1-0)
+  Wed Apr/27
+    19.15  Cuiabá MT (BRA)         v River Plate (URU)        1-2 (0-2)
+           FBC Melgar (PER)        v Racing Club (ARG)        3-1 (1-0)
+  Tue May/3
+    19.15  Cuiabá MT (BRA)         v Racing Club (ARG)        1-2 (1-0)
+           River Plate (URU)       v FBC Melgar (PER)         1-2 (0-1)
+  Wed May/18
+    19.15  River Plate (URU)       v Cuiabá MT (BRA)          1-2 (0-1)
+    21.30  Racing Club (ARG)       v FBC Melgar (PER)         1-0 (1-0)
+  Thu May/26
+    19.15  FBC Melgar (PER)        v Cuiabá MT (BRA)          3-1 (1-0)
+           Racing Club (ARG)       v River Plate (URU)        0-1 (0-0)
+
+
+» Group C
+  Tue Apr/5
+    19.15  Banfield (ARG)          v Santos FC (BRA)          1-0 (1-0)
+           Universidad Catolica (ECU) v Unión La Calera (CHI)    0-0
+  Wed Apr/13
+    19.15  Santos FC (BRA)         v Universidad Catolica (ECU)  3-2 (1-2)
+  Thu Apr/14
+    19.15  Unión La Calera (CHI)   v Banfield (ARG)           1-0 (1-0)
+  Wed Apr/27
+    21.30  Universidad Catolica (ECU) v Banfield (ARG)           2-0 (0-0)
+  Thu Apr/28
+    21.30  Unión La Calera (CHI)   v Santos FC (BRA)          1-1 (1-1)
+  Thu May/5
+    21.30  Banfield (ARG)          v Unión La Calera (CHI)    0-1 (0-0)
+           Universidad Catolica (ECU) v Santos FC (BRA)          0-1 (0-0)
+  Tue May/17
+    19.15  Banfield (ARG)          v Universidad Catolica (ECU)  1-1 (0-0)
+  Wed May/18
+    21.30  Santos FC (BRA)         v Unión La Calera (CHI)    1-0 (0-0)
+  Tue May/24
+    19.15  Santos FC (BRA)         v Banfield (ARG)           1-1 (1-1)
+           Unión La Calera (CHI)   v Universidad Catolica (ECU)  3-2 (2-1)
+
+
+» Group D
+  Tue Apr/5
+    21.30  Everton (CHI)           v Jorge Wilstermann (BOL)  1-1 (0-1)
+  Thu Apr/7
+    21.30  Ayacucho FC (PER)       v São Paulo FC (BRA)       2-3 (2-2)
+  Wed Apr/13
+    21.30  Jorge Wilstermann (BOL) v Ayacucho FC (PER)        0-2 (0-1)
+  Thu Apr/14
+    19.15  São Paulo FC (BRA)      v Everton (CHI)            2-0 (1-0)
+  Tue Apr/26
+    21.30  Everton (CHI)           v Ayacucho FC (PER)        2-1 (0-0)
+  Thu Apr/28
+    19.15  Jorge Wilstermann (BOL) v São Paulo FC (BRA)       1-3 (1-1)
+  Thu May/5
+    19.15  Everton (CHI)           v São Paulo FC (BRA)       0-0
+    21.30  Ayacucho FC (PER)       v Jorge Wilstermann (BOL)  0-0
+  Wed May/18
+    19.15  Ayacucho FC (PER)       v Everton (CHI)            0-2 (0-0)
+  Thu May/19
+    21.30  São Paulo FC (BRA)      v Jorge Wilstermann (BOL)  3-0 (2-0)
+  Wed May/25
+    19.15  São Paulo FC (BRA)      v Ayacucho FC (PER)        1-0 (0-0)
+           Jorge Wilstermann (BOL) v Everton (CHI)            0-2 (0-0)
+
+
+» Group E
+  Wed Apr/6
+    21.30  9 de Octubre (ECU)      v Internacional (BRA)      2-2 (0-2)
+  Thu Apr/7
+    21.30  Guaireña FC (PAR)       v Independiente Medellín (COL)  3-3 (1-2)
+  Thu Apr/14
+    21.30  Independiente Medellín (COL) v 9 de Octubre (ECU)       2-1 (1-1)
+           Internacional (BRA)     v Guaireña FC (PAR)        1-1 (0-1)
+  Tue Apr/26
+    21.30  Independiente Medellín (COL) v Internacional (BRA)      0-1 (0-0)
+  Wed Apr/27
+    19.15  Guaireña FC (PAR)       v 9 de Octubre (ECU)       1-0 (0-0)
+  Tue May/3
+    21.30  9 de Octubre (ECU)      v Independiente Medellín (COL)  3-2 (1-1)
+  Thu May/5
+    19.15  Guaireña FC (PAR)       v Internacional (BRA)      1-1 (1-0)
+  Tue May/17
+    19.15  Internacional (BRA)     v Independiente Medellín (COL)  2-0 (1-0)
+    21.30  9 de Octubre (ECU)      v Guaireña FC (PAR)        2-3 (1-0)
+  Tue May/24
+    21.30  Internacional (BRA)     v 9 de Octubre (ECU)       5-1 (1-1)
+           Independiente Medellín (COL) v Guaireña FC (PAR)        1-1 (1-0)
+
+
+» Group F
+  Tue Apr/5
+    21.30  Atlético Goianiense (BRA) v LDU Quito (ECU)          4-0 (0-0)
+  Wed Apr/6
+    21.30  Antofagasta (CHI)       v Defensa y Justicia (ARG)  1-3 (0-2)
+  Tue Apr/12
+    21.30  LDU Quito (ECU)         v Antofagasta (CHI)        4-0 (0-0)
+           Defensa y Justicia (ARG) v Atlético Goianiense (BRA)  0-1 (0-1)
+  Wed Apr/27
+    21.30  Antofagasta (CHI)       v Atlético Goianiense (BRA)  2-1 (0-1)
+  Thu Apr/28
+    19.15  Defensa y Justicia (ARG) v LDU Quito (ECU)          1-2 (0-0)
+  Wed May/4
+    19.15  Antofagasta (CHI)       v LDU Quito (ECU)          1-2 (1-0)
+           Atlético Goianiense (BRA) v Defensa y Justicia (ARG)  3-2 (1-0)
+  Tue May/17
+    21.30  Atlético Goianiense (BRA) v Antofagasta (CHI)        1-0 (1-0)
+  Wed May/18
+    21.30  LDU Quito (ECU)         v Defensa y Justicia (ARG)  2-2 (1-2)
+  Tue May/24
+    21.30  Defensa y Justicia (ARG) v Antofagasta (CHI)        0-2 (0-1)
+           LDU Quito (ECU)         v Atlético Goianiense (BRA)  1-1 (1-0)
+
+
+» Gruppe G
+  Tue Apr/5
+    19.15  Ceará CE (BRA)          v Independiente (ARG)      2-1 (0-1)
+  Wed Apr/6
+    19.15  General Caballero DJLM (PAR) v Deportivo La Guaira (VEN)  1-1 (1-0)
+  Tue Apr/12
+    19.15  Deportivo La Guaira (VEN) v Ceará CE (BRA)           0-2 (0-2)
+    21.30  Independiente (ARG)     v General Caballero DJLM (PAR)  2-0 (0-0)
+  Tue Apr/26
+    19.15  General Caballero DJLM (PAR) v Ceará CE (BRA)           0-2 (0-0)
+           Deportivo La Guaira (VEN) v Independiente (ARG)      0-2 (0-0)
+  Tue May/3
+    21.30  Ceará CE (BRA)          v Deportivo La Guaira (VEN)  3-0 (0-0)
+           General Caballero DJLM (PAR) v Independiente (ARG)      0-4 (0-1)
+  Tue May/17
+    19.15  Ceará CE (BRA)          v General Caballero DJLM (PAR)  6-0 (3-0)
+  Thu May/19
+    19.15  Independiente (ARG)     v Deportivo La Guaira (VEN)  4-0 (1-0)
+  Wed May/25
+    21.30  Independiente (ARG)     v Ceará CE (BRA)           0-2 (0-1)
+           Deportivo La Guaira (VEN) v General Caballero DJLM (PAR)  0-1 (0-1)
+
+
+» Gruppe H
+  Wed Apr/6
+    19.15  Unión de Santa Fe (ARG) v Atlético Junior (COL)    1-1 (1-1)
+           Fluminense RJ (BRA)     v Oriente Petrolero (BOL)  3-0 (2-0)
+  Tue Apr/12
+    19.15  Oriente Petrolero (BOL) v Unión de Santa Fe (ARG)  1-3 (0-1)
+  Wed Apr/13
+    21.30  Atlético Junior (COL)   v Fluminense RJ (BRA)      3-0 (2-0)
+  Tue Apr/26
+    21.30  Fluminense RJ (BRA)     v Unión de Santa Fe (ARG)  0-0
+  Thu Apr/28
+    21.30  Oriente Petrolero (BOL) v Atlético Junior (COL)    1-3 (0-1)
+  Wed May/4
+    21.30  Fluminense RJ (BRA)     v Atlético Junior (COL)    2-1 (1-0)
+  Thu May/5
+    19.15  Unión de Santa Fe (ARG) v Oriente Petrolero (BOL)  2-0 (1-0)
+  Tue May/17
+    21.30  Atlético Junior (COL)   v Oriente Petrolero (BOL)  2-0 (2-0)
+  Thu May/19
+    19.15  Unión de Santa Fe (ARG) v Fluminense RJ (BRA)      0-0
+  Thu May/26
+    21.30  Atlético Junior (COL)   v Unión de Santa Fe (ARG)  0-4 (0-2)
+           Oriente Petrolero (BOL) v Fluminense RJ (BRA)      1-10 (1-6)
+
+
+» Round of 16
+  Tue Jun/28
+    19.15  Nacional (URU)          v Unión de Santa Fe (ARG)  2-0 (2-0)
+    21.30  Colo-Colo (CHI)         v Internacional (BRA)      2-0 (1-0)
+  Wed Jun/29
+    19.15  The Strongest (BOL)     v Ceará CE (BRA)           1-2 (1-0)
+    21.30  Deportivo Táchira (VEN) v Santos FC (BRA)          1-1 (1-0)
+           Deportivo Cali (COL)    v FBC Melgar (PER)         0-0
+  Thu Jun/30
+    19.15  Independiente del Valle (ECU) v Lanús (ARG)              2-1 (1-0)
+    21.30  Universidad Católica (CHI) v São Paulo FC (BRA)       2-4 (0-3)
+           Club Olimpia (PAR)      v Atlético Goianiense (BRA)  2-0 (1-0)
+  Tue Jul/5
+    19.15  Unión de Santa Fe (ARG) v Nacional (URU)           1-2 (0-0)
+    21.30  Internacional (BRA)     v Colo-Colo (CHI)          4-1 (2-1)
+  Wed Jul/6
+    19.15  Ceará CE (BRA)          v The Strongest (BOL)      3-0 (2-0)
+    21.30  Santos FC (BRA)         v Deportivo Táchira (VEN)  2-4 pen. (1-1, 0-1)
+           FBC Melgar (PER)        v Deportivo Cali (COL)     2-1 (0-0)
+  Thu Jul/7
+    19.15  Lanús (ARG)             v Independiente del Valle (ECU)  0-0
+    21.30  São Paulo FC (BRA)      v Universidad Católica (CHI)  4-1 (2-0)
+           Atlético Goianiense (BRA) v Club Olimpia (PAR)       5-3 pen. (2-0, 2-0)
+
+
+» Quarterfinals
+  Tue Aug/2
+    19.15  Nacional (URU)          v Atlético Goianiense (BRA)  0-1 (0-1)
+    21.30  Deportivo Táchira (VEN) v Independiente del Valle (ECU)  0-1 (0-1)
+  Wed Aug/3
+    19.15  São Paulo FC (BRA)      v Ceará CE (BRA)           1-0 (0-0)
+  Thu Aug/4
+    19.15  FBC Melgar (PER)        v Internacional (BRA)      0-0
+  Tue Aug/9
+    19.15  Atlético Goianiense (BRA) v Nacional (URU)           3-0 (2-0)
+    21.30  Independiente del Valle (ECU) v Deportivo Táchira (VEN)  4-1 (2-1)
+  Wed Aug/10
+    19.15  Ceará CE (BRA)          v São Paulo FC (BRA)       3-4 pen. (2-1, 1-0)
+  Thu Aug/11
+    19.15  Internacional (BRA)     v FBC Melgar (PER)         1-3 pen. (0-0)
+
+
+» Semifinals
+  Wed Aug/31
+    21.30  Independiente del Valle (ECU) v FBC Melgar (PER)         3-0 (1-0)
+  Thu Sep/1
+    21.30  Atlético Goianiense (BRA) v São Paulo FC (BRA)       3-1 (1-1)
+  Wed Sep/7
+    21.30  FBC Melgar (PER)        v Independiente del Valle (ECU)  0-3 (0-1)
+  Thu Sep/8
+    21.30  São Paulo FC (BRA)      v Atlético Goianiense (BRA)  4-2 pen. (2-0, 1-0)
+
+
+» Final
+  Sat Oct/1
+    17.00  São Paulo FC (BRA)      v Independiente del Valle (ECU)  0-2 (0-1)

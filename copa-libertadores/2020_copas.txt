@@ -1,0 +1,164 @@
+= Copa Sudamericana 2020
+
+# Date       Tue Feb/4 2020 - Sat Jan/23 2021 (354d)
+# Teams      53
+# Matches    105
+
+
+
+» Round 1
+  Tue Feb/4 2020
+    19.15  Coquimbo Unido (CHI)    v Aragua FC (VEN)          3-0 (0-0)
+           Nacional Potosí (BOL)   v FBC Melgar (PER)         0-2 (0-1)
+    21.30  Vélez Sarsfield (ARG)   v Aucas (ECU)              1-0 (0-0)
+           Fluminense RJ (BRA)     v Unión La Calera (CHI)    1-1 (0-0)
+  Wed Feb/5
+    19.15  Fénix (URU)             v El Nacional (ECU)        1-0 (0-0)
+           Mineros de Guayana (VEN) v Sportivo Luqueño (PAR)   2-3 (2-3)
+    21.30  Vasco da Gama RJ (BRA)  v Oriente Petrolero (BOL)  1-0 (1-0)
+           Atlético Nacional (COL) v Huracán (ARG)            3-0 (3-0)
+  Thu Feb/6
+    19.15  Blooming (BOL)          v Emelec (ECU)             0-3 (0-1)
+    21.30  Unión de Santa Fe (ARG) v Atlético Mineiro (BRA)   3-0 (2-0)
+           Millonarios (COL)       v Always Ready (BOL)       2-0 (2-0)
+  Tue Feb/11
+    19.15  Atlético Grau (PER)     v River Plate (URU)        1-2 (0-2)
+           Argentinos Juniors (ARG) v Sport Huancayo (PER)     1-1 (0-1)
+    21.30  Sol de América (PAR)    v Goiás GO (BRA)           1-0 (1-0)
+           Deportivo Cali (COL)    v River Plate (URU)        2-1 (2-0)
+  Wed Feb/12
+    19.15  Lanús (ARG)             v Universidad Catolica (ECU)  3-0 (0-0)
+           Huachipato (CHI)        v Deportivo Pasto (COL)    1-0 (0-0)
+    21.30  Bahia BA (BRA)          v Club Nacional (PAR)      3-0 (2-0)
+           Llaneros de Guanare (VEN) v Liverpool (URU)          0-2 (0-2)
+  Thu Feb/13
+    19.15  Zamora FC (VEN)         v Plaza Colonia (URU)      1-0 (0-0)
+    21.30  Cusco FC (PER)          v Audax Italiano (CHI)     2-0 (0-0)
+           Independiente (ARG)     v Fortaleza CE (BRA)       1-0 (0-0)
+  Tue Feb/18
+    19.15  Aragua FC (VEN)         v Coquimbo Unido (CHI)     1-0 (1-0)
+           Unión La Calera (CHI)   v Fluminense RJ (BRA)      0-0
+    21.30  FBC Melgar (PER)        v Nacional Potosí (BOL)    4-3 pen. (0-2, 0-0)
+           Aucas (ECU)             v Vélez Sarsfield (ARG)    2-1 (0-0)
+  Wed Feb/19
+    19.15  Huracán (ARG)           v Atlético Nacional (COL)  1-1 (1-1)
+           Sportivo Luqueño (PAR)  v Mineros de Guayana (VEN)  2-2 (1-2)
+    21.30  Oriente Petrolero (BOL) v Vasco da Gama RJ (BRA)   0-0
+  Thu Feb/20
+    19.15  Emelec (ECU)            v Blooming (BOL)           2-0 (1-0)
+           Always Ready (BOL)      v Millonarios (COL)        1-0 (0-0)
+    21.30  Atlético Mineiro (BRA)  v Unión de Santa Fe (ARG)  2-0 (2-0)
+           El Nacional (ECU)       v Fénix (URU)              2-2 (0-1)
+  Tue Feb/25
+    19.15  River Plate (URU)       v Atlético Grau (PER)      1-0 (1-0)
+    21.30  Goiás GO (BRA)          v Sol de América (PAR)     0-1 (0-1)
+           River Plate (URU)       v Deportivo Cali (COL)     1-3 (0-1)
+           Sport Huancayo (PER)    v Argentinos Juniors (ARG)  0-0
+  Wed Feb/26
+    19.15  Club Nacional (PAR)     v Bahia BA (BRA)           1-3 (0-3)
+           Liverpool (URU)         v Llaneros de Guanare (VEN)  5-0 (2-0)
+    21.30  Universidad Catolica (ECU) v Lanús (ARG)              2-0 (1-0)
+           Deportivo Pasto (COL)   v Huachipato (CHI)         0-1 (0-0)
+  Thu Feb/27
+    19.15  Plaza Colonia (URU)     v Zamora FC (VEN)          3-0 (2-0)
+    21.30  Audax Italiano (CHI)    v Cusco FC (PER)           3-0 (2-0)
+           Fortaleza CE (BRA)      v Independiente (ARG)      2-1 (1-0)
+
+
+» Round 2
+  Tue Oct/27
+    19.15  Sport Huancayo (PER)    v Liverpool (URU)          1-1 (0-0)
+           Audax Italiano (CHI)    v Bolívar (BOL)            2-1 (1-1)
+    21.30  Unión La Calera (CHI)   v Deportes Tolima (COL)    0-0
+  Wed Oct/28
+    19.15  Lanús (ARG)             v São Paulo FC (BRA)       3-2 (0-1)
+           Sportivo Luqueño (PAR)  v Defensa y Justicia (ARG)  1-2 (1-1)
+           Atlético Nacional (COL) v River Plate (URU)        1-1 (1-0)
+           Fénix (URU)             v Huachipato (CHI)         3-1 (0-0)
+    21.30  Millonarios (COL)       v Deportivo Cali (COL)     1-2 (0-0)
+           Vasco da Gama RJ (BRA)  v Caracas FC (VEN)         1-0 (0-0)
+           Vélez Sarsfield (ARG)   v Peñarol (URU)            0-0
+  Thu Oct/29
+    19.15  Unión de Santa Fe (ARG) v Emelec (ECU)             0-1 (0-1)
+           Sol de América (PAR)    v Universidad Católica (CHI)  0-0
+           Coquimbo Unido (CHI)    v Estudiantes de Mérida (VEN)  3-0 (0-0)
+    21.30  Independiente (ARG)     v Atlético Tucumán (ARG)   1-0 (1-0)
+           Plaza Colonia (URU)     v Atlético Junior (COL)    0-1 (0-0)
+           FBC Melgar (PER)        v Bahia BA (BRA)           1-0 (0-0)
+  Tue Nov/3
+    19.15  Liverpool (URU)         v Sport Huancayo (PER)     1-2 (0-1)
+           Bolívar (BOL)           v Audax Italiano (CHI)     3-0 (1-0)
+    21.30  Deportes Tolima (COL)   v Unión La Calera (CHI)    1-1 (1-1)
+  Wed Nov/4
+    19.15  São Paulo FC (BRA)      v Lanús (ARG)              4-3 (1-2)
+           Defensa y Justicia (ARG) v Sportivo Luqueño (PAR)   1-1 (0-1)
+           River Plate (URU)       v Atlético Nacional (COL)  3-1 (2-1)
+           Huachipato (CHI)        v Fénix (URU)              1-1 (0-0)
+    21.30  Deportivo Cali (COL)    v Millonarios (COL)        5-4 pen. (1-2, 1-1)
+           Caracas FC (VEN)        v Vasco da Gama RJ (BRA)   0-0
+           Peñarol (URU)           v Vélez Sarsfield (ARG)    1-1 (0-0)
+  Thu Nov/5
+    19.15  Emelec (ECU)            v Unión de Santa Fe (ARG)  1-2 (0-1)
+           Estudiantes de Mérida (VEN) v Coquimbo Unido (CHI)     0-2 (0-1)
+    21.30  Atlético Tucumán (ARG)  v Independiente (ARG)      1-1 (1-1)
+           Universidad Católica (CHI) v Sol de América (PAR)     2-1 (0-0)
+           Atlético Junior (COL)   v Plaza Colonia (URU)      0-0
+           Bahia BA (BRA)          v FBC Melgar (PER)         4-0 (4-0)
+
+
+» Round of 16
+  Tue Nov/24
+    19.15  Bahia BA (BRA)          v Unión de Santa Fe (ARG)  1-0 (0-0)
+    21.30  Vélez Sarsfield (ARG)   v Deportivo Cali (COL)     2-0 (0-0)
+  Wed Nov/25
+    19.15  Bolívar (BOL)           v Lanús (ARG)              2-1 (1-1)
+    21.30  Coquimbo Unido (CHI)    v Sport Huancayo (PER)     0-0
+           Fénix (URU)             v Independiente (ARG)      1-4 (1-3)
+  Thu Nov/26
+    19.15  River Plate (URU)       v Universidad Católica (CHI)  1-2 (1-1)
+    21.30  Defensa y Justicia (ARG) v Vasco da Gama RJ (BRA)   1-1 (0-0)
+           Atlético Junior (COL)   v Unión La Calera (CHI)    2-1 (1-0)
+  Tue Dec/1
+    19.15  Unión de Santa Fe (ARG) v Bahia BA (BRA)           0-0
+    21.30  Deportivo Cali (COL)    v Vélez Sarsfield (ARG)    1-5 (1-2)
+  Wed Dec/2
+    19.15  Lanús (ARG)             v Bolívar (BOL)            6-2 (2-1)
+    21.30  Sport Huancayo (PER)    v Coquimbo Unido (CHI)     0-2 (0-1)
+           Independiente (ARG)     v Fénix (URU)              1-0 (1-0)
+  Thu Dec/3
+    19.15  Unión La Calera (CHI)   v Atlético Junior (COL)    2-4 pen. (2-1, 1-1)
+    21.30  Vasco da Gama RJ (BRA)  v Defensa y Justicia (ARG)  0-1 (0-0)
+           Universidad Católica (CHI) v River Plate (URU)        0-1 (0-0)
+
+
+» Quarterfinals
+  Tue Dec/8
+    21.30  Vélez Sarsfield (ARG)   v Universidad Católica (CHI)  1-2 (0-1)
+  Wed Dec/9
+    19.15  Bahia BA (BRA)          v Defensa y Justicia (ARG)  2-3 (1-2)
+    21.30  Atlético Junior (COL)   v Coquimbo Unido (CHI)     1-2 (1-0)
+  Thu Dec/10
+    19.15  Lanús (ARG)             v Independiente (ARG)      0-0
+  Tue Dec/15
+    21.30  Universidad Católica (CHI) v Vélez Sarsfield (ARG)    1-3 (0-1)
+  Wed Dec/16
+    19.15  Defensa y Justicia (ARG) v Bahia BA (BRA)           1-0 (0-0)
+    21.30  Coquimbo Unido (CHI)    v Atlético Junior (COL)    0-1 (0-1)
+  Thu Dec/17
+    19.15  Independiente (ARG)     v Lanús (ARG)              1-3 (0-3)
+
+
+» Semifinals
+  Wed Jan/6 2021
+    21.30  Vélez Sarsfield (ARG)   v Lanús (ARG)              0-1 (0-1)
+  Tue Jan/12
+    19.15  Coquimbo Unido (CHI)    v Defensa y Justicia (ARG)  0-0
+  Wed Jan/13
+    21.30  Lanús (ARG)             v Vélez Sarsfield (ARG)    3-0 (1-0)
+  Sat Jan/16
+    20.30  Defensa y Justicia (ARG) v Coquimbo Unido (CHI)     4-2 (4-1)
+
+
+» Final
+  Sat Jan/23
+    17.00  Lanús (ARG)             v Defensa y Justicia (ARG)  0-3 (0-1)
