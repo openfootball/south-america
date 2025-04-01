@@ -77,11 +77,11 @@
            CA Vélez Sarsfield (ARG) v CA Peñarol (URU)
     21.30  CF Universidad de Chile (CHI) v Botafogo FR (BRA)
            Club Universitario de Deportes (PER) v CA River Plate (ARG)
-           CA Central Córdoba (ARG) v LDU de Quito (ECU)
            CA Talleres (ARG)       v São Paulo FC (BRA)
     23.00  CDC Atlético Nacional (COL) v Club Nacional de Football (URU)
   Thu Apr/3
-    19.00  EC Bahia (BRA)          v SC Internacional (BRA)
+    19.00  CA Central Córdoba (ARG) v LDU de Quito (ECU)
+           EC Bahia (BRA)          v SC Internacional (BRA)
            CS Cristal (PER)        v SE Palmeiras (BRA)
     21.30  Deportivo Táchira FC (VEN) v CR Flamengo (BRA)
 
@@ -109,23 +109,26 @@
 
 
 » Group, Matchday 3
-  Wed Apr/23
-           Estudiantes de La Plata (ARG) v Botafogo FR (BRA)
-           Carabobo FC (VEN)       v CF Universidad de Chile (CHI)
-           CAR Independiente del Valle (ECU) v CA River Plate (ARG)
-           Barcelona SC (ECU)      v Club Universitario de Deportes (PER)
+  Tue Apr/22
+    19.00  Carabobo FC (VEN)       v CF Universidad de Chile (CHI)
            LDU de Quito (ECU)      v CR Flamengo (BRA)
+  Wed Apr/23
+           CAR Independiente del Valle (ECU) v CA River Plate (ARG)
            CA Central Córdoba (ARG) v Deportivo Táchira FC (VEN)
-           Club Libertad Asuncion (PAR) v São Paulo FC (BRA)
-           Club Alianza Lima (PER) v CA Talleres (ARG)
-           CSD Colo-Colo (CHI)     v Racing Club (ARG)
-           CA Bucaramanga (COL)    v Fortaleza EC (BRA)
-           SC Internacional (BRA)  v Club Nacional de Football (URU)
            EC Bahia (BRA)          v CDC Atlético Nacional (COL)
            Club Bolívar (BOL)      v SE Palmeiras (BRA)
            Club Cerro Porteño (PAR) v CS Cristal (PER)
-           Olimpia Asuncion (PAR)  v CA Peñarol (URU)
+  Tue Apr/22
+    21.30  Club Alianza Lima (PER) v CA Talleres (ARG)
+           CSD Colo-Colo (CHI)     v Racing Club (ARG)
+           SC Internacional (BRA)  v Club Nacional de Football (URU)
+    23.00  Barcelona SC (ECU)      v Club Universitario de Deportes (PER)
+  Wed Apr/23
+    19.00  Olimpia Asuncion (PAR)  v CA Peñarol (URU)
            San Antonio Bulo Bulo (BOL) v CA Vélez Sarsfield (ARG)
+    21.30  Estudiantes de La Plata (ARG) v Botafogo FR (BRA)
+           Club Libertad Asuncion (PAR) v São Paulo FC (BRA)
+    23.00  CA Bucaramanga (COL)    v Fortaleza EC (BRA)
 
 
 » Group, Matchday 4

@@ -8,74 +8,80 @@
 
 » Matchday 1
   Sat Mar/29 2025
-    18.30  São Paulo FC            v SC Recife
-           Cruzeiro EC             v Mirassol FC
-           Grêmio FBPA             v CA Mineiro
-           Fortaleza EC            v Fluminense FC
-           EC Juventude            v EC Vitória
-    21.00  CR Flamengo             v SC Internacional
+    18.30  São Paulo FC            v SC Recife                0-0
+           Cruzeiro EC             v Mirassol FC              2-1 (2-1)
+           Grêmio FBPA             v CA Mineiro               2-1 (2-0)
+           Fortaleza EC            v Fluminense FC            2-0 (2-0)
+           EC Juventude            v EC Vitória               2-0 (1-0)
+    21.00  CR Flamengo             v SC Internacional         1-1 (0-1)
   Sun Mar/30
-    16.00  SE Palmeiras            v Botafogo FR
-    18.30  CR Vasco da Gama        v Santos FC
-    20.00  EC Bahia                v SC Corinthians Paulista
+    16.00  SE Palmeiras            v Botafogo FR              0-0
+    18.30  CR Vasco da Gama        v Santos FC                2-1 (0-1)
+    20.00  EC Bahia                v SC Corinthians Paulista  1-1 (1-0)
   Mon Mar/31
-    20.00  RB Bragantino           v Ceará SC
+    20.00  RB Bragantino           v Ceará SC                 2-2 (1-2)
 
 
 » Matchday 2
+  Sat Apr/5
+    18.30  SC Corinthians Paulista v CR Vasco da Gama
+           Ceará SC                v Grêmio FBPA
+    21.00  Botafogo FR             v EC Juventude
   Sun Apr/6
-           Fluminense FC           v RB Bragantino
-           Botafogo FR             v EC Juventude
-           SC Corinthians Paulista v CR Vasco da Gama
-           Santos FC               v EC Bahia
-           Mirassol FC             v Fortaleza EC
+    16.00  Fluminense FC           v RB Bragantino
            CA Mineiro              v São Paulo FC
+    18.30  Mirassol FC             v Fortaleza EC
            SC Internacional        v Cruzeiro EC
            EC Vitória              v CR Flamengo
-           Ceará SC                v Grêmio FBPA
            SC Recife               v SE Palmeiras
+    20.30  Santos FC               v EC Bahia
 
 
 » Matchday 3
-  Sun Apr/13
-           Fluminense FC           v Santos FC
-           CR Vasco da Gama        v SC Recife
-           SE Palmeiras            v SC Corinthians Paulista
-           São Paulo FC            v Cruzeiro EC
-           RB Bragantino           v Botafogo FR
-           CA Mineiro              v EC Vitória
-           Grêmio FBPA             v CR Flamengo
-           EC Bahia                v Mirassol FC
-           Fortaleza EC            v SC Internacional
+  Sat Apr/12
+    16.00  RB Bragantino           v Botafogo FR
            EC Juventude            v Ceará SC
+    18.30  SE Palmeiras            v SC Corinthians Paulista
+    21.00  CR Vasco da Gama        v SC Recife
+  Sun Apr/13
+    16.00  EC Bahia                v Mirassol FC
+    17.30  São Paulo FC            v Cruzeiro EC
+           Grêmio FBPA             v CR Flamengo
+    19.30  Fluminense FC           v Santos FC
+    20.00  Fortaleza EC            v SC Internacional
+    20.30  CA Mineiro              v EC Vitória
 
 
 » Matchday 4
+  Tue Apr/15
+    21.30  Ceará SC                v CR Vasco da Gama
   Wed Apr/16
-           CR Flamengo             v EC Juventude
-           Botafogo FR             v São Paulo FC
-           SC Corinthians Paulista v Fluminense FC
-           Santos FC               v CA Mineiro
-           Mirassol FC             v Grêmio FBPA
-           Cruzeiro EC             v EC Bahia
-           SC Internacional        v SE Palmeiras
-           EC Vitória              v Fortaleza EC
-           Ceará SC                v CR Vasco da Gama
+    19.00  Mirassol FC             v Grêmio FBPA
            SC Recife               v RB Bragantino
+    19.30  SC Corinthians Paulista v Fluminense FC
+           SC Internacional        v SE Palmeiras
+    21.30  CR Flamengo             v EC Juventude
+           Santos FC               v CA Mineiro
+           EC Vitória              v Fortaleza EC
+  Thu Apr/17
+    19.00  Botafogo FR             v São Paulo FC
+    21.30  Cruzeiro EC             v EC Bahia
 
 
 » Matchday 5
   Sat Apr/19
-           Fluminense FC           v EC Vitória
-           CR Vasco da Gama        v CR Flamengo
-           SC Corinthians Paulista v SC Recife
-           São Paulo FC            v Santos FC
-           RB Bragantino           v Cruzeiro EC
+    16.00  SC Corinthians Paulista v SC Recife
+    18.30  CR Vasco da Gama        v CR Flamengo
+    21.00  Grêmio FBPA             v SC Internacional
+  Sun Apr/20
+    11.00  EC Juventude            v Mirassol FC
+    16.00  São Paulo FC            v Santos FC
            CA Mineiro              v Botafogo FR
-           Grêmio FBPA             v SC Internacional
-           EC Bahia                v Ceará SC
+    18.30  Fluminense FC           v EC Vitória
            Fortaleza EC            v SE Palmeiras
-           EC Juventude            v Mirassol FC
+    20.30  RB Bragantino           v Cruzeiro EC
+  Mon Apr/21
+    20.00  EC Bahia                v Ceará SC
 
 
 » Matchday 6
