@@ -66,33 +66,33 @@
 
 » Group, Matchday 1
   Tue Apr/1
-    19.00  Carabobo FC (VEN)       v Estudiantes de La Plata (ARG)
-           Club Cerro Porteño (PAR) v Club Bolívar (BOL)
-    21.30  CA Bucaramanga (COL)    v CSD Colo-Colo (CHI)
-           Fortaleza EC (BRA)      v Racing Club (ARG)
-    23.00  Barcelona SC (ECU)      v CAR Independiente del Valle (ECU)
-           Club Alianza Lima (PER) v Club Libertad Asuncion (PAR)
+    19.00  Carabobo FC (VEN)       v Estudiantes de La Plata (ARG)  0-2 (0-1)
+           Club Cerro Porteño (PAR) v Club Bolívar (BOL)       4-2 (1-1)
+    21.30  CA Bucaramanga (COL)    v CSD Colo-Colo (CHI)      3-3 (2-1)
+           Fortaleza EC (BRA)      v Racing Club (ARG)        0-3 (0-1)
+    23.00  Barcelona SC (ECU)      v CAR Independiente del Valle (ECU)  1-0 (1-0)
+           Club Alianza Lima (PER) v Club Libertad Asuncion (PAR)  0-1 (0-0)
   Wed Apr/2
-    19.00  San Antonio Bulo Bulo (BOL) v Olimpia Asuncion (PAR)
-           CA Vélez Sarsfield (ARG) v CA Peñarol (URU)
-    21.30  CF Universidad de Chile (CHI) v Botafogo FR (BRA)
-           Club Universitario de Deportes (PER) v CA River Plate (ARG)
-           CA Talleres (ARG)       v São Paulo FC (BRA)
-    23.00  CDC Atlético Nacional (COL) v Club Nacional de Football (URU)
+    19.00  San Antonio Bulo Bulo (BOL) v Olimpia Asuncion (PAR)   3-2 (1-0)
+           CA Vélez Sarsfield (ARG) v CA Peñarol (URU)         2-1 (0-0)
+    21.30  CF Universidad de Chile (CHI) v Botafogo FR (BRA)        1-0 (0-0)
+           Club Universitario de Deportes (PER) v CA River Plate (ARG)     0-1 (0-1)
+           CA Talleres (ARG)       v São Paulo FC (BRA)       0-1 (0-0)
+    23.00  CDC Atlético Nacional (COL) v Club Nacional de Football (URU)  3-0 (1-0)
   Thu Apr/3
-    19.00  CA Central Córdoba (ARG) v LDU de Quito (ECU)
-           EC Bahia (BRA)          v SC Internacional (BRA)
-           CS Cristal (PER)        v SE Palmeiras (BRA)
-    21.30  Deportivo Táchira FC (VEN) v CR Flamengo (BRA)
+    19.00  CA Central Córdoba (ARG) v LDU de Quito (ECU)       0-0
+           EC Bahia (BRA)          v SC Internacional (BRA)   1-1 (0-0)
+           CS Cristal (PER)        v SE Palmeiras (BRA)       2-3 (0-1)
+    21.30  Deportivo Táchira FC (VEN) v CR Flamengo (BRA)        0-1 (0-0)
 
 
 » Group, Matchday 2
   Tue Apr/8
     19.00  Botafogo FR (BRA)       v Carabobo FC (VEN)
            Club Libertad Asuncion (PAR) v CA Talleres (ARG)
-    21.00  Estudiantes de La Plata (ARG) v CF Universidad de Chile (CHI)
-    21.30  CA River Plate (ARG)    v Barcelona SC (ECU)
-           CA Peñarol (URU)        v San Antonio Bulo Bulo (BOL)
+    21.00  CA Peñarol (URU)        v San Antonio Bulo Bulo (BOL)
+    21.30  Estudiantes de La Plata (ARG) v CF Universidad de Chile (CHI)
+           CA River Plate (ARG)    v Barcelona SC (ECU)
     23.00  CAR Independiente del Valle (ECU) v Club Universitario de Deportes (PER)
   Wed Apr/9
     19.00  Club Nacional de Football (URU) v EC Bahia (BRA)
@@ -112,13 +112,6 @@
   Tue Apr/22
     19.00  Carabobo FC (VEN)       v CF Universidad de Chile (CHI)
            LDU de Quito (ECU)      v CR Flamengo (BRA)
-  Wed Apr/23
-           CAR Independiente del Valle (ECU) v CA River Plate (ARG)
-           CA Central Córdoba (ARG) v Deportivo Táchira FC (VEN)
-           EC Bahia (BRA)          v CDC Atlético Nacional (COL)
-           Club Bolívar (BOL)      v SE Palmeiras (BRA)
-           Club Cerro Porteño (PAR) v CS Cristal (PER)
-  Tue Apr/22
     21.30  Club Alianza Lima (PER) v CA Talleres (ARG)
            CSD Colo-Colo (CHI)     v Racing Club (ARG)
            SC Internacional (BRA)  v Club Nacional de Football (URU)
@@ -129,66 +122,78 @@
     21.30  Estudiantes de La Plata (ARG) v Botafogo FR (BRA)
            Club Libertad Asuncion (PAR) v São Paulo FC (BRA)
     23.00  CA Bucaramanga (COL)    v Fortaleza EC (BRA)
+  Thu Apr/24
+    19.00  CA Central Córdoba (ARG) v Deportivo Táchira FC (VEN)
+           Club Bolívar (BOL)      v SE Palmeiras (BRA)
+    21.30  CAR Independiente del Valle (ECU) v CA River Plate (ARG)
+           EC Bahia (BRA)          v CDC Atlético Nacional (COL)
+           Club Cerro Porteño (PAR) v CS Cristal (PER)
 
 
 » Group, Matchday 4
-  Wed May/7
-           CF Universidad de Chile (CHI) v Estudiantes de La Plata (ARG)
-           Carabobo FC (VEN)       v Botafogo FR (BRA)
-           Club Universitario de Deportes (PER) v CAR Independiente del Valle (ECU)
-           Barcelona SC (ECU)      v CA River Plate (ARG)
-           Deportivo Táchira FC (VEN) v LDU de Quito (ECU)
-           CA Central Córdoba (ARG) v CR Flamengo (BRA)
-           CA Talleres (ARG)       v Club Libertad Asuncion (PAR)
+  Tue May/6
+    19.00  Carabobo FC (VEN)       v Botafogo FR (BRA)
            Club Alianza Lima (PER) v São Paulo FC (BRA)
-           Fortaleza EC (BRA)      v CSD Colo-Colo (CHI)
            CA Bucaramanga (COL)    v Racing Club (ARG)
-           CDC Atlético Nacional (COL) v SC Internacional (BRA)
+    21.30  Fortaleza EC (BRA)      v CSD Colo-Colo (CHI)
+    23.00  San Antonio Bulo Bulo (BOL) v CA Peñarol (URU)
+  Wed May/7
+    19.00  Deportivo Táchira FC (VEN) v LDU de Quito (ECU)
            EC Bahia (BRA)          v Club Nacional de Football (URU)
-           CS Cristal (PER)        v Club Bolívar (BOL)
+    21.00  CF Universidad de Chile (CHI) v Estudiantes de La Plata (ARG)
+    21.30  CA Central Córdoba (ARG) v CR Flamengo (BRA)
            Club Cerro Porteño (PAR) v SE Palmeiras (BRA)
+    23.00  CS Cristal (PER)        v Club Bolívar (BOL)
+  Thu May/8
+    19.00  CA Talleres (ARG)       v Club Libertad Asuncion (PAR)
            CA Vélez Sarsfield (ARG) v Olimpia Asuncion (PAR)
-           San Antonio Bulo Bulo (BOL) v CA Peñarol (URU)
+    21.30  Barcelona SC (ECU)      v CA River Plate (ARG)
+           CDC Atlético Nacional (COL) v SC Internacional (BRA)
+    23.00  Club Universitario de Deportes (PER) v CAR Independiente del Valle (ECU)
 
 
 » Group, Matchday 5
-  Wed May/14
-           Botafogo FR (BRA)       v Estudiantes de La Plata (ARG)
-           CF Universidad de Chile (CHI) v Carabobo FC (VEN)
-           CA River Plate (ARG)    v CAR Independiente del Valle (ECU)
-           Club Universitario de Deportes (PER) v Barcelona SC (ECU)
-           CR Flamengo (BRA)       v LDU de Quito (ECU)
-           Deportivo Táchira FC (VEN) v CA Central Córdoba (ARG)
-           São Paulo FC (BRA)      v Club Libertad Asuncion (PAR)
-           CA Talleres (ARG)       v Club Alianza Lima (PER)
-           Racing Club (ARG)       v CSD Colo-Colo (CHI)
+  Tue May/13
+    19.00  Deportivo Táchira FC (VEN) v CA Central Córdoba (ARG)
+    21.30  CF Universidad de Chile (CHI) v Carabobo FC (VEN)
            Fortaleza EC (BRA)      v CA Bucaramanga (COL)
-           Club Nacional de Football (URU) v SC Internacional (BRA)
-           CDC Atlético Nacional (COL) v EC Bahia (BRA)
-           SE Palmeiras (BRA)      v Club Bolívar (BOL)
-           CS Cristal (PER)        v Club Cerro Porteño (PAR)
+    23.00  CS Cristal (PER)        v Club Cerro Porteño (PAR)
+  Wed May/14
+    19.00  CDC Atlético Nacional (COL) v EC Bahia (BRA)
            CA Peñarol (URU)        v Olimpia Asuncion (PAR)
            CA Vélez Sarsfield (ARG) v San Antonio Bulo Bulo (BOL)
+    21.30  Botafogo FR (BRA)       v Estudiantes de La Plata (ARG)
+           São Paulo FC (BRA)      v Club Libertad Asuncion (PAR)
+           Racing Club (ARG)       v CSD Colo-Colo (CHI)
+    23.00  Club Universitario de Deportes (PER) v Barcelona SC (ECU)
+  Thu May/15
+    19.00  CA Talleres (ARG)       v Club Alianza Lima (PER)
+           Club Nacional de Football (URU) v SC Internacional (BRA)
+           SE Palmeiras (BRA)      v Club Bolívar (BOL)
+    21.30  CA River Plate (ARG)    v CAR Independiente del Valle (ECU)
+           CR Flamengo (BRA)       v LDU de Quito (ECU)
 
 
 » Group, Matchday 6
-  Wed May/28
-           Botafogo FR (BRA)       v CF Universidad de Chile (CHI)
+  Tue May/27
+    19.00  São Paulo FC (BRA)      v CA Talleres (ARG)
+           Club Libertad Asuncion (PAR) v Club Alianza Lima (PER)
+    21.30  Botafogo FR (BRA)       v CF Universidad de Chile (CHI)
            Estudiantes de La Plata (ARG) v Carabobo FC (VEN)
            CA River Plate (ARG)    v Club Universitario de Deportes (PER)
            CAR Independiente del Valle (ECU) v Barcelona SC (ECU)
-           CR Flamengo (BRA)       v Deportivo Táchira FC (VEN)
-           LDU de Quito (ECU)      v CA Central Córdoba (ARG)
-           São Paulo FC (BRA)      v CA Talleres (ARG)
-           Club Libertad Asuncion (PAR) v Club Alianza Lima (PER)
-           Racing Club (ARG)       v Fortaleza EC (BRA)
-           CSD Colo-Colo (CHI)     v CA Bucaramanga (COL)
-           Club Nacional de Football (URU) v CDC Atlético Nacional (COL)
+  Wed May/28
+    19.00  Club Nacional de Football (URU) v CDC Atlético Nacional (COL)
            SC Internacional (BRA)  v EC Bahia (BRA)
+    21.30  CR Flamengo (BRA)       v Deportivo Táchira FC (VEN)
+           LDU de Quito (ECU)      v CA Central Córdoba (ARG)
            SE Palmeiras (BRA)      v CS Cristal (PER)
            Club Bolívar (BOL)      v Club Cerro Porteño (PAR)
-           CA Peñarol (URU)        v CA Vélez Sarsfield (ARG)
+  Thu May/29
+    19.00  CA Peñarol (URU)        v CA Vélez Sarsfield (ARG)
            Olimpia Asuncion (PAR)  v San Antonio Bulo Bulo (BOL)
+    21.30  Racing Club (ARG)       v Fortaleza EC (BRA)
+           CSD Colo-Colo (CHI)     v CA Bucaramanga (COL)
 
 
 » Finals, Round of 16
