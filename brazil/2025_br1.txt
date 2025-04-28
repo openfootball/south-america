@@ -41,14 +41,14 @@
   Sat Apr/12
     16.00  RB Bragantino           v Botafogo FR              1-0 (1-0)
            EC Juventude            v Ceará SC                 2-1 (1-1)
-    18.30  SE Palmeiras            v SC Corinthians Paulista  2-0 (2-0)
+    18.30  SE Palmeiras            v SC Corinthians Paulista  3-0 (2-0)
     21.00  CR Vasco da Gama        v SC Recife                3-1 (2-0)
   Sun Apr/13
-    16.00  EC Bahia                v Mirassol FC              1-1 (1-1)
+    16.00  EC Bahia                v Mirassol FC              1-2 (1-1)
     17.30  São Paulo FC            v Cruzeiro EC              1-1 (0-0)
            Grêmio FBPA             v CR Flamengo              0-2 (0-1)
     19.30  Fluminense FC           v Santos FC                1-0 (0-0)
-    20.00  Fortaleza EC            v SC Internacional         0-0
+    20.00  Fortaleza EC            v SC Internacional         1-0 (0-0)
     20.30  CA Mineiro              v EC Vitória               2-2 (0-0)
 
 
@@ -60,7 +60,7 @@
     19.00  Mirassol FC             v Grêmio FBPA              4-1 (2-0)
            SC Recife               v RB Bragantino            0-1 (0-1)
     19.30  SC Corinthians Paulista v Fluminense FC            0-2 (0-0)
-           SC Internacional        v SE Palmeiras             0-1 (0-0)
+           SC Internacional        v SE Palmeiras             0-2 (0-0)
     21.30  CR Flamengo             v EC Juventude             6-0 (3-0)
            Santos FC               v CA Mineiro               2-0 (2-0)
            EC Vitória              v Fortaleza EC             2-1 (1-0)
@@ -74,29 +74,29 @@
     18.30  CR Vasco da Gama        v CR Flamengo              0-0
     21.00  Grêmio FBPA             v SC Internacional         1-1 (1-0)
   Sun Apr/20
-    11.00  EC Juventude            v Mirassol FC
-    16.00  São Paulo FC            v Santos FC
-           CA Mineiro              v Botafogo FR
-    18.30  Fluminense FC           v EC Vitória
-           Fortaleza EC            v SE Palmeiras
-    20.30  RB Bragantino           v Cruzeiro EC
+    11.00  EC Juventude            v Mirassol FC              2-2 (2-1)
+    16.00  São Paulo FC            v Santos FC                2-1 (2-1)
+           CA Mineiro              v Botafogo FR              1-0 (0-0)
+    18.30  Fluminense FC           v EC Vitória               1-1 (1-0)
+           Fortaleza EC            v SE Palmeiras             1-2 (0-1)
+    20.30  RB Bragantino           v Cruzeiro EC              1-0 (1-0)
   Mon Apr/21
-    20.00  EC Bahia                v Ceará SC
+    20.00  EC Bahia                v Ceará SC                 1-0 (0-0)
 
 
 » Matchday 6
   Sat Apr/26
-    16.00  SC Internacional        v EC Juventude
-    18.30  Mirassol FC             v CA Mineiro
-           Ceará SC                v São Paulo FC
-    20.00  SC Recife               v Fortaleza EC
-    21.00  Botafogo FR             v Fluminense FC
+    16.00  SC Internacional        v EC Juventude             3-1 (2-1)
+    18.30  Mirassol FC             v CA Mineiro               2-2 (1-0)
+           Ceará SC                v São Paulo FC             1-1 (1-1)
+    20.00  SC Recife               v Fortaleza EC             0-0
+    21.00  Botafogo FR             v Fluminense FC            2-0 (1-0)
   Sun Apr/27
-    16.00  CR Flamengo             v SC Corinthians Paulista
-    18.30  SE Palmeiras            v EC Bahia
-           Cruzeiro EC             v CR Vasco da Gama
-           EC Vitória              v Grêmio FBPA
-    20.30  Santos FC               v RB Bragantino
+    16.00  CR Flamengo             v SC Corinthians Paulista  4-0 (3-0)
+    18.30  SE Palmeiras            v EC Bahia                 0-1 (0-0)
+           Cruzeiro EC             v CR Vasco da Gama         1-0 (0-0)
+           EC Vitória              v Grêmio FBPA              1-1 (0-1)
+    20.30  Santos FC               v RB Bragantino            1-2 (0-0)
 
 
 » Matchday 7
