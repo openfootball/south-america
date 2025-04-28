@@ -1,0 +1,125 @@
+= Copa do Brasil 2025
+
+# Date       Tue Feb/18 - Thu May/22 2025 (93d)
+# Teams      92
+# Matches    92
+
+
+
+» Round 1
+  Tue Feb/18 2025
+    18.00  Tocantinópolis TO       v Atlético Mineiro         0-2 (0-0)
+    21.30  União Rondonópolis MT   v Vasco da Gama RJ         0-3 (0-0)
+  Wed Feb/19
+    15.30  Tuna Luso PA            v Sampaio Corrêa MA        1-0 (0-0)
+    19.00  Santa Cruz de Natal RN  v Náutico PE               0-4 (0-1)
+    19.30  São Raimundo RR         v Grêmio Porto Alegre      1-4 pen. 1-4 a.e.t. (1-1, 0-0)
+           Boavista RJ             v CSA AL                   0-2 (0-2)
+    20.00  Porto Velho EC RO       v Cuiabá MT                4-3 pen. 4-3 a.e.t. (0-0)
+           Capital DF              v Portuguesa RJ            5-3 pen. 5-3 a.e.t. (0-0)
+           Sergipe SE              v Ceará CE                 0-2 (0-1)
+    20.30  Trem AP                 v Brusque SC               0-2 (0-1)
+    21.00  Independência AC        v Manaus AM                2-4 pen. 2-4 a.e.t. (1-1, 0-0)
+    21.30  ASA AL                  v Atlético Goianiense      0-0 pen. 5-6 a.e.t. (5-6, 5-6)
+  Thu Feb/20
+    20.00  Rio Branco VN ES        v Amazonas FC AM           0-0 pen. 5-3 a.e.t. (5-3, 5-3)
+    21.30  Olária RJ               v ABC RN                   1-0 (1-0)
+  Tue Feb/25
+    19.00  Maranhão MA             v Vitória BA               0-1 (0-0)
+    19.30  Maringá PR              v Juventude RS             1-0 (1-0)
+           Barcelona BA            v Athletic MG              1-2 (0-2)
+    20.00  Operário de Campo Grande MS v Criciúma SC              0-1 (0-1)
+    21.30  Pouso Alegre MG         v Athletico Paranaense     0-2 (0-1)
+           Operário MT             v Sport Recife PE          4-2 pen. (0-0)
+  Wed Feb/26
+    16.00  Dourados MS             v S.E.R. Caxias RS         0-2 (0-0)
+    19.00  CSE AL                  v Tombense MG              1-3 (0-2)
+           Guarany de Bage RS      v Altos PI                 2-1 (0-0)
+           Cascavel FC PR          v América MG               1-0 (1-0)
+    19.30  Jequié BA               v Retrô PE                 1-2 (1-2)
+           Votuporanguense SP      v Aparecidense GO          4-5 pen. (2-2, 0-1)
+           Águia de Marabá PA      v Fluminense RJ            0-8 (0-4)
+    20.00  Parnahyba PI            v Confiança SE             0-5 (0-4)
+           Barcelona RO            v Nova Iguaçu RJ           1-4 (1-2)
+           Maracanã CE             v Ferroviário CE           5-4 pen. (1-1, 0-1)
+           União Carmolandense TO  v América RN               4-2 (2-2)
+           Oratório AP             v São José RS              1-3 (1-0)
+    20.30  GA Sampaio RR           v Remo PA                  0-4 (0-1)
+    21.00  Humaitá AC              v Operário Ferroviário PR  1-3 pen. (0-0)
+    21.30  Concórdia SC            v Ponte Preta              2-1 (1-1)
+  Thu Feb/27
+    19.00  Ceilândia DF            v Coritiba PR              4-2 pen. (2-2, 0-0)
+           Sousa PB                v Red Bull Bragantino      4-5 pen. (1-1, 0-0)
+    20.00  Rio Branco ES           v Grêmio Novorizontino SP  1-3 (1-1)
+    21.00  Portuguesa SP           v Botafogo PB              3-4 pen. (1-1, 1-1)
+    21.30  Inter de Limeira SP     v Vila Nova GO             6-7 pen. (0-0)
+
+
+» Round 2
+  Tue Mar/4
+    21.30  Aparecidense GO         v Cascavel FC PR           1-0 (0-0)
+  Wed Mar/5
+    19.00  S.E.R. Caxias RS        v Fluminense RJ            1-2 (0-1)
+    19.30  Atlético Mineiro        v Manaus AM                4-1 (2-0)
+    21.30  Nova Iguaçu RJ          v Vasco da Gama RJ         0-3 (0-3)
+  Thu Mar/6
+    19.30  Maringá PR              v União Carmolandense TO   4-2 (4-1)
+    21.30  Olária RJ               v Brusque SC               1-2 (0-1)
+  Tue Mar/11
+    19.00  Operário MT             v Grêmio Novorizontino SP  0-1 (0-1)
+    19.30  Remo PA                 v Criciúma SC              1-2 (1-1)
+    21.30  Red Bull Bragantino     v São José RS              4-2 pen. (1-1, 1-0)
+           Botafogo PB             v Concórdia SC             4-0 (2-0)
+  Wed Mar/12
+    19.00  Vitória BA              v Náutico PE               0-2 (0-2)
+    19.30  Athletic MG             v Grêmio Porto Alegre      7-8 pen. (3-3, 1-2)
+           Operário Ferroviário PR v Tombense MG              1-0 (1-0)
+    20.00  Capital DF              v Porto Velho EC RO        3-1 (2-0)
+           Maracanã CE             v Ceilândia DF             4-3 pen. (0-0)
+    21.30  Atlético Goianiense     v Retrô PE                 1-4 pen. (1-1, 0-1)
+           Ceará CE                v Confiança SE             3-0 pen. (2-2, 0-2)
+  Thu Mar/13
+    19.30  Athletico Paranaense    v Guarany de Bage RS       3-1 (2-0)
+    21.30  CSA AL                  v Tuna Luso PA             5-0 (4-0)
+           Vila Nova GO            v Rio Branco VN ES         6-0 (1-0)
+
+
+» Round 3
+  Tue Apr/29
+    19.00  Internacional           v Maracanã CE
+           Retrô PE                v Fortaleza CE
+    19.30  Maringá PR              v Atlético Mineiro
+    21.30  Fluminense RJ           v Aparecidense GO
+           São Paulo FC            v Náutico PE
+  Wed Apr/30
+    19.00  Botafogo RJ             v Capital DF
+    19.30  Ceará CE                v Palmeiras
+    21.30  Paysandu PA             v Bahia BA
+           Grêmio Novorizontino SP v Corinthians SP
+           CSA AL                  v Grêmio Porto Alegre
+  Thu May/1
+    16.00  Operário Ferroviário PR v Vasco da Gama RJ
+           Brusque SC              v Athletico Paranaense
+    18.00  Santos FC               v CR Brasil AL
+    18.30  Criciúma SC             v Red Bull Bragantino
+    20.00  Botafogo PB             v Flamengo RJ
+    21.30  Cruzeiro                v Vila Nova GO
+  Tue May/20
+    19.00  Vasco da Gama RJ        v Operário Ferroviário PR
+    19.30  Athletico Paranaense    v Brusque SC
+    21.30  Náutico PE              v São Paulo FC
+           Grêmio Porto Alegre     v CSA AL
+  Wed May/21
+    19.00  Fortaleza CE            v Retrô PE
+    19.30  Aparecidense GO         v Fluminense RJ
+           Bahia BA                v Paysandu PA
+    21.30  Atlético Mineiro        v Maringá PR
+           Flamengo RJ             v Botafogo PB
+           Corinthians SP          v Grêmio Novorizontino SP
+  Thu May/22
+    19.00  Maracanã CE             v Internacional
+           Vila Nova GO            v Cruzeiro
+    19.30  Palmeiras               v Ceará CE
+    21.30  Capital DF              v Botafogo RJ
+           CR Brasil AL            v Santos FC
+           Red Bull Bragantino     v Criciúma SC
