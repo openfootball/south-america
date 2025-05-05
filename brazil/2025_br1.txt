@@ -41,14 +41,14 @@
   Sat Apr/12
     16.00  RB Bragantino           v Botafogo FR              1-0 (1-0)
            EC Juventude            v Ceará SC                 2-1 (1-1)
-    18.30  SE Palmeiras            v SC Corinthians Paulista  3-0 (2-0)
+    18.30  SE Palmeiras            v SC Corinthians Paulista  2-0 (2-0)
     21.00  CR Vasco da Gama        v SC Recife                3-1 (2-0)
   Sun Apr/13
-    16.00  EC Bahia                v Mirassol FC              1-2 (1-1)
+    16.00  EC Bahia                v Mirassol FC              1-1 (1-1)
     17.30  São Paulo FC            v Cruzeiro EC              1-1 (0-0)
            Grêmio FBPA             v CR Flamengo              0-2 (0-1)
     19.30  Fluminense FC           v Santos FC                1-0 (0-0)
-    20.00  Fortaleza EC            v SC Internacional         1-0 (0-0)
+    20.00  Fortaleza EC            v SC Internacional         0-0
     20.30  CA Mineiro              v EC Vitória               2-2 (0-0)
 
 
@@ -60,7 +60,7 @@
     19.00  Mirassol FC             v Grêmio FBPA              4-1 (2-0)
            SC Recife               v RB Bragantino            0-1 (0-1)
     19.30  SC Corinthians Paulista v Fluminense FC            0-2 (0-0)
-           SC Internacional        v SE Palmeiras             0-2 (0-0)
+           SC Internacional        v SE Palmeiras             0-1 (0-0)
     21.30  CR Flamengo             v EC Juventude             6-0 (3-0)
            Santos FC               v CA Mineiro               2-0 (2-0)
            EC Vitória              v Fortaleza EC             2-1 (1-0)
@@ -101,16 +101,16 @@
 
 » Matchday 7
   Fri May/2
-    21.30  São Paulo FC            v Fortaleza EC
+    21.30  São Paulo FC            v Fortaleza EC             0-0
   Sat May/3
-    18.30  Fluminense FC           v SC Recife
-           SC Corinthians Paulista v SC Internacional
-           Ceará SC                v EC Vitória
-    21.00  EC Bahia                v Botafogo FR
+    18.30  Fluminense FC           v SC Recife                2-1 (0-1)
+           SC Corinthians Paulista v SC Internacional         4-2 (1-2)
+           Ceará SC                v EC Vitória               1-0 (0-0)
+    21.00  EC Bahia                v Botafogo FR              1-0 (1-0)
   Sun May/4
-    16.00  CR Vasco da Gama        v SE Palmeiras
-           Grêmio FBPA             v Santos FC
-    18.30  Cruzeiro EC             v CR Flamengo
+    16.00  CR Vasco da Gama        v SE Palmeiras             0-1 (0-0)
+           Grêmio FBPA             v Santos FC                1-0 (0-0)
+    18.30  Cruzeiro EC             v CR Flamengo              2-1 (1-1)
   Mon May/5
     19.00  RB Bragantino           v Mirassol FC
     20.00  EC Juventude            v CA Mineiro
@@ -149,7 +149,6 @@
 
 » Matchday 10
   Sat May/24
-    16.00  Botafogo FR             v Ceará SC
     18.30  Fluminense FC           v CR Vasco da Gama
            São Paulo FC            v Mirassol FC
     21.00  CA Mineiro              v SC Corinthians Paulista
@@ -176,6 +175,11 @@
            CR Flamengo             v Fortaleza EC
            SC Corinthians Paulista v EC Vitória
     20.30  SC Internacional        v Fluminense FC
+
+
+» Matchday 10
+  Wed Jun/4
+    20.00  Botafogo FR             v Ceará SC
 
 
 » Matchday 12
