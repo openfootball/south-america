@@ -1,0 +1,283 @@
+= Paraguay Primera Division 2025
+
+# Date       Fri Jan/24 - Fri Jul/4 2025 (161d)
+# Teams      12
+# Matches    138
+# Stages     Apertura (132)  Clausura (6)
+
+
+
+» Apertura, Matchday 1
+  Fri Jan/24 2025
+    18.00  Sportivo Trinidense     v Sportivo Ameliano        1-2 (0-1)
+    20.30  Sportivo Luqueño        v Atlético Tembetary       1-1 (1-1)
+  Sat Jan/25
+    09.00  2 de Mayo               v Club Nacional            0-0
+    19.30  General Caballero DJLM  v Deportivo Recoleta       2-2 (2-1)
+  Sun Jan/26
+    18.15  Club Olimpia            v Guaraní                  0-1 (0-1)
+    20.45  Cerro Porteño           v Libertad                 2-2 (0-0)
+
+
+» Apertura, Matchday 2
+  Tue Jan/28
+    18.00  Atlético Tembetary      v Sportivo Trinidense      2-2 (0-0)
+    20.30  Deportivo Recoleta      v 2 de Mayo                0-2 (0-0)
+  Wed Jan/29
+    18.00  Sportivo Luqueño        v Cerro Porteño            1-1 (0-0)
+    20.30  Club Nacional           v Libertad                 0-3 (0-3)
+  Thu Jan/30
+    18.00  Guaraní                 v General Caballero DJLM   2-1 (2-0)
+    20.30  Sportivo Ameliano       v Club Olimpia             2-2 (2-2)
+
+
+» Apertura, Matchday 3
+  Sat Feb/1
+    18.00  Sportivo Trinidense     v Sportivo Luqueño         1-0 (0-0)
+    20.30  Cerro Porteño           v Club Nacional            3-1 (1-0)
+  Sun Feb/2
+    18.00  General Caballero DJLM  v Sportivo Ameliano        1-0 (1-0)
+    20.30  Libertad                v Deportivo Recoleta       5-2 (0-2)
+  Mon Feb/3
+    09.00  2 de Mayo               v Guaraní                  0-2 (0-1)
+    20.00  Club Olimpia            v Atlético Tembetary       3-0 (3-0)
+
+
+» Apertura, Matchday 4
+  Sat Feb/8
+    18.15  Deportivo Recoleta      v Club Nacional            1-0 (0-0)
+    20.30  Sportivo Trinidense     v Cerro Porteño            1-0 (0-0)
+  Sun Feb/9
+    18.15  Sportivo Luqueño        v Club Olimpia             0-1 (0-0)
+    20.30  Guaraní                 v Libertad                 0-1 (0-0)
+  Mon Feb/10
+    18.15  Atlético Tembetary      v General Caballero DJLM   1-0 (0-0)
+    20.30  Sportivo Ameliano       v 2 de Mayo                1-1 (1-0)
+
+
+» Apertura, Matchday 5
+  Fri Feb/14
+    09.00  2 de Mayo               v Atlético Tembetary       1-1 (1-1)
+    19.30  General Caballero DJLM  v Sportivo Luqueño         3-0 (2-0)
+  Sat Feb/15
+    18.15  Club Nacional           v Guaraní                  1-2 (1-1)
+    20.30  Cerro Porteño           v Deportivo Recoleta       2-1 (0-1)
+  Sun Feb/16
+    18.15  Club Olimpia            v Sportivo Trinidense      4-2 (3-1)
+    20.30  Libertad                v Sportivo Ameliano        2-0 (0-0)
+
+
+» Apertura, Matchday 6
+  Fri Feb/21
+    18.15  Guaraní                 v Deportivo Recoleta       1-3 (1-1)
+    20.30  Sportivo Luqueño        v 2 de Mayo                0-0
+  Sat Feb/22
+    18.15  Sportivo Ameliano       v Club Nacional            2-1 (0-0)
+    20.30  Atlético Tembetary      v Libertad                 1-2 (0-1)
+  Sun Feb/23
+    18.00  Club Olimpia            v Cerro Porteño            2-1 (1-1)
+  Mon Feb/24
+    19.30  Sportivo Trinidense     v General Caballero DJLM   0-0
+
+
+» Apertura, Matchday 7
+  Fri Feb/28
+    18.15  Deportivo Recoleta      v Sportivo Ameliano        1-1 (0-0)
+    20.30  Libertad                v Sportivo Luqueño         3-0 (1-0)
+  Sat Mar/1
+    18.15  General Caballero DJLM  v Club Olimpia             1-1 (1-0)
+    20.30  Club Nacional           v Atlético Tembetary       1-0 (1-0)
+  Sun Mar/2
+    09.00  2 de Mayo               v Sportivo Trinidense      1-1 (1-0)
+    19.30  Cerro Porteño           v Guaraní                  0-1 (0-0)
+
+
+» Apertura, Matchday 8
+  Sat Mar/8
+    18.15  Atlético Tembetary      v Deportivo Recoleta       2-3 (1-1)
+    20.30  Sportivo Trinidense     v Libertad                 1-1 (1-0)
+  Sun Mar/9
+    18.15  General Caballero DJLM  v Cerro Porteño            0-1 (0-0)
+    20.30  Club Olimpia            v 2 de Mayo                2-1 (2-1)
+  Mon Mar/10
+    18.15  Sportivo Luqueño        v Club Nacional            2-1 (0-1)
+    20.30  Sportivo Ameliano       v Guaraní                  2-0 (0-0)
+
+
+» Apertura, Matchday 9
+  Fri Mar/14
+    09.00  2 de Mayo               v General Caballero DJLM   0-1 (0-0)
+    19.30  Guaraní                 v Atlético Tembetary       0-0
+  Sat Mar/15
+    19.30  Libertad                v Club Olimpia             2-1 (1-1)
+  Sun Mar/16
+    18.15  Cerro Porteño           v Sportivo Ameliano        2-0 (1-0)
+    20.30  Deportivo Recoleta      v Sportivo Luqueño         0-1 (0-0)
+  Mon Mar/17
+    20.30  Club Nacional           v Sportivo Trinidense      1-1 (1-0)
+
+
+» Apertura, Matchday 10
+  Fri Mar/21
+    19.30  Sportivo Trinidense     v Deportivo Recoleta       1-1 (1-1)
+  Sat Mar/22
+    18.15  General Caballero DJLM  v Libertad                 0-5 (0-3)
+    20.30  Club Olimpia            v Club Nacional            0-1 (0-1)
+  Sun Mar/23
+    15.00  2 de Mayo               v Cerro Porteño            1-1 (1-1)
+    18.30  Sportivo Luqueño        v Guaraní                  0-1 (0-1)
+  Mon Mar/24
+    18.30  Atlético Tembetary      v Sportivo Ameliano        1-0 (0-0)
+
+
+» Apertura, Matchday 11
+  Thu Mar/27
+    18.30  Guaraní                 v Sportivo Trinidense      1-3 (1-2)
+  Fri Mar/28
+    17.15  Libertad                v 2 de Mayo                1-1 (0-0)
+    19.30  Cerro Porteño           v Atlético Tembetary       1-0 (0-0)
+  Sat Mar/29
+    17.15  Sportivo Ameliano       v Sportivo Luqueño         2-2 (2-1)
+    19.30  Deportivo Recoleta      v Club Olimpia             1-1 (0-0)
+  Sun Mar/30
+    17.30  Club Nacional           v General Caballero DJLM   1-0 (1-0)
+
+
+» Apertura, Matchday 12
+  Fri Apr/4
+    17.15  Deportivo Recoleta      v General Caballero DJLM   3-1 (1-0)
+    19.30  Sportivo Ameliano       v Sportivo Trinidense      0-1 (0-0)
+  Sat Apr/5
+    17.00  Atlético Tembetary      v Sportivo Luqueño         1-1 (1-0)
+    19.30  Libertad                v Cerro Porteño            1-0 (1-0)
+  Sun Apr/6
+    17.15  Guaraní                 v Club Olimpia             2-1 (1-1)
+    19.30  Club Nacional           v 2 de Mayo                1-0 (0-0)
+
+
+» Apertura, Matchday 13
+  Thu Apr/10
+    17.00  2 de Mayo               v Deportivo Recoleta       0-4 (0-3)
+    19.15  Sportivo Trinidense     v Atlético Tembetary       1-1 (1-1)
+  Fri Apr/11
+    17.30  Libertad                v Club Nacional            1-0 (0-0)
+  Sat Apr/12
+    17.30  Cerro Porteño           v Sportivo Luqueño         0-0
+  Sun Apr/13
+    17.00  Club Olimpia            v Sportivo Ameliano        0-0
+    19.15  General Caballero DJLM  v Guaraní                  0-0
+
+
+» Apertura, Matchday 14
+  Mon Apr/14
+    17.30  Deportivo Recoleta      v Libertad                 1-1 (1-0)
+  Tue Apr/15
+    17.00  Sportivo Luqueño        v Sportivo Trinidense      1-0 (0-0)
+    19.15  Club Nacional           v Cerro Porteño            1-3 (1-2)
+  Wed Apr/16
+    15.00  Sportivo Ameliano       v General Caballero DJLM   0-1 (0-0)
+    17.15  Guaraní                 v 2 de Mayo                0-1 (0-1)
+    19.30  Atlético Tembetary      v Club Olimpia             0-1 (0-0)
+
+
+» Apertura, Matchday 15
+  Sat Apr/19
+    17.00  Libertad                v Guaraní                  1-3 (1-0)
+    19.15  Club Olimpia            v Sportivo Luqueño         3-1 (2-1)
+  Sun Apr/20
+    17.00  General Caballero DJLM  v Atlético Tembetary       0-1 (0-0)
+    19.15  Cerro Porteño           v Sportivo Trinidense      1-0 (1-0)
+  Mon Apr/21
+    17.00  2 de Mayo               v Sportivo Ameliano        1-4 (1-1)
+    19.15  Club Nacional           v Deportivo Recoleta       1-1 (0-0)
+
+
+» Apertura, Matchday 16
+  Fri Apr/25
+    18.00  Atlético Tembetary      v 2 de Mayo                1-1 (0-0)
+  Sat Apr/26
+    18.00  Guaraní                 v Club Nacional            2-1 (1-0)
+  Sun Apr/27
+    17.00  Sportivo Luqueño        v General Caballero DJLM   0-0
+    19.15  Sportivo Ameliano       v Libertad                 0-0
+  Mon Apr/28
+    17.00  Sportivo Trinidense     v Club Olimpia             1-1 (1-1)
+    19.15  Deportivo Recoleta      v Cerro Porteño            1-3 (0-1)
+
+
+» Apertura, Matchday 17
+  Fri May/2
+    17.00  2 de Mayo               v Sportivo Luqueño         1-1 (1-0)
+    19.15  Deportivo Recoleta      v Guaraní                  0-3 (0-1)
+  Sat May/3
+    16.30  Cerro Porteño           v Club Olimpia             1-2 (1-0)
+  Sun May/4
+    17.00  Club Nacional           v Sportivo Ameliano        0-1 (0-1)
+    19.15  Libertad                v Atlético Tembetary       0-0
+  Mon May/5
+    18.00  General Caballero DJLM  v Sportivo Trinidense
+
+
+» Apertura, Matchday 18
+  Fri May/9
+    16.00  Sportivo Trinidense     v 2 de Mayo
+    18.30  Atlético Tembetary      v Club Nacional
+  Sat May/10
+    16.00  Guaraní                 v Cerro Porteño
+    18.30  Sportivo Ameliano       v Deportivo Recoleta
+  Sun May/11
+    16.00  Club Olimpia            v General Caballero DJLM
+    18.30  Sportivo Luqueño        v Libertad
+
+
+» Apertura, Matchday 19
+  Thu May/15
+    17.00  Deportivo Recoleta      v Atlético Tembetary
+  Fri May/16
+    18.30  Cerro Porteño           v General Caballero DJLM
+  Sat May/17
+    16.00  Club Nacional           v Sportivo Luqueño
+    18.30  Libertad                v Sportivo Trinidense
+  Sun May/18
+    16.00  2 de Mayo               v Club Olimpia
+    18.30  Guaraní                 v Sportivo Ameliano
+
+
+» Apertura, Matchday 20
+  Sun May/18
+           General Caballero DJLM  v 2 de Mayo
+           Sportivo Luqueño        v Deportivo Recoleta
+           Sportivo Trinidense     v Club Nacional
+           Atlético Tembetary      v Guaraní
+           Club Olimpia            v Libertad
+           Sportivo Ameliano       v Cerro Porteño
+
+
+» Apertura, Matchday 21
+  Sat May/24
+           Cerro Porteño           v 2 de Mayo
+           Guaraní                 v Sportivo Luqueño
+           Libertad                v General Caballero DJLM
+           Sportivo Ameliano       v Atlético Tembetary
+           Deportivo Recoleta      v Sportivo Trinidense
+           Club Nacional           v Club Olimpia
+
+
+» Apertura, Matchday 22
+  Fri May/30
+           Atlético Tembetary      v Cerro Porteño
+           Sportivo Luqueño        v Sportivo Ameliano
+           Sportivo Trinidense     v Guaraní
+           Club Olimpia            v Deportivo Recoleta
+           2 de Mayo               v Libertad
+           General Caballero DJLM  v Club Nacional
+
+
+» Clausura, Matchday 1
+  Fri Jul/4
+           Sportivo Ameliano       v Atlético Tembetary
+           Deportivo Recoleta      v Sportivo Trinidense
+           Cerro Porteño           v General Caballero DJLM
+           Club Olimpia            v Club Nacional
+           Guaraní                 v 2 de Mayo
+           Libertad                v Sportivo Luqueño

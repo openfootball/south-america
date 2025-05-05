@@ -8,169 +8,197 @@
 
 » Matchday 1
   Fri Apr/4 2025
-    19.00  Goiás GO                v Amazonas FC AM
-    21.00  Paysandu PA             v Athletico Paranaense
-           Criciúma SC             v Operário Ferroviário PR
+    19.00  Goiás GO                v Amazonas FC AM           1-0 (1-0)
+    21.00  Paysandu PA             v Athletico Paranaense     1-2 (1-1)
+           Criciúma SC             v Operário Ferroviário PR  1-2 (1-1)
   Sat Apr/5
-    16.00  Coritiba PR             v Vila Nova GO
-           CR Brasil AL            v Chapecoense
-    18.30  América MG              v Botafogo SP
+    16.00  Coritiba PR             v Vila Nova GO             1-0 (0-0)
+           CR Brasil AL            v Chapecoense              1-0 (1-0)
+    18.30  América MG              v Botafogo SP              1-0 (0-0)
   Sun Apr/6
-    19.00  Ferroviária SP          v Remo PA
-           Volta Redonda RJ        v Cuiabá MT
-    20.00  Avaí SC                 v Grêmio Novorizontino SP
+    19.00  Ferroviária SP          v Remo PA                  1-1 (0-1)
+           Volta Redonda RJ        v Cuiabá MT                0-1 (0-1)
+    20.00  Avaí SC                 v Grêmio Novorizontino SP  1-1 (1-1)
   Mon Apr/7
-    19.00  Atlético Goianiense     v Athletic MG
+    19.00  Atlético Goianiense     v Athletic MG              4-2 (1-1)
 
 
 » Matchday 2
   Thu Apr/10
-    19.00  Athletico Paranaense    v Criciúma SC
+    19.00  Athletico Paranaense    v Criciúma SC              2-1 (1-0)
+    21.30  Cuiabá MT               v Avaí SC                  2-2 (1-0)
   Sat Apr/12
-           Cuiabá MT               v Avaí SC
-  Fri Apr/11
-    19.00  Chapecoense             v Coritiba PR
-  Sat Apr/12
-    16.00  Remo PA                 v América MG
-    18.00  Vila Nova GO            v Paysandu PA
-    19.00  Amazonas FC AM          v Ferroviária SP
-           Grêmio Novorizontino SP v Volta Redonda RJ
-    20.00  Operário Ferroviário PR v Goiás GO
+    16.00  Chapecoense             v Coritiba PR              1-2 (0-0)
+    18.00  Vila Nova GO            v Paysandu PA              1-0 (1-0)
+    19.00  Amazonas FC AM          v Ferroviária SP           0-0
+           Grêmio Novorizontino SP v Volta Redonda RJ         1-0 (0-0)
+    20.00  Operário Ferroviário PR v Goiás GO                 1-2 (0-0)
   Sun Apr/13
-    16.00  Athletic MG             v CR Brasil AL
-    19.00  Botafogo SP             v Atlético Goianiense
+    16.00  Remo PA                 v América MG               2-0 (1-0)
+           Athletic MG             v CR Brasil AL             1-2 (1-0)
+    19.00  Botafogo SP             v Atlético Goianiense      1-1 (1-0)
 
 
 » Matchday 3
   Tue Apr/15
-    19.00  Cuiabá MT               v Athletico Paranaense
+    19.00  Cuiabá MT               v Athletico Paranaense     2-1 (0-1)
   Wed Apr/16
-    20.00  Paysandu PA             v Chapecoense
-           Avaí SC                 v Operário Ferroviário PR
-    21.00  Coritiba PR             v Grêmio Novorizontino SP
+    20.00  Paysandu PA             v Chapecoense              0-2 (0-2)
+           Avaí SC                 v Operário Ferroviário PR  1-0 (1-0)
+    21.00  Coritiba PR             v Grêmio Novorizontino SP  0-0
   Thu Apr/17
-    19.00  Goiás GO                v Vila Nova GO
-    20.00  Criciúma SC             v Athletic MG
-           CR Brasil AL            v Volta Redonda RJ
-           Botafogo SP             v Remo PA
-    21.00  Ferroviária SP          v Atlético Goianiense
-    21.30  América MG              v Amazonas FC AM
+    19.00  Goiás GO                v Vila Nova GO             2-2 (1-1)
+    20.00  Criciúma SC             v Athletic MG              4-0 (3-0)
+           CR Brasil AL            v Volta Redonda RJ         1-0 (1-0)
+           Botafogo SP             v Remo PA                  2-2 (1-1)
+    21.00  Ferroviária SP          v Atlético Goianiense      2-0 (1-0)
+    21.35  América MG              v Amazonas FC AM           3-1 (1-1)
 
 
 » Matchday 4
-  Fri Apr/18
-           Athletico Paranaense    v CR Brasil AL
-           Vila Nova GO            v Botafogo SP
-           Atlético Goianiense     v Cuiabá MT
-           Remo PA                 v Coritiba PR
-           Chapecoense             v Athletic MG
-           Operário Ferroviário PR v Paysandu PA
-           Amazonas FC AM          v Avaí SC
-           América MG              v Goiás GO
-           Grêmio Novorizontino SP v Criciúma SC
-           Volta Redonda RJ        v Ferroviária SP
+  Sat Apr/19
+    16.00  Operário Ferroviário PR v Paysandu PA              0-0
+  Sun Apr/20
+    16.00  Vila Nova GO            v Botafogo SP              2-0 (2-0)
+    18.00  Chapecoense             v Athletic MG              1-0 (0-0)
+    19.00  Athletico Paranaense    v CR Brasil AL             2-0 (1-0)
+    20.00  América MG              v Goiás GO                 1-0 (1-0)
+  Mon Apr/21
+    18.00  Amazonas FC AM          v Avaí SC                  0-2 (0-2)
+    19.00  Grêmio Novorizontino SP v Criciúma SC              1-1 (0-1)
+    21.30  Remo PA                 v Coritiba PR              1-0 (1-0)
+  Tue Apr/22
+    19.30  Atlético Goianiense     v Cuiabá MT                1-1 (1-0)
+    20.00  Volta Redonda RJ        v Ferroviária SP           0-0
 
 
 » Matchday 5
+  Thu Apr/24
+    21.35  Grêmio Novorizontino SP v Athletico Paranaense     2-1 (1-0)
   Fri Apr/25
-           Coritiba PR             v Operário Ferroviário PR
-           Vila Nova GO            v Chapecoense
-           Cuiabá MT               v Ferroviária SP
-           Paysandu PA             v CR Brasil AL
-           Avaí SC                 v América MG
-           Criciúma SC             v Remo PA
-           Amazonas FC AM          v Atlético Goianiense
-           Athletic MG             v Volta Redonda RJ
-           Grêmio Novorizontino SP v Athletico Paranaense
-           Botafogo SP             v Goiás GO
+    19.00  Criciúma SC             v Remo PA                  1-1 (0-0)
+    21.00  Vila Nova GO            v Chapecoense              1-0 (0-0)
+  Sat Apr/26
+    16.00  Coritiba PR             v Operário Ferroviário PR  2-0 (2-0)
+    20.00  Avaí SC                 v América MG               3-0 (1-0)
+  Sun Apr/27
+    16.00  Athletic MG             v Volta Redonda RJ         2-1 (1-0)
+    16.30  Amazonas FC AM          v Atlético Goianiense      1-1 (0-1)
+    17.00  Paysandu PA             v CR Brasil AL             1-1 (1-1)
+    19.00  Cuiabá MT               v Ferroviária SP           1-0 (0-0)
+  Mon Apr/28
+    19.30  Botafogo SP             v Goiás GO                 0-1 (0-1)
 
 
 » Matchday 6
   Fri May/2
-           Athletico Paranaense    v Botafogo SP
-           Goiás GO                v Avaí SC
-           Atlético Goianiense     v Grêmio Novorizontino SP
-           Remo PA                 v Amazonas FC AM
-           Chapecoense             v Criciúma SC
-           Operário Ferroviário PR v América MG
-           CR Brasil AL            v Cuiabá MT
-           Athletic MG             v Vila Nova GO
-           Ferroviária SP          v Coritiba PR
-           Volta Redonda RJ        v Paysandu PA
+    21.35  Ferroviária SP          v Coritiba PR              2-1 (0-1)
+  Sat May/3
+    16.00  Remo PA                 v Amazonas FC AM           1-0 (1-0)
+    20.30  Volta Redonda RJ        v Paysandu PA              1-0 (0-0)
+  Sun May/4
+    16.00  Atlético Goianiense     v Grêmio Novorizontino SP  1-0 (1-0)
+    18.30  Athletico Paranaense    v Botafogo SP              1-4 (1-2)
+           Chapecoense             v Criciúma SC              2-1 (1-1)
+    20.30  Operário Ferroviário PR v América MG               1-0 (1-0)
+  Mon May/5
+    19.00  Goiás GO                v Avaí SC
+  Tue May/6
+    19.30  CR Brasil AL            v Cuiabá MT
+    21.30  Athletic MG             v Vila Nova GO
 
 
 » Matchday 7
-  Fri May/9
-           Athletico Paranaense    v Chapecoense
-           Goiás GO                v Coritiba PR
-           Cuiabá MT               v Operário Ferroviário PR
-           Remo PA                 v Vila Nova GO
-           Avaí SC                 v Atlético Goianiense
-           Criciúma SC             v Volta Redonda RJ
-           Amazonas FC AM          v CR Brasil AL
-           América MG              v Paysandu PA
+  Thu May/8
+    21.35  Athletico Paranaense    v Chapecoense
+  Sat May/10
+    16.00  Avaí SC                 v Atlético Goianiense
+    18.30  Goiás GO                v Coritiba PR
+  Sun May/11
+    16.00  Criciúma SC             v Volta Redonda RJ
+    18.30  Cuiabá MT               v Operário Ferroviário PR
            Grêmio Novorizontino SP v Ferroviária SP
-           Botafogo SP             v Athletic MG
+  Mon May/12
+    19.00  Botafogo SP             v Athletic MG
+    21.00  Amazonas FC AM          v CR Brasil AL
+  Wed May/14
+    19.00  Remo PA                 v Vila Nova GO
+    19.30  América MG              v Paysandu PA
 
 
 » Matchday 8
+  Thu May/15
+    21.35  Ferroviária SP          v Avaí SC
   Fri May/16
-           Coritiba PR             v América MG
-           Vila Nova GO            v Athletico Paranaense
-           Atlético Goianiense     v Remo PA
-           Paysandu PA             v Goiás GO
-           Chapecoense             v Cuiabá MT
-           Operário Ferroviário PR v Botafogo SP
-           CR Brasil AL            v Criciúma SC
-           Athletic MG             v Grêmio Novorizontino SP
-           Ferroviária SP          v Avaí SC
-           Volta Redonda RJ        v Amazonas FC AM
+    19.00  Chapecoense             v Cuiabá MT
+  Sat May/17
+    16.00  Operário Ferroviário PR v Botafogo SP
+    18.30  Vila Nova GO            v Athletico Paranaense
+    20.30  Athletic MG             v Grêmio Novorizontino SP
+  Sun May/18
+    16.00  CR Brasil AL            v Criciúma SC
+    18.30  Paysandu PA             v Goiás GO
+    20.30  Atlético Goianiense     v Remo PA
+  Mon May/19
+    19.00  Volta Redonda RJ        v Amazonas FC AM
+    21.35  Coritiba PR             v América MG
 
 
 » Matchday 9
   Fri May/23
-           Athletico Paranaense    v Athletic MG
-           Goiás GO                v Ferroviária SP
-           Cuiabá MT               v Vila Nova GO
-           Remo PA                 v Volta Redonda RJ
-           Avaí SC                 v Chapecoense
-           Criciúma SC             v Coritiba PR
-           Amazonas FC AM          v Operário Ferroviário PR
-           América MG              v Atlético Goianiense
-           Grêmio Novorizontino SP v Paysandu PA
-           Botafogo SP             v CR Brasil AL
+    21.35  Goiás GO                v Ferroviária SP
+  Sat May/24
+    16.00  Athletico Paranaense    v Athletic MG
+    18.30  Avaí SC                 v Chapecoense
+    20.30  Remo PA                 v Volta Redonda RJ
+  Sun May/25
+    18.30  Grêmio Novorizontino SP v Paysandu PA
+    20.30  Amazonas FC AM          v Operário Ferroviário PR
+  Mon May/26
+    19.00  Criciúma SC             v Coritiba PR
+    20.00  Botafogo SP             v CR Brasil AL
+    21.00  Cuiabá MT               v Vila Nova GO
+  Tue May/27
+    19.30  América MG              v Atlético Goianiense
 
 
 » Matchday 10
+  Thu May/29
+    21.35  Ferroviária SP          v Botafogo SP
   Fri May/30
-           Coritiba PR             v Avaí SC
-           Vila Nova GO            v Grêmio Novorizontino SP
-           Atlético Goianiense     v Goiás GO
-           Paysandu PA             v Criciúma SC
-           Chapecoense             v Amazonas FC AM
-           Operário Ferroviário PR v Athletico Paranaense
-           CR Brasil AL            v Remo PA
-           Athletic MG             v Cuiabá MT
-           Ferroviária SP          v Botafogo SP
-           Volta Redonda RJ        v América MG
+    19.00  Vila Nova GO            v Grêmio Novorizontino SP
+  Sat May/31
+    16.00  Coritiba PR             v Avaí SC
+    18.30  Atlético Goianiense     v Goiás GO
+    20.30  Athletic MG             v Cuiabá MT
+  Sun Jun/1
+    16.00  Operário Ferroviário PR v Athletico Paranaense
+    18.00  CR Brasil AL            v Remo PA
+    20.30  Volta Redonda RJ        v América MG
+  Mon Jun/2
+    19.00  Chapecoense             v Amazonas FC AM
+    21.00  Paysandu PA             v Criciúma SC
 
 
 » Matchday 11
-  Fri Jun/13
-           Athletico Paranaense    v Atlético Goianiense
-           Goiás GO                v Volta Redonda RJ
-           Cuiabá MT               v Paysandu PA
-           Remo PA                 v Operário Ferroviário PR
-           Avaí SC                 v CR Brasil AL
-           Criciúma SC             v Vila Nova GO
-           Amazonas FC AM          v Athletic MG
-           América MG              v Ferroviária SP
-           Grêmio Novorizontino SP v Chapecoense
-           Botafogo SP             v Coritiba PR
+  Fri Jun/6
+    19.00  Grêmio Novorizontino SP v Chapecoense
+    21.35  Cuiabá MT               v Paysandu PA
+  Sat Jun/7
+    16.00  América MG              v Ferroviária SP
+    18.30  Botafogo SP             v Coritiba PR
+    20.30  Avaí SC                 v CR Brasil AL
+  Sun Jun/8
+    16.00  Goiás GO                v Volta Redonda RJ
+    18.00  Athletico Paranaense    v Atlético Goianiense
+    20.30  Remo PA                 v Operário Ferroviário PR
+  Mon Jun/9
+    19.00  Criciúma SC             v Vila Nova GO
+    21.00  Amazonas FC AM          v Athletic MG
 
 
 » Matchday 12
-  Tue Jun/17
+  Wed Jun/18
            Athletico Paranaense    v Remo PA
            Vila Nova GO            v América MG
            Atlético Goianiense     v Coritiba PR

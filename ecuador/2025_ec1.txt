@@ -1,0 +1,408 @@
+= Ecuador Serie A 2025
+
+# Date       Fri Feb/14 - Sun Sep/28 2025 (226d)
+# Teams      16
+# Matches    240
+
+
+
+» Matchday 1
+  Fri Feb/14 2025
+    19.00  Manta                   v Barcelona                2-3 (1-1)
+  Sat Feb/15
+    14.00  Aucas                   v Técnico Universitario    4-1 (3-1)
+    16.30  Libertad de Loja        v Independiente del Valle  2-0 (1-0)
+    19.00  Macará                  v Orense SC                1-0 (1-0)
+  Sun Feb/16
+    12.45  LDU Quito               v Vinotinto                0-0
+    15.15  El Nacional             v Deportivo Cuenca         0-1 (0-0)
+    18.00  Emelec                  v Universidad Catolica     0-4 (0-1)
+  Mon Feb/17
+    19.00  Mushuc Runa             v Delfín SC                2-0 (1-0)
+
+
+» Matchday 2
+  Fri Feb/21
+    19.00  Deportivo Cuenca        v Aucas                    2-0 (1-0)
+  Sat Feb/22
+    14.00  Vinotinto               v Macará                   1-2 (1-1)
+    16.30  Delfín SC               v Emelec                   2-0 (0-0)
+    19.00  Independiente del Valle v LDU Quito                1-1 (1-0)
+  Sun Feb/23
+    12.45  Universidad Catolica    v El Nacional              1-1 (0-1)
+    15.15  Orense SC               v Manta                    2-1 (2-0)
+    18.00  Barcelona               v Mushuc Runa              1-0 (0-0)
+  Mon Feb/24
+    19.00  Técnico Universitario   v Libertad de Loja         2-2 (1-0)
+
+
+» Matchday 3
+  Fri Feb/28
+    19.00  Emelec                  v Macará                   0-0
+  Sat Mar/1
+    14.00  Mushuc Runa             v Deportivo Cuenca         3-1 (2-1)
+    16.30  LDU Quito               v Orense SC                4-0 (0-0)
+    19.00  Libertad de Loja        v Barcelona                1-4 (0-2)
+  Sun Mar/2
+    13.00  Independiente del Valle v Universidad Catolica     1-1 (1-0)
+    15.30  Aucas                   v Vinotinto                2-2 (2-1)
+    18.00  El Nacional             v Técnico Universitario    0-0
+  Mon Mar/3
+    19.00  Manta                   v Delfín SC                2-2 (2-1)
+
+
+» Matchday 4
+  Fri Mar/7
+    19.00  Deportivo Cuenca        v Libertad de Loja         0-1 (0-0)
+  Sat Mar/8
+    14.00  LDU Quito               v Delfín SC                3-0 (1-0)
+    16.30  Manta                   v El Nacional              4-3 (1-1)
+    19.00  Barcelona               v Independiente del Valle  0-4 (0-2)
+  Sun Mar/9
+    13.00  Universidad Catolica    v Mushuc Runa              1-1 (1-1)
+    15.30  Macará                  v Aucas                    1-1 (0-1)
+    18.00  Vinotinto               v Emelec                   2-1 (2-0)
+  Mon Mar/10
+    19.00  Orense SC               v Técnico Universitario    2-1 (1-0)
+
+
+» Matchday 5
+  Fri Mar/14
+    19.00  Mushuc Runa             v Vinotinto                1-2 (0-2)
+  Sat Mar/15
+    14.00  Libertad de Loja        v Orense SC                4-1 (1-0)
+    16.30  Universidad Catolica    v Manta                    3-0 (1-0)
+    19.00  Delfín SC               v Deportivo Cuenca         0-0
+  Sun Mar/16
+    13.00  Independiente del Valle v Macará                   1-1 (0-1)
+    15.30  El Nacional             v Aucas                    0-1 (0-0)
+    18.00  Emelec                  v LDU Quito                1-0 (1-0)
+  Mon Mar/17
+    19.00  Técnico Universitario   v Barcelona                0-1 (0-1)
+
+
+» Matchday 6
+  Fri Mar/28
+    16.30  Aucas                   v Independiente del Valle  1-2 (1-2)
+    19.00  Barcelona               v Delfín SC                2-0 (1-0)
+  Sat Mar/29
+    14.00  Vinotinto               v Universidad Catolica     3-2 (2-2)
+    16.30  Deportivo Cuenca        v LDU Quito                1-2 (1-1)
+    19.00  Mushuc Runa             v Emelec                   1-1 (0-0)
+  Sun Mar/30
+    13.00  Macará                  v Técnico Universitario    0-1 (0-1)
+    15.30  Manta                   v Libertad de Loja         1-1 (1-1)
+    18.00  El Nacional             v Orense SC                0-1 (0-1)
+
+
+» Matchday 7
+  Fri Apr/4
+    19.00  Libertad de Loja        v El Nacional              1-3 (0-1)
+  Sat Apr/5
+    14.00  Delfín SC               v Aucas                    1-1 (1-0)
+    16.30  Orense SC               v Vinotinto                0-0
+    19.00  Independiente del Valle v Deportivo Cuenca         4-0 (2-0)
+  Sun Apr/6
+    13.00  Técnico Universitario   v Mushuc Runa              1-1 (1-1)
+    15.30  Universidad Catolica    v Macará                   1-0 (1-0)
+    18.00  Emelec                  v Manta                    1-1 (0-0)
+  Wed Jun/18
+    19.00  LDU Quito               v Barcelona
+
+
+» Matchday 8
+  Wed Apr/9
+    19.00  Vinotinto               v Delfín SC                5-0 (1-0)
+  Thu Apr/10
+    16.30  Macará                  v Deportivo Cuenca         0-1 (0-1)
+    19.00  Manta                   v Técnico Universitario    2-1 (1-1)
+  Fri Apr/11
+    19.00  Emelec                  v Libertad de Loja         1-1 (1-0)
+  Mon Apr/14
+    14.00  Mushuc Runa             v LDU Quito                1-0 (0-0)
+    16.30  El Nacional             v Independiente del Valle  1-3 (1-3)
+    19.00  Orense SC               v Barcelona                3-1 (2-0)
+  Tue Apr/15
+    19.00  Aucas                   v Universidad Catolica     2-1 (0-0)
+
+
+» Matchday 9
+  Fri Apr/18
+    16.30  LDU Quito               v Aucas                    3-1 (2-0)
+    19.00  Barcelona               v El Nacional              1-0 (0-0)
+  Sat Apr/19
+    14.00  Libertad de Loja        v Mushuc Runa              2-1 (1-0)
+    16.30  Deportivo Cuenca        v Emelec                   0-1 (0-1)
+    19.00  Independiente del Valle v Manta                    2-0 (2-0)
+  Sun Apr/20
+    13.00  Técnico Universitario   v Vinotinto                1-3 (1-2)
+    15.30  Universidad Catolica    v Orense SC                2-0 (1-0)
+    18.00  Delfín SC               v Macará                   0-0
+
+
+» Matchday 10
+  Fri Apr/25
+    19.00  El Nacional             v Delfín SC                3-2 (2-0)
+  Sat Apr/26
+    14.00  Vinotinto               v Deportivo Cuenca         0-1 (0-1)
+    16.30  Manta                   v LDU Quito                1-1 (1-1)
+    19.00  Macará                  v Barcelona                0-1 (0-0)
+  Sun Apr/27
+    13.00  Aucas                   v Mushuc Runa              2-0 (1-0)
+    15.30  Orense SC               v Independiente del Valle  1-2 (1-0)
+    18.00  Emelec                  v Técnico Universitario    0-1 (0-1)
+  Mon Apr/28
+    19.00  Libertad de Loja        v Universidad Catolica     3-1 (1-0)
+
+
+» Matchday 11
+  Fri May/2
+    19.00  Deportivo Cuenca        v Manta                    2-0 (1-0)
+  Sat May/3
+    14.00  LDU Quito               v El Nacional              2-2 (1-1)
+    16.30  Técnico Universitario   v Universidad Catolica     1-1 (1-0)
+    19.00  Mushuc Runa             v Macará                   4-3 (1-2)
+  Sun May/4
+    13.00  Delfín SC               v Orense SC                0-0
+    16.30  Barcelona               v Vinotinto                2-1 (1-0)
+    18.00  Independiente del Valle v Emelec                   1-2 (0-1)
+  Mon May/5
+    19.00  Aucas                   v Libertad de Loja
+
+
+» Matchday 12
+  Fri May/9
+    19.00  Orense SC               v Deportivo Cuenca
+  Sat May/10
+    14.00  Macará                  v LDU Quito
+    16.30  Manta                   v Mushuc Runa
+    19.00  Libertad de Loja        v Delfín SC
+  Sun May/11
+    13.00  Técnico Universitario   v Independiente del Valle
+    15.30  Universidad Catolica    v Barcelona
+    18.00  Emelec                  v Aucas
+  Mon May/12
+    19.00  El Nacional             v Vinotinto
+
+
+» Matchday 13
+  Sat May/17
+    14.00  Aucas                   v Manta
+    16.30  Mushuc Runa             v Orense SC
+  Sun May/18
+           Deportivo Cuenca        v Técnico Universitario
+  Sat May/17
+    19.00  Macará                  v El Nacional
+  Sun May/18
+    13.00  Vinotinto               v Independiente del Valle
+    15.30  Delfín SC               v Universidad Catolica
+    18.00  Barcelona               v Emelec
+  Mon May/19
+    19.00  LDU Quito               v Libertad de Loja
+
+
+» Matchday 14
+  Sat May/24
+    14.00  Manta                   v Vinotinto
+    16.30  Universidad Catolica    v LDU Quito
+  Sun May/25
+           Independiente del Valle v Mushuc Runa
+           Barcelona               v Deportivo Cuenca
+  Sat May/24
+    19.00  Orense SC               v Aucas
+  Sun May/25
+    13.00  Libertad de Loja        v Macará
+    15.30  Técnico Universitario   v Delfín SC
+    18.00  El Nacional             v Emelec
+
+
+» Matchday 15
+  Sun Jun/1
+           Aucas                   v Barcelona
+           Deportivo Cuenca        v Universidad Catolica
+           Delfín SC               v Independiente del Valle
+           Mushuc Runa             v El Nacional
+           LDU Quito               v Técnico Universitario
+           Macará                  v Manta
+           Emelec                  v Orense SC
+           Vinotinto               v Libertad de Loja
+
+
+» Matchday 16
+  Sun Jun/15
+           Universidad Catolica    v Emelec
+           Vinotinto               v LDU Quito
+           Técnico Universitario   v Aucas
+           Deportivo Cuenca        v El Nacional
+           Orense SC               v Macará
+           Delfín SC               v Mushuc Runa
+           Barcelona               v Manta
+           Independiente del Valle v Libertad de Loja
+
+
+» Matchday 17
+  Sun Jun/22
+           Mushuc Runa             v Barcelona
+           El Nacional             v Universidad Catolica
+           LDU Quito               v Independiente del Valle
+           Macará                  v Vinotinto
+           Libertad de Loja        v Técnico Universitario
+           Emelec                  v Delfín SC
+           Manta                   v Orense SC
+           Aucas                   v Deportivo Cuenca
+
+
+» Matchday 18
+  Sun Jun/29
+           Macará                  v Emelec
+           Orense SC               v LDU Quito
+           Vinotinto               v Aucas
+           Universidad Catolica    v Independiente del Valle
+           Técnico Universitario   v El Nacional
+           Deportivo Cuenca        v Mushuc Runa
+           Delfín SC               v Manta
+           Barcelona               v Libertad de Loja
+
+
+» Matchday 19
+  Sun Jul/6
+           Independiente del Valle v Barcelona
+           Delfín SC               v LDU Quito
+           Mushuc Runa             v Universidad Catolica
+           Emelec                  v Vinotinto
+           Aucas                   v Macará
+           El Nacional             v Manta
+           Técnico Universitario   v Orense SC
+           Libertad de Loja        v Deportivo Cuenca
+
+
+» Matchday 20
+  Sun Jul/13
+           LDU Quito               v Emelec
+           Manta                   v Universidad Catolica
+           Macará                  v Independiente del Valle
+           Aucas                   v El Nacional
+           Barcelona               v Técnico Universitario
+           Vinotinto               v Mushuc Runa
+           Deportivo Cuenca        v Delfín SC
+           Orense SC               v Libertad de Loja
+
+
+» Matchday 21
+  Sun Jul/20
+           Delfín SC               v Barcelona
+           Independiente del Valle v Aucas
+           Orense SC               v El Nacional
+           Universidad Catolica    v Vinotinto
+           Técnico Universitario   v Macará
+           Emelec                  v Mushuc Runa
+           Libertad de Loja        v Manta
+           LDU Quito               v Deportivo Cuenca
+
+
+» Matchday 22
+  Sun Jul/27
+           Manta                   v Emelec
+           Barcelona               v LDU Quito
+           Macará                  v Universidad Catolica
+           Deportivo Cuenca        v Independiente del Valle
+           Mushuc Runa             v Técnico Universitario
+           Aucas                   v Delfín SC
+           Vinotinto               v Orense SC
+           El Nacional             v Libertad de Loja
+
+
+» Matchday 23
+  Sun Aug/3
+           Libertad de Loja        v Emelec
+           Universidad Catolica    v Aucas
+           Independiente del Valle v El Nacional
+           Delfín SC               v Vinotinto
+           Deportivo Cuenca        v Macará
+           LDU Quito               v Mushuc Runa
+           Técnico Universitario   v Manta
+           Barcelona               v Orense SC
+
+
+» Matchday 24
+  Sun Aug/10
+           El Nacional             v Barcelona
+           Aucas                   v LDU Quito
+           Orense SC               v Universidad Catolica
+           Manta                   v Independiente del Valle
+           Vinotinto               v Técnico Universitario
+           Macará                  v Delfín SC
+           Emelec                  v Deportivo Cuenca
+           Mushuc Runa             v Libertad de Loja
+
+
+» Matchday 25
+  Sun Aug/17
+           Técnico Universitario   v Emelec
+           Mushuc Runa             v Aucas
+           Delfín SC               v El Nacional
+           Deportivo Cuenca        v Vinotinto
+           Barcelona               v Macará
+           LDU Quito               v Manta
+           Independiente del Valle v Orense SC
+           Universidad Catolica    v Libertad de Loja
+
+
+» Matchday 26
+  Sun Aug/24
+           Vinotinto               v Barcelona
+           El Nacional             v LDU Quito
+           Libertad de Loja        v Aucas
+           Emelec                  v Independiente del Valle
+           Universidad Catolica    v Técnico Universitario
+           Macará                  v Mushuc Runa
+           Orense SC               v Delfín SC
+           Manta                   v Deportivo Cuenca
+
+
+» Matchday 27
+  Sun Aug/31
+           Aucas                   v Emelec
+           Barcelona               v Universidad Catolica
+           Vinotinto               v El Nacional
+           Independiente del Valle v Técnico Universitario
+           LDU Quito               v Macará
+           Mushuc Runa             v Manta
+           Deportivo Cuenca        v Orense SC
+           Delfín SC               v Libertad de Loja
+
+
+» Matchday 28
+  Sun Sep/14
+           Emelec                  v Barcelona
+           Libertad de Loja        v LDU Quito
+           Manta                   v Aucas
+           Independiente del Valle v Vinotinto
+           El Nacional             v Macará
+           Orense SC               v Mushuc Runa
+           Universidad Catolica    v Delfín SC
+           Técnico Universitario   v Deportivo Cuenca
+
+
+» Matchday 29
+  Sun Sep/21
+           Deportivo Cuenca        v Barcelona
+           LDU Quito               v Universidad Catolica
+           Mushuc Runa             v Independiente del Valle
+           Emelec                  v El Nacional
+           Delfín SC               v Técnico Universitario
+           Vinotinto               v Manta
+           Aucas                   v Orense SC
+           Macará                  v Libertad de Loja
+
+
+» Matchday 30
+  Sun Sep/28
+           Orense SC               v Emelec
+           Técnico Universitario   v LDU Quito
+           Barcelona               v Aucas
+           Libertad de Loja        v Vinotinto
+           Manta                   v Macará
+           El Nacional             v Mushuc Runa
+           Independiente del Valle v Delfín SC
+           Universidad Catolica    v Deportivo Cuenca
