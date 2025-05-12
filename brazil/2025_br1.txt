@@ -112,22 +112,22 @@
            Grêmio FBPA             v Santos FC                1-0 (0-0)
     18.30  Cruzeiro EC             v CR Flamengo              2-1 (1-1)
   Mon May/5
-    19.00  RB Bragantino           v Mirassol FC
-    20.00  EC Juventude            v CA Mineiro
+    19.00  RB Bragantino           v Mirassol FC              1-0 (0-0)
+    20.00  EC Juventude            v CA Mineiro               0-1 (0-1)
 
 
 » Matchday 8
   Sat May/10
-    16.00  Fortaleza EC            v EC Juventude
-    18.30  Mirassol FC             v SC Corinthians Paulista
-           Grêmio FBPA             v RB Bragantino
-           EC Vitória              v CR Vasco da Gama
-    21.00  CR Flamengo             v EC Bahia
+    16.00  Fortaleza EC            v EC Juventude             5-0 (1-0)
+    18.30  Mirassol FC             v SC Corinthians Paulista  3-1 (0-1)
+           Grêmio FBPA             v RB Bragantino            1-1 (0-0)
+           EC Vitória              v CR Vasco da Gama         2-1 (0-1)
+    21.00  CR Flamengo             v EC Bahia                 1-0 (1-0)
   Sun May/11
-    16.00  SC Recife               v Cruzeiro EC
-    17.30  SE Palmeiras            v São Paulo FC
-           CA Mineiro              v Fluminense FC
-    20.00  Botafogo FR             v SC Internacional
+    16.00  SC Recife               v Cruzeiro EC              0-4 (0-3)
+    17.30  SE Palmeiras            v São Paulo FC             1-0 (0-0)
+           CA Mineiro              v Fluminense FC            3-2 (0-0)
+    20.00  Botafogo FR             v SC Internacional         4-0 (2-0)
   Mon May/12
     20.00  Santos FC               v Ceará SC
 
@@ -164,8 +164,7 @@
 
 » Matchday 11
   Sat May/31
-    16.00  EC Bahia                v São Paulo FC
-    18.30  Cruzeiro EC             v SE Palmeiras
+    18.30  EC Bahia                v São Paulo FC
     21.00  CR Vasco da Gama        v RB Bragantino
   Sun Jun/1
     11.00  Mirassol FC             v SC Recife
@@ -174,6 +173,7 @@
     18.30  Ceará SC                v CA Mineiro
            CR Flamengo             v Fortaleza EC
            SC Corinthians Paulista v EC Vitória
+    19.30  Cruzeiro EC             v SE Palmeiras
     20.30  SC Internacional        v Fluminense FC
 
 
