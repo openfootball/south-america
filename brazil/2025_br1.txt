@@ -119,7 +119,7 @@
 » Matchday 8
   Sat May/10
     16.00  Fortaleza EC            v EC Juventude             5-0 (1-0)
-    18.30  Mirassol FC             v SC Corinthians Paulista  3-1 (0-1)
+    18.30  Mirassol FC             v SC Corinthians Paulista  2-1 (0-1)
            Grêmio FBPA             v RB Bragantino            1-1 (0-0)
            EC Vitória              v CR Vasco da Gama         2-1 (0-1)
     21.00  CR Flamengo             v EC Bahia                 1-0 (1-0)
@@ -129,22 +129,22 @@
            CA Mineiro              v Fluminense FC            3-2 (0-0)
     20.00  Botafogo FR             v SC Internacional         4-0 (2-0)
   Mon May/12
-    20.00  Santos FC               v Ceará SC
+    20.00  Santos FC               v Ceará SC                 0-0
 
 
 » Matchday 9
   Sat May/17
-    16.00  Ceará SC                v SC Recife
-    18.30  CR Vasco da Gama        v Fortaleza EC
-    21.00  São Paulo FC            v Grêmio FBPA
+    16.00  Ceará SC                v SC Recife                2-0 (1-0)
+    18.30  CR Vasco da Gama        v Fortaleza EC             3-0 (1-0)
+    21.00  São Paulo FC            v Grêmio FBPA              2-1 (0-1)
   Sun May/18
-    16.00  SC Corinthians Paulista v Santos FC
-           EC Bahia                v EC Vitória
-           EC Juventude            v Fluminense FC
-    18.30  CR Flamengo             v Botafogo FR
-           RB Bragantino           v SE Palmeiras
-    20.30  Cruzeiro EC             v CA Mineiro
-           SC Internacional        v Mirassol FC
+    16.00  SC Corinthians Paulista v Santos FC                1-0 (0-0)
+           EC Bahia                v EC Vitória               2-1 (1-0)
+           EC Juventude            v Fluminense FC            1-1 (0-0)
+    18.30  CR Flamengo             v Botafogo FR              0-0
+           RB Bragantino           v SE Palmeiras             1-2 (1-0)
+    20.30  Cruzeiro EC             v CA Mineiro               0-0
+           SC Internacional        v Mirassol FC              1-1 (0-1)
 
 
 » Matchday 10
