@@ -20,9 +20,9 @@
            Sergipe SE              v Ceará CE                 0-2 (0-1)
     20.30  Trem AP                 v Brusque SC               0-2 (0-1)
     21.00  Independência AC        v Manaus AM                2-4 pen. 2-4 a.e.t. (1-1, 0-0)
-    21.30  ASA AL                  v Atlético Goianiense      0-0 pen. 5-6 a.e.t. (5-6, 5-6)
+    21.30  ASA AL                  v Atlético Goianiense      5-6 pen. (1-1, 0-1)
   Thu Feb/20
-    20.00  Rio Branco VN ES        v Amazonas FC AM           0-0 pen. 5-3 a.e.t. (5-3, 5-3)
+    20.00  Rio Branco VN ES        v Amazonas FC AM           5-3 pen. (0-0)
     21.30  Olária RJ               v ABC RN                   1-0 (1-0)
   Tue Feb/25
     19.00  Maranhão MA             v Vitória BA               0-1 (0-0)
@@ -105,21 +105,21 @@
     20.00  Botafogo PB             v Flamengo RJ              0-1 (0-0)
     21.30  Cruzeiro                v Vila Nova GO             2-0 (2-0)
   Tue May/20
-    19.00  Vasco da Gama RJ        v Operário Ferroviário PR
-    19.30  Athletico Paranaense    v Brusque SC
-    21.30  Náutico PE              v São Paulo FC
-           Grêmio Porto Alegre     v CSA AL
+    19.00  Vasco da Gama RJ        v Operário Ferroviário PR  7-6 pen. (1-1, 1-0)
+    19.30  Athletico Paranaense    v Brusque SC               1-0 (1-0)
+    21.30  Náutico PE              v São Paulo FC             1-2 (0-1)
+           Grêmio Porto Alegre     v CSA AL                   0-0
   Wed May/21
-    19.00  Fortaleza CE            v Retrô PE
-    19.30  Aparecidense GO         v Fluminense RJ
-           Bahia BA                v Paysandu PA
-    21.30  Atlético Mineiro        v Maringá PR
-           Flamengo RJ             v Botafogo PB
-           Corinthians SP          v Grêmio Novorizontino SP
+    19.00  Fortaleza CE            v Retrô PE                 1-4 pen. (1-1, 0-0)
+    19.30  Aparecidense GO         v Fluminense RJ            1-4 (1-2)
+           Bahia BA                v Paysandu PA              4-0 (3-0)
+    21.30  Atlético Mineiro        v Maringá PR               4-0 (1-0)
+           Flamengo RJ             v Botafogo PB              4-2 (3-1)
+           Corinthians SP          v Grêmio Novorizontino SP  1-0 (0-0)
   Thu May/22
-    19.00  Maracanã CE             v Internacional
-           Vila Nova GO            v Cruzeiro
-    19.30  Palmeiras               v Ceará CE
-    21.30  Capital DF              v Botafogo RJ
-           CR Brasil AL            v Santos FC
-           Red Bull Bragantino     v Criciúma SC
+    19.00  Maracanã CE             v Internacional            0-3 (0-0)
+           Vila Nova GO            v Cruzeiro                 0-3 (0-0)
+    19.30  Palmeiras               v Ceará CE                 3-0 (0-0)
+    21.30  Capital DF              v Botafogo RJ              1-0 (1-0)
+           CR Brasil AL            v Santos FC                5-4 pen. (0-0)
+           Red Bull Bragantino     v Criciúma SC              6-0 (2-0)
