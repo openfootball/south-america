@@ -2,8 +2,8 @@
 
 # Date       Tue Feb/4 - Sat Nov/29 2025 (298d)
 # Teams      47
-# Matches    133
-# Stages     Qualifying (30)  Group (96)  Finals (7)
+# Matches    155
+# Stages     Qualifying (30)  Group (96)  Finals (29)
 
 
 
@@ -19,7 +19,7 @@
   Wed Feb/12
     21.30  Club Alianza Lima (PER) v Club Nacional (PAR)      3-1 (1-1)
   Thu Feb/13
-    21.30  CSCyD El Nacional (ECU) v CD Blooming (BOL)        4-3 (0-1)
+    21.30  CSCyD El Nacional (ECU) v CD Blooming (BOL)        4-3 pen. (2-1, 0-1)
 
 
 » Qualifying, Round 2
@@ -35,8 +35,8 @@
     19.00  Monagas SC (VEN)        v Club Cerro Porteño (PAR)  0-4 (0-3)
     21.30  CD Tolima (COL)         v FBC Melgar (PER)         0-1 (0-1)
   Tue Feb/25
-    19.00  Independiente Santa Fe (COL) v CD Iquique (CHI)         1-2 (1-1)
-    21.30  CA Boca Juniors (ARG)   v Club Alianza Lima (PER)  4-5 (1-1)
+    19.00  Independiente Santa Fe (COL) v CD Iquique (CHI)         1-2 pen. (2-1, 1-1)
+    21.30  CA Boca Juniors (ARG)   v Club Alianza Lima (PER)  4-5 pen. (2-1, 1-1)
            EC Bahia (BRA)          v Club The Strongest (BOL)  3-0 (1-0)
   Wed Feb/26
     19.00  CD Nublense (CHI)       v CA Boston River (URU)    1-1 (1-0)
@@ -200,25 +200,57 @@
 
 » Finals, Round of 16
   Tue Aug/12
-           N.N.                    v N.N.
+    19.00  Fortaleza EC (BRA)      v CA Vélez Sarsfield (ARG)  0-0
+    21.30  CDC Atlético Nacional (COL) v São Paulo FC (BRA)       0-0
+           CA Peñarol (URU)        v Racing Club (ARG)        1-0 (0-0)
+  Wed Aug/13
+    19.00  Club Cerro Porteño (PAR) v Estudiantes de La Plata (ARG)  0-1 (0-0)
+    21.30  CR Flamengo (BRA)       v SC Internacional (BRA)   1-0 (1-0)
+  Thu Aug/14
+    19.00  Botafogo FR (BRA)       v LDU de Quito (ECU)       1-0 (1-0)
+    21.30  Club Universitario de Deportes (PER) v SE Palmeiras (BRA)       0-4 (0-3)
+           Club Libertad Asuncion (PAR) v CA River Plate (ARG)     0-0
   Tue Aug/19
-           N.N.                    v N.N.
+    19.00  CA Vélez Sarsfield (ARG) v Fortaleza EC (BRA)       2-0 (2-0)
+    21.30  São Paulo FC (BRA)      v CDC Atlético Nacional (COL)  4-3 pen. (1-1, 1-0)
+           Racing Club (ARG)       v CA Peñarol (URU)         3-1 (1-1)
+  Wed Aug/20
+    19.00  Estudiantes de La Plata (ARG) v Club Cerro Porteño (PAR)  0-0
+    21.30  SC Internacional (BRA)  v CR Flamengo (BRA)        0-2 (0-1)
+  Thu Aug/21
+    19.00  LDU de Quito (ECU)      v Botafogo FR (BRA)        2-0 (1-0)
+    21.30  SE Palmeiras (BRA)      v Club Universitario de Deportes (PER)  0-0
+           CA River Plate (ARG)    v Club Libertad Asuncion (PAR)  3-1 pen. (1-1, 1-1)
 
 
 » Finals, Quarterfinals
   Tue Sep/16
-           N.N.                    v N.N.
+    19.00  CA Vélez Sarsfield (ARG) v Racing Club (ARG)        0-1 (0-0)
+  Wed Sep/17
+    21.30  CA River Plate (ARG)    v SE Palmeiras (BRA)       1-2 (0-2)
+  Thu Sep/18
+    19.00  LDU de Quito (ECU)      v São Paulo FC (BRA)       2-0 (1-0)
+    21.30  CR Flamengo (BRA)       v Estudiantes de La Plata (ARG)  2-1 (2-0)
   Tue Sep/23
-           N.N.                    v N.N.
+    19.00  Racing Club (ARG)       v CA Vélez Sarsfield (ARG)  1-0 (0-0)
+  Wed Sep/24
+    21.30  SE Palmeiras (BRA)      v CA River Plate (ARG)     3-1 (0-1)
+  Thu Sep/25
+    19.00  São Paulo FC (BRA)      v LDU de Quito (ECU)       0-1 (0-1)
+    21.30  Estudiantes de La Plata (ARG) v CR Flamengo (BRA)        2-4 pen. (1-0, 1-0)
 
 
 » Finals, Semifinals
-  Tue Oct/21
-           N.N.                    v N.N.
-  Tue Oct/28
-           N.N.                    v N.N.
+  Wed Oct/22
+    21.30  CR Flamengo (BRA)       v Racing Club (ARG)        1-0 (0-0)
+  Thu Oct/23
+    21.30  LDU de Quito (ECU)      v SE Palmeiras (BRA)       3-0 (3-0)
+  Wed Oct/29
+    21.50  Racing Club (ARG)       v CR Flamengo (BRA)        0-0
+  Thu Oct/30
+    21.30  SE Palmeiras (BRA)      v LDU de Quito (ECU)       4-0 (2-0)
 
 
 » Finals, Final
   Sat Nov/29
-           N.N.                    v N.N.
+           SE Palmeiras (BRA)      v CR Flamengo (BRA)

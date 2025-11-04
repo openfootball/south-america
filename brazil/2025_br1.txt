@@ -164,331 +164,404 @@
 
 » Matchday 11
   Sat May/31
-    18.30  EC Bahia                v São Paulo FC
-    21.00  CR Vasco da Gama        v RB Bragantino
+    18.30  EC Bahia                v São Paulo FC             2-1 (0-0)
+    21.00  CR Vasco da Gama        v RB Bragantino            0-2 (0-2)
   Sun Jun/1
-    11.00  Mirassol FC             v SC Recife
-    16.00  EC Juventude            v Grêmio FBPA
-           Santos FC               v Botafogo FR
-    18.30  Ceará SC                v CA Mineiro
-           CR Flamengo             v Fortaleza EC
-           SC Corinthians Paulista v EC Vitória
-    19.30  Cruzeiro EC             v SE Palmeiras
-    20.30  SC Internacional        v Fluminense FC
+    11.00  Mirassol FC             v SC Recife                1-0 (1-0)
+    16.00  EC Juventude            v Grêmio FBPA              0-2 (0-2)
+           Santos FC               v Botafogo FR              0-1 (0-0)
+    18.30  Ceará SC                v CA Mineiro               0-1 (0-0)
+           CR Flamengo             v Fortaleza EC             5-0 (1-0)
+           SC Corinthians Paulista v EC Vitória               0-0
+    19.30  Cruzeiro EC             v SE Palmeiras             2-1 (2-0)
+    20.30  SC Internacional        v Fluminense FC            0-2 (0-1)
 
 
 » Matchday 10
   Wed Jun/4
-    20.00  Botafogo FR             v Ceará SC
+    20.00  Botafogo FR             v Ceará SC                 3-2 (1-0)
 
 
 » Matchday 12
-  Wed Jun/11
-           Fluminense FC           v Ceará SC                 [postponed]
-           Botafogo FR             v Mirassol FC              [postponed]
-           SE Palmeiras            v EC Juventude             [postponed]
-           SC Recife               v CR Flamengo              [postponed]
   Thu Jun/12
-    19.00  RB Bragantino           v EC Bahia
-           EC Vitória              v Cruzeiro EC
-    19.30  Fortaleza EC            v Santos FC
-    20.00  Grêmio FBPA             v SC Corinthians Paulista
-    21.30  São Paulo FC            v CR Vasco da Gama
-           CA Mineiro              v SC Internacional
+    19.00  RB Bragantino           v EC Bahia                 0-3 (0-2)
+           EC Vitória              v Cruzeiro EC              0-0
+    19.30  Fortaleza EC            v Santos FC                2-3 (0-2)
+    20.00  Grêmio FBPA             v SC Corinthians Paulista  1-1 (1-1)
+    21.30  São Paulo FC            v CR Vasco da Gama         1-3 (0-2)
+           CA Mineiro              v SC Internacional         2-0 (1-0)
 
 
 » Matchday 13
   Sat Jul/12
-           CR Flamengo             v São Paulo FC
-           CR Vasco da Gama        v Botafogo FR
-           SC Corinthians Paulista v RB Bragantino
-           Santos FC               v SE Palmeiras
-           Mirassol FC             v Fluminense FC
-           Cruzeiro EC             v Grêmio FBPA
-           SC Internacional        v EC Vitória
-           EC Bahia                v CA Mineiro
-           Fortaleza EC            v Ceará SC
-           EC Juventude            v SC Recife
+    16.30  CR Flamengo             v São Paulo FC             2-0 (0-0)
+           SC Internacional        v EC Vitória               1-0 (0-0)
+    18.30  CR Vasco da Gama        v Botafogo FR              0-2 (0-0)
+    21.00  EC Bahia                v CA Mineiro               2-1 (0-0)
+  Sun Jul/13
+    19.00  SC Corinthians Paulista v RB Bragantino            1-2 (0-1)
+    20.30  Cruzeiro EC             v Grêmio FBPA              4-1 (2-0)
+           Fortaleza EC            v Ceará SC                 0-1 (0-0)
+  Mon Jul/14
+    20.00  EC Juventude            v SC Recife                2-0 (1-0)
 
 
 » Matchday 14
   Wed Jul/16
-           Fluminense FC           v Cruzeiro EC
-           Botafogo FR             v EC Vitória
-           SE Palmeiras            v Mirassol FC
-           Santos FC               v CR Flamengo
-           RB Bragantino           v São Paulo FC
-           CA Mineiro              v SC Recife
-           Grêmio FBPA             v Fortaleza EC
-           EC Bahia                v SC Internacional
-           Ceará SC                v SC Corinthians Paulista
-           EC Juventude            v CR Vasco da Gama
+    19.00  SE Palmeiras            v Mirassol FC              1-1 (0-0)
+    19.30  Ceará SC                v SC Corinthians Paulista  0-1 (0-0)
+    20.00  Santos FC               v CR Flamengo              1-0 (0-0)
+    21.30  Botafogo FR             v EC Vitória               0-0
+           RB Bragantino           v São Paulo FC             2-2 (1-1)
+  Thu Jul/17
+    19.30  Fluminense FC           v Cruzeiro EC              0-2 (0-2)
 
 
 » Matchday 15
   Sat Jul/19
-           CR Flamengo             v Fluminense FC
-           CR Vasco da Gama        v Grêmio FBPA
-           SE Palmeiras            v CA Mineiro
-           São Paulo FC            v SC Corinthians Paulista
-           Mirassol FC             v Santos FC
-           Cruzeiro EC             v EC Juventude
-           SC Internacional        v Ceará SC
-           EC Vitória              v RB Bragantino
-           Fortaleza EC            v EC Bahia
-           SC Recife               v Botafogo FR
+    16.00  Fortaleza EC            v EC Bahia                 1-1 (1-0)
+    17.30  CR Vasco da Gama        v Grêmio FBPA              1-1 (0-0)
+    18.30  Mirassol FC             v Santos FC                3-0 (0-0)
+    21.00  São Paulo FC            v SC Corinthians Paulista  2-0 (2-0)
+  Sun Jul/20
+    11.00  SC Internacional        v Ceará SC                 1-0 (1-0)
+    16.00  Cruzeiro EC             v EC Juventude             4-0 (1-0)
+           EC Vitória              v RB Bragantino            1-0 (1-0)
+    17.30  SE Palmeiras            v CA Mineiro               3-2 (1-1)
+           SC Recife               v Botafogo FR              0-1 (0-0)
+    19.30  CR Flamengo             v Fluminense FC            1-0 (0-0)
 
 
 » Matchday 16
   Wed Jul/23
-           Fluminense FC           v SE Palmeiras
-           CR Vasco da Gama        v EC Bahia
-           SC Corinthians Paulista v Cruzeiro EC
-           Santos FC               v SC Internacional
-           RB Bragantino           v CR Flamengo
-           CA Mineiro              v Fortaleza EC
-           Grêmio FBPA             v Botafogo FR
-           EC Vitória              v SC Recife
-           Ceará SC                v Mirassol FC
-           EC Juventude            v São Paulo FC
+           CA Mineiro              v Fortaleza EC             [postponed]
+    19.00  Fluminense FC           v SE Palmeiras             1-2 (1-1)
+           Ceará SC                v Mirassol FC              0-2 (0-2)
+    19.30  SC Corinthians Paulista v Cruzeiro EC              0-0
+    21.30  Santos FC               v SC Internacional         1-2 (0-1)
+           RB Bragantino           v CR Flamengo              1-2 (0-0)
+           EC Vitória              v SC Recife                2-2 (0-0)
+  Thu Jul/24
+    19.00  EC Juventude            v São Paulo FC             0-1 (0-0)
 
 
 » Matchday 17
   Sat Jul/26
-           CR Flamengo             v CA Mineiro
-           Botafogo FR             v SC Corinthians Paulista
-           SE Palmeiras            v Grêmio FBPA
-           São Paulo FC            v Fluminense FC
-           Mirassol FC             v EC Vitória
-           Cruzeiro EC             v Ceará SC
-           SC Internacional        v CR Vasco da Gama
-           EC Bahia                v EC Juventude
-           Fortaleza EC            v RB Bragantino
-           SC Recife               v Santos FC
+    18.30  Botafogo FR             v SC Corinthians Paulista  1-1 (1-0)
+           Mirassol FC             v EC Vitória               1-1 (1-1)
+           Fortaleza EC            v RB Bragantino            3-1 (2-1)
+           SC Recife               v Santos FC                2-2 (1-0)
+    21.00  SE Palmeiras            v Grêmio FBPA              1-0 (1-0)
+  Sun Jul/27
+    16.00  São Paulo FC            v Fluminense FC            3-1 (1-0)
+           Cruzeiro EC             v Ceará SC                 1-2 (1-1)
+    18.30  SC Internacional        v CR Vasco da Gama         1-1 (0-1)
+           EC Bahia                v EC Juventude             3-0 (1-0)
+    20.30  CR Flamengo             v CA Mineiro               1-0 (0-0)
+
+
+» Matchday 14
+  Tue Jul/29
+    20.30  Grêmio FBPA             v Fortaleza EC             2-1 (2-1)
 
 
 » Matchday 18
   Sat Aug/2
-           Fluminense FC           v Grêmio FBPA
-           Botafogo FR             v Cruzeiro EC
-           SC Corinthians Paulista v Fortaleza EC
-           Santos FC               v EC Juventude
-           Mirassol FC             v CR Vasco da Gama
-           CA Mineiro              v RB Bragantino
-           SC Internacional        v São Paulo FC
-           EC Vitória              v SE Palmeiras
-           Ceará SC                v CR Flamengo
-           SC Recife               v EC Bahia
+    16.00  SC Recife               v EC Bahia                 0-0
+    18.30  Mirassol FC             v CR Vasco da Gama         3-2 (0-0)
+    21.00  Fluminense FC           v Grêmio FBPA              1-0 (1-0)
+  Sun Aug/3
+    16.00  Botafogo FR             v Cruzeiro EC              0-2 (0-2)
+           SC Corinthians Paulista v Fortaleza EC             1-1 (0-1)
+    18.30  CA Mineiro              v RB Bragantino            2-1 (1-0)
+           Ceará SC                v CR Flamengo              1-1 (0-1)
+    19.30  EC Vitória              v SE Palmeiras             2-2 (1-0)
+    20.30  SC Internacional        v São Paulo FC             1-2 (0-1)
+  Mon Aug/4
+    20.00  Santos FC               v EC Juventude             3-1 (2-1)
 
 
 » Matchday 19
   Sat Aug/9
-           CR Flamengo             v Mirassol FC
-           CR Vasco da Gama        v CA Mineiro
-           SE Palmeiras            v Ceará SC
-           São Paulo FC            v EC Vitória
-           RB Bragantino           v SC Internacional
-           Cruzeiro EC             v Santos FC
-           Grêmio FBPA             v SC Recife
-           EC Bahia                v Fluminense FC
-           Fortaleza EC            v Botafogo FR
-           EC Juventude            v SC Corinthians Paulista
+    18.30  CR Flamengo             v Mirassol FC              2-1 (1-0)
+           São Paulo FC            v EC Vitória               2-0 (1-0)
+           RB Bragantino           v SC Internacional         1-3 (0-2)
+    20.30  Fortaleza EC            v Botafogo FR              0-5 (0-2)
+    21.00  EC Bahia                v Fluminense FC            3-3 (2-1)
+  Sun Aug/10
+    16.00  CR Vasco da Gama        v CA Mineiro               1-1 (1-1)
+           SE Palmeiras            v Ceará SC                 2-1 (0-0)
+    18.30  Cruzeiro EC             v Santos FC                1-2 (1-0)
+    20.30  Grêmio FBPA             v SC Recife                0-1 (0-0)
+  Mon Aug/11
+    20.00  EC Juventude            v SC Corinthians Paulista  2-1 (1-0)
 
 
 » Matchday 20
   Sat Aug/16
-           Fluminense FC           v Fortaleza EC
-           Botafogo FR             v SE Palmeiras
-           SC Corinthians Paulista v EC Bahia
-           Santos FC               v CR Vasco da Gama
-           Mirassol FC             v Cruzeiro EC
-           CA Mineiro              v Grêmio FBPA
-           SC Internacional        v CR Flamengo
-           EC Vitória              v EC Juventude
-           Ceará SC                v RB Bragantino
-           SC Recife               v São Paulo FC
+    16.00  Fluminense FC           v Fortaleza EC             2-1 (1-0)
+           Ceará SC                v RB Bragantino            1-0 (1-0)
+    18.30  EC Vitória              v EC Juventude             2-2 (1-0)
+           SC Recife               v São Paulo FC             2-2 (1-0)
+    21.00  SC Corinthians Paulista v EC Bahia                 1-2 (1-2)
+  Sun Aug/17
+    16.00  Santos FC               v CR Vasco da Gama         0-6 (0-1)
+           CA Mineiro              v Grêmio FBPA              1-3 (1-1)
+    18.30  SC Internacional        v CR Flamengo              1-3 (0-2)
+    20.30  Botafogo FR             v SE Palmeiras             0-1 (0-1)
+  Mon Aug/18
+    20.00  Mirassol FC             v Cruzeiro EC              1-1 (0-1)
+
+
+» Matchday 14
+  Wed Aug/20
+    19.00  EC Juventude            v CR Vasco da Gama         2-0 (2-0)
 
 
 » Matchday 21
   Sat Aug/23
-           CR Flamengo             v EC Vitória
-           CR Vasco da Gama        v SC Corinthians Paulista
-           SE Palmeiras            v SC Recife
-           São Paulo FC            v CA Mineiro
-           RB Bragantino           v Fluminense FC
-           Cruzeiro EC             v SC Internacional
-           Grêmio FBPA             v Ceará SC
-           EC Bahia                v Santos FC
-           Fortaleza EC            v Mirassol FC
-           EC Juventude            v Botafogo FR
+    16.00  RB Bragantino           v Fluminense FC            4-2 (2-1)
+    18.30  Cruzeiro EC             v SC Internacional         2-1 (1-1)
+    21.00  Grêmio FBPA             v Ceará SC                 0-0
+  Sun Aug/24
+    16.00  CR Vasco da Gama        v SC Corinthians Paulista  2-3 (0-1)
+           EC Bahia                v Santos FC                2-0 (1-0)
+    18.30  Fortaleza EC            v Mirassol FC              0-1 (0-1)
+           EC Juventude            v Botafogo FR              1-3 (1-1)
+    20.30  São Paulo FC            v CA Mineiro               2-0 (1-0)
+  Mon Aug/25
+    19.00  SE Palmeiras            v SC Recife                3-0 (1-0)
+    21.00  CR Flamengo             v EC Vitória               8-0 (3-0)
 
 
 » Matchday 22
   Sat Aug/30
-           CR Flamengo             v Grêmio FBPA
-           Botafogo FR             v RB Bragantino
-           SC Corinthians Paulista v SE Palmeiras
-           Santos FC               v Fluminense FC
-           Mirassol FC             v EC Bahia
-           Cruzeiro EC             v São Paulo FC
-           SC Internacional        v Fortaleza EC
-           EC Vitória              v CA Mineiro
-           Ceará SC                v EC Juventude
-           SC Recife               v CR Vasco da Gama
+    16.00  Ceará SC                v EC Juventude             0-1 (0-0)
+    18.30  Botafogo FR             v RB Bragantino            4-1 (3-1)
+    21.00  Cruzeiro EC             v São Paulo FC             1-0 (0-0)
+  Sun Aug/31
+    16.00  CR Flamengo             v Grêmio FBPA              1-1 (0-0)
+           Santos FC               v Fluminense FC            0-0
+    18.30  SC Corinthians Paulista v SE Palmeiras             1-1 (1-1)
+           Mirassol FC             v EC Bahia                 5-1 (3-0)
+           EC Vitória              v CA Mineiro               1-0 (1-0)
+    20.30  SC Internacional        v Fortaleza EC             2-1 (1-1)
+           SC Recife               v CR Vasco da Gama         2-3 (1-2)
 
 
 » Matchday 23
   Sat Sep/13
-           Fluminense FC           v SC Corinthians Paulista
-           CR Vasco da Gama        v Ceará SC
-           SE Palmeiras            v SC Internacional
-           São Paulo FC            v Botafogo FR
-           RB Bragantino           v SC Recife
-           CA Mineiro              v Santos FC
-           Grêmio FBPA             v Mirassol FC
-           EC Bahia                v Cruzeiro EC
-           Fortaleza EC            v EC Vitória
-           EC Juventude            v CR Flamengo
+    16.00  Grêmio FBPA             v Mirassol FC              0-1 (0-1)
+           Fortaleza EC            v EC Vitória               2-0 (1-0)
+    18.30  SE Palmeiras            v SC Internacional         4-1 (4-0)
+    21.00  Fluminense FC           v SC Corinthians Paulista  0-1 (0-0)
+  Sun Sep/14
+    11.00  RB Bragantino           v SC Recife                1-1 (0-0)
+    16.00  CA Mineiro              v Santos FC                1-1 (0-0)
+           EC Juventude            v CR Flamengo              0-2 (0-1)
+    17.30  São Paulo FC            v Botafogo FR              1-0 (1-0)
+    20.30  CR Vasco da Gama        v Ceará SC                 2-2 (1-1)
+  Mon Sep/15
+    20.00  EC Bahia                v Cruzeiro EC              1-2 (0-0)
+
+
+» Matchday 12
+  Wed Sep/17
+    19.30  Botafogo FR             v Mirassol FC              3-3 (3-0)
 
 
 » Matchday 24
   Sat Sep/20
-           CR Flamengo             v CR Vasco da Gama
-           Botafogo FR             v CA Mineiro
-           SE Palmeiras            v Fortaleza EC
-           Santos FC               v São Paulo FC
-           Mirassol FC             v EC Juventude
-           Cruzeiro EC             v RB Bragantino
-           SC Internacional        v Grêmio FBPA
-           EC Vitória              v Fluminense FC
-           Ceará SC                v EC Bahia
-           SC Recife               v SC Corinthians Paulista
+    16.00  EC Vitória              v Fluminense FC            0-1 (0-1)
+    18.30  Botafogo FR             v CA Mineiro               1-0 (0-0)
+           Ceará SC                v EC Bahia                 1-1 (1-0)
+    21.00  SE Palmeiras            v Fortaleza EC             4-1 (1-1)
+  Sun Sep/21
+    16.00  Mirassol FC             v EC Juventude             2-0 (2-0)
+    17.30  CR Flamengo             v CR Vasco da Gama         1-1 (1-1)
+           SC Internacional        v Grêmio FBPA              2-3 (2-2)
+           SC Recife               v SC Corinthians Paulista  1-0 (0-0)
+    20.30  Santos FC               v São Paulo FC             1-0 (0-0)
+           Cruzeiro EC             v RB Bragantino            2-1 (1-1)
+
+
+» Matchday 16
+  Wed Sep/24
+    19.30  CR Vasco da Gama        v EC Bahia                 3-1 (1-1)
+           Grêmio FBPA             v Botafogo FR              1-1 (0-0)
 
 
 » Matchday 25
   Sat Sep/27
-           Fluminense FC           v Botafogo FR
-           CR Vasco da Gama        v Cruzeiro EC
-           SC Corinthians Paulista v CR Flamengo
-           São Paulo FC            v Ceará SC
-           RB Bragantino           v Santos FC
-           CA Mineiro              v Mirassol FC
-           Grêmio FBPA             v EC Vitória
-           EC Bahia                v SE Palmeiras
-           Fortaleza EC            v SC Recife
-           EC Juventude            v SC Internacional
+    16.00  Fortaleza EC            v SC Recife                1-0 (1-0)
+    18.30  CR Vasco da Gama        v Cruzeiro EC              2-0 (1-0)
+           EC Juventude            v SC Internacional         1-1 (0-1)
+    21.00  CA Mineiro              v Mirassol FC              1-0 (1-0)
+  Sun Sep/28
+    11.00  Grêmio FBPA             v EC Vitória               3-1 (1-0)
+    16.00  Fluminense FC           v Botafogo FR              2-0 (1-0)
+           EC Bahia                v SE Palmeiras             1-0 (0-0)
+    18.30  RB Bragantino           v Santos FC                2-2 (1-0)
+    20.30  SC Corinthians Paulista v CR Flamengo              1-2 (0-0)
+  Mon Sep/29
+    20.00  São Paulo FC            v Ceará SC                 0-1 (0-0)
 
 
 » Matchday 26
+  Tue Sep/30
+    21.30  CA Mineiro              v EC Juventude             0-0
   Wed Oct/1
-           CR Flamengo             v Cruzeiro EC
-           Botafogo FR             v EC Bahia
-           SE Palmeiras            v CR Vasco da Gama
-           Santos FC               v Grêmio FBPA
-           Mirassol FC             v RB Bragantino
-           CA Mineiro              v EC Juventude
-           SC Internacional        v SC Corinthians Paulista
-           EC Vitória              v Ceará SC
-           Fortaleza EC            v São Paulo FC
-           SC Recife               v Fluminense FC
+    19.00  SE Palmeiras            v CR Vasco da Gama         3-0 (3-0)
+           Mirassol FC             v RB Bragantino            1-1 (0-1)
+           SC Recife               v Fluminense FC            2-2 (0-0)
+    19.30  SC Internacional        v SC Corinthians Paulista  1-1 (0-1)
+    21.30  Botafogo FR             v EC Bahia                 2-1 (1-0)
+           Santos FC               v Grêmio FBPA              1-1 (0-0)
+  Thu Oct/2
+    19.00  EC Vitória              v Ceará SC                 1-0 (1-0)
+    19.30  Fortaleza EC            v São Paulo FC             0-2 (0-1)
+    20.30  CR Flamengo             v Cruzeiro EC              0-0
 
 
 » Matchday 27
-  Thu Oct/16
-           Fluminense FC           v CA Mineiro
-           CR Vasco da Gama        v EC Vitória
-           SC Corinthians Paulista v Mirassol FC
-           São Paulo FC            v SE Palmeiras
-           RB Bragantino           v Grêmio FBPA
-           Cruzeiro EC             v SC Recife
-           SC Internacional        v Botafogo FR
-           EC Bahia                v CR Flamengo
-           Ceará SC                v Santos FC
-           EC Juventude            v Fortaleza EC
+  Sat Oct/4
+    18.30  Fluminense FC           v CA Mineiro               3-0 (1-0)
+           RB Bragantino           v Grêmio FBPA              1-0 (0-0)
+           SC Internacional        v Botafogo FR              2-0 (1-0)
+    21.00  SC Corinthians Paulista v Mirassol FC              3-0 (1-0)
+  Sun Oct/5
+    16.00  CR Vasco da Gama        v EC Vitória               4-3 (1-2)
+           São Paulo FC            v SE Palmeiras             2-3 (2-0)
+    18.30  EC Bahia                v CR Flamengo              1-0 (1-0)
+           EC Juventude            v Fortaleza EC             1-2 (1-0)
+    20.30  Cruzeiro EC             v SC Recife                1-1 (0-1)
+           Ceará SC                v Santos FC                3-0 (1-0)
+
+
+» Matchday 14
+  Wed Oct/8
+    19.00  CA Mineiro              v SC Recife                3-1 (2-0)
+
+
+» Matchday 13
+  Wed Oct/8
+    21.00  Mirassol FC             v Fluminense FC            2-1 (1-0)
+
+
+» Matchday 12
+  Sat Oct/11
+    19.00  SE Palmeiras            v EC Juventude             4-1 (2-0)
 
 
 » Matchday 28
-  Sat Oct/25
-           Fluminense FC           v EC Juventude
-           Botafogo FR             v CR Flamengo
-           SE Palmeiras            v RB Bragantino
-           Santos FC               v SC Corinthians Paulista
-           Mirassol FC             v SC Internacional
-           CA Mineiro              v Cruzeiro EC
-           Grêmio FBPA             v São Paulo FC
-           EC Vitória              v EC Bahia
-           Fortaleza EC            v CR Vasco da Gama
-           SC Recife               v Ceará SC
+  Wed Oct/15
+    19.00  SE Palmeiras            v RB Bragantino            5-1 (1-1)
+    19.30  Botafogo FR             v CR Flamengo              0-3 (0-1)
+    20.00  Mirassol FC             v SC Internacional         3-1 (2-1)
+           SC Recife               v Ceará SC                 1-1 (0-0)
+    21.30  Santos FC               v SC Corinthians Paulista  3-1 (2-0)
+           CA Mineiro              v Cruzeiro EC              1-1 (0-0)
+           Fortaleza EC            v CR Vasco da Gama         0-2 (0-1)
+  Thu Oct/16
+    19.00  Grêmio FBPA             v São Paulo FC             2-0 (1-0)
+    21.30  Fluminense FC           v EC Juventude             1-0 (0-0)
+           EC Vitória              v EC Bahia                 2-1 (1-1)
 
 
 » Matchday 29
-  Wed Nov/5
-           CR Flamengo             v SE Palmeiras
-           CR Vasco da Gama        v Fluminense FC
-           SC Corinthians Paulista v CA Mineiro
-           Santos FC               v EC Vitória
-           Mirassol FC             v São Paulo FC
-           Cruzeiro EC             v Fortaleza EC
-           SC Internacional        v SC Recife
-           EC Bahia                v Grêmio FBPA
-           Ceará SC                v Botafogo FR
-           EC Juventude            v RB Bragantino
+  Sat Oct/18
+    18.30  SC Corinthians Paulista v CA Mineiro               1-0 (0-0)
+    21.00  Cruzeiro EC             v Fortaleza EC             1-0 (1-0)
+  Sun Oct/19
+    16.00  CR Flamengo             v SE Palmeiras             3-2 (3-1)
+    18.30  Mirassol FC             v São Paulo FC             3-0 (2-0)
+           SC Internacional        v SC Recife                2-0 (1-0)
+           Ceará SC                v Botafogo FR              0-2 (0-1)
+    20.30  EC Bahia                v Grêmio FBPA              4-0 (2-0)
+  Mon Oct/20
+    19.00  EC Juventude            v RB Bragantino            1-0 (1-0)
+    19.30  CR Vasco da Gama        v Fluminense FC            2-0 (1-0)
+    21.30  Santos FC               v EC Vitória               0-1 (0-1)
+
+
+» Matchday 14
+  Wed Oct/22
+    19.00  EC Bahia                v SC Internacional         1-0 (1-0)
 
 
 » Matchday 30
-  Wed Nov/19
-           Fluminense FC           v SC Internacional
-           Botafogo FR             v Santos FC
-           SE Palmeiras            v Cruzeiro EC
-           São Paulo FC            v EC Bahia
-           RB Bragantino           v CR Vasco da Gama
-           CA Mineiro              v Ceará SC
-           Grêmio FBPA             v EC Juventude
-           EC Vitória              v SC Corinthians Paulista
-           Fortaleza EC            v CR Flamengo
-           SC Recife               v Mirassol FC
+  Sat Oct/25
+    16.00  CA Mineiro              v Ceará SC                 1-0 (1-0)
+           EC Vitória              v SC Corinthians Paulista  0-1 (0-0)
+    17.30  Fluminense FC           v SC Internacional         1-0 (0-0)
+    18.30  SC Recife               v Mirassol FC              1-2 (1-1)
+    19.30  Fortaleza EC            v CR Flamengo              1-0 (1-0)
+    22.30  São Paulo FC            v EC Bahia                 2-0 (2-0)
+  Sun Oct/26
+    16.00  Botafogo FR             v Santos FC                2-2 (2-1)
+           Grêmio FBPA             v EC Juventude             3-1 (1-0)
+    18.30  RB Bragantino           v CR Vasco da Gama         0-3 (0-1)
+    20.30  SE Palmeiras            v Cruzeiro EC              0-0
+
+
+» Matchday 12
+  Wed Oct/29
+    19.00  Fluminense FC           v Ceará SC                 1-0 (1-0)
 
 
 » Matchday 31
-  Sat Nov/22
-           CR Flamengo             v SC Recife
-           CR Vasco da Gama        v São Paulo FC
-           SC Corinthians Paulista v Grêmio FBPA
-           Santos FC               v Fortaleza EC
-           Mirassol FC             v Botafogo FR
-           Cruzeiro EC             v EC Vitória
-           SC Internacional        v CA Mineiro
-           EC Bahia                v RB Bragantino
-           Ceará SC                v Fluminense FC
-           EC Juventude            v SE Palmeiras
+  Sat Nov/1
+    16.00  Santos FC               v Fortaleza EC             1-1 (0-1)
+           Cruzeiro EC             v EC Vitória               3-1 (3-1)
+    18.00  Mirassol FC             v Botafogo FR              0-0
+    21.00  CR Flamengo             v SC Recife                3-0 (0-0)
+  Sun Nov/2
+    16.00  SC Corinthians Paulista v Grêmio FBPA              2-0 (1-0)
+           EC Bahia                v RB Bragantino            2-1 (0-1)
+           Ceará SC                v Fluminense FC            2-0 (1-0)
+    18.30  SC Internacional        v CA Mineiro               0-0
+           EC Juventude            v SE Palmeiras             0-2 (0-1)
+    20.30  CR Vasco da Gama        v São Paulo FC             0-2 (0-1)
 
 
 » Matchday 32
-  Sat Nov/29
-           Fluminense FC           v Mirassol FC
-           Botafogo FR             v CR Vasco da Gama
-           SE Palmeiras            v Santos FC
-           São Paulo FC            v CR Flamengo
-           RB Bragantino           v SC Corinthians Paulista
-           CA Mineiro              v EC Bahia
-           Grêmio FBPA             v Cruzeiro EC
+  Wed Nov/5
+    19.00  RB Bragantino           v SC Corinthians Paulista
            EC Vitória              v SC Internacional
-           Ceará SC                v Fortaleza EC
            SC Recife               v EC Juventude
+    19.30  Botafogo FR             v CR Vasco da Gama
+    20.00  CA Mineiro              v EC Bahia
+           Grêmio FBPA             v Cruzeiro EC
+    21.30  São Paulo FC            v CR Flamengo
+  Thu Nov/6
+    19.30  Fluminense FC           v Mirassol FC
+    20.00  Ceará SC                v Fortaleza EC
+    21.30  SE Palmeiras            v Santos FC
 
 
 » Matchday 33
-  Wed Dec/3
-           CR Flamengo             v Santos FC
-           CR Vasco da Gama        v EC Juventude
-           SC Corinthians Paulista v Ceará SC
-           São Paulo FC            v RB Bragantino
-           Mirassol FC             v SE Palmeiras
+  Sat Nov/8
+    16.00  SC Recife               v CA Mineiro
+    18.00  CR Vasco da Gama        v EC Juventude
+    18.30  SC Internacional        v EC Bahia
+    21.00  São Paulo FC            v RB Bragantino
+  Sun Nov/9
+    16.00  SC Corinthians Paulista v Ceará SC
            Cruzeiro EC             v Fluminense FC
-           SC Internacional        v EC Bahia
            EC Vitória              v Botafogo FR
+    18.30  CR Flamengo             v Santos FC
+    20.30  Mirassol FC             v SE Palmeiras
            Fortaleza EC            v Grêmio FBPA
-           SC Recife               v CA Mineiro
+
+
+» Matchday 12
+  Sat Nov/15
+    18.30  SC Recife               v CR Flamengo
+
+
+» Matchday 13
+  Sat Nov/15
+    21.00  Santos FC               v SE Palmeiras
 
 
 » Matchday 34
