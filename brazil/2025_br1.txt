@@ -1,6 +1,6 @@
 = Brasileiro Série A 2025
 
-# Date       Sat Mar/29 - Sun Dec/21 2025 (267d)
+# Date       Sat Mar/29 - Sun Dec/7 2025 (253d)
 # Teams      20
 # Matches    380
 
@@ -234,7 +234,6 @@
 
 » Matchday 16
   Wed Jul/23
-           CA Mineiro              v Fortaleza EC             [postponed]
     19.00  Fluminense FC           v SE Palmeiras             1-2 (1-1)
            Ceará SC                v Mirassol FC              0-2 (0-2)
     19.30  SC Corinthians Paulista v Cruzeiro EC              0-0
@@ -526,32 +525,37 @@
 
 » Matchday 32
   Wed Nov/5
-    19.00  RB Bragantino           v SC Corinthians Paulista
-           EC Vitória              v SC Internacional
-           SC Recife               v EC Juventude
-    19.30  Botafogo FR             v CR Vasco da Gama
-    20.00  CA Mineiro              v EC Bahia
-           Grêmio FBPA             v Cruzeiro EC
-    21.30  São Paulo FC            v CR Flamengo
+    19.00  RB Bragantino           v SC Corinthians Paulista  2-1 (1-0)
+           EC Vitória              v SC Internacional         1-0 (0-0)
+           SC Recife               v EC Juventude             0-2 (0-1)
+    19.30  Botafogo FR             v CR Vasco da Gama         3-0 (1-0)
+    20.00  CA Mineiro              v EC Bahia                 3-0 (0-0)
+           Grêmio FBPA             v Cruzeiro EC              0-1 (0-1)
+    21.30  São Paulo FC            v CR Flamengo              2-2 (1-1)
   Thu Nov/6
-    19.30  Fluminense FC           v Mirassol FC
-    20.00  Ceará SC                v Fortaleza EC
-    21.30  SE Palmeiras            v Santos FC
+    19.30  Fluminense FC           v Mirassol FC              1-0 (1-0)
+    20.00  Ceará SC                v Fortaleza EC             1-1 (0-1)
+    21.30  SE Palmeiras            v Santos FC                2-0 (0-0)
 
 
 » Matchday 33
   Sat Nov/8
-    16.00  SC Recife               v CA Mineiro
-    18.00  CR Vasco da Gama        v EC Juventude
-    18.30  SC Internacional        v EC Bahia
-    21.00  São Paulo FC            v RB Bragantino
+    16.00  SC Recife               v CA Mineiro               2-4 (1-0)
+    18.00  CR Vasco da Gama        v EC Juventude             1-3 (1-2)
+    18.30  SC Internacional        v EC Bahia                 2-2 (1-0)
+    21.00  São Paulo FC            v RB Bragantino            0-1 (0-0)
   Sun Nov/9
-    16.00  SC Corinthians Paulista v Ceará SC
-           Cruzeiro EC             v Fluminense FC
-           EC Vitória              v Botafogo FR
-    18.30  CR Flamengo             v Santos FC
-    20.30  Mirassol FC             v SE Palmeiras
-           Fortaleza EC            v Grêmio FBPA
+    16.00  SC Corinthians Paulista v Ceará SC                 0-1 (0-1)
+           Cruzeiro EC             v Fluminense FC            0-0
+           EC Vitória              v Botafogo FR              0-0
+    18.30  CR Flamengo             v Santos FC                3-2 (1-0)
+    20.30  Mirassol FC             v SE Palmeiras             2-1 (2-1)
+           Fortaleza EC            v Grêmio FBPA              2-2 (1-2)
+
+
+» Matchday 16
+  Wed Nov/12
+    20.30  CA Mineiro              v Fortaleza EC
 
 
 » Matchday 12
@@ -565,51 +569,71 @@
 
 
 » Matchday 34
-  Sat Dec/6
-           Fluminense FC           v CR Flamengo
-           Botafogo FR             v SC Recife
-           SC Corinthians Paulista v São Paulo FC
-           Santos FC               v Mirassol FC
-           RB Bragantino           v EC Vitória
-           CA Mineiro              v SE Palmeiras
-           Grêmio FBPA             v CR Vasco da Gama
-           EC Bahia                v Fortaleza EC
-           Ceará SC                v SC Internacional
-           EC Juventude            v Cruzeiro EC
-
-
-» Matchday 35
-  Wed Dec/10
-           CR Flamengo             v RB Bragantino
-           Botafogo FR             v Grêmio FBPA
-           SE Palmeiras            v Fluminense FC
-           São Paulo FC            v EC Juventude
-           Mirassol FC             v Ceará SC
-           Cruzeiro EC             v SC Corinthians Paulista
-           SC Internacional        v Santos FC
-           EC Bahia                v CR Vasco da Gama
-           Fortaleza EC            v CA Mineiro
-           SC Recife               v EC Vitória
-
-
-» Matchday 36
-  Sat Dec/13
-           Fluminense FC           v São Paulo FC
-           CR Vasco da Gama        v SC Internacional
-           SC Corinthians Paulista v Botafogo FR
-           Santos FC               v SC Recife
-           RB Bragantino           v Fortaleza EC
-           CA Mineiro              v CR Flamengo
-           Grêmio FBPA             v SE Palmeiras
-           EC Vitória              v Mirassol FC
-           Ceará SC                v Cruzeiro EC
-           EC Juventude            v EC Bahia
+  Tue Nov/18
+    20.30  Botafogo FR             v SC Recife
+  Wed Nov/19
+           RB Bragantino           v EC Vitória               [postponed]
 
 
 » Matchday 37
-  Wed Dec/17
+  Wed Nov/19
+    19.30  SE Palmeiras            v EC Vitória
+
+
+» Matchday 34
+  Wed Nov/19
+    21.30  Fluminense FC           v CR Flamengo
+           Santos FC               v Mirassol FC
+           Grêmio FBPA             v CR Vasco da Gama
+  Thu Nov/20
+    16.00  EC Juventude            v Cruzeiro EC
+    18.00  EC Bahia                v Fortaleza EC
+    19.30  SC Corinthians Paulista v São Paulo FC
+    21.30  Ceará SC                v SC Internacional
+
+
+» Matchday 35
+  Sat Nov/22
+    19.30  Botafogo FR             v Grêmio FBPA
+    21.30  CR Flamengo             v RB Bragantino
+           SE Palmeiras            v Fluminense FC
+  Sun Nov/23
+    16.00  São Paulo FC            v EC Juventude
+           EC Bahia                v CR Vasco da Gama
+    18.30  SC Recife               v EC Vitória
+    20.30  Cruzeiro EC             v SC Corinthians Paulista
+  Mon Nov/24
+    19.00  Mirassol FC             v Ceará SC
+    21.00  SC Internacional        v Santos FC
+
+
+» Matchday 36
+  Tue Nov/25
+    21.30  CA Mineiro              v CR Flamengo
+           Grêmio FBPA             v SE Palmeiras
+  Wed Nov/26
+    19.00  RB Bragantino           v Fortaleza EC
+  Thu Nov/27
+    20.30  Fluminense FC           v São Paulo FC
+  Fri Nov/28
+    19.00  EC Juventude            v EC Bahia
+    19.30  CR Vasco da Gama        v SC Internacional
+    21.30  Santos FC               v SC Recife
+  Sat Nov/29
+    20.30  Ceará SC                v Cruzeiro EC
+  Sun Nov/30
+    15.00  EC Vitória              v Mirassol FC
+    16.00  SC Corinthians Paulista v Botafogo FR
+
+
+» Matchday 35
+  Sun Nov/30
+    18.30  Fortaleza EC            v CA Mineiro
+
+
+» Matchday 37
+  Wed Dec/3
            CR Vasco da Gama        v Mirassol FC
-           SE Palmeiras            v EC Vitória
            São Paulo FC            v SC Internacional
            RB Bragantino           v CA Mineiro
            Cruzeiro EC             v Botafogo FR
@@ -620,8 +644,13 @@
            CR Flamengo             v Ceará SC
 
 
+» Matchday 34
+  Wed Dec/3
+    18.00  CA Mineiro              v SE Palmeiras
+
+
 » Matchday 38
-  Sun Dec/21
+  Sun Dec/7
            Fluminense FC           v EC Bahia
            Botafogo FR             v Fortaleza EC
            SC Corinthians Paulista v EC Juventude
