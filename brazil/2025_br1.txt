@@ -555,109 +555,127 @@
 
 » Matchday 16
   Wed Nov/12
-    20.30  CA Mineiro              v Fortaleza EC
+    20.30  CA Mineiro              v Fortaleza EC             3-3 (2-0)
 
 
 » Matchday 12
   Sat Nov/15
-    18.30  SC Recife               v CR Flamengo
+    18.30  SC Recife               v CR Flamengo              1-5 (1-1)
 
 
 » Matchday 13
   Sat Nov/15
-    21.00  Santos FC               v SE Palmeiras
+    21.00  Santos FC               v SE Palmeiras             1-0 (0-0)
+
+
+» Matchday 37
+  Sun Nov/16
+    19.00  RB Bragantino           v CA Mineiro               2-0 (0-0)
 
 
 » Matchday 34
   Tue Nov/18
-    20.30  Botafogo FR             v SC Recife
-  Wed Nov/19
-           RB Bragantino           v EC Vitória               [postponed]
+    20.30  Botafogo FR             v SC Recife                3-2 (1-2)
 
 
 » Matchday 37
   Wed Nov/19
-    19.30  SE Palmeiras            v EC Vitória
+    19.30  SE Palmeiras            v EC Vitória               0-0
 
 
 » Matchday 34
   Wed Nov/19
-    21.30  Fluminense FC           v CR Flamengo
-           Santos FC               v Mirassol FC
-           Grêmio FBPA             v CR Vasco da Gama
+    21.30  Fluminense FC           v CR Flamengo              2-1 (2-0)
+           Santos FC               v Mirassol FC              1-1 (1-0)
+           Grêmio FBPA             v CR Vasco da Gama         2-0 (0-0)
   Thu Nov/20
-    16.00  EC Juventude            v Cruzeiro EC
-    18.00  EC Bahia                v Fortaleza EC
-    19.30  SC Corinthians Paulista v São Paulo FC
-    21.30  Ceará SC                v SC Internacional
+    16.00  EC Juventude            v Cruzeiro EC              3-3 (2-1)
+    18.00  EC Bahia                v Fortaleza EC             2-3 (0-2)
+    19.30  SC Corinthians Paulista v São Paulo FC             3-1 (1-0)
+    21.30  Ceará SC                v SC Internacional         1-2 (0-0)
 
 
 » Matchday 35
   Sat Nov/22
-    19.30  Botafogo FR             v Grêmio FBPA
-    21.30  CR Flamengo             v RB Bragantino
-           SE Palmeiras            v Fluminense FC
+    19.30  Botafogo FR             v Grêmio FBPA              3-2 (2-0)
+    21.30  CR Flamengo             v RB Bragantino            3-0 (0-0)
+           SE Palmeiras            v Fluminense FC            0-0
   Sun Nov/23
-    16.00  São Paulo FC            v EC Juventude
-           EC Bahia                v CR Vasco da Gama
-    18.30  SC Recife               v EC Vitória
-    20.30  Cruzeiro EC             v SC Corinthians Paulista
+    16.00  São Paulo FC            v EC Juventude             2-1 (1-0)
+           EC Bahia                v CR Vasco da Gama         1-0 (0-0)
+    18.30  SC Recife               v EC Vitória               1-3 (1-2)
+    20.30  Cruzeiro EC             v SC Corinthians Paulista  3-0 (1-0)
   Mon Nov/24
-    19.00  Mirassol FC             v Ceará SC
-    21.00  SC Internacional        v Santos FC
+    19.00  Mirassol FC             v Ceará SC                 3-0 (2-0)
+    21.00  SC Internacional        v Santos FC                1-1 (1-0)
 
 
 » Matchday 36
   Tue Nov/25
-    21.30  CA Mineiro              v CR Flamengo
-           Grêmio FBPA             v SE Palmeiras
+    21.30  CA Mineiro              v CR Flamengo              1-1 (1-0)
+           Grêmio FBPA             v SE Palmeiras             3-2 (1-1)
   Wed Nov/26
-    19.00  RB Bragantino           v Fortaleza EC
+    19.00  RB Bragantino           v Fortaleza EC             0-1 (0-0)
   Thu Nov/27
-    20.30  Fluminense FC           v São Paulo FC
+    20.30  Fluminense FC           v São Paulo FC             6-0 (3-0)
   Fri Nov/28
-    19.00  EC Juventude            v EC Bahia
-    19.30  CR Vasco da Gama        v SC Internacional
-    21.30  Santos FC               v SC Recife
+    19.00  EC Juventude            v EC Bahia                 1-1 (1-1)
+    19.30  CR Vasco da Gama        v SC Internacional         5-1 (2-1)
+    21.30  Santos FC               v SC Recife                3-0 (2-0)
   Sat Nov/29
-    20.30  Ceará SC                v Cruzeiro EC
+    16.00  EC Vitória              v Mirassol FC              2-0 (1-0)
+    21.00  Ceará SC                v Cruzeiro EC              1-1 (0-0)
   Sun Nov/30
-    15.00  EC Vitória              v Mirassol FC
-    16.00  SC Corinthians Paulista v Botafogo FR
+    16.00  SC Corinthians Paulista v Botafogo FR              2-2 (1-0)
 
 
 » Matchday 35
   Sun Nov/30
-    18.30  Fortaleza EC            v CA Mineiro
+    18.30  Fortaleza EC            v CA Mineiro               1-0 (1-0)
 
 
 » Matchday 37
+  Tue Dec/2
+    19.00  CR Vasco da Gama        v Mirassol FC              0-2 (0-0)
+    21.30  Grêmio FBPA             v Fluminense FC            1-2 (0-1)
   Wed Dec/3
-           CR Vasco da Gama        v Mirassol FC
-           São Paulo FC            v SC Internacional
-           RB Bragantino           v CA Mineiro
-           Cruzeiro EC             v Botafogo FR
-           Grêmio FBPA             v Fluminense FC
-           EC Bahia                v SC Recife
-           Fortaleza EC            v SC Corinthians Paulista
-           EC Juventude            v Santos FC
-           CR Flamengo             v Ceará SC
+    19.00  Fortaleza EC            v SC Corinthians Paulista  2-1 (1-0)
 
 
 » Matchday 34
   Wed Dec/3
-    18.00  CA Mineiro              v SE Palmeiras
+    19.00  RB Bragantino           v EC Vitória               4-0 (2-0)
+
+
+» Matchday 37
+  Wed Dec/3
+    19.30  EC Juventude            v Santos FC                0-3 (0-0)
+    20.00  São Paulo FC            v SC Internacional         3-0 (2-0)
+           EC Bahia                v SC Recife                2-0 (1-0)
+
+
+» Matchday 34
+  Wed Dec/3
+    21.30  CA Mineiro              v SE Palmeiras             0-3 (0-2)
+
+
+» Matchday 37
+  Wed Dec/3
+    21.30  CR Flamengo             v Ceará SC                 1-0 (1-0)
+  Thu Dec/4
+    19.30  Cruzeiro EC             v Botafogo FR              2-2 (1-0)
 
 
 » Matchday 38
+  Sat Dec/6
+    18.30  Mirassol FC             v CR Flamengo              3-3 (2-2)
   Sun Dec/7
-           Fluminense FC           v EC Bahia
-           Botafogo FR             v Fortaleza EC
-           SC Corinthians Paulista v EC Juventude
-           Santos FC               v Cruzeiro EC
-           Mirassol FC             v CR Flamengo
-           CA Mineiro              v CR Vasco da Gama
-           SC Internacional        v RB Bragantino
-           EC Vitória              v São Paulo FC
-           Ceará SC                v SE Palmeiras
-           SC Recife               v Grêmio FBPA
+    16.00  Fluminense FC           v EC Bahia                 2-0 (0-0)
+           Botafogo FR             v Fortaleza EC             4-2 (1-1)
+           SC Corinthians Paulista v EC Juventude             1-1 (1-0)
+           Santos FC               v Cruzeiro EC              3-0 (2-0)
+           CA Mineiro              v CR Vasco da Gama         5-0 (2-0)
+           SC Internacional        v RB Bragantino            3-1 (0-0)
+           EC Vitória              v São Paulo FC             1-0 (0-0)
+           Ceará SC                v SE Palmeiras             1-3 (1-1)
+           SC Recife               v Grêmio FBPA              0-4 (0-3)
