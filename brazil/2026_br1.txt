@@ -134,7 +134,7 @@
 
 » Matchday 5
   Sun Mar/29
-    18.30  CA Paranaense           v Botafogo FR
+    19.30  CA Paranaense           v Botafogo FR              4-1 (2-1)
 
 
 » Matchday 9
@@ -169,100 +169,108 @@
 
 » Matchday 11
   Sat Apr/11
-           CA Paranaense           v Chapecoense AF
-           Botafogo FR             v Coritiba FBC
-           SC Corinthians Paulista v SE Palmeiras
-           Cruzeiro EC             v RB Bragantino
-           Fluminense FC           v CR Flamengo
-           SC Internacional        v Grêmio FBPA
-           Mirassol FC             v EC Bahia
-           Clube do Remo           v CR Vasco da Gama
-           Santos FC               v CA Mineiro
+    16.30  Clube do Remo           v CR Vasco da Gama
            EC Vitória              v São Paulo FC
+    18.30  Fluminense FC           v CR Flamengo
+           Mirassol FC             v EC Bahia
+    20.00  Santos FC               v CA Mineiro
+    20.30  SC Internacional        v Grêmio FBPA
+  Sun Apr/12
+    11.00  CA Paranaense           v Chapecoense AF
+    16.00  Botafogo FR             v Coritiba FBC
+    18.30  SC Corinthians Paulista v SE Palmeiras
+           Cruzeiro EC             v RB Bragantino
 
 
 » Matchday 12
   Sat Apr/18
-           RB Bragantino           v Clube do Remo
-           Chapecoense AF          v Botafogo FR
-           Coritiba FBC            v CA Mineiro
-           Cruzeiro EC             v Grêmio FBPA
-           CR Flamengo             v EC Bahia
-           SC Internacional        v Mirassol FC
-           SE Palmeiras            v CA Paranaense
-           Santos FC               v Fluminense FC
+    18.30  Chapecoense AF          v Botafogo FR
            CR Vasco da Gama        v São Paulo FC
-           EC Vitória              v SC Corinthians Paulista
+    20.00  EC Vitória              v SC Corinthians Paulista
+    20.30  Cruzeiro EC             v Grêmio FBPA
+  Sun Apr/19
+    11.00  SC Internacional        v Mirassol FC
+    16.00  Coritiba FBC            v CA Mineiro
+           Santos FC               v Fluminense FC
+    18.30  RB Bragantino           v Clube do Remo
+           SE Palmeiras            v CA Paranaense
+    19.30  CR Flamengo             v EC Bahia
 
 
 » Matchday 13
   Sat Apr/25
-           CA Paranaense           v EC Vitória
-           CA Mineiro              v CR Flamengo
-           EC Bahia                v Santos FC
+    18.30  EC Bahia                v Santos FC
            Botafogo FR             v SC Internacional
-           RB Bragantino           v SE Palmeiras
-           SC Corinthians Paulista v CR Vasco da Gama
-           Fluminense FC           v Chapecoense AF
-           Grêmio FBPA             v Coritiba FBC
            Clube do Remo           v Cruzeiro EC
-           São Paulo FC            v Mirassol FC
+    21.00  São Paulo FC            v Mirassol FC
+  Sun Apr/26
+    16.00  SC Corinthians Paulista v CR Vasco da Gama
+           Grêmio FBPA             v Coritiba FBC
+    18.30  CA Paranaense           v EC Vitória
+           RB Bragantino           v SE Palmeiras
+    20.30  CA Mineiro              v CR Flamengo
+           Fluminense FC           v Chapecoense AF
 
 
 » Matchday 14
   Sat May/2
-           CA Paranaense           v Grêmio FBPA
-           Botafogo FR             v Clube do Remo
-           Chapecoense AF          v RB Bragantino
-           Cruzeiro EC             v CA Mineiro
-           CR Flamengo             v CR Vasco da Gama
-           SC Internacional        v Fluminense FC
-           Mirassol FC             v SC Corinthians Paulista
-           SE Palmeiras            v Santos FC
-           São Paulo FC            v EC Bahia
+    16.00  Botafogo FR             v Clube do Remo
            EC Vitória              v Coritiba FBC
+    18.30  SE Palmeiras            v Santos FC
+    20.30  CA Paranaense           v Grêmio FBPA
+    21.00  Cruzeiro EC             v CA Mineiro
+  Sun May/3
+    16.00  CR Flamengo             v CR Vasco da Gama
+           São Paulo FC            v EC Bahia
+    18.30  Chapecoense AF          v RB Bragantino
+           SC Internacional        v Fluminense FC
+    20.30  Mirassol FC             v SC Corinthians Paulista
 
 
 » Matchday 15
   Sat May/9
-           CA Mineiro              v Botafogo FR
-           EC Bahia                v Cruzeiro EC
-           SC Corinthians Paulista v São Paulo FC
-           Coritiba FBC            v SC Internacional
-           Fluminense FC           v EC Vitória
-           Grêmio FBPA             v CR Flamengo
-           Mirassol FC             v Chapecoense AF
+    16.00  Coritiba FBC            v SC Internacional
+    18.00  Fluminense FC           v EC Vitória
+    21.00  EC Bahia                v Cruzeiro EC
+  Sun May/10
+    16.00  CA Mineiro              v Botafogo FR
            Clube do Remo           v SE Palmeiras
+    18.30  SC Corinthians Paulista v São Paulo FC
+           Mirassol FC             v Chapecoense AF
            Santos FC               v RB Bragantino
-           CR Vasco da Gama        v CA Paranaense
+    19.30  Grêmio FBPA             v CR Flamengo
+    20.30  CR Vasco da Gama        v CA Paranaense
 
 
 » Matchday 16
   Sat May/16
-           CA Paranaense           v CR Flamengo
-           CA Mineiro              v Mirassol FC
-           EC Bahia                v Grêmio FBPA
-           Botafogo FR             v SC Corinthians Paulista
-           RB Bragantino           v EC Vitória
-           Chapecoense AF          v Clube do Remo
-           Fluminense FC           v São Paulo FC
+    18.30  CA Mineiro              v Mirassol FC
            SC Internacional        v CR Vasco da Gama
-           SE Palmeiras            v Cruzeiro EC
-           Santos FC               v Coritiba FBC
+    20.30  Fluminense FC           v São Paulo FC
+    21.00  SE Palmeiras            v Cruzeiro EC
+  Sun May/17
+    11.00  Santos FC               v Coritiba FBC
+    16.00  EC Bahia                v Grêmio FBPA
+           Botafogo FR             v SC Corinthians Paulista
+    18.30  RB Bragantino           v EC Vitória
+           Chapecoense AF          v Clube do Remo
+    19.30  CA Paranaense           v CR Flamengo
 
 
 » Matchday 17
   Sat May/23
-           SC Corinthians Paulista v CA Mineiro
-           Coritiba FBC            v EC Bahia
-           Cruzeiro EC             v Chapecoense AF
-           CR Flamengo             v SE Palmeiras
-           Grêmio FBPA             v Santos FC
-           Mirassol FC             v Fluminense FC
-           Clube do Remo           v CA Paranaense
-           São Paulo FC            v Botafogo FR
-           CR Vasco da Gama        v RB Bragantino
+    17.00  São Paulo FC            v Botafogo FR
            EC Vitória              v SC Internacional
+    19.00  Grêmio FBPA             v Santos FC
+           Mirassol FC             v Fluminense FC
+    21.00  CR Flamengo             v SE Palmeiras
+  Sun May/24
+    16.00  Cruzeiro EC             v Chapecoense AF
+           Clube do Remo           v CA Paranaense
+    18.30  SC Corinthians Paulista v CA Mineiro
+    20.30  CR Vasco da Gama        v RB Bragantino
+  Mon May/25
+    20.00  Coritiba FBC            v EC Bahia
 
 
 » Matchday 18
