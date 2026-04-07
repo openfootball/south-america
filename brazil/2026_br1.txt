@@ -139,32 +139,32 @@
 
 » Matchday 9
   Wed Apr/1
-    19.30  Botafogo FR             v Mirassol FC
-           SC Internacional        v São Paulo FC
-    20.00  EC Bahia                v CA Paranaense
-           Cruzeiro EC             v EC Vitória
-    20.30  Coritiba FBC            v CR Vasco da Gama
-    21.30  Fluminense FC           v SC Corinthians Paulista
+    19.30  Botafogo FR             v Mirassol FC              3-2 (2-1)
+           SC Internacional        v São Paulo FC             1-1 (1-0)
+    20.00  EC Bahia                v CA Paranaense            3-0 (2-0)
+           Cruzeiro EC             v EC Vitória               3-0 (3-0)
+    20.30  Coritiba FBC            v CR Vasco da Gama         1-1 (0-1)
+    21.30  Fluminense FC           v SC Corinthians Paulista  3-1 (2-0)
   Thu Apr/2
-    19.00  Chapecoense AF          v CA Mineiro
-           Santos FC               v Clube do Remo
-    21.30  RB Bragantino           v CR Flamengo
-           SE Palmeiras            v Grêmio FBPA
+    19.00  Chapecoense AF          v CA Mineiro               0-4 (0-3)
+           Santos FC               v Clube do Remo            2-0 (1-0)
+    21.30  RB Bragantino           v CR Flamengo              3-0 (2-0)
+           SE Palmeiras            v Grêmio FBPA              2-1 (1-0)
 
 
 » Matchday 10
   Sat Apr/4
-    18.30  São Paulo FC            v Cruzeiro EC
-    20.30  Coritiba FBC            v Fluminense FC
-    21.00  CR Vasco da Gama        v Botafogo FR
+    18.30  São Paulo FC            v Cruzeiro EC              4-1 (2-0)
+    20.30  Coritiba FBC            v Fluminense FC            1-1 (0-0)
+    21.00  CR Vasco da Gama        v Botafogo FR              1-2 (0-0)
   Sun Apr/5
-    16.00  Chapecoense AF          v EC Vitória
-    17.30  CA Mineiro              v CA Paranaense
-           CR Flamengo             v Santos FC
-    19.30  EC Bahia                v SE Palmeiras
-           SC Corinthians Paulista v SC Internacional
-    20.00  Mirassol FC             v RB Bragantino
-    20.30  Grêmio FBPA             v Clube do Remo
+    16.00  Chapecoense AF          v EC Vitória               1-1 (0-0)
+    17.30  CA Mineiro              v CA Paranaense            2-1 (1-0)
+           CR Flamengo             v Santos FC                3-1 (0-0)
+    19.30  EC Bahia                v SE Palmeiras             1-2 (0-1)
+           SC Corinthians Paulista v SC Internacional         0-1 (0-0)
+    20.00  Mirassol FC             v RB Bragantino            0-1 (0-0)
+    20.30  Grêmio FBPA             v Clube do Remo            0-0
 
 
 » Matchday 11
