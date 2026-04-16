@@ -169,17 +169,17 @@
 
 » Matchday 11
   Sat Apr/11
-    16.30  Clube do Remo           v CR Vasco da Gama
-           EC Vitória              v São Paulo FC
-    18.30  Fluminense FC           v CR Flamengo
-           Mirassol FC             v EC Bahia
-    20.00  Santos FC               v CA Mineiro
-    20.30  SC Internacional        v Grêmio FBPA
+    16.30  Clube do Remo           v CR Vasco da Gama         1-1 (0-0)
+           EC Vitória              v São Paulo FC             2-0 (1-0)
+    18.30  Mirassol FC             v EC Bahia                 1-2 (1-0)
+    20.00  Santos FC               v CA Mineiro               1-0 (0-0)
+    20.30  SC Internacional        v Grêmio FBPA              0-0
   Sun Apr/12
-    11.00  CA Paranaense           v Chapecoense AF
-    16.00  Botafogo FR             v Coritiba FBC
-    18.30  SC Corinthians Paulista v SE Palmeiras
-           Cruzeiro EC             v RB Bragantino
+    11.00  CA Paranaense           v Chapecoense AF           2-0 (0-0)
+    16.00  Botafogo FR             v Coritiba FBC             2-2 (0-1)
+    18.00  Fluminense FC           v CR Flamengo              1-2 (0-1)
+    18.30  SC Corinthians Paulista v SE Palmeiras             0-0
+           Cruzeiro EC             v RB Bragantino            2-1 (1-1)
 
 
 » Matchday 12
@@ -215,8 +215,8 @@
 » Matchday 14
   Sat May/2
     16.00  Botafogo FR             v Clube do Remo
-           EC Vitória              v Coritiba FBC
     18.30  SE Palmeiras            v Santos FC
+           EC Vitória              v Coritiba FBC
     20.30  CA Paranaense           v Grêmio FBPA
     21.00  Cruzeiro EC             v CA Mineiro
   Sun May/3
