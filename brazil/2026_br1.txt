@@ -214,17 +214,17 @@
 
 » Matchday 14
   Sat May/2
-    16.00  Botafogo FR             v Clube do Remo
-    18.30  SE Palmeiras            v Santos FC
-           EC Vitória              v Coritiba FBC
-    20.30  CA Paranaense           v Grêmio FBPA
-    21.00  Cruzeiro EC             v CA Mineiro
+    16.00  Botafogo FR             v Clube do Remo            1-2 (1-0)
+    18.30  SE Palmeiras            v Santos FC                2-1 (0-1)
+           EC Vitória              v Coritiba FBC             4-1 (2-1)
+    20.30  CA Paranaense           v Grêmio FBPA              0-0
+    21.00  Cruzeiro EC             v CA Mineiro               1-3 (0-2)
   Sun May/3
-    16.00  CR Flamengo             v CR Vasco da Gama
-           São Paulo FC            v EC Bahia
-    18.30  Chapecoense AF          v RB Bragantino
-           SC Internacional        v Fluminense FC
-    20.30  Mirassol FC             v SC Corinthians Paulista
+    16.00  CR Flamengo             v CR Vasco da Gama         2-2 (1-0)
+           São Paulo FC            v EC Bahia                 2-2 (1-0)
+    18.30  Chapecoense AF          v RB Bragantino            1-2 (1-1)
+           SC Internacional        v Fluminense FC            2-0 (1-0)
+    20.30  Mirassol FC             v SC Corinthians Paulista  2-1 (2-0)
 
 
 » Matchday 15
@@ -275,16 +275,17 @@
 
 » Matchday 18
   Sat May/30
-           CA Paranaense           v Mirassol FC
-           EC Bahia                v Botafogo FR
-           RB Bragantino           v SC Internacional
-           Cruzeiro EC             v Fluminense FC
+    16.00  CA Paranaense           v Mirassol FC
            CR Flamengo             v Coritiba FBC
+    17.30  EC Bahia                v Botafogo FR
            Grêmio FBPA             v SC Corinthians Paulista
-           SE Palmeiras            v Chapecoense AF
-           Clube do Remo           v São Paulo FC
-           Santos FC               v EC Vitória
+    19.30  Clube do Remo           v São Paulo FC
+    21.00  Santos FC               v EC Vitória
+  Sun May/31
+    11.00  RB Bragantino           v SC Internacional
+    16.00  SE Palmeiras            v Chapecoense AF
            CR Vasco da Gama        v CA Mineiro
+    20.30  Cruzeiro EC             v Fluminense FC
 
 
 » Matchday 19
