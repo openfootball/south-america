@@ -1,0 +1,222 @@
+= Copa Libertadores 2026
+
+# Date       Tue Feb 3 - Sat Nov 28 2026 (298d)
+# Teams      47
+# Matches    133
+# Stages     Qualifying (30)  Group (96)  Finals (7)
+
+
+
+▪ Qualifying, Round 1
+  Tue Feb 3 2026
+    21:30  Club The Strongest (BOL) v Deportivo Táchira FC (VEN)  2-1 (0-0)
+  Wed Feb 4
+    21:30  2 de Mayo (PAR)         v Club Alianza Lima (PER)  1-0 (0-0)
+  Thu Feb 5
+    21:30  Juventud de Las Piedras (URU) v Universidad Catolica (ECU)  0-1 (0-0)
+  Tue Feb 10
+    21:30  Deportivo Táchira FC (VEN) v Club The Strongest (BOL)  5-3 pen. (1-0, 1-0)
+  Wed Feb 11
+    21:30  Club Alianza Lima (PER) v 2 de Mayo (PAR)          1-1 (0-0)
+  Thu Feb 12
+    21:30  Universidad Catolica (ECU) v Juventud de Las Piedras (URU)  3-4 pen. (3-4, 1-2)
+
+
+▪ Qualifying, Round 2
+  Tue Feb 17
+    19:00  Carabobo FC (VEN)       v CD Huachipato (CHI)      1-0 (1-0)
+    21:30  Liverpool FC (URU)      v CD Independiente Medellín (COL)  1-2 (0-0)
+           2 de Mayo (PAR)         v CS Cristal (PER)         2-2 (0-0)
+  Wed Feb 18
+    19:00  O'Higgins FC (CHI)      v EC Bahia (BRA)           1-0 (1-0)
+    21:30  Barcelona SC (ECU)      v AA Argentinos Juniors (ARG)  0-1 (0-0)
+           Club Nacional Potosí (BOL) v Botafogo FR (BRA)        1-0 (0-0)
+  Thu Feb 19
+    19:00  Juventud de Las Piedras (URU) v Club Guaraní (PAR)       0-0
+    21:30  Deportivo Táchira FC (VEN) v CD Tolima (COL)          0-1 (0-0)
+  Tue Feb 24
+    19:00  CD Huachipato (CHI)     v Carabobo FC (VEN)        1-2 (0-2)
+    21:30  CS Cristal (PER)        v 2 de Mayo (PAR)          5-4 pen. (0-0)
+           CD Independiente Medellín (COL) v Liverpool FC (URU)       0-0
+  Wed Feb 25
+    19:00  EC Bahia (BRA)          v O'Higgins FC (CHI)       3-4 pen. (2-1, 2-0)
+    21:30  AA Argentinos Juniors (ARG) v Barcelona SC (ECU)       4-5 pen. (0-1, 0-0)
+           Botafogo FR (BRA)       v Club Nacional Potosí (BOL)  2-0 (2-0)
+  Thu Feb 26
+    19:00  Club Guaraní (PAR)      v Juventud de Las Piedras (URU)  1-2 (0-0)
+    21:30  CD Tolima (COL)         v Deportivo Táchira FC (VEN)  3-0 pen. (0-1, 0-0)
+
+
+▪ Qualifying, Round 3
+  Tue Mar 3
+    21:30  Barcelona SC (ECU)      v Botafogo FR (BRA)        1-1 (1-0)
+  Wed Mar 4
+    19:00  Carabobo FC (VEN)       v CS Cristal (PER)         0-1 (0-1)
+    21:30  O'Higgins FC (CHI)      v CD Tolima (COL)          1-0 (1-0)
+  Thu Mar 5
+    21:30  Juventud de Las Piedras (URU) v CD Independiente Medellín (COL)  1-1 (0-1)
+  Tue Mar 10
+    21:30  Botafogo FR (BRA)       v Barcelona SC (ECU)       0-1 (0-1)
+  Wed Mar 11
+    19:00  CS Cristal (PER)        v Carabobo FC (VEN)        3-2 pen. (1-2, 0-2)
+    21:30  CD Tolima (COL)         v O'Higgins FC (CHI)       2-0 (1-0)
+  Thu Mar 12
+    21:30  CD Independiente Medellín (COL) v Juventud de Las Piedras (URU)  2-1 (1-1)
+
+
+▪ Group, Matchday 1
+  Tue Apr 7
+    19:00  CS Independiente Rivadavia (ARG) v Club Bolívar (BOL)       1-0 (1-0)
+           Deportivo La Guaira FC (VEN) v Fluminense FC (BRA)      0-0
+    21:00  Barcelona SC (ECU)      v Cruzeiro EC (BRA)        0-1 (0-0)
+           Club Always Ready (BOL) v LDU de Quito (ECU)       0-1 (0-0)
+    21:30  CD Universidad Católica (CHI) v CA Boca Juniors (ARG)    1-2 (0-1)
+    23:00  CD Tolima (COL)         v Club Universitario de Deportes (PER)  0-0
+  Wed Apr 8
+    19:00  CD Coquimbo Unido (CHI) v Club Nacional de Football (URU)  1-1 (0-1)
+           Mirassol FC (BRA)       v CA Lanús (ARG)           1-0 (0-0)
+    21:00  CD Independiente Medellín (COL) v Estudiantes de La Plata (ARG)  1-1 (0-1)
+    21:30  Cusco FC (PER)          v CR Flamengo (BRA)        0-2 (0-0)
+           CDP Junior FC (COL)     v SE Palmeiras (BRA)       1-1 (1-0)
+    23:00  CS Cristal (PER)        v Club Cerro Porteño (PAR)  1-0 (0-0)
+  Thu Apr 9
+    19:00  Universidad Central de Venezuela FC (VEN) v Club Libertad Asuncion (PAR)  3-1 (1-0)
+           CA Rosario Central (ARG) v CAR Independiente del Valle (ECU)  0-0
+    21:00  CA Platense (ARG)       v SC Corinthians Paulista (BRA)  0-2 (0-0)
+    23:00  Independiente Santa Fe (COL) v CA Peñarol (URU)         1-1 (1-0)
+
+
+▪ Group, Matchday 2
+  Tue Apr 14
+    19:00  Estudiantes de La Plata (ARG) v Cusco FC (PER)           2-1 (1-1)
+           Club Nacional de Football (URU) v CD Tolima (COL)          3-1 (0-0)
+           Club Cerro Porteño (PAR) v CDP Junior FC (COL)      1-0 (0-0)
+    21:00  Club Bolívar (BOL)      v Deportivo La Guaira FC (VEN)  1-1 (0-1)
+           CA Boca Juniors (ARG)   v Barcelona SC (ECU)       3-0 (1-0)
+    23:00  Club Universitario de Deportes (PER) v CD Coquimbo Unido (CHI)  0-2 (0-1)
+           LDU de Quito (ECU)      v Mirassol FC (BRA)        2-0 (2-0)
+  Wed Apr 15
+    19:00  Cruzeiro EC (BRA)       v CD Universidad Católica (CHI)  1-2 (0-1)
+           Club Libertad Asuncion (PAR) v CA Rosario Central (ARG)  0-1 (0-0)
+    21:30  Fluminense FC (BRA)     v CS Independiente Rivadavia (ARG)  1-2 (1-1)
+           SC Corinthians Paulista (BRA) v Independiente Santa Fe (COL)  2-0 (0-0)
+    23:00  CAR Independiente del Valle (ECU) v Universidad Central de Venezuela FC (VEN)  3-1 (2-1)
+  Thu Apr 16
+    19:00  SE Palmeiras (BRA)      v CS Cristal (PER)         2-1 (1-1)
+           CA Lanús (ARG)          v Club Always Ready (BOL)  1-0 (0-0)
+    21:30  CR Flamengo (BRA)       v CD Independiente Medellín (COL)  4-1 (2-1)
+           CA Peñarol (URU)        v CA Platense (ARG)        1-2 (0-1)
+
+
+▪ Group, Matchday 3
+  Tue Apr 28
+    19:00  CA Lanús (ARG)          v LDU de Quito (ECU)       1-0 (0-0)
+           Club Libertad Asuncion (PAR) v CAR Independiente del Valle (ECU)  2-3 (1-1)
+    21:00  Universidad Central de Venezuela FC (VEN) v CA Rosario Central (ARG)  0-3 (0-1)
+    21:30  Cruzeiro EC (BRA)       v CA Boca Juniors (ARG)    1-0 (0-0)
+    23:00  CD Tolima (COL)         v CD Coquimbo Unido (CHI)  3-0 (0-0)
+           CS Cristal (PER)        v CDP Junior FC (COL)      2-0 (0-0)
+  Wed Apr 29
+    19:00  CA Platense (ARG)       v Independiente Santa Fe (COL)  2-1 (0-0)
+           Mirassol FC (BRA)       v Club Always Ready (BOL)  2-0 (1-0)
+    21:00  Barcelona SC (ECU)      v CD Universidad Católica (CHI)  1-2 (0-2)
+    21:30  Estudiantes de La Plata (ARG) v CR Flamengo (BRA)        1-1 (0-1)
+           Club Cerro Porteño (PAR) v SE Palmeiras (BRA)       1-1 (0-1)
+    23:00  Club Universitario de Deportes (PER) v Club Nacional de Football (URU)  4-2 (1-1)
+  Thu Apr 30
+    19:00  Club Bolívar (BOL)      v Fluminense FC (BRA)      2-0 (1-0)
+           CS Independiente Rivadavia (ARG) v Deportivo La Guaira FC (VEN)  4-1 (3-1)
+    21:00  SC Corinthians Paulista (BRA) v CA Peñarol (URU)         2-0 (2-0)
+    23:00  CD Independiente Medellín (COL) v Cusco FC (PER)           1-0 (0-0)
+
+
+▪ Group, Matchday 4
+  Tue May 5
+    19:00  CS Cristal (PER)        v SE Palmeiras (BRA)       0-2 (0-1)
+           CA Rosario Central (ARG) v Club Libertad Asuncion (PAR)  1-0 (0-0)
+    21:00  Barcelona SC (ECU)      v CA Boca Juniors (ARG)    1-0 (0-0)
+           Universidad Central de Venezuela FC (VEN) v CAR Independiente del Valle (ECU)  2-0 (0-0)
+    21:30  Club Always Ready (BOL) v CA Lanús (ARG)           4-0 (2-0)
+  Wed May 6
+    19:00  Cusco FC (PER)          v Estudiantes de La Plata (ARG)  1-1 (1-0)
+           Deportivo La Guaira FC (VEN) v Club Bolívar (BOL)       1-1 (1-0)
+    21:30  CS Independiente Rivadavia (ARG) v Fluminense FC (BRA)      1-1 (0-0)
+           Independiente Santa Fe (COL) v SC Corinthians Paulista (BRA)  1-1 (0-0)
+    23:00  CD Tolima (COL)         v Club Nacional de Football (URU)  3-0 (1-0)
+           CD Universidad Católica (CHI) v Cruzeiro EC (BRA)        0-0
+  Thu May 7
+    19:00  CA Platense (ARG)       v CA Peñarol (URU)         1-1 (1-1)
+           Mirassol FC (BRA)       v LDU de Quito (ECU)       2-0 (0-0)
+    21:00  CD Coquimbo Unido (CHI) v Club Universitario de Deportes (PER)  2-1 (0-1)
+    21:30  CD Independiente Medellín (COL) v CR Flamengo (BRA)        [cancelled]
+    23:00  CDP Junior FC (COL)     v Club Cerro Porteño (PAR)  0-1 (0-1)
+
+
+▪ Group, Matchday 5
+  Tue May 19
+    19:00  CD Coquimbo Unido (CHI) v CD Tolima (COL)          3-0 (2-0)
+           Fluminense FC (BRA)     v Club Bolívar (BOL)       2-1 (1-1)
+           CA Rosario Central (ARG) v Universidad Central de Venezuela FC (VEN)  4-1 (2-0)
+    21:00  Independiente Santa Fe (COL) v CA Platense (ARG)        2-1 (0-0)
+           Club Always Ready (BOL) v Mirassol FC (BRA)        1-2 (0-1)
+    21:30  CA Boca Juniors (ARG)   v Cruzeiro EC (BRA)        1-1 (1-0)
+    23:00  CAR Independiente del Valle (ECU) v Club Libertad Asuncion (PAR)  4-1 (2-1)
+  Wed May 20
+    19:00  Club Nacional de Football (URU) v Club Universitario de Deportes (PER)  0-0
+    21:30  CR Flamengo (BRA)       v Estudiantes de La Plata (ARG)  1-0 (0-0)
+           SE Palmeiras (BRA)      v Club Cerro Porteño (PAR)  0-1 (0-0)
+           LDU de Quito (ECU)      v CA Lanús (ARG)           2-0 (0-0)
+    23:00  Cusco FC (PER)          v CD Independiente Medellín (COL)  2-3 (0-1)
+           CDP Junior FC (COL)     v CS Cristal (PER)         3-2 (3-1)
+  Thu May 21
+    19:00  Deportivo La Guaira FC (VEN) v CS Independiente Rivadavia (ARG)  2-4 (1-2)
+    21:30  CD Universidad Católica (CHI) v Barcelona SC (ECU)       2-0 (0-0)
+           CA Peñarol (URU)        v SC Corinthians Paulista (BRA)  1-1 (1-0)
+
+
+▪ Group, Matchday 6
+  Tue May 26
+    19:00  CA Lanús (ARG)          v Mirassol FC (BRA)
+           LDU de Quito (ECU)      v Club Always Ready (BOL)
+    21:30  Estudiantes de La Plata (ARG) v CD Independiente Medellín (COL)
+           CR Flamengo (BRA)       v Cusco FC (PER)
+           Club Universitario de Deportes (PER) v CD Tolima (COL)
+           Club Nacional de Football (URU) v CD Coquimbo Unido (CHI)
+  Wed May 27
+    19:00  Club Libertad Asuncion (PAR) v Universidad Central de Venezuela FC (VEN)
+           CAR Independiente del Valle (ECU) v CA Rosario Central (ARG)
+    21:30  Club Bolívar (BOL)      v CS Independiente Rivadavia (ARG)
+           Fluminense FC (BRA)     v Deportivo La Guaira FC (VEN)
+           SC Corinthians Paulista (BRA) v CA Platense (ARG)
+           CA Peñarol (URU)        v Independiente Santa Fe (COL)
+  Thu May 28
+    19:00  Club Cerro Porteño (PAR) v CS Cristal (PER)
+           SE Palmeiras (BRA)      v CDP Junior FC (COL)
+    21:30  Cruzeiro EC (BRA)       v Barcelona SC (ECU)
+           CA Boca Juniors (ARG)   v CD Universidad Católica (CHI)
+
+
+▪ Finals, Round of 16
+  Tue Aug 11
+           N.N.                    v N.N.
+  Tue Aug 18
+           N.N.                    v N.N.
+
+
+▪ Finals, Quarterfinals
+  Tue Sep 8
+           N.N.                    v N.N.
+  Tue Sep 15
+           N.N.                    v N.N.
+
+
+▪ Finals, Semifinals
+  Tue Oct 13
+           N.N.                    v N.N.
+  Tue Oct 20
+           N.N.                    v N.N.
+
+
+▪ Finals, Final
+  Sat Nov 28
+           N.N.                    v N.N.

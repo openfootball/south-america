@@ -1,295 +1,295 @@
 = Brasileiro Série A 2026
 
-# Date       Wed Jan/28 - Wed Dec/2 2026 (308d)
+# Date       Wed Jan 28 - Wed Dec 2 2026 (308d)
 # Teams      20
 # Matches    380
 
 
 
-» Matchday 1
-  Wed Jan/28 2026
-    19.00  CA Mineiro              v SE Palmeiras             2-2 (1-1)
+▪ Matchday 1
+  Wed Jan 28 2026
+    19:00  CA Mineiro              v SE Palmeiras             2-2 (1-1)
            Coritiba FBC            v RB Bragantino            0-1 (0-0)
            SC Internacional        v CA Paranaense            0-1 (0-1)
            EC Vitória              v Clube do Remo            2-0 (0-0)
-    19.30  Fluminense FC           v Grêmio FBPA              2-1 (0-0)
-    20.00  Chapecoense AF          v Santos FC                4-2 (1-1)
+    19:30  Fluminense FC           v Grêmio FBPA              2-1 (0-0)
+    20:00  Chapecoense AF          v Santos FC                4-2 (1-1)
            SC Corinthians Paulista v EC Bahia                 1-2 (1-2)
-    21.30  São Paulo FC            v CR Flamengo              2-1 (0-0)
-  Thu Jan/29
-    20.00  Mirassol FC             v CR Vasco da Gama         2-1 (1-1)
-    21.30  Botafogo FR             v Cruzeiro EC              4-0 (0-0)
+    21:30  São Paulo FC            v CR Flamengo              2-1 (0-0)
+  Thu Jan 29
+    20:00  Mirassol FC             v CR Vasco da Gama         2-1 (1-1)
+    21:30  Botafogo FR             v Cruzeiro EC              4-0 (0-0)
 
 
-» Matchday 2
-  Wed Feb/4
-    19.00  RB Bragantino           v CA Mineiro               1-0 (1-0)
+▪ Matchday 2
+  Wed Feb 4
+    19:00  RB Bragantino           v CA Mineiro               1-0 (1-0)
            CR Flamengo             v SC Internacional         1-1 (0-1)
-    20.00  Clube do Remo           v Mirassol FC              2-2 (2-0)
+    20:00  Clube do Remo           v Mirassol FC              2-2 (2-0)
            Santos FC               v São Paulo FC             1-1 (1-0)
-    21.30  Grêmio FBPA             v Botafogo FR              5-3 (1-2)
+    21:30  Grêmio FBPA             v Botafogo FR              5-3 (1-2)
            SE Palmeiras            v EC Vitória               5-1 (3-0)
-  Thu Feb/5
-    19.00  EC Bahia                v Fluminense FC            1-1 (0-1)
-    20.00  CR Vasco da Gama        v Chapecoense AF           1-1 (0-0)
-    21.30  Cruzeiro EC             v Coritiba FBC             1-2 (1-1)
+  Thu Feb 5
+    19:00  EC Bahia                v Fluminense FC            1-1 (0-1)
+    20:00  CR Vasco da Gama        v Chapecoense AF           1-1 (0-0)
+    21:30  Cruzeiro EC             v Coritiba FBC             1-2 (1-1)
 
 
-» Matchday 3
-  Tue Feb/10
-    21.30  EC Vitória              v CR Flamengo              1-2 (0-2)
-  Wed Feb/11
-    19.00  Chapecoense AF          v Coritiba FBC             3-3 (1-1)
+▪ Matchday 3
+  Tue Feb 10
+    21:30  EC Vitória              v CR Flamengo              1-2 (0-2)
+  Wed Feb 11
+    19:00  Chapecoense AF          v Coritiba FBC             3-3 (1-1)
            Mirassol FC             v Cruzeiro EC              2-2 (1-1)
-    20.00  CA Mineiro              v Clube do Remo            3-3 (1-1)
-    21.30  São Paulo FC            v Grêmio FBPA              2-0 (1-0)
+    20:00  CA Mineiro              v Clube do Remo            3-3 (1-1)
+    21:30  São Paulo FC            v Grêmio FBPA              2-0 (1-0)
            CR Vasco da Gama        v EC Bahia                 0-1 (0-1)
-  Thu Feb/12
-    19.00  CA Paranaense           v Santos FC                2-1 (1-1)
-    19.30  Fluminense FC           v Botafogo FR              1-0 (0-0)
-    20.00  SC Corinthians Paulista v RB Bragantino            2-0 (0-0)
-    21.30  SC Internacional        v SE Palmeiras             1-3 (1-1)
+  Thu Feb 12
+    19:00  CA Paranaense           v Santos FC                2-1 (1-1)
+    19:30  Fluminense FC           v Botafogo FR              1-0 (0-0)
+    20:00  SC Corinthians Paulista v RB Bragantino            2-0 (0-0)
+    21:30  SC Internacional        v SE Palmeiras             1-3 (1-1)
 
 
-» Matchday 2
-  Thu Feb/19
-    19.30  CA Paranaense           v SC Corinthians Paulista  0-1 (0-1)
+▪ Matchday 2
+  Thu Feb 19
+    19:30  CA Paranaense           v SC Corinthians Paulista  0-1 (0-1)
 
 
-» Matchday 4
-  Wed Feb/25
+▪ Matchday 4
+  Wed Feb 25
            EC Bahia                v Chapecoense AF           [postponed]
            Botafogo FR             v EC Vitória               [postponed]
            CR Flamengo             v Mirassol FC              [postponed]
-    19.00  RB Bragantino           v CA Paranaense            1-1 (1-0)
+    19:00  RB Bragantino           v CA Paranaense            1-1 (1-0)
            Clube do Remo           v SC Internacional         1-1 (1-1)
-    19.30  Coritiba FBC            v São Paulo FC             0-1 (0-0)
-    20.00  Cruzeiro EC             v SC Corinthians Paulista  1-1 (1-0)
-    21.30  Grêmio FBPA             v CA Mineiro               2-1 (0-0)
+    19:30  Coritiba FBC            v São Paulo FC             0-1 (0-0)
+    20:00  Cruzeiro EC             v SC Corinthians Paulista  1-1 (1-0)
+    21:30  Grêmio FBPA             v CA Mineiro               2-1 (0-0)
            SE Palmeiras            v Fluminense FC            2-1 (2-1)
-  Thu Feb/26
-    19.00  Santos FC               v CR Vasco da Gama         2-1 (1-1)
+  Thu Feb 26
+    19:00  Santos FC               v CR Vasco da Gama         2-1 (1-1)
 
 
-» Matchday 5
-  Tue Mar/10
-    21.30  Mirassol FC             v Santos FC                2-2 (1-0)
-  Wed Mar/11
-    19.00  CA Mineiro              v SC Internacional         1-0 (1-0)
-    20.00  EC Bahia                v EC Vitória               1-1 (1-1)
-    21.30  SC Corinthians Paulista v Coritiba FBC             0-2 (0-1)
+▪ Matchday 5
+  Tue Mar 10
+    21:30  Mirassol FC             v Santos FC                2-2 (1-0)
+  Wed Mar 11
+    19:00  CA Mineiro              v SC Internacional         1-0 (1-0)
+    20:00  EC Bahia                v EC Vitória               1-1 (1-1)
+    21:30  SC Corinthians Paulista v Coritiba FBC             0-2 (0-1)
            CR Flamengo             v Cruzeiro EC              2-0 (1-0)
-  Thu Mar/12
-    19.00  Clube do Remo           v Fluminense FC            0-2 (0-1)
-    19.30  CR Vasco da Gama        v SE Palmeiras             2-1 (0-1)
-    20.00  São Paulo FC            v Chapecoense AF           2-0 (0-0)
-    21.30  Grêmio FBPA             v RB Bragantino            1-1 (1-0)
+  Thu Mar 12
+    19:00  Clube do Remo           v Fluminense FC            0-2 (0-1)
+    19:30  CR Vasco da Gama        v SE Palmeiras             2-1 (0-1)
+    20:00  São Paulo FC            v Chapecoense AF           2-0 (0-0)
+    21:30  Grêmio FBPA             v RB Bragantino            1-1 (1-0)
 
 
-» Matchday 6
-  Sat Mar/14
-    18.30  EC Vitória              v CA Mineiro               2-0 (1-0)
-    20.30  Botafogo FR             v CR Flamengo              0-3 (0-2)
-  Sun Mar/15
-    16.00  Fluminense FC           v CA Paranaense            3-2 (2-1)
+▪ Matchday 6
+  Sat Mar 14
+    18:30  EC Vitória              v CA Mineiro               2-0 (1-0)
+    20:30  Botafogo FR             v CR Flamengo              0-3 (0-2)
+  Sun Mar 15
+    16:00  Fluminense FC           v CA Paranaense            3-2 (2-1)
            SC Internacional        v EC Bahia                 0-1 (0-1)
            Santos FC               v SC Corinthians Paulista  1-1 (1-1)
-    18.30  Coritiba FBC            v Clube do Remo            1-0 (1-0)
+    18:30  Coritiba FBC            v Clube do Remo            1-0 (1-0)
            SE Palmeiras            v Mirassol FC              1-0 (1-0)
-    20.30  RB Bragantino           v São Paulo FC             1-2 (1-0)
+    20:30  RB Bragantino           v São Paulo FC             1-2 (1-0)
            Cruzeiro EC             v CR Vasco da Gama         3-3 (1-0)
-  Mon Mar/16
-    20.00  Chapecoense AF          v Grêmio FBPA              1-1 (1-1)
+  Mon Mar 16
+    20:00  Chapecoense AF          v Grêmio FBPA              1-1 (1-1)
 
 
-» Matchday 7
-  Wed Mar/18
-    19.00  EC Bahia                v RB Bragantino            2-0 (2-0)
+▪ Matchday 7
+  Wed Mar 18
+    19:00  EC Bahia                v RB Bragantino            2-0 (2-0)
            SE Palmeiras            v Botafogo FR              2-1 (1-0)
-    19.30  CA Paranaense           v Cruzeiro EC              2-1 (2-0)
-    20.00  CA Mineiro              v São Paulo FC             1-0 (0-0)
+    19:30  CA Paranaense           v Cruzeiro EC              2-1 (2-0)
+    20:00  CA Mineiro              v São Paulo FC             1-0 (0-0)
            Mirassol FC             v Coritiba FBC             0-1 (0-0)
-    21.30  Santos FC               v SC Internacional         1-2 (0-0)
+    21:30  Santos FC               v SC Internacional         1-2 (0-0)
            CR Vasco da Gama        v Fluminense FC            3-2 (0-1)
-  Thu Mar/19
-    19.00  Grêmio FBPA             v EC Vitória               2-0 (1-0)
-    20.00  CR Flamengo             v Clube do Remo            3-0 (1-0)
-    21.30  Chapecoense AF          v SC Corinthians Paulista  0-0
+  Thu Mar 19
+    19:00  Grêmio FBPA             v EC Vitória               2-0 (1-0)
+    20:00  CR Flamengo             v Clube do Remo            3-0 (1-0)
+    21:30  Chapecoense AF          v SC Corinthians Paulista  0-0
 
 
-» Matchday 8
-  Sat Mar/21
-    16.00  RB Bragantino           v Botafogo FR              1-2 (1-1)
-    18.30  Fluminense FC           v CA Mineiro               1-0 (1-0)
-    21.00  São Paulo FC            v SE Palmeiras             0-1 (0-1)
-  Sun Mar/22
-    16.00  CA Paranaense           v Coritiba FBC             2-0 (1-0)
+▪ Matchday 8
+  Sat Mar 21
+    16:00  RB Bragantino           v Botafogo FR              1-2 (1-1)
+    18:30  Fluminense FC           v CA Mineiro               1-0 (1-0)
+    21:00  São Paulo FC            v SE Palmeiras             0-1 (0-1)
+  Sun Mar 22
+    16:00  CA Paranaense           v Coritiba FBC             2-0 (1-0)
            Cruzeiro EC             v Santos FC                0-0
            Clube do Remo           v EC Bahia                 4-1 (1-1)
            CR Vasco da Gama        v Grêmio FBPA              2-1 (2-1)
-    18.30  SC Internacional        v Chapecoense AF           2-0 (1-0)
+    18:30  SC Internacional        v Chapecoense AF           2-0 (1-0)
            EC Vitória              v Mirassol FC              1-0 (1-0)
-    20.30  SC Corinthians Paulista v CR Flamengo              1-1 (1-1)
+    20:30  SC Corinthians Paulista v CR Flamengo              1-1 (1-1)
 
 
-» Matchday 5
-  Sun Mar/29
-    19.30  CA Paranaense           v Botafogo FR              4-1 (2-1)
+▪ Matchday 5
+  Sun Mar 29
+    19:30  CA Paranaense           v Botafogo FR              4-1 (2-1)
 
 
-» Matchday 9
-  Wed Apr/1
-    19.30  Botafogo FR             v Mirassol FC              3-2 (2-1)
+▪ Matchday 9
+  Wed Apr 1
+    19:30  Botafogo FR             v Mirassol FC              3-2 (2-1)
            SC Internacional        v São Paulo FC             1-1 (1-0)
-    20.00  EC Bahia                v CA Paranaense            3-0 (2-0)
+    20:00  EC Bahia                v CA Paranaense            3-0 (2-0)
            Cruzeiro EC             v EC Vitória               3-0 (3-0)
-    20.30  Coritiba FBC            v CR Vasco da Gama         1-1 (0-1)
-    21.30  Fluminense FC           v SC Corinthians Paulista  3-1 (2-0)
-  Thu Apr/2
-    19.00  Chapecoense AF          v CA Mineiro               0-4 (0-3)
+    20:30  Coritiba FBC            v CR Vasco da Gama         1-1 (0-1)
+    21:30  Fluminense FC           v SC Corinthians Paulista  3-1 (2-0)
+  Thu Apr 2
+    19:00  Chapecoense AF          v CA Mineiro               0-4 (0-3)
            Santos FC               v Clube do Remo            2-0 (1-0)
-    21.30  RB Bragantino           v CR Flamengo              3-0 (2-0)
+    21:30  RB Bragantino           v CR Flamengo              3-0 (2-0)
            SE Palmeiras            v Grêmio FBPA              2-1 (1-0)
 
 
-» Matchday 10
-  Sat Apr/4
-    18.30  São Paulo FC            v Cruzeiro EC              4-1 (2-0)
-    20.30  Coritiba FBC            v Fluminense FC            1-1 (0-0)
-    21.00  CR Vasco da Gama        v Botafogo FR              1-2 (0-0)
-  Sun Apr/5
-    16.00  Chapecoense AF          v EC Vitória               1-1 (0-0)
-    17.30  CA Mineiro              v CA Paranaense            2-1 (1-0)
+▪ Matchday 10
+  Sat Apr 4
+    18:30  São Paulo FC            v Cruzeiro EC              4-1 (2-0)
+    20:30  Coritiba FBC            v Fluminense FC            1-1 (0-0)
+    21:00  CR Vasco da Gama        v Botafogo FR              1-2 (0-0)
+  Sun Apr 5
+    16:00  Chapecoense AF          v EC Vitória               1-1 (0-0)
+    17:30  CA Mineiro              v CA Paranaense            2-1 (1-0)
            CR Flamengo             v Santos FC                3-1 (0-0)
-    19.30  EC Bahia                v SE Palmeiras             1-2 (0-1)
+    19:30  EC Bahia                v SE Palmeiras             1-2 (0-1)
            SC Corinthians Paulista v SC Internacional         0-1 (0-0)
-    20.00  Mirassol FC             v RB Bragantino            0-1 (0-0)
-    20.30  Grêmio FBPA             v Clube do Remo            0-0
+    20:00  Mirassol FC             v RB Bragantino            0-1 (0-0)
+    20:30  Grêmio FBPA             v Clube do Remo            0-0
 
 
-» Matchday 11
-  Sat Apr/11
-    16.30  Clube do Remo           v CR Vasco da Gama         1-1 (0-0)
+▪ Matchday 11
+  Sat Apr 11
+    16:30  Clube do Remo           v CR Vasco da Gama         1-1 (0-0)
            EC Vitória              v São Paulo FC             2-0 (1-0)
-    18.30  Mirassol FC             v EC Bahia                 1-2 (1-0)
-    20.00  Santos FC               v CA Mineiro               1-0 (0-0)
-    20.30  SC Internacional        v Grêmio FBPA              0-0
-  Sun Apr/12
-    11.00  CA Paranaense           v Chapecoense AF           2-0 (0-0)
-    16.00  Botafogo FR             v Coritiba FBC             2-2 (0-1)
-    18.00  Fluminense FC           v CR Flamengo              1-2 (0-1)
-    18.30  SC Corinthians Paulista v SE Palmeiras             0-0
+    18:30  Mirassol FC             v EC Bahia                 1-2 (1-0)
+    20:00  Santos FC               v CA Mineiro               1-0 (0-0)
+    20:30  SC Internacional        v Grêmio FBPA              0-0
+  Sun Apr 12
+    11:00  CA Paranaense           v Chapecoense AF           2-0 (0-0)
+    16:00  Botafogo FR             v Coritiba FBC             2-2 (0-1)
+    18:00  Fluminense FC           v CR Flamengo              1-2 (0-1)
+    18:30  SC Corinthians Paulista v SE Palmeiras             0-0
            Cruzeiro EC             v RB Bragantino            2-1 (1-1)
 
 
-» Matchday 12
-  Sat Apr/18
-    18.30  Chapecoense AF          v Botafogo FR              1-4 (1-3)
+▪ Matchday 12
+  Sat Apr 18
+    18:30  Chapecoense AF          v Botafogo FR              1-4 (1-3)
            CR Vasco da Gama        v São Paulo FC             2-1 (0-1)
-    20.00  EC Vitória              v SC Corinthians Paulista  0-0
-    20.30  Cruzeiro EC             v Grêmio FBPA              2-0 (0-0)
-  Sun Apr/19
-    11.00  SC Internacional        v Mirassol FC              1-2 (0-2)
-    16.00  Coritiba FBC            v CA Mineiro               2-0 (1-0)
+    20:00  EC Vitória              v SC Corinthians Paulista  0-0
+    20:30  Cruzeiro EC             v Grêmio FBPA              2-0 (0-0)
+  Sun Apr 19
+    11:00  SC Internacional        v Mirassol FC              1-2 (0-2)
+    16:00  Coritiba FBC            v CA Mineiro               2-0 (1-0)
            Santos FC               v Fluminense FC            2-3 (1-1)
-    18.30  RB Bragantino           v Clube do Remo            4-2 (2-2)
+    18:30  RB Bragantino           v Clube do Remo            4-2 (2-2)
            SE Palmeiras            v CA Paranaense            1-0 (1-0)
-    19.30  CR Flamengo             v EC Bahia                 2-0 (1-0)
+    19:30  CR Flamengo             v EC Bahia                 2-0 (1-0)
 
 
-» Matchday 13
-  Sat Apr/25
-    18.30  EC Bahia                v Santos FC                2-2 (0-2)
+▪ Matchday 13
+  Sat Apr 25
+    18:30  EC Bahia                v Santos FC                2-2 (0-2)
            Botafogo FR             v SC Internacional         2-2 (0-0)
            Clube do Remo           v Cruzeiro EC              0-1 (0-1)
-    21.00  São Paulo FC            v Mirassol FC              1-0 (0-0)
-  Sun Apr/26
-    16.00  SC Corinthians Paulista v CR Vasco da Gama         1-0 (1-0)
+    21:00  São Paulo FC            v Mirassol FC              1-0 (0-0)
+  Sun Apr 26
+    16:00  SC Corinthians Paulista v CR Vasco da Gama         1-0 (1-0)
            Grêmio FBPA             v Coritiba FBC             1-0 (1-0)
-    18.30  CA Paranaense           v EC Vitória               3-1 (1-1)
+    18:30  CA Paranaense           v EC Vitória               3-1 (1-1)
            RB Bragantino           v SE Palmeiras             0-1 (0-1)
-    20.30  CA Mineiro              v CR Flamengo              0-4 (0-3)
+    20:30  CA Mineiro              v CR Flamengo              0-4 (0-3)
            Fluminense FC           v Chapecoense AF           2-1 (0-0)
 
 
-» Matchday 14
-  Sat May/2
-    16.00  Botafogo FR             v Clube do Remo            1-2 (1-0)
-    18.30  SE Palmeiras            v Santos FC                1-1 (0-1)
+▪ Matchday 14
+  Sat May 2
+    16:00  Botafogo FR             v Clube do Remo            1-2 (1-0)
+    18:30  SE Palmeiras            v Santos FC                1-1 (0-1)
            EC Vitória              v Coritiba FBC             4-1 (2-1)
-    20.30  CA Paranaense           v Grêmio FBPA              0-0
-    21.00  Cruzeiro EC             v CA Mineiro               1-3 (0-2)
-  Sun May/3
-    16.00  CR Flamengo             v CR Vasco da Gama         2-2 (1-0)
+    20:30  CA Paranaense           v Grêmio FBPA              0-0
+    21:00  Cruzeiro EC             v CA Mineiro               1-3 (0-2)
+  Sun May 3
+    16:00  CR Flamengo             v CR Vasco da Gama         2-2 (1-0)
            São Paulo FC            v EC Bahia                 2-2 (1-0)
-    18.30  Chapecoense AF          v RB Bragantino            1-2 (1-1)
+    18:30  Chapecoense AF          v RB Bragantino            1-2 (1-1)
            SC Internacional        v Fluminense FC            2-0 (1-0)
-    20.30  Mirassol FC             v SC Corinthians Paulista  2-1 (2-0)
+    20:30  Mirassol FC             v SC Corinthians Paulista  2-1 (2-0)
 
 
-» Matchday 15
-  Sat May/9
-    16.00  Coritiba FBC            v SC Internacional         2-2 (1-0)
-    18.00  Fluminense FC           v EC Vitória               2-2 (1-0)
-    21.00  EC Bahia                v Cruzeiro EC              1-2 (1-1)
-  Sun May/10
-    16.00  CA Mineiro              v Botafogo FR              1-1 (1-0)
-    17.40  Clube do Remo           v SE Palmeiras             1-1 (1-1)
-    18.30  SC Corinthians Paulista v São Paulo FC             3-2 (1-1)
+▪ Matchday 15
+  Sat May 9
+    16:00  Coritiba FBC            v SC Internacional         2-2 (1-0)
+    18:00  Fluminense FC           v EC Vitória               2-2 (1-0)
+    21:00  EC Bahia                v Cruzeiro EC              1-2 (1-1)
+  Sun May 10
+    16:00  CA Mineiro              v Botafogo FR              1-1 (1-0)
+    17:40  Clube do Remo           v SE Palmeiras             1-1 (1-1)
+    18:30  SC Corinthians Paulista v São Paulo FC             3-2 (1-1)
            Mirassol FC             v Chapecoense AF           1-1 (0-0)
            Santos FC               v RB Bragantino            2-0 (1-0)
-    19.30  Grêmio FBPA             v CR Flamengo              0-1 (0-0)
-    20.30  CR Vasco da Gama        v CA Paranaense            1-0 (1-0)
+    19:30  Grêmio FBPA             v CR Flamengo              0-1 (0-0)
+    20:30  CR Vasco da Gama        v CA Paranaense            1-0 (1-0)
 
 
-» Matchday 16
-  Sat May/16
-    18.30  CA Mineiro              v Mirassol FC              3-1 (1-1)
+▪ Matchday 16
+  Sat May 16
+    18:30  CA Mineiro              v Mirassol FC              3-1 (1-1)
            SC Internacional        v CR Vasco da Gama         4-1 (2-0)
-    19.00  Fluminense FC           v São Paulo FC             2-1 (2-0)
-    21.00  SE Palmeiras            v Cruzeiro EC              1-1 (1-1)
-  Sun May/17
-    11.00  Santos FC               v Coritiba FBC             0-3 (0-3)
-    16.00  EC Bahia                v Grêmio FBPA              1-1 (0-0)
+    19:00  Fluminense FC           v São Paulo FC             2-1 (2-0)
+    21:00  SE Palmeiras            v Cruzeiro EC              1-1 (1-1)
+  Sun May 17
+    11:00  Santos FC               v Coritiba FBC             0-3 (0-3)
+    16:00  EC Bahia                v Grêmio FBPA              1-1 (0-0)
            Botafogo FR             v SC Corinthians Paulista  3-1 (2-1)
-    18.30  RB Bragantino           v EC Vitória               2-0 (1-0)
+    18:30  RB Bragantino           v EC Vitória               2-0 (1-0)
            Chapecoense AF          v Clube do Remo            2-3 (1-1)
-    19.30  CA Paranaense           v CR Flamengo              1-1 (1-0)
+    19:30  CA Paranaense           v CR Flamengo              1-1 (1-0)
 
 
-» Matchday 17
-  Sat May/23
-    17.00  São Paulo FC            v Botafogo FR
-           EC Vitória              v SC Internacional
-    19.00  Grêmio FBPA             v Santos FC
-           Mirassol FC             v Fluminense FC
-    21.00  CR Flamengo             v SE Palmeiras
-  Sun May/24
-    16.00  Cruzeiro EC             v Chapecoense AF
-           Clube do Remo           v CA Paranaense
-    18.30  SC Corinthians Paulista v CA Mineiro
-    20.30  CR Vasco da Gama        v RB Bragantino
-  Mon May/25
-    20.00  Coritiba FBC            v EC Bahia
+▪ Matchday 17
+  Sat May 23
+    17:00  São Paulo FC            v Botafogo FR              1-1 (1-0)
+           EC Vitória              v SC Internacional         2-0 (1-0)
+    19:00  Grêmio FBPA             v Santos FC                3-2 (1-1)
+           Mirassol FC             v Fluminense FC            1-0 (1-0)
+    21:00  CR Flamengo             v SE Palmeiras             0-3 (0-1)
+  Sun May 24
+    16:00  Cruzeiro EC             v Chapecoense AF           2-1 (1-0)
+           Clube do Remo           v CA Paranaense            1-2 (1-1)
+    18:30  SC Corinthians Paulista v CA Mineiro               1-0 (0-0)
+    20:30  CR Vasco da Gama        v RB Bragantino            0-2 (0-1)
+  Mon May 25
+    20:00  Coritiba FBC            v EC Bahia
 
 
-» Matchday 18
-  Sat May/30
-    16.00  CA Paranaense           v Mirassol FC
+▪ Matchday 18
+  Sat May 30
+    16:00  CA Paranaense           v Mirassol FC
            CR Flamengo             v Coritiba FBC
-    17.30  EC Bahia                v Botafogo FR
+    17:30  EC Bahia                v Botafogo FR
            Grêmio FBPA             v SC Corinthians Paulista
-    21.00  Santos FC               v EC Vitória
-  Sun May/31
-    11.00  RB Bragantino           v SC Internacional
-    16.00  SE Palmeiras            v Chapecoense AF
+    21:00  Santos FC               v EC Vitória
+  Sun May 31
+    11:00  RB Bragantino           v SC Internacional
+    16:00  SE Palmeiras            v Chapecoense AF
            CR Vasco da Gama        v CA Mineiro
-    20.30  Cruzeiro EC             v Fluminense FC
+    20:30  Cruzeiro EC             v Fluminense FC
            Clube do Remo           v São Paulo FC
 
 
-» Matchday 19
-  Wed Jul/22
+▪ Matchday 19
+  Wed Jul 22
            CA Mineiro              v EC Bahia
            Botafogo FR             v Santos FC
            Chapecoense AF          v CR Flamengo
@@ -302,8 +302,8 @@
            EC Vitória              v CR Vasco da Gama
 
 
-» Matchday 20
-  Sat Jul/25
+▪ Matchday 20
+  Sat Jul 25
            CA Paranaense           v SC Internacional
            EC Bahia                v SC Corinthians Paulista
            RB Bragantino           v Coritiba FBC
@@ -316,8 +316,8 @@
            CR Vasco da Gama        v Mirassol FC
 
 
-» Matchday 21
-  Wed Jul/29
+▪ Matchday 21
+  Wed Jul 29
            CA Mineiro              v RB Bragantino
            Botafogo FR             v Grêmio FBPA
            Chapecoense AF          v CR Vasco da Gama
@@ -330,8 +330,8 @@
            EC Vitória              v SE Palmeiras
 
 
-» Matchday 22
-  Sat Aug/8
+▪ Matchday 22
+  Sat Aug 8
            EC Bahia                v CR Vasco da Gama
            Botafogo FR             v Fluminense FC
            RB Bragantino           v SC Corinthians Paulista
@@ -344,8 +344,8 @@
            Santos FC               v CA Paranaense
 
 
-» Matchday 23
-  Sat Aug/15
+▪ Matchday 23
+  Sat Aug 15
            CA Paranaense           v RB Bragantino
            CA Mineiro              v Grêmio FBPA
            Chapecoense AF          v EC Bahia
@@ -358,8 +358,8 @@
            EC Vitória              v Botafogo FR
 
 
-» Matchday 24
-  Sat Aug/22
+▪ Matchday 24
+  Sat Aug 22
            Botafogo FR             v CA Paranaense
            RB Bragantino           v Grêmio FBPA
            Chapecoense AF          v São Paulo FC
@@ -372,8 +372,8 @@
            EC Vitória              v EC Bahia
 
 
-» Matchday 25
-  Sat Aug/29
+▪ Matchday 25
+  Sat Aug 29
            CA Paranaense           v Fluminense FC
            CA Mineiro              v EC Vitória
            EC Bahia                v SC Internacional
@@ -386,8 +386,8 @@
            CR Vasco da Gama        v Cruzeiro EC
 
 
-» Matchday 26
-  Sat Sep/5
+▪ Matchday 26
+  Sat Sep 5
            Botafogo FR             v SE Palmeiras
            RB Bragantino           v EC Bahia
            SC Corinthians Paulista v Chapecoense AF
@@ -400,8 +400,8 @@
            EC Vitória              v Grêmio FBPA
 
 
-» Matchday 27
-  Sat Sep/12
+▪ Matchday 27
+  Sat Sep 12
            SE Palmeiras            v São Paulo FC
            Santos FC               v Cruzeiro EC
            CA Mineiro              v Fluminense FC
@@ -414,8 +414,8 @@
            Mirassol FC             v EC Vitória
 
 
-» Matchday 28
-  Sat Sep/19
+▪ Matchday 28
+  Sat Sep 19
            CA Paranaense           v EC Bahia
            CA Mineiro              v Chapecoense AF
            SC Corinthians Paulista v Fluminense FC
@@ -428,8 +428,8 @@
            EC Vitória              v Cruzeiro EC
 
 
-» Matchday 29
-  Wed Oct/7
+▪ Matchday 29
+  Wed Oct 7
            CA Paranaense           v CA Mineiro
            Botafogo FR             v CR Vasco da Gama
            RB Bragantino           v Mirassol FC
@@ -442,8 +442,8 @@
            EC Vitória              v Chapecoense AF
 
 
-» Matchday 30
-  Sat Oct/10
+▪ Matchday 30
+  Sat Oct 10
            CA Mineiro              v Santos FC
            EC Bahia                v Mirassol FC
            RB Bragantino           v Cruzeiro EC
@@ -456,8 +456,8 @@
            CR Vasco da Gama        v Clube do Remo
 
 
-» Matchday 31
-  Sat Oct/17
+▪ Matchday 31
+  Sat Oct 17
            CA Paranaense           v SE Palmeiras
            CA Mineiro              v Coritiba FBC
            EC Bahia                v CR Flamengo
@@ -470,8 +470,8 @@
            São Paulo FC            v CR Vasco da Gama
 
 
-» Matchday 32
-  Sat Oct/24
+▪ Matchday 32
+  Sat Oct 24
            Chapecoense AF          v Fluminense FC
            Coritiba FBC            v Grêmio FBPA
            Cruzeiro EC             v Clube do Remo
@@ -484,8 +484,8 @@
            EC Vitória              v CA Paranaense
 
 
-» Matchday 33
-  Wed Oct/28
+▪ Matchday 33
+  Wed Oct 28
            CA Mineiro              v Cruzeiro EC
            EC Bahia                v São Paulo FC
            RB Bragantino           v Chapecoense AF
@@ -498,8 +498,8 @@
            CR Vasco da Gama        v CR Flamengo
 
 
-» Matchday 34
-  Wed Nov/4
+▪ Matchday 34
+  Wed Nov 4
            CA Paranaense           v CR Vasco da Gama
            Botafogo FR             v CA Mineiro
            RB Bragantino           v Santos FC
@@ -512,8 +512,8 @@
            EC Vitória              v Fluminense FC
 
 
-» Matchday 35
-  Wed Nov/18
+▪ Matchday 35
+  Wed Nov 18
            SC Corinthians Paulista v Botafogo FR
            Coritiba FBC            v Santos FC
            Cruzeiro EC             v SE Palmeiras
@@ -526,8 +526,8 @@
            EC Vitória              v RB Bragantino
 
 
-» Matchday 36
-  Sat Nov/21
+▪ Matchday 36
+  Sat Nov 21
            CA Paranaense           v Clube do Remo
            CA Mineiro              v SC Corinthians Paulista
            EC Bahia                v Coritiba FBC
@@ -540,8 +540,8 @@
            Santos FC               v Grêmio FBPA
 
 
-» Matchday 37
-  Sat Nov/28
+▪ Matchday 37
+  Sat Nov 28
            CA Mineiro              v CR Vasco da Gama
            Botafogo FR             v EC Bahia
            Chapecoense AF          v SE Palmeiras
@@ -554,8 +554,8 @@
            EC Vitória              v Santos FC
 
 
-» Matchday 38
-  Wed Dec/2
+▪ Matchday 38
+  Wed Dec 2
            CA Paranaense           v São Paulo FC
            EC Bahia                v CA Mineiro
            RB Bragantino           v Fluminense FC
