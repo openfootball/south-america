@@ -9,3 +9,11 @@ football.db
 brazil.db
 brasil.db
 
+
+####
+#  all generated json output and in pages publish/deploy directory
+_site/
+*.json
+
+*.v26*.txt
+*.v2.txt

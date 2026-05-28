@@ -1,253 +1,253 @@
 = Copa Sudamericana 2025
 
-# Date       Tue Mar/4 - Sat Nov/22 2025 (263d)
+# Date       Tue Mar 4 - Sat Nov 22 2025 (263d)
 # Teams      48
 # Matches    121
 
 
 
-» Preliminary round
-  Tue Mar/4 2025
-    21.30  Universitario de Vinto (BOL) v Nacional Potosí (BOL)    0-1 (0-1)
+▪ Preliminary round
+  Tue Mar 4 2025
+    21:30  Universitario de Vinto (BOL) v Nacional Potosí (BOL)    0-1 (0-1)
            Universidad Católica (CHI) v Palestino (CHI)          4-5 pen. (1-1, 0-1)
            Sportivo Luqueño (PAR)  v Sportivo Ameliano (PAR)  2-0 (0-0)
-    23.00  AD Tarma (PER)          v Cienciano (PER)          5-6 pen. (1-1, 0-0)
-  Wed Mar/5
-    19.00  Club Aurora (BOL)       v GV San José (BOL)        0-1 (0-0)
+    23:00  AD Tarma (PER)          v Cienciano (PER)          5-6 pen. (1-1, 0-0)
+  Wed Mar 5
+    19:00  Club Aurora (BOL)       v GV San José (BOL)        0-1 (0-0)
            Unión Española (CHI)    v Everton (CHI)            3-1 pen. (2-2, 2-1)
            Racing (URU)            v Montevideo Wanderers (URU)  4-2 pen. (0-0)
            Academia Puerto Cabello (VEN) v Metropolitanos FC (VEN)  3-0 (0-0)
-    21.30  Once Caldas (COL)       v Millonarios (COL)        1-0 (0-0)
-    23.00  Mushuc Runa (ECU)       v Orense SC (ECU)          2-1 (1-1)
-  Thu Mar/6
-    19.00  Guaraní (PAR)           v 2 de Mayo (PAR)          2-0 (1-0)
+    21:30  Once Caldas (COL)       v Millonarios (COL)        1-0 (0-0)
+    23:00  Mushuc Runa (ECU)       v Orense SC (ECU)          2-1 (1-1)
+  Thu Mar 6
+    19:00  Guaraní (PAR)           v 2 de Mayo (PAR)          2-0 (1-0)
            Cerro Largo (URU)       v Danubio (URU)            4-3 pen. (2-2, 2-0)
-    21.30  Atlético Junior (COL)   v América de Cali (COL)    3-4 pen. (2-2, 0-2)
+    21:30  Atlético Junior (COL)   v América de Cali (COL)    3-4 pen. (2-2, 0-2)
            Atlético Grau (PER)     v Cusco FC (PER)           4-2 pen. (0-0)
            Deportivo La Guaira (VEN) v Caracas FC (VEN)         0-2 (0-1)
-    23.00  Universidad Catolica (ECU) v Aucas (ECU)              4-2 pen. (0-0)
+    23:00  Universidad Catolica (ECU) v Aucas (ECU)              4-2 pen. (0-0)
 
 
-» Group A
-  Tue Apr/1
-    19.00  Boston River (URU)      v Guaraní (PAR)            3-3 (1-0)
+▪ Group A
+  Tue Apr 1
+    19:00  Boston River (URU)      v Guaraní (PAR)            3-3 (1-0)
            Nacional Potosí (BOL)   v Independiente (ARG)      2-0 (0-0)
-  Tue Apr/8
-    19.00  Independiente (ARG)     v Boston River (URU)       2-1 (0-0)
-  Thu Apr/10
-    21.30  Guaraní (PAR)           v Nacional Potosí (BOL)    2-0 (2-0)
-  Tue Apr/22
-    19.00  Guaraní (PAR)           v Independiente (ARG)      2-1 (1-0)
+  Tue Apr 8
+    19:00  Independiente (ARG)     v Boston River (URU)       2-1 (0-0)
+  Thu Apr 10
+    21:30  Guaraní (PAR)           v Nacional Potosí (BOL)    2-0 (2-0)
+  Tue Apr 22
+    19:00  Guaraní (PAR)           v Independiente (ARG)      2-1 (1-0)
            Boston River (URU)      v Nacional Potosí (BOL)    2-1 (0-1)
-  Tue May/6
-    19.00  Nacional Potosí (BOL)   v Guaraní (PAR)
-    21.30  Boston River (URU)      v Independiente (ARG)
-  Tue May/13
-    19.00  Nacional Potosí (BOL)   v Boston River (URU)
-  Thu May/15
-    19.00  Independiente (ARG)     v Guaraní (PAR)
-  Wed May/28
-    19.00  Independiente (ARG)     v Nacional Potosí (BOL)
+  Tue May 6
+    19:00  Nacional Potosí (BOL)   v Guaraní (PAR)
+    21:30  Boston River (URU)      v Independiente (ARG)
+  Tue May 13
+    19:00  Nacional Potosí (BOL)   v Boston River (URU)
+  Thu May 15
+    19:00  Independiente (ARG)     v Guaraní (PAR)
+  Wed May 28
+    19:00  Independiente (ARG)     v Nacional Potosí (BOL)
            Guaraní (PAR)           v Boston River (URU)
 
 
-» Group B
-  Wed Apr/2
-    21.30  Vitória BA (BRA)        v Universidad Catolica (ECU)  1-1 (0-0)
-  Thu Apr/3
-    21.30  Cerro Largo (URU)       v Defensa y Justicia (ARG)  0-0
-  Thu Apr/10
-    19.00  Defensa y Justicia (ARG) v Vitória BA (BRA)         0-0
-    23.00  Universidad Catolica (ECU) v Cerro Largo (URU)        3-1 (2-0)
-  Wed Apr/23
-    21.30  Vitória BA (BRA)        v Cerro Largo (URU)        0-1 (0-0)
-  Thu Apr/24
-    23.00  Universidad Catolica (ECU) v Defensa y Justicia (ARG)  3-1 (1-1)
-  Tue May/6
-    19.00  Vitória BA (BRA)        v Defensa y Justicia (ARG)
-  Wed May/7
-    19.00  Cerro Largo (URU)       v Universidad Catolica (ECU)
-  Wed May/14
-    19.00  Defensa y Justicia (ARG) v Universidad Catolica (ECU)
-    21.30  Cerro Largo (URU)       v Vitória BA (BRA)
-  Wed May/28
-    21.30  Universidad Catolica (ECU) v Vitória BA (BRA)
+▪ Group B
+  Wed Apr 2
+    21:30  Vitória BA (BRA)        v Universidad Catolica (ECU)  1-1 (0-0)
+  Thu Apr 3
+    21:30  Cerro Largo (URU)       v Defensa y Justicia (ARG)  0-0
+  Thu Apr 10
+    19:00  Defensa y Justicia (ARG) v Vitória BA (BRA)         0-0
+    23:00  Universidad Catolica (ECU) v Cerro Largo (URU)        3-1 (2-0)
+  Wed Apr 23
+    21:30  Vitória BA (BRA)        v Cerro Largo (URU)        0-1 (0-0)
+  Thu Apr 24
+    23:00  Universidad Catolica (ECU) v Defensa y Justicia (ARG)  3-1 (1-1)
+  Tue May 6
+    19:00  Vitória BA (BRA)        v Defensa y Justicia (ARG)
+  Wed May 7
+    19:00  Cerro Largo (URU)       v Universidad Catolica (ECU)
+  Wed May 14
+    19:00  Defensa y Justicia (ARG) v Universidad Catolica (ECU)
+    21:30  Cerro Largo (URU)       v Vitória BA (BRA)
+  Wed May 28
+    21:30  Universidad Catolica (ECU) v Vitória BA (BRA)
            Defensa y Justicia (ARG) v Cerro Largo (URU)
 
 
-» Group C
-  Wed Apr/2
-    19.00  Corinthians SP (BRA)    v Huracán (ARG)            1-2 (1-2)
-    21.30  Racing (URU)            v América de Cali (COL)    1-3 (0-2)
-  Tue Apr/8
-    21.30  América de Cali (COL)   v Corinthians SP (BRA)     1-1 (1-0)
-  Wed Apr/9
-    19.00  Huracán (ARG)           v Racing (URU)             5-0 (4-0)
-  Wed Apr/23
-    19.00  Huracán (ARG)           v América de Cali (COL)    0-0
-  Thu Apr/24
-    19.00  Corinthians SP (BRA)    v Racing (URU)             1-0 (0-0)
-  Tue May/6
-    21.30  Corinthians SP (BRA)    v América de Cali (COL)
-  Thu May/8
-    19.00  Racing (URU)            v Huracán (ARG)
-  Wed May/14
-    23.00  América de Cali (COL)   v Huracán (ARG)
-  Thu May/15
-    19.00  Racing (URU)            v Corinthians SP (BRA)
-  Tue May/27
-    21.30  Huracán (ARG)           v Corinthians SP (BRA)
+▪ Group C
+  Wed Apr 2
+    19:00  Corinthians SP (BRA)    v Huracán (ARG)            1-2 (1-2)
+    21:30  Racing (URU)            v América de Cali (COL)    1-3 (0-2)
+  Tue Apr 8
+    21:30  América de Cali (COL)   v Corinthians SP (BRA)     1-1 (1-0)
+  Wed Apr 9
+    19:00  Huracán (ARG)           v Racing (URU)             5-0 (4-0)
+  Wed Apr 23
+    19:00  Huracán (ARG)           v América de Cali (COL)    0-0
+  Thu Apr 24
+    19:00  Corinthians SP (BRA)    v Racing (URU)             1-0 (0-0)
+  Tue May 6
+    21:30  Corinthians SP (BRA)    v América de Cali (COL)
+  Thu May 8
+    19:00  Racing (URU)            v Huracán (ARG)
+  Wed May 14
+    23:00  América de Cali (COL)   v Huracán (ARG)
+  Thu May 15
+    19:00  Racing (URU)            v Corinthians SP (BRA)
+  Tue May 27
+    21:30  Huracán (ARG)           v Corinthians SP (BRA)
            América de Cali (COL)   v Racing (URU)
 
 
-» Group D
-  Wed Apr/2
-    21.30  Sportivo Luqueño (PAR)  v Grêmio Porto Alegre (BRA)  1-2 (1-1)
-    23.00  Atlético Grau (PER)     v Godoy Cruz (ARG)         0-2 (0-1)
-  Tue Apr/8
-    19.00  Grêmio Porto Alegre (BRA) v Atlético Grau (PER)      2-0 (1-0)
-    21.30  Godoy Cruz (ARG)        v Sportivo Luqueño (PAR)   2-0 (1-0)
-  Wed Apr/23
-    23.00  Atlético Grau (PER)     v Sportivo Luqueño (PAR)   2-2 (1-2)
-  Thu Apr/24
-    19.00  Godoy Cruz (ARG)        v Grêmio Porto Alegre (BRA)  2-2 (0-1)
-  Tue May/6
-    19.00  Sportivo Luqueño (PAR)  v Godoy Cruz (ARG)
-  Wed May/7
-    21.30  Atlético Grau (PER)     v Grêmio Porto Alegre (BRA)
-  Tue May/13
-    19.00  Grêmio Porto Alegre (BRA) v Godoy Cruz (ARG)
+▪ Group D
+  Wed Apr 2
+    21:30  Sportivo Luqueño (PAR)  v Grêmio Porto Alegre (BRA)  1-2 (1-1)
+    23:00  Atlético Grau (PER)     v Godoy Cruz (ARG)         0-2 (0-1)
+  Tue Apr 8
+    19:00  Grêmio Porto Alegre (BRA) v Atlético Grau (PER)      2-0 (1-0)
+    21:30  Godoy Cruz (ARG)        v Sportivo Luqueño (PAR)   2-0 (1-0)
+  Wed Apr 23
+    23:00  Atlético Grau (PER)     v Sportivo Luqueño (PAR)   2-2 (1-2)
+  Thu Apr 24
+    19:00  Godoy Cruz (ARG)        v Grêmio Porto Alegre (BRA)  2-2 (0-1)
+  Tue May 6
+    19:00  Sportivo Luqueño (PAR)  v Godoy Cruz (ARG)
+  Wed May 7
+    21:30  Atlético Grau (PER)     v Grêmio Porto Alegre (BRA)
+  Tue May 13
+    19:00  Grêmio Porto Alegre (BRA) v Godoy Cruz (ARG)
            Sportivo Luqueño (PAR)  v Atlético Grau (PER)
-  Thu May/29
-    19.00  Godoy Cruz (ARG)        v Atlético Grau (PER)
+  Thu May 29
+    19:00  Godoy Cruz (ARG)        v Atlético Grau (PER)
            Grêmio Porto Alegre (BRA) v Sportivo Luqueño (PAR)
 
 
-» Group E
-  Tue Apr/1
-    19.00  Unión de Santa Fe (ARG) v Cruzeiro (BRA)           1-0 (0-0)
-  Thu Apr/3
-    23.00  Mushuc Runa (ECU)       v Palestino (CHI)          3-2 (1-0)
-  Wed Apr/9
-    19.00  Palestino (CHI)         v Unión de Santa Fe (ARG)  2-0 (1-0)
-    21.30  Cruzeiro (BRA)          v Mushuc Runa (ECU)        1-2 (0-1)
-  Wed Apr/23
-    23.00  Mushuc Runa (ECU)       v Unión de Santa Fe (ARG)  3-0 (1-0)
-  Thu Apr/24
-    21.30  Palestino (CHI)         v Cruzeiro (BRA)           2-1 (1-0)
-  Wed May/7
-    19.00  Unión de Santa Fe (ARG) v Palestino (CHI)
-    21.30  Mushuc Runa (ECU)       v Cruzeiro (BRA)
-  Tue May/13
-    21.30  Unión de Santa Fe (ARG) v Mushuc Runa (ECU)
-  Wed May/14
-    21.30  Cruzeiro (BRA)          v Palestino (CHI)
-  Wed May/28
-    21.30  Palestino (CHI)         v Mushuc Runa (ECU)
+▪ Group E
+  Tue Apr 1
+    19:00  Unión de Santa Fe (ARG) v Cruzeiro (BRA)           1-0 (0-0)
+  Thu Apr 3
+    23:00  Mushuc Runa (ECU)       v Palestino (CHI)          3-2 (1-0)
+  Wed Apr 9
+    19:00  Palestino (CHI)         v Unión de Santa Fe (ARG)  2-0 (1-0)
+    21:30  Cruzeiro (BRA)          v Mushuc Runa (ECU)        1-2 (0-1)
+  Wed Apr 23
+    23:00  Mushuc Runa (ECU)       v Unión de Santa Fe (ARG)  3-0 (1-0)
+  Thu Apr 24
+    21:30  Palestino (CHI)         v Cruzeiro (BRA)           2-1 (1-0)
+  Wed May 7
+    19:00  Unión de Santa Fe (ARG) v Palestino (CHI)
+    21:30  Mushuc Runa (ECU)       v Cruzeiro (BRA)
+  Tue May 13
+    21:30  Unión de Santa Fe (ARG) v Mushuc Runa (ECU)
+  Wed May 14
+    21:30  Cruzeiro (BRA)          v Palestino (CHI)
+  Wed May 28
+    21:30  Palestino (CHI)         v Mushuc Runa (ECU)
            Cruzeiro (BRA)          v Unión de Santa Fe (ARG)
 
 
-» Group F
-  Tue Apr/1
-    21.30  Once Caldas (COL)       v Fluminense RJ (BRA)      0-1 (0-1)
-  Thu Apr/3
-    19.00  GV San José (BOL)       v Unión Española (CHI)     1-1 (0-0)
-  Wed Apr/9
-    21.30  Unión Española (CHI)    v Once Caldas (COL)        0-2 (0-0)
-  Thu Apr/10
-    21.30  Fluminense RJ (BRA)     v GV San José (BOL)        5-0 (2-0)
-  Tue Apr/22
-    21.30  GV San José (BOL)       v Once Caldas (COL)        2-3 (0-1)
-  Wed Apr/23
-    19.00  Unión Española (CHI)    v Fluminense RJ (BRA)      1-1 (0-0)
-  Wed May/7
-    23.00  Once Caldas (COL)       v Unión Española (CHI)
-  Thu May/8
-    21.30  GV San José (BOL)       v Fluminense RJ (BRA)
-  Wed May/14
-    19.00  Fluminense RJ (BRA)     v Unión Española (CHI)
-  Thu May/15
-    23.00  Once Caldas (COL)       v GV San José (BOL)
-  Thu May/29
-    21.30  Unión Española (CHI)    v GV San José (BOL)
+▪ Group F
+  Tue Apr 1
+    21:30  Once Caldas (COL)       v Fluminense RJ (BRA)      0-1 (0-1)
+  Thu Apr 3
+    19:00  GV San José (BOL)       v Unión Española (CHI)     1-1 (0-0)
+  Wed Apr 9
+    21:30  Unión Española (CHI)    v Once Caldas (COL)        0-2 (0-0)
+  Thu Apr 10
+    21:30  Fluminense RJ (BRA)     v GV San José (BOL)        5-0 (2-0)
+  Tue Apr 22
+    21:30  GV San José (BOL)       v Once Caldas (COL)        2-3 (0-1)
+  Wed Apr 23
+    19:00  Unión Española (CHI)    v Fluminense RJ (BRA)      1-1 (0-0)
+  Wed May 7
+    23:00  Once Caldas (COL)       v Unión Española (CHI)
+  Thu May 8
+    21:30  GV San José (BOL)       v Fluminense RJ (BRA)
+  Wed May 14
+    19:00  Fluminense RJ (BRA)     v Unión Española (CHI)
+  Thu May 15
+    23:00  Once Caldas (COL)       v GV San José (BOL)
+  Thu May 29
+    21:30  Unión Española (CHI)    v GV San José (BOL)
            Fluminense RJ (BRA)     v Once Caldas (COL)
 
 
-» Group G
-  Wed Apr/2
-    19.00  FBC Melgar (PER)        v Vasco da Gama RJ (BRA)   3-3 (1-2)
-  Thu Apr/3
-    19.00  Academia Puerto Cabello (VEN) v Lanús (ARG)              2-2 (1-0)
-  Tue Apr/8
-    21.30  Vasco da Gama RJ (BRA)  v Academia Puerto Cabello (VEN)  1-0 (1-0)
-  Wed Apr/9
-    21.30  Lanús (ARG)             v FBC Melgar (PER)         3-0 (1-0)
-  Tue Apr/22
-    21.30  Vasco da Gama RJ (BRA)  v Lanús (ARG)              0-0
-    23.00  FBC Melgar (PER)        v Academia Puerto Cabello (VEN)  1-0 (1-0)
-  Tue May/6
-    23.00  FBC Melgar (PER)        v Lanús (ARG)
-  Wed May/7
-    19.00  Academia Puerto Cabello (VEN) v Vasco da Gama RJ (BRA)
-  Tue May/13
-    21.30  Lanús (ARG)             v Vasco da Gama RJ (BRA)
+▪ Group G
+  Wed Apr 2
+    19:00  FBC Melgar (PER)        v Vasco da Gama RJ (BRA)   3-3 (1-2)
+  Thu Apr 3
+    19:00  Academia Puerto Cabello (VEN) v Lanús (ARG)              2-2 (1-0)
+  Tue Apr 8
+    21:30  Vasco da Gama RJ (BRA)  v Academia Puerto Cabello (VEN)  1-0 (1-0)
+  Wed Apr 9
+    21:30  Lanús (ARG)             v FBC Melgar (PER)         3-0 (1-0)
+  Tue Apr 22
+    21:30  Vasco da Gama RJ (BRA)  v Lanús (ARG)              0-0
+    23:00  FBC Melgar (PER)        v Academia Puerto Cabello (VEN)  1-0 (1-0)
+  Tue May 6
+    23:00  FBC Melgar (PER)        v Lanús (ARG)
+  Wed May 7
+    19:00  Academia Puerto Cabello (VEN) v Vasco da Gama RJ (BRA)
+  Tue May 13
+    21:30  Lanús (ARG)             v Vasco da Gama RJ (BRA)
            Academia Puerto Cabello (VEN) v FBC Melgar (PER)
-  Tue May/27
-    19.00  Vasco da Gama RJ (BRA)  v FBC Melgar (PER)
+  Tue May 27
+    19:00  Vasco da Gama RJ (BRA)  v FBC Melgar (PER)
            Lanús (ARG)             v Academia Puerto Cabello (VEN)
 
 
-» Group H
-  Tue Apr/1
-    19.00  Deportes Iquique (CHI)  v Caracas FC (VEN)         1-2 (1-2)
-    21.30  Cienciano (PER)         v Atlético Mineiro (BRA)   0-0
-  Tue Apr/8
-    19.00  Caracas FC (VEN)        v Cienciano (PER)          2-2 (1-1)
-  Thu Apr/10
-    21.30  Atlético Mineiro (BRA)  v Deportes Iquique (CHI)   4-0 (3-0)
-  Wed Apr/23
-    21.30  Caracas FC (VEN)        v Atlético Mineiro (BRA)   1-1 (0-1)
-  Thu Apr/24
-    21.30  Deportes Iquique (CHI)  v Cienciano (PER)          2-2 (1-1)
-  Thu May/8
-    19.00  Deportes Iquique (CHI)  v Atlético Mineiro (BRA)
-    23.00  Cienciano (PER)         v Caracas FC (VEN)
-  Thu May/15
-    21.30  Atlético Mineiro (BRA)  v Caracas FC (VEN)
-    23.00  Cienciano (PER)         v Deportes Iquique (CHI)
-  Thu May/29
-    21.30  Caracas FC (VEN)        v Deportes Iquique (CHI)
+▪ Group H
+  Tue Apr 1
+    19:00  Deportes Iquique (CHI)  v Caracas FC (VEN)         1-2 (1-2)
+    21:30  Cienciano (PER)         v Atlético Mineiro (BRA)   0-0
+  Tue Apr 8
+    19:00  Caracas FC (VEN)        v Cienciano (PER)          2-2 (1-1)
+  Thu Apr 10
+    21:30  Atlético Mineiro (BRA)  v Deportes Iquique (CHI)   4-0 (3-0)
+  Wed Apr 23
+    21:30  Caracas FC (VEN)        v Atlético Mineiro (BRA)   1-1 (0-1)
+  Thu Apr 24
+    21:30  Deportes Iquique (CHI)  v Cienciano (PER)          2-2 (1-1)
+  Thu May 8
+    19:00  Deportes Iquique (CHI)  v Atlético Mineiro (BRA)
+    23:00  Cienciano (PER)         v Caracas FC (VEN)
+  Thu May 15
+    21:30  Atlético Mineiro (BRA)  v Caracas FC (VEN)
+    23:00  Cienciano (PER)         v Deportes Iquique (CHI)
+  Thu May 29
+    21:30  Caracas FC (VEN)        v Deportes Iquique (CHI)
            Atlético Mineiro (BRA)  v Cienciano (PER)
 
 
-» Playoffs
-  Tue Jul/15
+▪ Playoffs
+  Tue Jul 15
            N.N.                    v N.N.
-  Tue Jul/22
-           N.N.                    v N.N.
-
-
-» Round of 16
-  Tue Aug/12
-           N.N.                    v N.N.
-  Tue Aug/19
+  Tue Jul 22
            N.N.                    v N.N.
 
 
-» Quarterfinals
-  Tue Sep/16
+▪ Round of 16
+  Tue Aug 12
            N.N.                    v N.N.
-  Tue Sep/23
-           N.N.                    v N.N.
-
-
-» Semifinals
-  Tue Oct/21
-           N.N.                    v N.N.
-  Tue Oct/28
+  Tue Aug 19
            N.N.                    v N.N.
 
 
-» Final
-  Sat Nov/22
+▪ Quarterfinals
+  Tue Sep 16
+           N.N.                    v N.N.
+  Tue Sep 23
+           N.N.                    v N.N.
+
+
+▪ Semifinals
+  Tue Oct 21
+           N.N.                    v N.N.
+  Tue Oct 28
+           N.N.                    v N.N.
+
+
+▪ Final
+  Sat Nov 22
            N.N.                    v N.N.
