@@ -5,7 +5,7 @@
 
 A free open public domain football (soccer) database & schema
 for use in any (programming) language
-(e.g. uses plain text datasets for match schedules, results and more).
+uses datasets in the Football.TXT format for match schedules, results and more).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
 
@@ -19,6 +19,11 @@ Free open public domain football datasets include:
 
 
 
+## Build Your Own `football.db` Database or `football.json/.csv` Datasets
+
+Yes, you can. See the [football.db/.json/.csv How-Tos »](https://github.com/openfootball/quick-starter)
+
+<!--
 ## Build Your Own `football.db` Copy
 
 Try in your working folder (that is, `/south-america`):
@@ -34,12 +39,12 @@ This will
 - read in all datasets in plain text (`.txt`)
 
 That's it.
-
+-->
 
 
 ## License
 
-The football.db schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The football.db schema, data and scripts are dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
 
 ## Questions? Comments?
