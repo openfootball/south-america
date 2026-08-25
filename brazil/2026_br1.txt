@@ -58,7 +58,6 @@
 
 ▪ Matchday 4
   Wed Feb 25
-           CR Flamengo             v Mirassol FC              [postponed]
     19:00  RB Bragantino           v CA Paranaense            1-1 (1-0)
            Clube do Remo           v SC Internacional         1-1 (1-1)
     19:30  Coritiba FBC            v São Paulo FC             0-1 (0-0)
@@ -387,14 +386,14 @@
     18:30  SC Internacional        v CA Mineiro               0-0
     20:30  Cruzeiro EC             v CR Flamengo              2-1 (0-1)
   Sun Aug 23
-    16:00  RB Bragantino           v Grêmio FBPA
-           SE Palmeiras            v CR Vasco da Gama
-           EC Vitória              v EC Bahia
-    18:30  Chapecoense AF          v São Paulo FC
-           Santos FC               v Mirassol FC
-    19:30  Coritiba FBC            v SC Corinthians Paulista
+    16:00  RB Bragantino           v Grêmio FBPA              1-0 (0-0)
+           SE Palmeiras            v CR Vasco da Gama         4-1 (0-0)
+           EC Vitória              v EC Bahia                 0-2 (0-0)
+    18:30  Chapecoense AF          v São Paulo FC             1-0 (1-0)
+           Santos FC               v Mirassol FC              1-1 (0-1)
+    19:30  Coritiba FBC            v SC Corinthians Paulista  2-1 (1-0)
   Mon Aug 24
-    20:00  Botafogo FR             v CA Paranaense
+    20:00  Botafogo FR             v CA Paranaense            2-3 (0-2)
 
 
 ▪ Matchday 25
@@ -411,6 +410,11 @@
     19:30  EC Bahia                v SC Internacional
   Mon Aug 31
     20:00  Clube do Remo           v Coritiba FBC
+
+
+▪ Matchday 4
+  Wed Sep 2
+    19:30  CR Flamengo             v Mirassol FC
 
 
 ▪ Matchday 26
