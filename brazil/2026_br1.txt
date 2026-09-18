@@ -433,66 +433,71 @@
 
 
 ▪ Matchday 27
-  Sat Sep 12
-           EC Bahia                v Clube do Remo
   Fri Sep 11
-    21:00  Coritiba FBC            v CA Paranaense
+    21:00  Coritiba FBC            v CA Paranaense            3-3 (1-2)
   Sat Sep 12
-           CR Flamengo             v SC Corinthians Paulista
-           Mirassol FC             v EC Vitória
-    16:00  CA Mineiro              v Fluminense FC
-           Grêmio FBPA             v CR Vasco da Gama
-    17:00  Chapecoense AF          v SC Internacional
-    18:30  SE Palmeiras            v São Paulo FC
-    20:30  Botafogo FR             v RB Bragantino
-    21:00  Santos FC               v Cruzeiro EC
+    16:00  CA Mineiro              v Fluminense FC            3-1 (0-0)
+           Grêmio FBPA             v CR Vasco da Gama         1-2 (1-0)
+    17:00  Chapecoense AF          v SC Internacional         1-2 (1-1)
+    18:30  SE Palmeiras            v São Paulo FC             2-0 (1-0)
+    20:30  Botafogo FR             v RB Bragantino            1-1 (0-1)
+    21:00  Santos FC               v Cruzeiro EC              2-1 (2-0)
+  Sun Sep 13
+    16:00  Mirassol FC             v EC Vitória               2-2 (0-2)
+    17:30  CR Flamengo             v SC Corinthians Paulista  2-1 (0-0)
+  Mon Sep 14
+    20:00  EC Bahia                v Clube do Remo            2-1 (1-0)
 
 
 ▪ Matchday 21
   Wed Sep 16
-    19:30  Botafogo FR             v Grêmio FBPA
+    19:30  Botafogo FR             v Grêmio FBPA              3-2 (1-1)
 
 
 ▪ Matchday 28
   Sat Sep 19
-           CA Paranaense           v EC Bahia
-           SC Corinthians Paulista v Fluminense FC
-           CR Flamengo             v RB Bragantino
-           Grêmio FBPA             v SE Palmeiras
-           EC Vitória              v Cruzeiro EC
     16:00  CA Mineiro              v Chapecoense AF
     17:00  Mirassol FC             v Botafogo FR
     18:30  Clube do Remo           v Santos FC
     20:30  CR Vasco da Gama        v Coritiba FBC
     21:00  São Paulo FC            v SC Internacional
+  Sun Sep 20
+    11:00  Grêmio FBPA             v SE Palmeiras
+    16:00  SC Corinthians Paulista v Fluminense FC
+           EC Vitória              v Cruzeiro EC
+    18:30  CR Flamengo             v RB Bragantino
+    19:30  CA Paranaense           v EC Bahia
 
 
 ▪ Matchday 29
   Wed Oct 7
-           CA Paranaense           v CA Mineiro
-           Botafogo FR             v CR Vasco da Gama
-           RB Bragantino           v Mirassol FC
-           Cruzeiro EC             v São Paulo FC
-           Fluminense FC           v Coritiba FBC
+    19:30  RB Bragantino           v Mirassol FC
            SC Internacional        v SC Corinthians Paulista
-           SE Palmeiras            v EC Bahia
            Clube do Remo           v Grêmio FBPA
-           Santos FC               v CR Flamengo
-           EC Vitória              v Chapecoense AF
+    20:00  EC Vitória              v Chapecoense AF
+    20:30  Botafogo FR             v CR Vasco da Gama
+    21:30  Cruzeiro EC             v São Paulo FC
+  Thu Oct 8
+    19:30  Santos FC               v CR Flamengo
+    20:00  CA Paranaense           v CA Mineiro
+    21:30  Fluminense FC           v Coritiba FBC
+           SE Palmeiras            v EC Bahia
 
 
 ▪ Matchday 30
   Sat Oct 10
-           CA Mineiro              v Santos FC
-           EC Bahia                v Mirassol FC
-           RB Bragantino           v Cruzeiro EC
-           Chapecoense AF          v CA Paranaense
-           Coritiba FBC            v Botafogo FR
-           CR Flamengo             v Fluminense FC
+    17:00  CR Vasco da Gama        v Clube do Remo
+    21:00  São Paulo FC            v EC Vitória
+  Sun Oct 11
+    16:00  CA Mineiro              v Santos FC
+    17:30  CR Flamengo             v Fluminense FC
            Grêmio FBPA             v SC Internacional
            SE Palmeiras            v SC Corinthians Paulista
-           São Paulo FC            v EC Vitória
-           CR Vasco da Gama        v Clube do Remo
+    19:30  EC Bahia                v Mirassol FC
+           Coritiba FBC            v Botafogo FR
+  Mon Oct 12
+    19:30  Chapecoense AF          v CA Paranaense
+    21:00  RB Bragantino           v Cruzeiro EC
 
 
 ▪ Matchday 31
