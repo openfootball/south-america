@@ -15,7 +15,7 @@
   Thu Feb 8
     21:30  SD Aucas (ECU)          v Club Nacional (PAR)      1-0 (0-0)
   Tue Feb 13
-    21:30  Defensor SC (URU)       v Academia Puerto Cabello (VEN)  2-4 (1-0)
+    21:30  Defensor SC (URU)       v Academia Puerto Cabello (VEN)  2-4 pen. (1-0, 1-0)
   Wed Feb 14
     21:30  FBC Melgar (PER)        v Club Aurora (BOL)        1-1 (1-1)
   Thu Feb 15
@@ -36,7 +36,7 @@
     21:30  CD Godoy Cruz Antonio Tomba (ARG) v CSD Colo-Colo (CHI)      0-1 (0-0)
   Tue Feb 27
     19:00  CD Palestino (CHI)      v Portuguesa FC (VEN)      2-1 (1-0)
-    21:30  RB Bragantino (BRA)     v Rionegro Águilas (COL)   4-3 (0-0)
+    21:30  RB Bragantino (BRA)     v Rionegro Águilas (COL)   4-3 pen. (0-0)
            CS Cristal (PER)        v Club Always Ready (BOL)  3-1 (1-1)
   Wed Feb 28
     19:00  Club Nacional de Football (URU) v Academia Puerto Cabello (VEN)  2-0 (0-0)
@@ -56,12 +56,12 @@
   Thu Mar 7
     21:30  Club Always Ready (BOL) v Club Nacional de Football (URU)  1-0 (1-0)
   Tue Mar 12
-    21:30  CD Palestino (CHI)      v Club Nacional (PAR)      3-1 (0-1)
+    21:30  CD Palestino (CHI)      v Club Nacional (PAR)      3-1 pen. (1-3, 0-1)
   Wed Mar 13
     21:30  RB Bragantino (BRA)     v Botafogo FR (BRA)        1-1 (0-0)
            CSD Colo-Colo (CHI)     v Sportivo Trinidense (PAR)  2-1 (2-1)
   Thu Mar 14
-    21:30  Club Nacional de Football (URU) v Club Always Ready (BOL)  5-4 (1-1)
+    21:30  Club Nacional de Football (URU) v Club Always Ready (BOL)  5-4 pen. (2-1, 1-1)
 
 
 ▪ Group, Matchday 1
@@ -217,7 +217,7 @@
     19:00  Club Nacional de Football (URU) v São Paulo FC (BRA)       0-0
     21:30  CR Flamengo (BRA)       v Club Bolívar (BOL)       2-0 (1-0)
   Tue Aug 20
-    19:00  Fluminense FC (BRA)     v Grêmio FBPA (BRA)        4-2 (2-0)
+    19:00  Fluminense FC (BRA)     v Grêmio FBPA (BRA)        4-2 pen. (2-1, 2-0)
     21:30  CA Mineiro (BRA)        v CA San Lorenzo de Almagro (ARG)  1-0 (0-0)
            CDP Junior FC (COL)     v CSD Colo-Colo (CHI)      1-2 (1-1)
   Wed Aug 21
@@ -241,7 +241,7 @@
     21:30  CA River Plate (ARG)    v CSD Colo-Colo (CHI)      1-0 (1-0)
   Wed Sep 25
     19:00  CA Mineiro (BRA)        v Fluminense FC (BRA)      2-0 (0-0)
-    21:30  São Paulo FC (BRA)      v Botafogo FR (BRA)        4-5 (0-1)
+    21:30  São Paulo FC (BRA)      v Botafogo FR (BRA)        4-5 pen. (1-1, 0-1)
   Thu Sep 26
     19:00  CA Peñarol (URU)        v CR Flamengo (BRA)        0-0
 

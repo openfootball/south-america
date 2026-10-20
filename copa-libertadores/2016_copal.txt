@@ -31,24 +31,24 @@
   Wed Feb 17
     19:30  São Paulo FC (BRA)      v The Strongest (BOL)      0-1 (0-0)
   Thu Feb 25
-    21:45  Trujillanos FC (VEN)    v River Plate (URU)        0-4 (0-0)
+    21:45  Trujillanos FC (VEN)    v River Plate (ARG)        0-4 (0-0)
   Wed Mar 2
     17:15  The Strongest (BOL)     v Trujillanos FC (VEN)     2-1 (2-1)
   Thu Mar 10
-    19:30  River Plate (URU)       v São Paulo FC (BRA)       1-1 (1-1)
+    19:30  River Plate (ARG)       v São Paulo FC (BRA)       1-1 (1-1)
   Wed Mar 16
-    19:30  The Strongest (BOL)     v River Plate (URU)        1-1 (0-1)
+    19:30  The Strongest (BOL)     v River Plate (ARG)        1-1 (0-1)
            Trujillanos FC (VEN)    v São Paulo FC (BRA)       1-1 (1-1)
   Tue Apr 5
     21:45  São Paulo FC (BRA)      v Trujillanos FC (VEN)     6-0 (3-0)
   Wed Apr 6
-    19:30  River Plate (URU)       v The Strongest (BOL)      6-0 (5-0)
+    19:30  River Plate (ARG)       v The Strongest (BOL)      6-0 (5-0)
   Tue Apr 12
     19:30  Trujillanos FC (VEN)    v The Strongest (BOL)      2-1 (1-0)
   Wed Apr 13
-    21:45  São Paulo FC (BRA)      v River Plate (URU)        2-1 (1-0)
+    21:45  São Paulo FC (BRA)      v River Plate (ARG)        2-1 (1-0)
   Thu Apr 21
-    21:45  River Plate (URU)       v Trujillanos FC (VEN)     4-3 (2-1)
+    21:45  River Plate (ARG)       v Trujillanos FC (VEN)     4-3 (2-1)
            The Strongest (BOL)     v São Paulo FC (BRA)       1-1 (1-1)
 
 
@@ -231,7 +231,7 @@
     21:45  Nacional (URU)          v Corinthians SP (BRA)     0-0
            Grêmio Porto Alegre (BRA) v Rosario Central (ARG)    0-1 (0-1)
   Thu Apr 28
-    19:30  Independiente del Valle (ECU) v River Plate (URU)        2-0 (0-0)
+    19:30  Independiente del Valle (ECU) v River Plate (ARG)        2-0 (0-0)
     21:45  São Paulo FC (BRA)      v Deportivo Toluca (MEX)   4-0 (2-0)
            Cerro Porteño (PAR)     v Boca Juniors (ARG)       1-2 (0-1)
   Tue May 3
@@ -239,7 +239,7 @@
     23:45  Pumas UNAM (MEX)        v Deportivo Táchira (VEN)  2-0 (1-0)
   Wed May 4
     19:15  Deportivo Toluca (MEX)  v São Paulo FC (BRA)       3-1 (1-0)
-           River Plate (URU)       v Independiente del Valle (ECU)  1-0 (0-0)
+           River Plate (ARG)       v Independiente del Valle (ECU)  1-0 (0-0)
     21:45  Corinthians SP (BRA)    v Nacional (URU)           2-2 (1-1)
            Atlético Mineiro (BRA)  v Racing Club (ARG)        2-1 (1-1)
   Thu May 5
